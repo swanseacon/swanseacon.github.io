@@ -22,16 +22,16 @@
     }
     - {
     	startTime: "11:00",
-    	endTime: "11:05",
+    	endTime: "11:10",
     	sessionIds: [097]
     }
     - {
-    	startTime: "11:05",
-    	endTime: "11:50",
+    	startTime: "11:10",
+    	endTime: "11:55",
     	sessionIds: [004,005]
     }
     - {
-    	startTime: "11:50",
+    	startTime: "11:55",
     	endTime: "12:00",
     	sessionIds: [097]
     }
@@ -92,6 +92,11 @@
     - {title: "Room One", color: "#90be4e"}
     - {title: "Room Two", color: "#03a9f4"}
   timeslots: 
+    - {
+    	startTime: "08:45",
+    	endTime: "09:00",
+    	sessionIds: [097]
+    }
     - {
     	startTime: "09:00",
     	endTime: "09:45",

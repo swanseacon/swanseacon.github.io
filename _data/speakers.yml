@@ -7,6 +7,7 @@
   bio: "Adam combines degrees in engineering and psychology to get a different perspective on the challenges of software. In his role as software consultant, he works as an architect and programmer. Adam also writes open-source software in a variety of programming languages. He’s the author of Your Code as a Crime Scene, has written the popular Lisp for the Web tutorial, and self-published a book on Patterns in C. Other interests include modern history, music and martial arts."
   thumbnailUrl: AdamTornhill.jpg
   rockstar: false
+  rockstar: false
   social: 
     - {name: "twitter", link: "http://twitter.com/AdamTornhill"}
     - {name: "site", link: "http://www.adamtornhill.com/"}

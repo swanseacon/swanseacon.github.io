@@ -5,7 +5,7 @@ date:   2015-05-05 12:18:18:00
 isStaticPost: false
 ---
 
-#### Tell, don't ask
+#### Tell, don't ask.
 
 ##### Why talk about 'Tell, don't ask' at Swanseacon 2015?
 
