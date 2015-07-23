@@ -79,7 +79,7 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "200", specialCharacter: "+", info: "attendees", detail: "from around the world"}
+ - {count: "150", specialCharacter: "+", info: "attendees", detail: "from around the world"}
  - {count: "18", specialCharacter: "+", info: "hours", detail: "of agile development & software craftsmanship"}
  - {count: "25", specialCharacter: "+", info: "speakers", detail: "from all around the world"}
  - {count: "2", specialCharacter: "", info: "parallel tracks", detail: "plus evening reception"}
