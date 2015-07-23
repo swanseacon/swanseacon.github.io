@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "SwanseaCon 2015"
+title: "SwanseaCon 2015 - Wales first Agile Development & Software Craftsmanship conference"
 email: "hello@swancon.co.uk"
 description: "SwanseaCon is an agile development & software craftsmanship conference"
 baseurl: ""
