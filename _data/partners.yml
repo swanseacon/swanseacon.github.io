@@ -14,11 +14,13 @@
     - {name: "Viewpoint Construction Software", description: "Viewpoint Construction Software", link: "http://www.viewpoint.com/", imageUrl: "viewpoint-logo.png"}
     - {name: "Kainos", description: "Digital Technology Solutions & Agile Development", link: "http://www.kainos.com/", imageUrl: "kainos.jpg"}
     - {name: "Jetstack.io", description: "The Container Experts.", link: "http://www.jetstack.io/", imageUrl: "jetstack-navycyan.png"}
+    - {name: "IntaPeople", description: "Honest and transparent recruitment", link: "http://www.intapeople.com/", imageUrl: "IntaPeople.jpg"}
 - 
   group: "Exhibitors"
   elements: 
     - {name: "Learning Connexions", description: "Learning Connexions. Learn, Train, Develop.", link: "http://www.learningconnexions.com/", imageUrl: "LearningConnexions_Logo.jpg"}
     - {name: "Jetstack.io", description: "The Container Experts.", link: "http://www.jetstack.io/", imageUrl: "jetstack-navycyan.png"}
+    - {name: "IntaPeople", description: "Honest and transparent recruitment", link: "http://www.intapeople.com/", imageUrl: "IntaPeople.jpg"}
 - 
   group: "Partners"
   elements: 

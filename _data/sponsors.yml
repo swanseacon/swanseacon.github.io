@@ -74,3 +74,13 @@
   <p>Based in London and ex-MongoDB, Jetstack's founders are the organisers and supporters of the fast-growing <a href='http://t.sidekickopen08.com/e1t/c/5/f18dQhb0S7lC8dDMPbW2n0x6l2B9nMJW7t5XX48qCdmnVQKcnF3MPwx2W4Y95BM56dNDbf201VNK02?t=http://www.meetup.com/contain&si=4762484776370176&pi=b460090a-90c2-436b-a495-027760d3a7c2' target='_blank'>[ Contain ]</a> meetup group, established to provide an independent forum for the container community.</p>"
   thumbnailUrl: jetstack-navycyan.png
   website: "http://www.jetstack.io/"
+ - 
+  id: 9
+  company: "IntaPeople"
+  description: "<h5>Honest and transparent recruitment</h5>
+  <p>IntaPeople is a specialist recruitment consultancy offering first-rate talent solutions to the IT, data centre, storage and engineering professions.</p>
+  <p>Established in 1994, we are experts in sourcing high quality candidates for a wide range of permanent, contract and temporary positions across the UK, Europe and the Middle East.</p>
+  <p>Our mission is to provide honest and transparent talent solutions that exceeds both client and candidate expectations at every step of the relationship.</p>
+  <p>Through the range of recruitment, talent management and recruitment process outsourcing solutions we offer, we help both organisations and individuals realise their full potential.</p>"
+  thumbnailUrl: IntaPeople.jpg
+  website: "http://www.intapeople.com/"
