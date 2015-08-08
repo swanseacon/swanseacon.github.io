@@ -2,229 +2,176 @@
   date: "2015-09-07"
   dateReadable: "September 7"
   tracks: 
-    - {title: "Room One", color: "#90be4e"}
-    - {title: "Room Two", color: "#03a9f4"}
+    - {title: "Sinclair Suite 1", color: "#90be4e"}
+    - {title: "Sinclair Suite 2", color: "#03a9f4"}
+    - {title: "Sinclair Suite 3", color: "#03a9f4"}
+    - {title: "Platinum Lounge", color: "#03a9f4"}
   timeslots:
     - {
     	startTime: "08:30",
     	endTime: "10:00",
-    	sessionIds: [001]
+    	sessionIds: [099,001,099,099]
     }
     - {
     	startTime: "10:00",
     	endTime: "10:10",
-    	sessionIds: [002,099]
+    	sessionIds: [002,099,099,099]
     }
     - {
         startTime: "10:10",
         endTime: "11:00",
-        sessionIds: [003,099]
+        sessionIds: [003,099,099,099]
     }
     - {
     	startTime: "11:00",
     	endTime: "11:10",
-    	sessionIds: [097]
+    	sessionIds: [099,100,099,099]
     }
     - {
     	startTime: "11:10",
     	endTime: "11:55",
-    	sessionIds: [004,005]
+    	sessionIds: [004,099,005,099]
     }
     - {
     	startTime: "11:55",
     	endTime: "12:00",
-    	sessionIds: [097]
+    	sessionIds: [099,097,099,099]
     }
     - {
     	startTime: "12:00",
     	endTime: "12:45",
-    	sessionIds: [006,007]
+    	sessionIds: [006,099,007,099]
     }
     - {
     	startTime: "12:45",
     	endTime: "13:45",
-    	sessionIds: [096]
+    	sessionIds: [099,096,099,099]
     }
     - {
     	startTime: "13:45",
     	endTime: "14:30",
-    	sessionIds: [008,009]
+    	sessionIds: [008,099,009,099]
     }
     - {
     	startTime: "14:30",
     	endTime: "14:40",
-    	sessionIds: [097]
+    	sessionIds: [099,101,099,099]
     }
     - {
     	startTime: "14:40",
     	endTime: "15:25",
-    	sessionIds: [010,011]
+    	sessionIds: [010,099,011,099]
     }
     - {
     	startTime: "15:25",
     	endTime: "15:30",
-    	sessionIds: [097]
+    	sessionIds: [099,097,099,099]
     }
     - {
     	startTime: "15:30",
     	endTime: "16:15",
-    	sessionIds: [012,013]
+    	sessionIds: [012,099,013,099]
     }
     - {
     	startTime: "16:15",
     	endTime: "16:30",
-    	sessionIds: [097]
+    	sessionIds: [099,097,099,099]
     }
     - {
     	startTime: "16:30",
     	endTime: "17:30",
-    	sessionIds: [028,099]
+    	sessionIds: [028,099,099,099]
     }
     - {
     	startTime: "17:30",
     	endTime: "19:00",
-    	sessionIds: [098]
+    	sessionIds: [099,099,099,098]
     }
 - 
   date: "2015-09-08"
   dateReadable: "September 8"
   tracks: 
-    - {title: "Room One", color: "#90be4e"}
-    - {title: "Room Two", color: "#03a9f4"}
+    - {title: "Sinclair Suite 1", color: "#90be4e"}
+    - {title: "Sinclair Suite 2", color: "#03a9f4"}
+    - {title: "Sinclair Suite 3", color: "#03a9f4"}
   timeslots: 
     - {
     	startTime: "08:45",
     	endTime: "09:00",
-    	sessionIds: [097]
+    	sessionIds: [099,102,099]
     }
     - {
     	startTime: "09:00",
     	endTime: "09:45",
-    	sessionIds: [014,015]
+    	sessionIds: [014,099,015]
     }
     - {
     	startTime: "09:45",
     	endTime: "09:50",
-    	sessionIds: [097]
+    	sessionIds: [099,097,099]
     }
     - {
     	startTime: "09:50",
     	endTime: "10:35",
-    	sessionIds: [026,017]
+    	sessionIds: [026,099,017]
     }
     - {
     	startTime: "10:35",
     	endTime: "10:45",
-    	sessionIds: [097]
+    	sessionIds: [099,100,099]
     }
     - {
     	startTime: "10:45",
     	endTime: "11:30",
-    	sessionIds: [018,019]
+    	sessionIds: [018,099,019]
     }
     - {
     	startTime: "11:30",
     	endTime: "11:35",
-    	sessionIds: [097]
+    	sessionIds: [099,097,099]
     }
     - {
     	startTime: "11:35",
     	endTime: "12:20",
-    	sessionIds: [020,021]
+    	sessionIds: [020,099,021]
     }
     - {
     	startTime: "12:20",
     	endTime: "13:30",
-    	sessionIds: [096]
+    	sessionIds: [099,096,099]
     }
     - {
     	startTime: "13:30",
     	endTime: "14:15",
-    	sessionIds: [022,023]
+    	sessionIds: [022,099,023]
     }
     - {
     	startTime: "14:15",
     	endTime: "14:20",
-    	sessionIds: [097]
+    	sessionIds: [099,097,099]
     }
     - {
     	startTime: "14:20",
     	endTime: "15:05",
-    	sessionIds: [024,025]
+    	sessionIds: [024,099,025]
     }
     - {
     	startTime: "15:05",
     	endTime: "15:15",
-    	sessionIds: [097]
+    	sessionIds: [099,101,099]
     }
     - {
     	startTime: "15:15",
     	endTime: "16:00",
-    	sessionIds: [016,027]
+    	sessionIds: [016,099,027]
     }
     - {
     	startTime: "16:00",
     	endTime: "16:05",
-    	sessionIds: [097]
+    	sessionIds: [099,097,099]
     }
     - {
     	startTime: "16:05",
     	endTime: "17:00",
-    	sessionIds: [029,099]
-    }
-- 
-  date: "2015-09-09"
-  dateReadable: "September 9"
-  tracks: 
-    - {title: "Post-conference Workshops (Workshops are not included with a standard conference ticket)", color: "#FFCC00"}
-  timeslots: 
-    - {
-    	startTime: "09:00",
-    	endTime: "17:00",
-    	sessionIds: [032]
-    }
-    - {
-    	startTime: "09:00",
-    	endTime: "17:00",
-    	sessionIds: [030]
-    }
-    - {
-    	startTime: "09:00",
-    	endTime: "17:00",
-    	sessionIds: [033]
-    }
-    - {
-    	startTime: "09:00",
-    	endTime: "17:00",
-    	sessionIds: [031]
-    }
-    - {
-    	startTime: "09:00",
-    	endTime: "17:00",
-    	sessionIds: [038]
-    }
-    - {
-    	startTime: "09:00",
-    	endTime: "17:00",
-    	sessionIds: [039]
-    }
-    - {
-    	startTime: "09:00",
-    	endTime: "17:00",
-    	sessionIds: [041]
-    }
-    - {
-    	startTime: "09:00",
-    	endTime: "13:00",
-    	sessionIds: [040]
-    }
-    - {
-    	startTime: "09:00",
-    	endTime: "17:00",
-    	sessionIds: [042]
-    }
-    - {
-    	startTime: "09:00",
-    	endTime: "17:00",
-    	sessionIds: [043]
+    	sessionIds: [029,099,099]
     }

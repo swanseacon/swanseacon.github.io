@@ -58,7 +58,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Agile Development & Software Craftsmanship <typeout>conference"
-eventDate: "Monday 7th September - Wednesday 9th September, 2015"
+eventDate: "Monday 7th September - Tuesday 8th September, 2015"
 typeoutTextValues: '"", "Agile", "Development", "Software", "Craftsmanship"'
 typeoutFallback: ""
 heroButtons:
@@ -69,7 +69,7 @@ heroButtons:
 # About Block
 aboutTitle: "About SwanseaCon<p><strong><em>Profits made from SwanseaCon 2015 will go toward helping provide free netbooks for children, which they will use to learn to code at our free summer code camp.</em></strong></p>"
 aboutBlock:
- - {title: " 	", image: "code.jpg", text: "<br><br><p>SwanseaCon is a technical event for Software Developers, Software Architects, Project Managers, Analysts and Consultants in Wales. It is scheduled to kick start on 7th of September and go on till the 9th of September 2015 at the Liberty Stadium, Swansea, SouthWales.</p>
+ - {title: " 	", image: "code.jpg", text: "<br><br><p>SwanseaCon is a technical event for Software Developers, Software Architects, Project Managers, Analysts and Consultants in Wales. It is scheduled to kick start on 7th of September and go on until the 8th of September 2015 at the Liberty Stadium, Swansea, SouthWales.</p>
  <p>SwanseaCon 2015 will be the first agile development and software craftsmanship conference in Swansea, South Wales. Exploring the latest agile and lean thinking in software craftsmanship, teams and business. The conference hopes to attract people from all parts of the globe to explore, evolve and find out what it means to be truly agile in business, from its culture to product development practices.</p>
  <p>SwanseaCon 2015 gives you and your colleagues the right platform to gather cutting-edge information on technology from the best speakers and trainers of the industry. </p>
  <p>The conference includes keynotes and presentations, a discussion panel, an opening reception, and time between sessions to network and connect with colleagues from around the world.</p>

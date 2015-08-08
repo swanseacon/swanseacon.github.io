@@ -1,6 +1,6 @@
 -
   id: 001
-  title: "Registration"
+  title: "Registration & Arrival Refreshments"
   place: ""
   service: true
 -
@@ -434,18 +434,18 @@
 -
   id: 095
   title: "Break"
-  place: ""
+  place: "Sinclair Suite 2"
   service: true
 -
 -
   id: 096
   title: "Lunch"
-  place: ""
+  place: "Sinclair Suite 2"
   service: true
 -
   id: 098
   title: "Evening Reception"
-  place: ""
+  place: "Platinum Lounge (Floor 3)"
   service: true
 -
   id: 097
@@ -455,5 +455,20 @@
 -
   id: 099
   title: ""
+  place: ""
+  service: true
+-
+  id: 100
+  title: "Mid Morning Refreshments"
+  place: ""
+  service: true
+-
+  id: 101
+  title: "Afternoon Refreshments"
+  place: ""
+  service: true
+-
+  id: 102
+  title: "Arrival Refreshments"
   place: ""
   service: true
