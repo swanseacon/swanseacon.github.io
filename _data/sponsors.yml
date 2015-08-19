@@ -84,3 +84,11 @@
   <p>Through the range of recruitment, talent management and recruitment process outsourcing solutions we offer, we help both organisations and individuals realise their full potential.</p>"
   thumbnailUrl: IntaPeople.jpg
   website: "http://www.intapeople.com/"
+ - 
+  id: 10
+  company: "Vizolution"
+  description: "<h5>vScreen from Vizolution  is an innovative screen sharing technology</h5>
+  <p>Vizolution is a multi-award-winning UK based software provider backed by a leading European venture capital firm, Notion Capital, and Finance Wales. Vizolution has offices in London and Port Talbot, Wales.</p>
+  <p>Vizolution is the provider of vScreen, a market leading screen sharing technology that allows a presenter to remotely and securely share visual information with a customer on a real time basis during a call.</p>"
+  thumbnailUrl: Vizolution.jpg
+  website: "http://www.vizolution.co.uk/"

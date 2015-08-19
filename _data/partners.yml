@@ -6,7 +6,7 @@
 - 
   group: "Silver Sponsors"
   elements: 
-    
+    - {name: "Vizolution", description: "vScreen from Vizolution  is an innovative screen sharing technology", link: "http://www.vizolution.co.uk/", imageUrl: "Vizolution.jpg"}
 - 
   group: "Bronze Sponsors"
   elements: 
