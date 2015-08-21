@@ -92,3 +92,10 @@
   <p>Vizolution is the provider of vScreen, a market leading screen sharing technology that allows a presenter to remotely and securely share visual information with a customer on a real time basis during a call.</p>"
   thumbnailUrl: vizolution.jpg
   website: "http://www.vizolution.co.uk/"
+ - 
+  id: 11
+  company: "Brightseed"
+  description: "<h5>Digital Creative Agency</h5>
+  <p>We make innovative digital solutions from branding strategies to design & development for the web with quality PHP & Symfony2.</p>"
+  thumbnailUrl: brightseed.png
+  website: "http://www.brightseed.co.uk/"
