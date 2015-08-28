@@ -52,7 +52,7 @@ bottomNavigationLinks:
  - {link: "/assets/SwanseaCon_2015_Sponsorship.pdf", text: "Become a sponsor"}
 rightNavigationButtons:
  - {link: "/#tickets", text: "Buy tickets"}
- - {link: "/assets/SwanseaCon_2015_Brochure.pdf", text: "View Brochure"}
+ - {link: "#about", text: "About SwanseaCon"}
 
 
 # Hero Block
@@ -62,9 +62,8 @@ eventDate: "Monday 7th September - Tuesday 8th September, 2015"
 typeoutTextValues: '"", "Agile", "Development", "Software", "Craftsmanship"'
 typeoutFallback: ""
 heroButtons:
- - {permalink: "/assets/SwanseaCon_2015_Sponsorship.pdf", text: "Become a sponsor"}
  - {permalink: "/#tickets", text: "Buy tickets"}
- - {permalink: "/assets/SwanseaCon_2015_Brochure.pdf", text: "View Brochure"}
+ - {permalink: "#about", text: "About SwanseaCon"}
 
 # About Block
 aboutTitle: "About SwanseaCon<p><strong><em>Profits made from SwanseaCon 2015 will go toward helping provide free netbooks for children, which they will use to learn to code at our free summer code camp.</em></strong></p>"
@@ -80,7 +79,7 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "150", specialCharacter: "+", info: "attendees", detail: ""}
  - {count: "18", specialCharacter: "+", info: "hours", detail: "of agile development & software craftsmanship"}
- - {count: "25", specialCharacter: "+", info: "speakers", detail: "from all around the world"}
+ - {count: "28", specialCharacter: "", info: "speakers", detail: "from all around the world"}
  - {count: "2", specialCharacter: "", info: "parallel tracks", detail: "plus discussion panel"}
 
 # Latest News Block
