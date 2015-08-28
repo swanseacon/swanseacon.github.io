@@ -124,20 +124,6 @@
   social: 
     - {name: "twitter", link: "http://twitter.com/Singsalad"}
 - 
-  id: 8
-  name: "Gurpreet"
-  surname: "Singh"
-  company: "OLX - Naspers Group"
-  title: "Enterprise lean agile coach"
-  bio: "<p>Gurpreet gained experience in working with different companies in different parts of the globe. He worked on different roles like Product Owner, Scrum Master, Agile Coach, etc. He is a blogger and a speaker. He wrote several blogs for Scrum Alliance which is the Parent company of Scrum. He worked with people from different regions: India, Argentina, Brazil, Americans, etc. He was involved in so many Organization transformations so far.</p>
-<p>He is a Certified CSP, CSM, Management 3.0 trainer, SAFe Agilist and a Six Sigma Green Belt.</p>
-"
-  thumbnailUrl: GurpreetSingh.jpg
-  rockstar: false
-  social: 
-    - {name: "twitter", link: "http://twitter.com/gpzee84"}
-    - {name: "site", link: "http://lnkd.in/deRY9R8"}
-- 
   id: 9
   name: "Janos"
   surname: "Feher"
@@ -337,6 +323,20 @@ Jason has worked with teams at the BBC, City Index, Electronic Arts, Higher Educ
   rockstar: false
   social: 
     - {name: "twitter", link: "https://twitter.com/tooky/"}	
+- 
+  id: 8
+  name: "Stuart"
+  surname: "Arthur"
+  company: "Intellectual Property Office (IPO)"
+  title: "Director of Digital Services"
+  bio: "<p>Stuart is a technology leader and entrepreneur, with extensive experience in the private and public sectors. He has guided multi-award winning software business Box UK to global success, delivering groundbreaking digital transformation programmes for clients including World Vision, Investec Asset Management, BBC, and Jaguar Land Rover. He has launched several startups that have become sustainable businesses, and has mentored emerging talent including the Alacrity Foundation.</p>
+  <p>Stuart advocates for a vibrant, empowering, and self-managing working environment. He is passionate about applying agile and lean principles to help transform organisations. He is an advocate of user centred design and high-quality software development practices. He utilises a range of different methods including Lean UX, The Lean Startup, Kanban, Scrum, and XP. His focus is to deliver quality software solutions that delight users as often as possible.</p>
+  <p>Stuart has a strong interest in the education sector where he co-chaired the ICT Report for Welsh Government, which explored and made recommendations about the future of Computer Science and ICT within Wales. He created one of the first industry-led coding masterclass initiatives for the education sector, working with learners of all ages to promote software development and entrepreneurial skills, which were delivered as a series of progressive workshops guided by software experts.</p>
+"
+  thumbnailUrl: StuArthur.jpeg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "http://twitter.com/StuArthur"}
 - 
   id: 27
   name: "Thomas"

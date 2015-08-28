@@ -162,25 +162,8 @@
   speakers: [22,24]
 -
   id: 020
-  title: "Splitting User Stories – Ideal Bite Size"
-  description: "<p>The Ideal Bite Size of the User Story!</p>
-  <p>The transition of Waterfall to Agile methodologies is never easy. The Waterfall approach consisted of these documents as a way to analyze the User needs: BRD (Business Requirement Documents), FRSs (Functional Requirement Specifications), SRS (Software Requirement Specifications), PRDs (Product Requirement Documents), etc. After the initial agreements, the development starts. In Scrum, the most important artifact to map User needs is the User Story. However, sometimes, the User Story is too big or too small or too abstract or never ending. This often lands the teams in difficult situations. So, it is vey crucial to Identify the Ideal Bite Size — to identify the ideal size of our User Stories, yet keeping these Effective!</p><p>In this article, we will discuss a few techniques to Slice User Stories:<ul><li>1. Introduction of Stories / Importance of being Short and Effective</li>
-  <li>2. Quick Recap of INVEST / 3 Cs model of Stories</li>
-  <li>3. Slicing techniques with Activities</li>
-  <li>a. MOSCOW / KANO – User needs</li>
-  <li>b. CYNEFIN Framework – Measure of disorder</li>
-  <li>c. Dividing the Stories into Workflow steps</li>
-  <li>d. Create Stories for Happy Path first</li>
-  <li>e. Keeping UI simpler and then add frills and thrills</li>
-  <li>f. Improve Performance in iterations</li>
-  <li>g. Starting with Minimal Data</li>
-  <li>h. Confining within Acceptance Criteria</li>
-  <li>i. Divide by User Personas</li>
-  <li>j. SPIKE for Research Stories</li>
-  <li>k. Horizontal Vs Vertical Slicing</li>
-  <li>l. Split by Operations (CRUD)</li>
-  <li>m. Split by Platforms</li></ul></p>
-  <p>Learning Outcome: In this Article, the Audience will become aware of the techniques to slice the big and Abstract User stories into Short yet Effective Stories!</p>"
+  title: "Session title to follow"
+  description: "<p>Session description to follow shortly.</p>"
   subtype: presentation 
   speakers: [8]
 -
