@@ -162,8 +162,8 @@
   speakers: [22,24]
 -
   id: 020
-  title: "Session title to follow"
-  description: "<p>Session description to follow shortly.</p>"
+  title: "Exploring alternatives to software estimation with #NoEstimates"
+  description: "<p>Estimation in the software development industry is a contentious subject, seemingly a black art that can have serious consequences on the success or failure of a project, and often a business. This talk explores alternative ways and offers a critique of the #NoEstimates movement.</p>"
   subtype: presentation 
   speakers: [8]
 -
