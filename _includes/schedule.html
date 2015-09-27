@@ -1,8 +1,10 @@
 <!-- Begin Schedule Section -->
 <section id="schedule" class="schedule">
     <div class="content-wrapper">
+							<h3>Swanseacon 2015 schedule</h3>
         {% for day in site.data.schedule %}
         <div class="schedule-table col-lg-8 col-md-10 col-md-offset-1">
+		
             <h4 class="schedule-table-heading">{{ day.dateReadable }}</h4>
             <div class="timeslot track-header stick-header">
                 <div class="track-header-label">Day {{ forloop.index }}</div>
@@ -73,6 +75,7 @@
                 </div>
             </div>
             {% endfor %}
+				<h4>Please check back soon to see our schedule for SwanseaCon 2016</h4>
         </div>
         {% endfor %}
     </div>

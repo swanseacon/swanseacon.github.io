@@ -10,14 +10,14 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "SwanseaCon 2015 - Wales first Agile Development & Software Craftsmanship conference"
-email: "hello@swancon.co.uk"
+title: "SwanseaCon 2016 - Agile Development & Software Craftsmanship conference"
+email: "hello@swanseacon.co.uk"
 description: "SwanseaCon is an agile development & software craftsmanship conference"
 baseurl: ""
 url: "http://swanseacon.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-57225674-1"
-googleAnalyticsSiteUrl: "swancon.co.uk"
+googleAnalyticsSiteUrl: "swanseacon.co.uk"
 # siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
@@ -49,28 +49,25 @@ navigationLinks:
  - {permalink: "/sponsors/", text: "Sponsors"}
  - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
- - {link: "/assets/SwanseaCon_2015_Sponsorship.pdf", text: "Become a sponsor"}
 rightNavigationButtons:
- - {link: "/#tickets", text: "Buy tickets"}
  - {link: "#about", text: "About SwanseaCon"}
 
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Agile Development & Software Craftsmanship <typeout>conference"
-eventDate: "Monday 7th September - Tuesday 8th September, 2015"
+heroTitle: "2nd Agile Development & Software Craftsmanship <typeout>conference"
+eventDate: "Monday 12th September - Tuesday 13th September, 2016"
 typeoutTextValues: '"", "Agile", "Development", "Software", "Craftsmanship"'
 typeoutFallback: ""
 heroButtons:
- - {permalink: "/#tickets", text: "Buy tickets"}
  - {permalink: "#about", text: "About SwanseaCon"}
 
 # About Block
-aboutTitle: "About SwanseaCon<p><strong><em>Profits made from SwanseaCon 2015 will go toward helping provide free netbooks for children, which they will use to learn to code at our free summer code camp.</em></strong></p>"
+aboutTitle: "About SwanseaCon<p><strong><em>Profits made from SwanseaCon 2015 have gone toward helping provide free netbooks for children, which they will use to learn to code at our free summer code camp.</em></strong></p>"
 aboutBlock:
- - {title: " 	", image: "code.jpg", text: "<br><br><p>SwanseaCon is a technical event for Software Developers, Software Architects, Project Managers, Analysts and Consultants in Wales. It is scheduled to kick start on 7th of September and go on until the 8th of September 2015 at the Liberty Stadium, Swansea, SouthWales.</p>
- <p>SwanseaCon 2015 will be the first agile development and software craftsmanship conference in Swansea, South Wales. Exploring the latest agile and lean thinking in software craftsmanship, teams and business. The conference hopes to attract people from all parts of the globe to explore, evolve and find out what it means to be truly agile in business, from its culture to product development practices.</p>
- <p>SwanseaCon 2015 gives you and your colleagues the right platform to gather cutting-edge information on technology from the best speakers and trainers of the industry. </p>
+ - {title: " 	", image: "code.jpg", text: "<br><br><p>SwanseaCon is a technical event for Software Developers, Software Architects, Project Managers, Analysts and Consultants in Wales. The second year is scheduled to kick start on 12th of September and go on until the 13th of September 2016 at the Liberty Stadium, Swansea, South Wales.</p>
+ <p>SwanseaCon 2016 will be our second agile development and software craftsmanship conference in Swansea, South Wales. Exploring the latest agile and lean thinking in software craftsmanship, teams and business. The conference hopes to attract people from all parts of the globe to explore, evolve and find out what it means to be truly agile in business, from its culture to product development practices.</p>
+ <p>SwanseaCon 2016 gives you and your colleagues the right platform to gather cutting-edge information on technology from the best speakers and trainers of the industry. </p>
  <p>The conference includes keynotes and presentations, a discussion panel, an opening reception, and time between sessions to network and connect with colleagues from around the world.</p>
  <p>Delegates will get the opportunity to learn how to increase their productivity dramatically and save cost, learn how to enhance the quality of their software applications, as well as meet their peers in a productive and social environment.</p>" }
 
@@ -79,7 +76,7 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "150", specialCharacter: "+", info: "attendees", detail: ""}
  - {count: "18", specialCharacter: "+", info: "hours", detail: "of agile development & software craftsmanship"}
- - {count: "28", specialCharacter: "", info: "speakers", detail: "from all around the world"}
+ - {count: "25", specialCharacter: "+", info: "speakers", detail: "from all around the world"}
  - {count: "2", specialCharacter: "", info: "parallel tracks", detail: "plus discussion panel"}
 
 # Latest News Block
@@ -88,8 +85,8 @@ latestNewsTitle: "Latest news"
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersTitle: "SwanseaCon 2015 Rockstar speakers"
+rockstarSpeakersButtonText: "See all speakers form 2015"
 
 # Location Block
 locationBlockTitle: "Location"
@@ -108,7 +105,7 @@ mapCenterCoordinates: "51.643472, -3.935207"
 mapMobileCenterCoordinates: "51.643472, -3.935080"
 
 # Venue Block
-venueBlockTitle: "Swansea"
+venueBlockTitle: "SwanseaCon"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
@@ -124,12 +121,12 @@ twitterFeed: "_includes/twitter-feed.html"
 
 # Partners Block
 organizersTitle: ""
-partnersTitle: "Sponsors"
+partnersTitle: "Sponsors for 2015"
 partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates"
+subscribeTitle: "Subscribe for updates for 2016"
 subscribeAction: "http://swancon.us10.list-manage.com/subscribe/post?u=6f529863589ed3eabebff1faf&amp;id=ac260fb163"
 subscribeInfo: "Registration is now open. Number of tickets are limited."
 
@@ -191,7 +188,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:hello@swancon.co.uk", text: "hello@swancon.co.uk"}
+   - {link: "mailto:hello@swanseacon.co.uk", text: "hello@swanseacon.co.uk"}
  -
   title: "FAQ"
   links:
