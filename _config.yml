@@ -44,13 +44,14 @@ c4sponsorsUrl: "/assets/SwanseaCon_2015_Sponsorship.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
+ # - {permalink: "/schedule/", text: "Schedule"}
+ # - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/sponsors/", text: "Sponsors"}
  - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
 rightNavigationButtons:
  - {link: "#about", text: "About SwanseaCon"}
+ - {link: "/#tickets", text: "Buy tickets"}
 
 
 # Hero Block
@@ -61,7 +62,8 @@ typeoutTextValues: '"", "Agile", "Development", "Software", "Craftsmanship"'
 typeoutFallback: ""
 heroButtons:
  - {permalink: "#about", text: "About SwanseaCon"}
-
+ - {permalink: "https://www.picatic.com/event14433914651966", text: "Early bird tickets now on sale!"}
+ 
 # About Block
 aboutTitle: "<h3>About SwanseaCon</h3><p><strong><em>Profits made from SwanseaCon 2015 have gone toward helping provide free netbooks for children, which they will use to learn to code at our free summer code camp next year.</em></strong></p>"
 aboutBlock:
@@ -105,7 +107,7 @@ mapCenterCoordinates: "51.643472, -3.935207"
 mapMobileCenterCoordinates: "51.643472, -3.935080"
 
 # Venue Block
-venueBlockTitle: "SwanseaCon"
+venueBlockTitle: "#SwanseaCon"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
@@ -142,7 +144,7 @@ ticketsOffers:
   priceCurrency: "GBP"
   ticketsNumber: "150"
   ribbon: "-5%"
-  buyButtonLink: "https://www.picatic.com/swanseacon"
+  buyButtonLink: "https://www.picatic.com/event14433914651966"
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2015-02-15T10:00"
@@ -154,7 +156,7 @@ ticketsOffers:
   ticketsNumber: "100"
   ribbon: "-20%"
   featured: true
-  buyButtonLink: "https://www.picatic.com/swanseacon"
+  buyButtonLink: "https://www.picatic.com/event14433914651966"
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2015-04-01T00:00"
@@ -165,7 +167,7 @@ ticketsOffers:
   price: "200"
   priceCurrency: "GBP"
   ticketsNumber: "50"
-  buyButtonLink: "https://www.picatic.com/swanseacon"
+  buyButtonLink: "https://www.picatic.com/event14433914651966"
   buyButtonText: "Buy Now"
   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
@@ -184,7 +186,7 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://www.picatic.com/swanseacon", text: "picatic.com/swanseacon"}
+   - {link: "https://www.picatic.com/event14433914651966", text: "picatic.com/swanseacon"}
  -
   title: "Contacts"
   links:
