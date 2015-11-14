@@ -48,6 +48,7 @@ navigationLinks:
  # - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/sponsors/", text: "Sponsors"}
  - {permalink: "/logistics/", text: "Logistics"}
+ - {permalink: "/archive2015/", text: "Archive 2015"}
 bottomNavigationLinks:
 rightNavigationButtons:
  - {link: "#about", text: "About SwanseaCon"}
@@ -121,9 +122,12 @@ tweetsFeedTitle: "What's Up?"
 twitterHashTag: "SwanseaCon"
 twitterFeed: "_includes/twitter-feed.html"
 
+# Flickr Feed Block
+flickrFeedImage: "flickr-feed.jpg"
+
 # Partners Block
 organizersTitle: ""
-partnersTitle: "Sponsors for 2015"
+partnersTitle: "Sponsors"
 partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
