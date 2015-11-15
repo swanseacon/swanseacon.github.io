@@ -48,6 +48,7 @@ navigationLinks:
  # - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/sponsors/", text: "Sponsors"}
  - {permalink: "/logistics/", text: "Logistics"}
+ - {permalink: "/call-for-papers/", text: "Call for Papers"}
  - {permalink: "/archive2015/", text: "Archive 2015"}
 bottomNavigationLinks:
 rightNavigationButtons:
