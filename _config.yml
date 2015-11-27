@@ -52,8 +52,8 @@ navigationLinks:
  - {permalink: "/archive2015/", text: "Archive 2015"}
 bottomNavigationLinks:
 rightNavigationButtons:
- - {link: "#about", text: "About SwanseaCon"}
- - {link: "/#tickets", text: "Buy tickets"}
+# - {link: "#about", text: "About SwanseaCon"}
+# - {link: "/#tickets", text: "Buy tickets"}
 
 
 # Hero Block
