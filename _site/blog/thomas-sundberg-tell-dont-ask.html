@@ -14,18 +14,18 @@
     <!-- Social: Twitter -->
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="@SwanseaCon">
-    <meta name="twitter:title" content="Don't be a jerk policy">
+    <meta name="twitter:title" content="Thomas Sundberg - Tell, don't ask">
     <meta name="twitter:description" content="SwanseaCon is an agile development & software craftsmanship conference">
     <meta name="twitter:image:src" content="http://swanseacon.github.io/img/seo/sharing-twitter.png">
     <!-- Social: Facebook / Open Graph -->
-    <meta property="og:title" content="Don't be a jerk policy" />
+    <meta property="og:title" content="Thomas Sundberg - Tell, don't ask" />
     <meta property="og:site_name" content="SwanseaCon 2016 - Agile Development & Software Craftsmanship conference" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="http://swanseacon.github.io" />
     <meta property="og:image" content="http://swanseacon.github.io/img/seo/sharing-facebook.png" />
     <meta property="og:description" content="SwanseaCon is an agile development & software craftsmanship conference" />
 
-    <title>Don't be a jerk policy &bull; SwanseaCon 2016 - Agile Development & Software Craftsmanship conference</title>
+    <title>Thomas Sundberg - Tell, don't ask &bull; SwanseaCon 2016 - Agile Development & Software Craftsmanship conference</title>
     <link rel="shortcut icon" href="/img/favicons/favicon.ico">
     <link rel="apple-touch-icon" sizes="152x152" href="/img/favicons/apple-touch-icon-152x152.png">
     <link rel="apple-touch-icon" sizes="144x144" href="/img/favicons/apple-touch-icon-144x144.png">
@@ -115,7 +115,7 @@
 	<div class="content-wrapper">
 	    <div class="jumbotron text-left">
 	        <div class="animated hiding" data-animation="fadeInLeft" data-delay="500">
-	            <h1>Don't be a jerk policy</h1>
+	            <h1>Thomas Sundberg - Tell, don't ask</h1>
 	        </div>
 	    </div>
     </div>
@@ -129,35 +129,104 @@
             <div class="col-lg-8 col-md-10 col-xs-12">
                 <article class="row post">
                     
+                    <div class="post-header">
+                        <div class="published col-md-6 col-xs-6 pull-left">
+                            <span class="caption">Posted:</span>
+                            <span class="publish-date" itemprop="datePublished">May 5, 2015</span>
+                        </div>
+                        <div class="share col-md-6 col-xs-6 pull-right">
+                            <ul class="social-links">
+                             
+                                <li>
+                                    <a href="#" onclick="window.open('https://plus.google.com/share?url=http://swanseacon.github.io/blog/thomas-sundberg-tell-dont-ask', 'newwindow', 'width=600, height=500'); return false;">
+                                        <svg class="icon icon-google-plus" viewBox="0 0 30 32">
+                                            <use xlink:href="/img/sprites/sprites.svg#icon-google-plus"></use>
+                                        </svg>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#" onclick="window.open('https://twitter.com/home?status=http://swanseacon.github.io/blog/thomas-sundberg-tell-dont-ask', 'newwindow', 'width=600, height=250'); return false;">
+                                        <svg class="icon icon-twitter" viewBox="0 0 30 32">
+                                            <use xlink:href="/img/sprites/sprites.svg#icon-twitter"></use>
+                                        </svg>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=http://swanseacon.github.io/blog/thomas-sundberg-tell-dont-ask', 'newwindow', 'width=600, height=500'); return false;">
+                                        <svg class="icon icon-facebook" viewBox="0 0 30 32">
+                                            <use xlink:href="/img/sprites/sprites.svg#icon-facebook"></use>
+                                        </svg>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
                     
-                    <div class="post-body"><p><strong>This “Don’t be a jerk” policy is a shortened, more casual version of the longer Code of Conduct policy. <a href="http://meta.wikimedia.org/wiki/Don%27t_be_a_dick">Read full version</a>.</strong></p>
+                    
+                    <div class="post-body"><h4 id="tell-dont-ask">Tell, don’t ask.</h4>
 
-<p>SwanseaCon prides itself on being an open, respectful, and inclusive conference. That means jerky behavior isn’t allowed at SwanseaCon. Because we know that it’s not obvious to everyone, here’s a reminder of the things we don’t allow: jokes or offensive comments about sex/sexuality/race/religion/nationality/body size, showing porn in public, touching people uninvited, or continuing to interact with someone after they’ve asked you to stop. Continuous jerky behavior may result in getting expelled from SwanseaCon.</p>
+<h5 id="why-talk-about-tell-dont-ask-at-swanseacon-2015">Why talk about ‘Tell, don’t ask’ at Swanseacon 2015?</h5>
 
-<p>If someone is bothering you, please tell SwanseaCon Organizers immediately and they will take care of it. We want to maintain SwanseaCon’s awesomeness.</p>
+<p>Objects that expose wrong information are complicated to work with. They force you to dig for the information you really need. It is easy to create a model where the users are expected to know a lot about the domain and therefore force them to dig deep into an object structure to get the information they currently need. This can be avoided if you strive for telling objects what to do and only ask them occasionally.</p>
 
-<h6 id="contacts">Contacts:</h6>
+<p>Asking an object for something may or may not result in a direct answer. If you get a direct answer to your question, it’s usually not a problem with asking. But if you get another object back that you have to ask a more specific question and this object in turn returns yet another object that you need to inquire for the information you need, then you have a problem. A problem with code is that it is very tightly coupled. Objects are more or less tangled. Probably more. This may not seem as a problem if you know the code base very well, but it is unnecessarily complicated to understand how it should be used. A new developer will definitely have problems understanding the code base. It is also a very clear sign of missing abstractions. The initial object you asked for should have given you the answer to your question. If it doesn’t have the answer, it should have asked some of its collaborators and then responded to your question. Not force you to ask for the proper collaborator and then ask the returned collaborator for what you really want to know. Possibly in many steps.</p>
 
-<ul>
-  <li>Viv Richards, <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#104;&#101;&#108;&#108;&#111;&#064;&#115;&#119;&#097;&#110;&#099;&#111;&#110;&#046;&#099;&#111;&#046;&#117;&#107;">&#104;&#101;&#108;&#108;&#111;&#064;&#115;&#119;&#097;&#110;&#099;&#111;&#110;&#046;&#099;&#111;&#046;&#117;&#107;</a></li>
-</ul>
+<p>If you only tell objects what to do, it is a lot harder to tangle things together. It is also a lot easier to test. All you have to do is verify that the object you want to do something with has received a message that tells it what to do. This can easily be done with mocks that verify that a collaborator has been called.</p>
 
-<p><img class="img-responsive feature-image" src="/img/posts/cod.jpg" style="display:none" /></p>
+<p>Telling an object what to do instead of asking it for information forces you to focus on the interaction between objects. You must think a lot about the protocol between the objects.</p>
+
+<p>Focusing on telling instead of asking is one technique to separate concerns and allows you to avoid making a spaghetti bolognese of your code base. Suppressing your chef ambitions when writing code is usually a good thing.</p>
+
+<p>It turns out that seasoned developers sometimes don’t understand this concept. I have worked in a team where I found a code base mostly created by an supposedly experienced developer who, it turned out, either was too smart and could remember all connections between the objects or too stupid to understand that it was hard to grasp. It was a green field project that ended up with a lot of performance issues that were hard to resolve. The tangled code was not the main reason for the performance issues, but it didn’t help when we struggled to resolve them. Changing a tangled codebase is difficult and it became unnecessarily difficult to re-write the parts that had performance problems.</p>
+
+<p>Why do I want to talk about this at Swansea? Interaction between objects is the single most important thing in object-oriented programming. Unfortunately, some developers neglect it. I expect that there will be a lot of developers at a conference about Agile Development and Software craftsmanship. Some of them might need to be reminded about the Law of Demeter.</p>
+
+<h4 id="did-you-enjoy-this-post">Did you enjoy this post?</h4>
+
+<p>You can listen to more from Thomas this September at SwanseaCon.</p>
+
+<p><a href="http://swancon.co.uk/schedule/#session-13">Tell, don’t ask</a></p>
 </div>
 
                     <div id="page-navigation" class="page-navigation">
                         <div class="next col-xs-6">
                             
+                                <a href="/blog/patroklos-papapetrou-managing-global-teams" title="Patroklos Papapetrou - Managing global teams">&laquo; Patroklos Pa...</a>
+                            
                         </div>
                         <div class="previous col-xs-6 text-right">
+                            
+                                <a href="/blog/adam-tornhill-theres-more-to-code-than-code" title="Adam Tornhill - There's More to Code than Code">Adam Tornhil... &raquo;</a>
                             
                         </div>
                     </div>
 
                     
+                        <div class="comments">
+                             <div id="disqus_thread"></div>
+<script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'swanseacon2015'; // required: replace example with your forum shortname
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</script> 
+                        </div>
+                    
 
                 </article>
 
+                
+                    <div class="row text-center">
+                        <p class="rss-subscribe">Subscribe <a href="/feed.xml" target="_blank">via RSS</a>
+                        </p>
+                    </div>
                 
 
             </div>
