@@ -81,7 +81,7 @@ statisticBlock:
  - {count: "150", specialCharacter: "+", info: "attendees", detail: ""}
  - {count: "18", specialCharacter: "+", info: "hours", detail: "of agile development & software craftsmanship"}
  - {count: "25", specialCharacter: "+", info: "speakers", detail: "from all around the world"}
- - {count: "2", specialCharacter: "", info: "parallel tracks", detail: "plus discussion panel"}
+ - {count: "2", specialCharacter: "", info: "parallel tracks", detail: ""}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
