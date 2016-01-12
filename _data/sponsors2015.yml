@@ -1,0 +1,101 @@
+ - 
+  id: 4
+  company: "Valtech"
+  description: "<h5>Where experiences are engineered</h5>
+  <p>Valtech is a digital agency unlike most others, where experiences are engineered. The original champions of Agile and experts in software delivery since 1993, we have evolved into a creative agency that understands the technological complexities faced by organisations in all industries. We have a proven track record of creating seamless user experiences which, when expertly integrated with existing legacy systems, allow businesses to fully understand their users. The data our clients collect can be analysed by our data scientists, giving all stakeholders the proof of success which has historically been so hard to define. We Orchestrate, Integrate and Evolve our clients’ digital real estate to outstrip and outsell the competition.</p>"
+  thumbnailUrl: valtech.png
+  website: "http://www.valtech.com/"
+ - 
+  id: 8
+  company: "University of Wales Trinity Saint David"
+  description: "<h5>Discover a connected university</h5>
+  <p>The University of Wales Trinity Saint David (UWTSD) was formed on 18 November 2010 through the merger of the University of Wales Lampeter and Trinity University College Carmarthen, under Lampeter’s Royal Charter of 1828. On the 1 August 2013, Swansea Metropolitan University became part of UWTSD.</p>
+  <p>The University’s Royal Charter is the oldest in Wales and England after the universities of Oxford and Cambridge. In 2011 HRH the Prince of Wales became its Royal Patron.</p>
+  <p>The UWTSD Group includes Coleg Sir Gâr and Coleg Ceredigion as part of a dual sector group structure comprising further education colleges and the university. The UWTSD Group has over 25,000 learners across 17 campuses in rural and city locations. Together we deliver clear, tangible benefits for learners, employers, industry and communities by offering a vocational approach from entry level to post-doctoral research. The Group will be further strengthened with the merger of University of Wales into UWTSD in due course.</p>
+  <p>The University’s main campuses are situated in various locations in and around Swansea’s city centre as well as in the rural towns of Lampeter and Carmarthen in South West Wales. The Wales International Academy of Voice, under the Directorship of Dennis O’Neill with Dame Kiri Te Kanawa as its patron, is located in Cardiff and in addition the University has a Business School in London for international students.</p>"
+  thumbnailUrl: UWTSD.png
+  website: "http://www.uwtsd.ac.uk/"
+ - 
+  id: 5
+  company: "Scrum Alliance"
+  description: "<h5>Become part of something bigger than you alone</h5>
+  <p>Scrum Alliance brings you together with like-minded people who are passionate about Scrum and who dream, explore – and live – project management brilliance every day. A nonprofit professional organization, we provide advocacy, community, and education to support this movement, equip our members, and help them succeed with Scrum in software development and beyond. Come sprint with us!</p>"
+  thumbnailUrl: scrum-alliance.png
+  website: "http://www.scrumalliance.org/"
+ - 
+  id: 6
+  company: "Viewpoint Construction Software"
+  description: "<h5>Collaboratively Transforming the Global Construction Industry</h5>
+  <p>Viewpoint is a provider of innovative construction-specific software solutions to the global construction and capital project industries. Viewpoint provides the tools needed to improve project profitability and visibility, manage risk, and effectively collaborate with the entire project team.</p>"
+  thumbnailUrl: viewpoint-logo.png
+  website: "http://www.viewpoint.com/"
+ - 
+  id: 7
+  company: "Kainos"
+  description: "<h5>Digital Technology Solutions & Agile Development</h5>
+  <p>Kainos is a high-growth IT services company providing digital technology solutions and agile software development to enterprise customers. We’ve been operating successfully for more than 30 years, and employ over 700 people, with offices in the UK, Ireland, US and Poland.</p>
+  <p>Our clients are predominantly in the Public, Healthcare and Financial Services sectors, and include well-known global organisations and large government departments.</p>
+  <p>Our people are knowledgeable, enthusiastic and have a work ethic that our clients tell us is unique. They really like working for us: we are consistently recognised as one of the Sunday Times 100 Best Companies to Work For.</p>"
+  thumbnailUrl: kainos.jpg
+  website: "http://www.kainos.com/"
+ - 
+  id: 1
+  company: "Codurance"
+  description: "<h5>We build well crafted software</h5>
+  <p>We are software craftsmen. We build well-crafted software to our customers, we help developers to get better at their craft through training, coaching and mentoring, and we help companies to get better at delivering software.</p>
+  <p>We collaborate with our clients. We built our reputation based on client satisfaction and adding value through well-crafted software. We believe that productive partnerships, collaboration, fast feedback, and small iterations are the best way to deliever successful software projects.</p>
+  <p>We have values. We don't negotiate on quality. We use Agile methodologies and Extreme Programming practices, like Test-Driven Development, Simple Design, Pair-Programming and Continuous Integration, in all our projects.</p>
+  <p>We master our skills and tools. We work hard to be the best we can be, constantly practicing, learning, and sharing. All our craftsmen have dedicated time for learning and are very active in external technical communities.</p>"
+  thumbnailUrl: codurance.png
+  website: "http://www.codurance.com"
+ - 
+  id: 2
+  company: "Equal Experts"
+  description: "<h5>Making Software. Better.</h5>
+  <p>Equal Experts’ agile practitioners combine technical excellence and business pragmatism to deliver simple bespoke software solutions to big business problems.</p>
+  <p>We offset delivery risk by trusting only talented, highly experienced people to employ relentless quality processes and a “zero tolerance” attitude to defects. We make heavy use of open source technology wherever possible, which dramatically lowers total cost of ownership for clients.</p>
+  <p>By leading by example and grounding everything we do in concrete software deliveries, we are able to bring our experience to bear, helping large organizations through their digital transformation.</p>
+  <p>Customers include Camelot and Telefonica and our software solutions underpin major initiatives such as O2’s Priority Moments customer loyalty campaign as well as myO2 self-serve capability. We are using our private sector experience to help UK government departments like HMRC and the Home Office to roll out their digital strategy.</p>
+  <p>For the last three years in a row, Equal Experts has been singled out as one of UK’s fastest growing companies in the tech sector, with sales reaching £24 million in 2014.</p>"
+  thumbnailUrl: equal-experts.png
+  website: "http://www.equalexperts.com/"
+ - 
+  id: 3
+  company: "Mozaic Works"
+  description: "<h5>Grow your business, product and teams</h5>
+  <p>We help companies, teams and individuals who develop software improve their working process to achieve specific business objectives like: deploy earlier, be more adaptable, reduce costs or increase ROI.</p>"
+  thumbnailUrl: mozaic-works-small.png
+  website: "http://www.mozaicworks.com/"
+ - 
+  id: 3
+  company: "Jetstack"
+  description: "<h5>The Container Experts</h5>
+  <p>Jetstack specialise in the delivery of consultancy and training around container technology. Jetstack use best-of-breed tools to containerise enterprise applications, and build the infrastructure needed to manage and support them. Clients gain the ability to innovate rapidly, and respond quickly to market requirements.</p>
+  <p>Based in London and ex-MongoDB, Jetstack's founders are the organisers and supporters of the fast-growing <a href='http://t.sidekickopen08.com/e1t/c/5/f18dQhb0S7lC8dDMPbW2n0x6l2B9nMJW7t5XX48qCdmnVQKcnF3MPwx2W4Y95BM56dNDbf201VNK02?t=http://www.meetup.com/contain&si=4762484776370176&pi=b460090a-90c2-436b-a495-027760d3a7c2' target='_blank'>[ Contain ]</a> meetup group, established to provide an independent forum for the container community.</p>"
+  thumbnailUrl: jetstack-navycyan.png
+  website: "http://www.jetstack.io/"
+ - 
+  id: 9
+  company: "IntaPeople"
+  description: "<h5>Honest and transparent recruitment</h5>
+  <p>IntaPeople is a specialist recruitment consultancy offering first-rate talent solutions to the IT, data centre, storage and engineering professions.</p>
+  <p>Established in 1994, we are experts in sourcing high quality candidates for a wide range of permanent, contract and temporary positions across the UK, Europe and the Middle East.</p>
+  <p>Our mission is to provide honest and transparent talent solutions that exceeds both client and candidate expectations at every step of the relationship.</p>
+  <p>Through the range of recruitment, talent management and recruitment process outsourcing solutions we offer, we help both organisations and individuals realise their full potential.</p>"
+  thumbnailUrl: IntaPeople.jpg
+  website: "http://www.intapeople.com/"
+ - 
+  id: 10
+  company: "Vizolution"
+  description: "<h5>vScreen from Vizolution  is an innovative screen sharing technology</h5>
+  <p>Vizolution is a multi-award-winning UK based software provider backed by a leading European venture capital firm, Notion Capital, and Finance Wales. Vizolution has offices in London and Port Talbot, Wales.</p>
+  <p>Vizolution is the provider of vScreen, a market leading screen sharing technology that allows a presenter to remotely and securely share visual information with a customer on a real time basis during a call.</p>"
+  thumbnailUrl: vizolution.jpg
+  website: "http://www.vizolution.co.uk/"
+ - 
+  id: 11
+  company: "Brightseed"
+  description: "<h5>Digital Creative Agency</h5>
+  <p>We make innovative digital solutions from branding strategies to design & development for the web with quality PHP & Symfony2.</p>"
+  thumbnailUrl: brightseed.png
+  website: "http://www.brightseed.co.uk/"

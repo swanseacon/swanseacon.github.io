@@ -1,0 +1,36 @@
+-
+  group: "Gold Sponsors"
+  elements:
+    - {name: "Valtech", description: "Valtech, where experiences are engineered", link: "http://www.valtech.com/", imageUrl: "valtech.jpg"} 
+    - {name: "University of Wales Trinity Saint David", description: "University of Wales Trinity Saint David", link: "http://www.uwtsd.ac.uk/", imageUrl: "UWTSD.png"} 
+- 
+  group: "Silver Sponsors"
+  elements: 
+    - {name: "Vizolution", description: "vScreen from Vizolution  is an innovative screen sharing technology", link: "http://www.vizolution.co.uk/", imageUrl: "vizolution.jpg"}
+- 
+  group: "Bronze Sponsors"
+  elements: 
+    - {name: "Scrum Alliance", description: "Scrum Alliance", link: "http://www.scrumalliance.org/", imageUrl: "scrum-alliance.png"} 
+    - {name: "Viewpoint Construction Software", description: "Viewpoint Construction Software", link: "http://www.viewpoint.com/", imageUrl: "viewpoint-logo.png"}
+    - {name: "Kainos", description: "Digital Technology Solutions & Agile Development", link: "http://www.kainos.com/", imageUrl: "kainos.jpg"}
+    - {name: "Jetstack.io", description: "The Container Experts.", link: "http://www.jetstack.io/", imageUrl: "jetstack-navycyan.png"}
+    - {name: "IntaPeople", description: "Honest and transparent recruitment", link: "http://www.intapeople.com/", imageUrl: "IntaPeople.jpg"}
+    - {name: "Brightseed", description: "Digital Creative Agency", link: "http://www.brightseed.co.uk/", imageUrl: "brightseed.png"}
+- 
+  group: "Exhibitors"
+  elements: 
+    - {name: "Valtech", description: "Valtech, where experiences are engineered", link: "http://www.valtech.com/", imageUrl: "valtech.png"} 
+    - {name: "Learning Connexions", description: "Learning Connexions. Learn, Train, Develop.", link: "http://www.learningconnexions.com/", imageUrl: "LearningConnexions_Logo.jpg"}
+    - {name: "Jetstack.io", description: "The Container Experts.", link: "http://www.jetstack.io/", imageUrl: "jetstack-navycyan.png"}
+    - {name: "IntaPeople", description: "Honest and transparent recruitment", link: "http://www.intapeople.com/", imageUrl: "IntaPeople.jpg"}
+    - {name: "Code Club", description: "A nationwide network of volunteer-led after school coding clubs for children aged 9-11", link: "http://www.codeclub.org.uk/", imageUrl: "codeclub.png"}
+    - {name: "Kainos", description: "Digital Technology Solutions & Agile Development", link: "http://www.kainos.com/", imageUrl: "kainos.jpg"}
+    - {name: "University of Wales Trinity Saint David", description: "University of Wales Trinity Saint David", link: "http://www.uwtsd.ac.uk/", imageUrl: "UWTSD-small.png"} 
+- 
+  group: "Partners"
+  elements: 
+    - {name: "Codurance", description: "Codurance, Craft at heart", link: "http://www.codurance.com/", imageUrl: "codurance.png"}
+    - {name: "Equal Experts", description: "Equal Experts, Making Software. Better.", link: "http://www.equalexperts.com/", imageUrl: "equal-experts.png"}
+    - {name: "Mozaic Works", description: "Mozaic Works, Think. Design. Work smart.", link: "http://www.mozaicworks.com/", imageUrl: "mozaic-works-small.png"}
+    - {name: "Swansea Software Development Community", description: "#SSDC, Swansea Software Development Community", link: "http://www.meetup.com/swansea-software-development-community/", imageUrl: "ssdc.png", width: "160px"}
+    - {name: "Benjy Stanton", description: "Benjy Stanton", link: "http://www.benjystanton.co.uk", imageUrl: "BenjyStanton.png", width: "160px"}
