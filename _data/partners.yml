@@ -1,4 +1,19 @@
 - 
+  group: "Platinum"
+  elements: 
+- 
+  group: "Gold"
+  elements: 
+    - {name: "Oracle", description: "Integreated Cloud Applications & Platform Services", link: "http://www.oracle.com/", imageUrl: "oracle.gif"}
+    - {name: "MySQL", description: "The world's most popular open source database", link: "http://www.mysql.com/", imageUrl: "mysql.png"}
+- 
+  group: "Silver"
+  elements: 
+- 
+  group: "Bronze"
+  elements: 
+    - {name: "Unit4", description: "Unit4 UKI", link: "http://www.unit4.com/uki/", imageUrl: "unit4.jpg"}
+- 
   group: "Exhibitors"
   elements: 
     - {name: "Learning Connexions", description: "Learning Connexions. Learn, Train, Develop.", link: "http://www.learningconnexions.com/", imageUrl: "LearningConnexions_Logo.jpg"}
