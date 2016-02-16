@@ -26,18 +26,18 @@
     - {name: "twitter", link: "https://twitter.com/simonbrown"}
 - 
   id: 3
-  name: "You"
-  surname: "?"
-  company: "Submit Paper"
+  name: "TBC"
+  surname: ""
+  company: "Schedule will be released shortly"
   title: ""
   bio: '<p></p>'
   thumbnailUrl: lady.png
   rockstar: true
 - 
   id: 4
-  name: "You"
+  name: "TBC"
   surname: "?"
-  company: "Submit Paper"
+  company: "Schedule will be released shortly"
   title: ""
   bio: '<p></p>'
   thumbnailUrl: man.jpg
