@@ -12,6 +12,7 @@
 - 
   group: "Bronze"
   elements: 
+    - {name: "City81", description: "City 81", link: "http://www.city81.com/", imageUrl: "city81.png"}
     - {name: "Unit4", description: "Unit4 UKI", link: "http://www.unit4.com/uki/", imageUrl: "unit4.jpg"}
 - 
   group: "Exhibitors"
