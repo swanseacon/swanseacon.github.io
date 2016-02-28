@@ -12,6 +12,7 @@
 - 
   group: "Bronze"
   elements: 
+    - {name: "Agile Alliance", description: "Agile Alliance is a nonprofit organization with global membership, committed to advancing Agile development principles and practices.", link: "http://www.agilealliance.org/", imageUrl: "agilealliance.jpg"}
     - {name: "City81", description: "City 81", link: "http://www.city81.com/", imageUrl: "city81.png"}
     - {name: "Unit4", description: "Unit4 UKI", link: "http://www.unit4.com/uki/", imageUrl: "unit4.jpg"}
 - 
