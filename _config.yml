@@ -43,13 +43,13 @@ c4sponsorsUrl: "/assets/SwanseaCon_2015_Sponsorship.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
- # - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/schedule/", text: "Schedule"}
  # - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/sponsorship/", text: "Sponsorship"}
+ - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/sponsors/", text: "Sponsors"}
+ - {permalink: "/sponsorship/", text: "Sponsorship"}
  - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/call-for-speakers/", text: "Call for Speakers"}
+ - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/archive2015/", text: "Archive 2015"}
 bottomNavigationLinks:
 rightNavigationButtons:
@@ -80,8 +80,8 @@ aboutBlock:
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "150", specialCharacter: "+", info: "attendees", detail: ""}
- - {count: "18", specialCharacter: "+", info: "hours", detail: "of agile development & software craftsmanship"}
- - {count: "25", specialCharacter: "+", info: "speakers", detail: "from all around the world"}
+ - {count: "30", specialCharacter: "+", info: "sessions", detail: "of agile development & software craftsmanship"}
+ - {count: "35", specialCharacter: "+", info: "speakers", detail: "from all around the world"}
  - {count: "2", specialCharacter: "", info: "parallel tracks", detail: ""}
 
 # Latest News Block
