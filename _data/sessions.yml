@@ -296,6 +296,12 @@
   subtype: presentation
   speakers: [33]
 -
+  id: 040
+  title: "Meetings or Discipline, It's Your Choice"
+  description: "<p>Meetings, both online and offline, are the most popular state-of-the-art instrument of resolving technical and management issues in software projects. I believe that this is what will be changed in the nearest future, revolutionary. Software teams will become more disciplined and organized. We won't use meetings as tools of management, design and architecture. In my presentation I will try to demonstrate how meetings can be replaced by a disciplined management process, empowered by modern tools or collaboration, diagramming and coding.</p>"
+  subtype: presentation
+  speakers: [34]
+-
   id: 098
   title: "Evening Reception"
   place: "Penderyn Suite (Floor 3)"

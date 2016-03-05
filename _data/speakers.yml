@@ -76,7 +76,7 @@
   surname: "Stokes"
   company: "Oracle"
   title: ""
-  bio: "<p>Dave Stokes is a MySQL Community Manager for Oracle.  Previously he was the MySQL Certification Manager for MySQL AB and SUN.  He has worked for companies ranging alphabetically from the American Heart Association to Xerox and work ranging from Anti-submarine warfare to web developer.  And he really wonders how many people really read these conference biographies.</p>"
+  bio: "<p>Dave Stokes is a MySQL Community Manager for Oracle.  Previously he was the MySQL Certification Manager for MySQL AB and SUN.  He has worked for companies ranging alphabetically from the American Heart Association to Xerox and work ranging from Anti-submarine warfare to web developer.</p>"
   thumbnailUrl: DaveStokes.jpg
   rockstar: false
   social: 
@@ -384,3 +384,14 @@
   social: 
     - {name: "twitter", link: "http://twitter.com/theburningmonk"}
     - {name: "site", link: "http://theburningmonk.com/"}
+- 
+  id: 34
+  name: "Yegor"
+  surname: "Bugayenko"
+  company: "Teamed.io"
+  title: ""
+  bio: "<p>Yegor is a CTO and co-founder of Teamed.io, a software development company with a unique approach to management of distributed teams; a regular blogger at www.yegor256.com; a proud holder of PMP and OCMEA certifications; a hands-on Java developer and a lead architect of a few popular open source projects, including jcabi.com, takes.org, rultor.com and qulice.com. Yegor lives in Palo Alto, CA and Kyiv, Ukraine.</p>"
+  thumbnailUrl: YegorBugayenko.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "http://twitter.com/yegor256"}
