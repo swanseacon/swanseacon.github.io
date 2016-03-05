@@ -290,6 +290,12 @@
   subtype: presentation
   speakers: [16]
 -
+  id: 039
+  title: "Progressive Web Application: Instant Load and Offline Support"
+  description: "<p>Over the past year, the Service Workers specification has been developed significantly.  Why should we be excited? Service Workers offer a tone of functionality that means the mobile web can now rival native applications.  This talk will explore how Service Workers can be used to create application that load instantly, support offline experience and push notifications on the web.</p>"
+  subtype: presentation
+  speakers: [33]
+-
   id: 098
   title: "Evening Reception"
   place: "Penderyn Suite (Floor 3)"
