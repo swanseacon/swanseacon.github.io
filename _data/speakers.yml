@@ -150,6 +150,17 @@
   social: 
     - {name: "twitter", link: "http://twitter.com/houssamfakih"}
 - 
+  id: 33
+  name: "James"
+  surname: "Cryer"
+  company: "BBC"
+  title: ""
+  bio: "<p>James is a Tech Lead, Principal Developer for BBC Weather & Travel delivering the next generation of web and mobile applications. James is the author of Pro Grunt.js, a book that takes developers on a journey on how to improve their developer workflow with Grunt.js.  James has worked in the web industry for over 10 years working across a wide range of sectors with clients such as Investec Asset Management, Royal Navy, Unilever and Tesco.  James has a passion for developer tooling and performance.</p>"
+  thumbnailUrl: JamesCryer.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "http://twitter.com/jrcryer"}
+- 
   id: 14
   name: "James"
   surname: "Harvey"
