@@ -35,12 +35,12 @@
     - {
     	startTime: "11:10",
     	endTime: "11:55",
-    	sessionIds: [005,099,105,099]
+    	sessionIds: [105,099,105,099]
     }
     - {
     	startTime: "12:00",
     	endTime: "12:45",
-    	sessionIds: [007,099,008,099]
+    	sessionIds: [005,099,008,099]
     }
     - {
     	startTime: "12:45",
@@ -75,7 +75,7 @@
     - {
     	startTime: "16:40",
     	endTime: "17:25",
-    	sessionIds: [105,099,016,099]
+    	sessionIds: [007,099,016,099]
     }
     - {
     	startTime: "17:30",
