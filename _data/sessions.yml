@@ -43,7 +43,7 @@
   language: en
 -
   id: 007
-  title: "From SCRUM to Flow using Actionable Agile Metrics"
+  title: "From Scrum to Flow using Actionable Agile Metrics"
   description: "This talk will detail the process of moving away from a ‘classic’ SCRUM based approach to planning (by using release planning, iteration planning, story points estimation using planning poker, etc) to an alternative method that uses a no estimate based approach.</p>
   <p>The presentation will cover techniques that enable transitioning to this approach, such as: how to define work in progress, how to monitor throughput and ageing items, replenishment and right sizing as well as the use of Monte Carlo simulations for forecasting.</p>
   <p>The techniques are based on Daniel Vacanti’s ‘Actionable Agile Metrics for Predictability’ and the presentation will contain practical aspects of how they have been applied at a major UK client.</p>"
