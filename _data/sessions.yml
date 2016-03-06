@@ -336,6 +336,21 @@
   speakers: [34]
   language: en
 -
+  id: 041
+  title: "Get your head in the Clouds!"
+  description: "<p>If someone had said to you a few years back that they could build an app, 'push' to the cloud and even scale it in a matter of minutes with a few simple commands, you'd have most likely responded; 'You've got your head in the clouds'.</p>
+  <p>Times do change. This talk explains this phenomenon called Platform as a Service and how it can benefit you while demonstrating a real live deployment of an application with a blue green deployment and scale-up operation thrown in for fun.</p>
+  <p>The session will outline, 
+  <ul><li>What is PaaS?</li>
+  <li>What options do I have?</li>
+  <li>How do I develop locally?</li>
+  <li>Dynamic Scaling of applications based on load</li>
+  <li>How do I build my application to be fault tolerant so I can dynamically scale?</li>
+  </ul></p>"
+  subtype: presentation
+  speakers: [35,36]
+  language: en
+-
   id: 098
   title: "Evening Reception"
   place: "Penderyn Suite (Floor 3)"

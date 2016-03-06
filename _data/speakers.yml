@@ -35,7 +35,19 @@
   rockstar: false
   social: 
     - {name: "twitter", link: "http://twitter.com/gonnot"}
-
+- 
+  id: 35
+  name: "Chris"
+  surname: "Cundill"
+  company: "Dilligent Software Ltd"
+  title: ""
+  bio: "<p>Chris is an enthusiastic, experienced developer & designer of highly scalable and performant systems across a variety of sectors.Chris takes an active role in the local development community and has spoken and exhibited at various events in South Wales.</p>
+  <p>Building & Designing reactive, fault tolerant systems is a passion for Chris and getting your head in the clouds is the start of his journey to producing these kinds of systems in modern day cloud environments.</p>
+  <p>Giving back to the local community is very important for Chris who is a volunteer at a Primary School in South Wales as part of Code Club.</p>"
+  thumbnailUrl: ChrisCundill.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "http://twitter.com/chriscundill"}
 - id: 4
   name: "Christos"
   surname: "Matskas"
@@ -118,7 +130,7 @@
   id: 11
   name: "Gavin"
   surname: "Davies"
-  company: "Radify"
+  company: "Radifyio"
   title: ""
   bio: "<p>Gavin is a developer and automation engineer at Radify.io who believes that the best way to challenge yourself professionally is to freely share your knowledge with others. He is the author of the books 'Deal With It: Attitude for Coders' and 'Using build tools'. Gavin co-hosts the 'Never Out Of Beta' podcast. Gavin wrote his first lines of code in 1984 and can't see himself stopping any time soon.</p>"
   thumbnailUrl: GavinDavies.jpeg
@@ -137,6 +149,19 @@
   rockstar: false
   social: 
     - {name: "twitter", link: "http://twitter.com/gupster"}
+- 
+  id: 36
+  name: "Greg"
+  surname: "Simons"
+  company: "Independent"
+  title: ""
+  bio: "<p>Greg is an enthusiastic, experienced developer & designer of highly scalable and performant systems across a variety of sectors. Greg takes an active role in the local development community and has spoken and exhibited at various events in South Wales.</p>
+  <p>Building & Designing reactive, fault tolerant systems is a passion for Greg and getting your head in the clouds is the start of his journey to producing these kinds of systems in modern day cloud environments.</p>
+  <p>Giving back to the local community is very important for Greg who is a volunteer at a Primary School in South Wales as part of Code Club.</p>"
+  thumbnailUrl: GregSimons.jpeg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "http://twitter.com/gregsimons84"}
 - 
   id: 13
   name: "Houssam"
