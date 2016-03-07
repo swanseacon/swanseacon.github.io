@@ -150,22 +150,16 @@
 -
   id: 020
   title: "User-Story Point estimation: a new approach"
-  description: "<p>Estimation is the weak spot of agile methodologies. Current methods for task estimation are subjective and inconsistent. This often results in meaningless values for team velocity, which -in turn- leads to delivery failures, loss of credibility and team friction. We can't always estimate complexity and effort accurately, but there is a way to ensure our estimates are the best we can give, every single time, all the time. The USP (User Story Point) estimation methods is an algorithmic approach to story estimates that takes into account:<ul>
-  <li>The technical requirements of the user story, such as concurrency, security, and performance.</li>
-  <li>Various environmental factors such as the development teams’ experience, knowledge and morale.</li></ul></p>
-  <p>The USP method then uses a mathematical formula that accepts the technical and environmental inputs and produces a calculated point value for the user story. USP has the following advantages:
-  <ol>
-  <li>Comprehensive analysis: the method makes developers think about every single factor that affects their ability to realise and deliver the story.</li>
-  <li>Objectivity: USP estimation introduces a number of technical and environmental factors that have been shown to affect the calculation of task estimates.</li>
-  <li>Consistency: Given the same conditions, the same estimate will be produced again and again with only minor deviations.</li></ol></p>
-  <p>Finally we will talk about analysing how velocity is affected by USP and how it should be used in order to be an effective planning tool.</p>"
+  description: "<p>Estimation is the weak spot of agile methodologies. Current methods for task estimation are subjective and inconsistent. This often results in failed sprints, which -in turn- lead to delivery failures, loss of credibility and team friction. We can't always estimate complexity and effort accurately, but there is a way to ensure our estimates are the best we can give, every single time, all the time.</p>
+  <p>The USP (User Story Point) estimation method is an algorithmic approach that takes into account technical and environmental factors affecting a User Story and uses a mathematical formula to produce a complexity point value.</p>
+  <p>During this talk I will explain the motivation and workings of the USP methodology and I'll demonstrate how to use it to provide consistent, objective and reliable estimates.</p>"
   subtype: presentation 
   speakers: [10]
   language: en
 -
   id: 021
   title: "User-Story Point estimation: a new approach"
-  description: "<p>This hands-on session will consist of a scenario, where the audience will have the chance to apply the USP method to a real-life project (and its user stories) and thereby gain a better understanding of the USP methodology.</p>"
+  description: "<p>This hands-on session will consist of a realistic scenario, where the audience will have the chance to apply the USP method to a project and thereby gain a better understanding of the USP methodology</p>"
   subtype: workshop
   speakers: [10]
   language: en
