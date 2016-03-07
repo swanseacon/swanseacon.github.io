@@ -243,6 +243,17 @@
   social: 
     - {name: "twitter", link: "http://twitter.com/_md"}
 - 
+  id: 37
+  name: "Matt"
+  surname: "Ellis"
+  company: "JetBrains"
+  title: ""
+  bio: "<p>Matt Ellis is a developer advocate at JetBrains. He has spent 20 years shipping software and currently works with language tooling, having fun with abstract syntax trees and source code analysis. He owns and contributes to various open source projects, and believes in the open closed principle.</p>"
+  thumbnailUrl: MattEllis.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "http://twitter.com/citizenmatt"}
+- 
   id: 19
   name: "Matteo"
   surname: "Emili"

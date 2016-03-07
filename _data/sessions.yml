@@ -345,6 +345,13 @@
   speakers: [35,36]
   language: en
 -
+  id: 042
+  title: "Understanding abstractions. Or, how do regular expressions work?"
+  description: "<p>All abstractions are leaky, and we tend to think of that as a bad thing. But sometimes it’s useful to be reminded of the implementation details.  Knowing how something works under the covers often makes it a lot easier to use the abstraction. Take regular expressions - very powerful, yet very hard to use - arguably a write-only language! But once you know how the abstraction works, reading and writing a regular expression becomes a lot easier. In this talk, we’ll take a look at some popular, perhaps overlooked, abstractions, see how they work, and see how understanding the level below an abstraction makes you a better developer.</p>"
+  subtype: presentation
+  speakers: [37]
+  language: en
+-
   id: 098
   title: "Evening Reception"
   place: "Penderyn Suite (Floor 3)"
