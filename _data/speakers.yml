@@ -268,9 +268,9 @@
   id: 20
   name: "Matthew"
   surname: "Revell"
-  company: "Couchbase"
+  company: "Exoscale.ch"
   title: ""
-  bio: "<p>Leading the developer relations team for Couchbase in EMEA, Matthew Revell has been been active in open source since the early 2000s. Before Couchbase he ran EMEA developer relations at Basho and before that worked with developer communities at Canonical.</p>
+  bio: "<p>Director of Marketing and Community at Exoscale.ch, Matthew Revell has been been active in open source since the early 2000s. Before Couchbase he ran EMEA developer relations at Basho and before that worked with developer communities at Canonical.</p>
   <p>In his spare time he runs DevRelCon, a conference for developer relations professionals, with editions in San Francisco and London.</p>"
   thumbnailUrl: MatthewRevell.jpeg
   rockstar: false
