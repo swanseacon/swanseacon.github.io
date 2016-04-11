@@ -412,9 +412,9 @@
   id: 32
   name: "Yan"
   surname: "Cui"
-  company: "JUSTEAT"
+  company: "Yubl"
   title: ""
-  bio: "<p>Yan is a principal engineer at JustEat, and a regular speaker at user groups and conferences. He keeps an active blog and is a co-author of 'F# Deep Dives'.</p>"
+  bio: "<p>Yan is a Server Architect Developer at Yubl, and a regular speaker at user groups and conferences. He keeps an active blog at http://theburningmonk.com and is a co-author of 'F# Deep Dives'.</p>"
   thumbnailUrl: YanCui.png
   rockstar: false
   social: 
