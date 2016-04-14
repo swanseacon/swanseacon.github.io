@@ -29,6 +29,7 @@
   group: "Media Partners"
   elements: 
     - {name: "South Wales Evening Post", description: "South Wales News, Stories & Events Online", link: "http://www.southwales-eveningpost.co.uk/", imageUrl: "evening-post.png", width: "160px"}
+    - {name: "Buffoon Media", description: "Buffoon Film and Media - Video Production for any purpose. Swansea Cardiff Wales", link: "http://www.buffoonfm.co.uk/", imageUrl: "BFM_Logo.png", width: "160px"}
 - 
   group: "Partners"
   elements: 
