@@ -206,8 +206,10 @@
   language: en
 -
   id: 027
-  title: "TBC"
-  description: "Description to follow..."
+  title: "An Insider’s View Of Agile In The Public Sector"
+  description: "<p>We’ve all heard the horror stories of software development in the public sector, but in recent years we’ve started to see hope, in the form of Government Digital Service (GDS), that taxpayer money isn’t being completely squandered on inefficient enterprise software development.</p>
+<p>GDS governs the way government agencies build and deliver digital products. GDS assesses each new service on a number of criteria, ranging from the thoroughness of user research, to the technical competency of delivery teams, and the agility and openness of their development process.</p>
+<p>Does GDS actually make any difference? Is agile software development in the public sector any different to the old ways? In this talk you will get an unbiased insider’s perspective.</p>"
   subtype: presentation
   speakers: [23]
   language: en
