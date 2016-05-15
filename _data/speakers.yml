@@ -63,9 +63,9 @@
   id: 5
   name: "Dana"
   surname: "Scheider"
-  company: "Tessitura"
+  company: "Cucumber"
   title: ""
-  bio: "<p>Dana Scheider is a developer who is passionate about behavior-driven development and about teaching others how to use BDD to enhance their experience as developers. Dana is an open source contributor and the founder of Tessitura, a SaaS company serving classical singers. A woman of many talents, Dana loves math and foreign languages and is also an operatic mezzo-soprano. She lives in Portland, Oregon (in the United States).</p>"
+  bio: "<p>Dana Scheider, of the Cucumber core team, is a full-time contributor to open source testing tools with a focus on the Ruby language. Her current major interest is in contract testing of REST APIs; she is also the maintainer of Rambo, new Ruby tool that generates tests from data contracts. A woman of many talents, Dana loves math and foreign languages and is also an operatic mezzo-soprano. She lives in Portland, Oregon, United States.</p>"
   thumbnailUrl: DanaScheider.jpg
   rockstar: true
   social: 
