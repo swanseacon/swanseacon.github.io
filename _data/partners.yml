@@ -33,7 +33,6 @@
 - 
   group: "Partners"
   elements: 
-    - {name: "Cymru Events", description: "Cymru Events", link: "http://www.cymruevents.co.uk", imageUrl: "CymruEvents.png", width: "160px"}
     - {name: "Swansea Software Development Community", description: "#SSDC, Swansea Software Development Community", link: "http://www.meetup.com/swansea-software-development-community/", imageUrl: "ssdc.png", width: "160px"}
     - {name: "Codurance", description: "Codurance, Craft at heart", link: "http://www.codurance.com/", imageUrl: "codurance.png"}
     - {name: "Benjy Stanton", description: "Benjy Stanton", link: "http://www.benjystanton.co.uk", imageUrl: "BenjyStanton.png", width: "160px"}
