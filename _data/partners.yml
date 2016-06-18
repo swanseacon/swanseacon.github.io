@@ -7,7 +7,7 @@
   elements: 
     - {name: "Oracle", description: "Integreated Cloud Applications & Platform Services", link: "http://www.oracle.com/", imageUrl: "oracle.gif"}
     - {name: "MySQL", description: "The world's most popular open source database", link: "http://www.mysql.com/", imageUrl: "mysql.png"} 
-    - {name: "Nagra", description: "Leading Provider of Pay-TV Solutions", link: "http://www.nagra.com/dtv/", imageUrl: "NAGRA.png"}
+    - {name: "Nagra", description: "Leading Provider of Pay-TV Solutions", link: "http://www.nagra.com/dtv/", imageUrl: "NAGRA.PNG"}
 - 
   group: "Silver"
   elements: 
