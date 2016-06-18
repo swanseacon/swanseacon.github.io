@@ -7,11 +7,15 @@
   elements: 
     - {name: "Oracle", description: "Integreated Cloud Applications & Platform Services", link: "http://www.oracle.com/", imageUrl: "oracle.gif"}
     - {name: "MySQL", description: "The world's most popular open source database", link: "http://www.mysql.com/", imageUrl: "mysql.png"} 
+<<<<<<< HEAD
     - {name: "Nagra", description: "Leading Provider of Pay-TV Solutions", link: "http://www.nagra.com/dtv/", imageUrl: "NAGRA.png"}
+=======
+    - {name: "Pending", description: "Sponsorship pending", link: "http://www.swanseacon.co.uk/sponsorship/", imageUrl: "enquire.png"}
+>>>>>>> 10280e64302117706651ecf8352e2915995c7c14
 - 
   group: "Silver"
   elements: 
-    - {name: "Enquire", description: "Find out more about our sponsorship opportunities", link: "http://www.swanseacon.co.uk/sponsorship/", imageUrl: "enquire.png"}
+    - {name: "Pending", description: "Sponsorship pending", link: "http://www.swanseacon.co.uk/sponsorship/", imageUrl: "enquire.png"}
     - {name: "Enquire", description: "Find out more about our sponsorship opportunities", link: "http://www.swanseacon.co.uk/sponsorship/", imageUrl: "enquire.png"}
     - {name: "Enquire", description: "Find out more about our sponsorship opportunities", link: "http://www.swanseacon.co.uk/sponsorship/", imageUrl: "enquire.png"}
 - 
@@ -20,6 +24,8 @@
     - {name: "Agile Alliance", description: "Agile Alliance is a nonprofit organization with global membership, committed to advancing Agile development principles and practices.", link: "http://www.agilealliance.org/", imageUrl: "agilealliance.jpg"}
     - {name: "City81", description: "City 81", link: "http://www.city81.com/", imageUrl: "city81.png"}
     - {name: "Unit4", description: "Unit4 UKI", link: "http://www.unit4.com/uki/", imageUrl: "unit4.jpg"}
+    - {name: "Enquire", description: "Find out more about our sponsorship opportunities", link: "http://www.swanseacon.co.uk/sponsorship/", imageUrl: "enquire.png"}
+   
 - 
   group: "Exhibitors"
   elements: 
@@ -33,5 +39,6 @@
 - 
   group: "Partners"
   elements: 
-    - {name: "Cymru Events", description: "Cymru Events", link: "http://www.cymruevents.co.uk", imageUrl: "CymruEvents.png", width: "160px"}
     - {name: "Swansea Software Development Community", description: "#SSDC, Swansea Software Development Community", link: "http://www.meetup.com/swansea-software-development-community/", imageUrl: "ssdc.png", width: "160px"}
+    - {name: "Codurance", description: "Codurance, Craft at heart", link: "http://www.codurance.com/", imageUrl: "codurance.png"}
+    - {name: "Benjy Stanton", description: "Benjy Stanton", link: "http://www.benjystanton.co.uk", imageUrl: "BenjyStanton.png", width: "160px"}
