@@ -201,9 +201,9 @@
   id: 15
   name: "Kingsley"
   surname: "Davies"
-  company: "Inviqa"
+  company: "EqualExperts"
   title: ""
-  bio: "<p>Kingsley has worked in senior tech roles for a number of organisations on a variety or projects, including Betfair, AKQA, Visa and the BBC. The stacks he's worked on tend to err towards functional programming (Scala), continuous delivery and evolving to be more agile. He's been involved in re-architecting technologies, processes and people and has noticed one commonality around a tendency towards the complex. As such, trying to understand what is complex in context has an is his main cause to advocate to help businesses. </p>"
+  bio: "<p>Kingsley has worked in senior tech roles for a number of organisations on a variety or projects, including Inviqa, Betfair, AKQA, Visa and the BBC. The stacks he's worked on tend to err towards functional programming (Scala), continuous delivery and evolving to be more agile. He's been involved in re-architecting technologies, processes and people and has noticed one commonality around a tendency towards the complex. As such, trying to understand what is complex in context has an is his main cause to advocate to help businesses. </p>"
   thumbnailUrl: KingsleyDavies.jpg
   rockstar: false
   social: 
