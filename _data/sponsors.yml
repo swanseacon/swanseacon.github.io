@@ -15,3 +15,47 @@
  <p>If you’d like to join us and be a part of our success, please upload your latest CV and a brief explanation of why you’d like to join our team at http://careers.nagra.com</p>"
   thumbnailUrl: NAGRA.PNG
   website: "http://www.nagra.com/dtv/"
+ - 
+  id: 3
+  company: "Vizolution"
+  description: "<h5>vScreen from Vizolution  is an innovative screen sharing technology</h5>
+  <p>Vizolution is a multi-award-winning UK based software provider backed by a leading European venture capital firm, Notion Capital, and Finance Wales. Vizolution has offices in London and Port Talbot, Wales.</p>
+  <p>Vizolution is the provider of vScreen, a market leading screen sharing technology that allows a presenter to remotely and securely share visual information with a customer on a real time basis during a call.</p>"
+  thumbnailUrl: vizolution.jpg
+  website: "http://www.vizolution.co.uk/"
+ - 
+  id: 4
+  company: "Copper Bay Creative"
+  description: ""
+  thumbnailUrl: cbc.jpg
+  website: "http://www.copperbaycreative.co.uk/"
+ - 
+  id: 6
+  company: "Agile Alliance"
+  description: ""
+  thumbnailUrl: agilealliance.jpg
+  website: "http://www.agilealliance.org/"
+ - 
+  id: 7
+  company: "City81"
+  description: ""
+  thumbnailUrl: city81.png
+  website: "http://www.city81.com/"
+ - 
+  id: 8
+  company: "Unit4"
+  description: ""
+  thumbnailUrl: unit4.jpg
+  website: "http://www.unit4.com/uki/"
+ - 
+  id: 9
+  company: "AgileSnap"
+  description: ""
+  thumbnailUrl: agilesnap.png
+  website: "http://www.agilesnap.com/"
+ - 
+  id: 10
+  company: "Equal Experts"
+  description: ""
+  thumbnailUrl: equal-experts.png
+  website: "http://www.equalexperts.com/"
