@@ -26,7 +26,11 @@
  - 
   id: 4
   company: "Copper Bay Creative"
-  description: ""
+  description: "<h5>Copper Bay Creative - Swansea Web Design & Development Wales</h5>
+  <p>Copper Bay Creative are a leading South Wales agency offering website design and development services along with digital marketing, graphic design and print.</p>
+  <p>Operating from their own premises in Swansea, Copper Bay Creative is a team of 11 in-house experts in their respective fields undertaking projects from websites, bespoke software, and mobile apps to the design and print of brochures, catalogues and promotional materials.</p>
+  <p>Every project is tackled from a marketing perspective, to ensure the client sees a return on their investment. Their digital marketing services range from Search Engine Optimisation, social media training, to the management of Pay-Per-Click on Google AdWords and Facebook to the design and management of e-mail marketing campaigns.</p>
+  <p>For further information, visit www.copperbaycreative.co.uk, e-mail mail@copperbaycreative.co.uk or call 01792 29 33 66.</p>"
   thumbnailUrl: cbc.jpg
   website: "http://www.copperbaycreative.co.uk/"
  - 
