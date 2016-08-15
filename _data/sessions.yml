@@ -35,9 +35,8 @@
   language: en
 -
   id: 006
-  title: "Refactoring Legacy Code"
-  description: "<p>Using a simple example, participants will look at how to deal with a mean mess of legacy code.</p>
-  <p>This presentation will contain live coding where we will solve the problem of making the code testable without breaking it. We will cover it with tests and change the design to be able to extend it, removing static calls, feature envy and singletons.</p>"
+  title: "Refactoring and code smells"
+  description: "<p>Details to follow shortly.</p>"
   subtype: presentation 
   speakers: [9]
   language: en
