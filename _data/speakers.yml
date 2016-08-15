@@ -105,17 +105,6 @@
   social: 
     - {name: "twitter", link: "http://twitter.com/elizayer"}
 - 
-  id: 9
-  name: "Franzi"
-  surname: "Sauerwein"
-  company: "Codurance"
-  title: ""
-  bio: "Franziska Sauerwein has been a software developer and consultant for several years. She is an active member of the European Software Craftsmanship community and loves to participate in their unconferences, such as SoCraTes. She organizes local code retreats, hackathons, coding dojos and tech talks. Her passions include Test Driven Development, XP techniques and high quality software development."
-  thumbnailUrl: franzi.png
-  rockstar: false
-  social: 
-    - {name: "twitter", link: "http://twitter.com/Singsalad"}
-- 
   id: 10
   name: "Fred"
   surname: "Heath"
@@ -162,6 +151,20 @@
   rockstar: false
   social: 
     - {name: "twitter", link: "http://twitter.com/gregsimons84"}
+- 
+  id: 9
+  name: "Halima"
+  surname: "Koundi"
+  company: "Codurance"
+  title: ""
+  bio: "<p>Halima worked as an IT consultant for several years, before switching career. Having to handle data migration projects is what dragged her to the technical side of Software five years ago; she decided to retrain and learn how to code.</p>
+<p>Joining Codurance for an apprenticeship, Halima is levelling up her engineering skills and embracing the values of software craftsmanship, seeking to become a skilled professional that delivers value building robust and resilient software.</p>
+<p>City Lead organiser at Women Who Code London, she is actively working on bringing more diversity to the tech community.
+On her spare time, she likes to tinker with her fellow restarters, volunteers that help people learn to repair their own electronics in community events.</p>"
+  thumbnailUrl: halima.png
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "http://twitter.com/hkoundi"}
 - 
   id: 13
   name: "Houssam"
