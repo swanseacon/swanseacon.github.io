@@ -31,6 +31,7 @@
     - {name: "Vizolution", description: "vScreen from Vizolution  is an innovative screen sharing technology", link: "http://www.vizolution.co.uk/", imageUrl: "vizolution.jpg"}
     - {name: "Nagra", description: "Leading Provider of Pay-TV Solutions", link: "http://www.nagra.com/dtv/", imageUrl: "NAGRA.PNG"}
     - {name: "Equal Experts", description: "Equal Experts, Making Software. Better.", link: "http://www.equalexperts.com/", imageUrl: "equal-experts.png"}
+    - {name: "DVLA", description: "Driver & Vehicle Licensing Agency", link: "https://www.gov.uk/government/organisations/driver-and-vehicle-licensing-agency", imageUrl: "dvla.jpg"}
 - 
   group: "Media Partners"
   elements: 
