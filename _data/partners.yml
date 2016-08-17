@@ -40,6 +40,7 @@
 - 
   group: "Partners"
   elements: 
-    - {name: "Swansea Software Development Community", description: "#SSDC, Swansea Software Development Community", link: "http://www.meetup.com/swansea-software-development-community/", imageUrl: "ssdc.png", width: "160px"}
+    - {name: "Skills Matter", description: "Explore skillscasts, meetups, conferences, courses, tutorials and workshops", link: "https://skillsmatter.com/explore?q=agile", imageUrl: "skillsmatter.png", width: "160px"}
     - {name: "Codurance", description: "Codurance, Craft at heart", link: "http://www.codurance.com/", imageUrl: "codurance.png"}
+    - {name: "Swansea Software Development Community", description: "#SSDC, Swansea Software Development Community", link: "http://www.meetup.com/swansea-software-development-community/", imageUrl: "ssdc.png", width: "160px"}
     - {name: "Benjy Stanton", description: "Benjy Stanton", link: "http://www.benjystanton.co.uk", imageUrl: "BenjyStanton.png", width: "160px"}
