@@ -36,7 +36,11 @@
 -
   id: 006
   title: "Refactoring and code smells"
-  description: "<p>Details to follow shortly.</p>"
+  description: "<p>A new sprint starts and you have to implement a new feature, you naively open the file where the functionality ought to live. To your great horror, a five headed monster seats there scaring the hell out of any developer trying to change that file.</p>
+  <p>You know the time has come to act.</p>
+  <p>Protected by our unit tests and armed with courage and ReSharper, we will refactor legacy code using some of the refactorings listed in Martin Fowler’s “Refactoring” book.</p>
+  <p>Rest assured, we’ll stay in green all the time.</p>
+  <p>Although the code is in C#, the refactoring examples in this session can be applied to any other Object-Oriented language.</p>"
   subtype: presentation 
   speakers: [9]
   language: en
