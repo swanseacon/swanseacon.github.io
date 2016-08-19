@@ -73,7 +73,7 @@
   title: "Common pitfalls of TDD and suggestions how to make TDD work better for you"
   description: "<p>Are you a passionate about TDD? Test-driven development (TDD) is an Agile practice that, when used correctly, leads to better software quality and fewer defects in code. However, there are many cases where common mistakes crop up, even in teams with established TDD practices. Is TDD failing us or is it us that fail to practice in full the principles of TDD and in effect causing the problem? Join Christos Matskas in this session as he goes through some of the most common mistakes in TDD and find out what you can do to avoid them. Laughing is optional.</p>"
   subtype: presentation 
-  speakers: [24]
+  speakers: [4]
   language: en
 -
   id: 0010
@@ -148,7 +148,7 @@
   title: "TBC"
   description: "<p>Description to follow.</p>"
   subtype: presentation 
-  speakers: [4]
+  speakers: [24]
   language: en
 -
   id: 020
