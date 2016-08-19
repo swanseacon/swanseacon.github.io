@@ -317,16 +317,15 @@ On her spare time, she likes to tinker with her fellow restarters, volunteers th
     - {name: "twitter", link: "http://twitter.com/ntcoding"}
 - 
   id: 24
-  name: "Olly"
-  surname: "Brand"
-  company: "IBM"
+  name: "TBC"
+  surname: ""
+  company: ""
   title: ""
-  bio: "<p>Technology consultant and IBMer: specialising in the design, build and run of Business Intelligence and Data Warehousing projects. Adopting Agile and SCRUM methodologies to run geographically diverse teams, with members all over Europe and India. Successfully delivering while living full time in Cornwall.</p>
-  <p>Known for Remote Working and Agile practices, including being featured in the Times, Guardian, and Financial Times.</p>"
-  thumbnailUrl: OllyBrand.jpeg
+  bio: ""
+  thumbnailUrl: lady.png
   rockstar: false
   social: 
-    - {name: "twitter", link: "http://twitter.com/iOlly"}
+    - {name: "twitter", link: "http://twitter.com/"}
 - 
   id: 25
   name: "Peter"
