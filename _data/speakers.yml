@@ -317,15 +317,15 @@ On her spare time, she likes to tinker with her fellow restarters, volunteers th
     - {name: "twitter", link: "http://twitter.com/ntcoding"}
 - 
   id: 24
-  name: "TBC"
-  surname: ""
+  name: "Jessica"
+  surname: "Rose"
   company: ""
   title: ""
   bio: ""
-  thumbnailUrl: lady.png
+  thumbnailUrl: jesslynnrose.jpg
   rockstar: false
   social: 
-    - {name: "twitter", link: "http://twitter.com/"}
+    - {name: "twitter", link: "http://twitter.com/jesslynnrose"}
 - 
   id: 25
   name: "Peter"
