@@ -201,6 +201,17 @@ On her spare time, she likes to tinker with her fellow restarters, volunteers th
   social: 
     - {name: "twitter", link: "http://twitter.com/AgileSnap"}
 - 
+  id: 24
+  name: "Jessica"
+  surname: "Rose"
+  company: ""
+  title: ""
+  bio: "<p>Jessica Rose is a technologist passionate about access to technical education, digital spaces and examining the way we work with talent. She's co-founded Trans*Code, founded the Open Code meetup series and blogs most infrequently at Jessica.tech. She's always interested in the new and novel in technology, so come tell her about what you're working on!</p>"
+  thumbnailUrl: jesslynnrose.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "http://twitter.com/jesslynnrose"}
+- 
   id: 15
   name: "Kingsley"
   surname: "Davies"
@@ -315,17 +326,6 @@ On her spare time, she likes to tinker with her fellow restarters, volunteers th
   rockstar: false
   social: 
     - {name: "twitter", link: "http://twitter.com/ntcoding"}
-- 
-  id: 24
-  name: "Jessica"
-  surname: "Rose"
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: jesslynnrose.jpg
-  rockstar: false
-  social: 
-    - {name: "twitter", link: "http://twitter.com/jesslynnrose"}
 - 
   id: 25
   name: "Peter"
