@@ -145,8 +145,8 @@
   language: en
 -
   id: 019
-  title: "TBC"
-  description: "<p>Description to follow.</p>"
+  title: "Tech Communities as Fandoms"
+  description: "<p>How is Django like Doctor Who? They’re both projects supported by an incredibly motivated community. This talk will look at the ways in which open source communities parallel fandoms as they form, grow, break off into factions and interact with their supporters and critics. As we learn more about our own communities by looking at our equally-obsessed geeky peers we’ll hopefully discover ways that we can help make our communities (and maybe even fandoms!) more equitable, accessible and open.</p>"
   subtype: presentation 
   speakers: [24]
   language: en
