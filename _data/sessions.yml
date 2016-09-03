@@ -11,8 +11,8 @@
   language: en
 -
   id: 003
-  title: "Opening Keynote - Agile and architecture, finally friends after 15 years"
-  description: "The term 'software architecture' has historically induced visions of ivory tower architects doing big design up front in order to create excessively detailed documents, delivered to an unsuspecting development team as if they were the second leg of a relay race. 2001 saw the creation of the 'Manifesto for Agile Software Development', a turning point for the software development industry that put focus back upon individuals and interactions, working software, customer collaboration and responding to change. Big design up front certainly has problems but, in the haste for agility, some teams threw the baby out with the bath water. Big design up front was replaced with no design up front, documentation was seen as redundant, speculation became YAGNI and a new wave of 'agile architects' (who, of course, didn't call themselves architects) delayed decisions until the last responsible moment. Although agile and architecture may have parted ways, they are finally friends again after 15 years. This is their story."
+  title: "Opening Keynote"
+  description: "Information to follow"
   subtype: keynote
   speakers: [29]
   language: en
@@ -35,12 +35,9 @@
   language: en
 -
   id: 006
-  title: "Refactoring and code smells"
-  description: "<p>A new sprint starts and you have to implement a new feature, you naively open the file where the functionality ought to live. To your great horror, a five headed monster seats there scaring the hell out of any developer trying to change that file.</p>
-  <p>You know the time has come to act.</p>
-  <p>Protected by our unit tests and armed with courage and ReSharper, we will refactor legacy code using some of the refactorings listed in Martin Fowler’s “Refactoring” book.</p>
-  <p>Rest assured, we’ll stay in green all the time.</p>
-  <p>Although the code is in C#, the refactoring examples in this session can be applied to any other Object-Oriented language.</p>"
+  title: "Refactoring Legacy Code"
+  description: "<p>Using a simple example, participants will look at how to deal with a mean mess of legacy code.</p>
+  <p>This presentation will contain live coding where we will solve the problem of making the code testable without breaking it. We will cover it with tests and change the design to be able to extend it, removing static calls, feature envy and singletons.</p>"
   subtype: presentation 
   speakers: [9]
   language: en
@@ -70,10 +67,10 @@
   language: en
 -
   id: 009
-  title: "Common pitfalls of TDD and suggestions how to make TDD work better for you"
-  description: "<p>Are you a passionate about TDD? Test-driven development (TDD) is an Agile practice that, when used correctly, leads to better software quality and fewer defects in code. However, there are many cases where common mistakes crop up, even in teams with established TDD practices. Is TDD failing us or is it us that fail to practice in full the principles of TDD and in effect causing the problem? Join Christos Matskas in this session as he goes through some of the most common mistakes in TDD and find out what you can do to avoid them. Laughing is optional.</p>"
+  title: "Agile Remotely"
+  description: "<p>The story of how adopting Agile practices helped me work remotely as part of a global team at IBM. Lessons learnt on our journey adopting Agile. How we use Agile methods to deliver across different time zones, working in a global marketplace. Including the many benefits of being in free to work independently of location.</p>"
   subtype: presentation 
-  speakers: [4]
+  speakers: [24]
   language: en
 -
   id: 0010
@@ -145,10 +142,10 @@
   language: en
 -
   id: 019
-  title: "Tech Communities as Fandoms"
-  description: "<p>How is Django like Doctor Who? They’re both projects supported by an incredibly motivated community. This talk will look at the ways in which open source communities parallel fandoms as they form, grow, break off into factions and interact with their supporters and critics. As we learn more about our own communities by looking at our equally-obsessed geeky peers we’ll hopefully discover ways that we can help make our communities (and maybe even fandoms!) more equitable, accessible and open.</p>"
+  title: "Architecture design for mobile applications, really?"
+  description: "<p>How do you develop a scallable, fast and efficient cross platform mobile application? Creating a mobile application may sound trivial at first but, as many developers and teams have discovered, things can get complicated quickly. There are a lot of decisions to be made that have a direct impact on performance, efficiency, scalability and overall experience. Join Christos Matskas to learn how to choose the most appropriate mobile architecture and find out all the available technologies, strategies and patterns that will help you develop a successful mobile application that meets your business goals and quality objectives.</p>"
   subtype: presentation 
-  speakers: [24]
+  speakers: [4]
   language: en
 -
   id: 020
@@ -287,9 +284,8 @@
   language: en
 -
   id: 034
-  title: "Teal Organisations: A Living Example"
-  description: "<p>Most organisational models are broken and very few employees can say they are empowered and trusted to do their jobs. Most professionals today want far more than a job—they want to develop their careers, be part of the decision making, and have the power to reshape the organisation they work for, and most importantly, enjoy their work. </p>
-  <p>In this talk Sandro will explain what Teal Organisations are and will describe some of the advantages and challenges of being part of a self-organised and self-managed company. He will be covering topics that include: complete flat structure, decentralised decision making, open financials, open salaries, recruitment, initiative circles, and cultural fit.</p>"
+  title: "TBC"
+  description: "Description to follow..."
   subtype: presentation
   speakers: [28]
   language: en
@@ -330,8 +326,8 @@
   language: en
 -
   id: 040
-  title: "Meetings or Discipline, It's Your Choice"
-  description: "<p>Meetings, both online and offline, are the most popular state-of-the-art instrument of resolving technical and management issues in software projects. I believe that this is what will be changed in the nearest future, revolutionary. Software teams will become more disciplined and organized. We won't use meetings as tools of management, design and architecture. In my presentation I will try to demonstrate how meetings can be replaced by a disciplined management process, empowered by modern tools or collaboration, diagramming and coding.</p>"
+  title: "Continuously delivering continuous delivery"
+  description: "<p>With agile principles and practices reaching maturity, in many organizations the focus for the coming years will be on the next steps. Beyond agile. In fast pace organizations are adopting agile, DevOps, continuous delivery and new architectures such as microservices. Often all at once. Although from a perspective of similarities between these paradigms this makes sense, this also requires for increased collaboration between business, development and operations. During this session, Kim van Wilgen, CIO at the Dutch insurance company Klaverblad, will give practical insights on the process of migration to continuous delivery, with real-life examples from her experiences. How can organizations deal with the complexity of simultaneously changing architectures, ways of working, technology, and foremost culture? How can we make that change and at the same time still deliver software on a daily basis? How can we deliver continuous delivery?</p>"
   subtype: presentation
   speakers: [34]
   language: en
