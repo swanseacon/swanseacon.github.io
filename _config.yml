@@ -47,7 +47,7 @@ navigationLinks:
  # - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/sponsors/", text: "Sponsors"}
- - {permalink: "/sponsorship/", text: "Sponsorship"}
+# - {permalink: "/sponsorship/", text: "Sponsorship"}
  - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/archive2015/", text: "Archive 2015"}
