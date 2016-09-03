@@ -30,7 +30,7 @@
   surname: "Gonnot"
   company: "BISAM"
   title: ""
-  bio: "<p>Boris is Head of Feature Development Teams at BISAM. Prior to BISAM, Boris worked at Allianz GI where he held various positions: Software architect, Head of the Java Development Platform and Architecture & Engineering Services.</p>"
+  bio: "<p></p>"
   thumbnailUrl: BorisGonnot.jpg
   rockstar: false
   social: 
@@ -105,6 +105,17 @@
   social: 
     - {name: "twitter", link: "http://twitter.com/elizayer"}
 - 
+  id: 9
+  name: "Franzi"
+  surname: "Sauerwein"
+  company: "Codurance"
+  title: ""
+  bio: "Franziska Sauerwein has been a software developer and consultant for several years. She is an active member of the European Software Craftsmanship community and loves to participate in their unconferences, such as SoCraTes. She organizes local code retreats, hackathons, coding dojos and tech talks. Her passions include Test Driven Development, XP techniques and high quality software development."
+  thumbnailUrl: franzi.png
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "http://twitter.com/Singsalad"}
+- 
   id: 10
   name: "Fred"
   surname: "Heath"
@@ -119,9 +130,9 @@
   id: 11
   name: "Gavin"
   surname: "Davies"
-  company: "Bipsync"
+  company: "Radify"
   title: ""
-  bio: "<p>Gavin is a developer and automation engineer at Bipsync who believes that the best way to challenge yourself professionally is to freely share your knowledge with others. He is the author of the books 'Deal With It: Attitude for Coders' and 'Using build tools'. Gavin co-hosts the 'Never Out Of Beta' podcast. Gavin wrote his first lines of code in 1984 and can't see himself stopping any time soon.</p>"
+  bio: "<p>Gavin is a developer and automation engineer at Radify.io who believes that the best way to challenge yourself professionally is to freely share your knowledge with others. He is the author of the books 'Deal With It: Attitude for Coders' and 'Using build tools'. Gavin co-hosts the 'Never Out Of Beta' podcast. Gavin wrote his first lines of code in 1984 and can't see himself stopping any time soon.</p>"
   thumbnailUrl: GavinDavies.jpeg
   rockstar: false
   social: 
@@ -151,20 +162,6 @@
   rockstar: false
   social: 
     - {name: "twitter", link: "http://twitter.com/gregsimons84"}
-- 
-  id: 9
-  name: "Halima"
-  surname: "Koundi"
-  company: "Codurance"
-  title: ""
-  bio: "<p>Halima worked as an IT consultant for several years, before switching career. Having to handle data migration projects is what dragged her to the technical side of Software five years ago; she decided to retrain and learn how to code.</p>
-<p>Joining Codurance for an apprenticeship, Halima is levelling up her engineering skills and embracing the values of software craftsmanship, seeking to become a skilled professional that delivers value building robust and resilient software.</p>
-<p>City Lead organiser at Women Who Code London, she is actively working on bringing more diversity to the tech community.
-On her spare time, she likes to tinker with her fellow restarters, volunteers that help people learn to repair their own electronics in community events.</p>"
-  thumbnailUrl: halima_koundi.jpg
-  rockstar: false
-  social: 
-    - {name: "twitter", link: "http://twitter.com/hkoundi"}
 - 
   id: 13
   name: "Houssam"
@@ -201,16 +198,16 @@ On her spare time, she likes to tinker with her fellow restarters, volunteers th
   social: 
     - {name: "twitter", link: "http://twitter.com/AgileSnap"}
 - 
-  id: 24
-  name: "Jessica"
-  surname: "Rose"
-  company: ""
+  id: 34
+  name: "Kim van"
+  surname: "Wilgen"
+  company: "CIO at Klverblad Verzekeringen"
   title: ""
-  bio: "<p>Jessica Rose is a technologist passionate about access to technical education, digital spaces and examining the way we work with talent. She's co-founded Trans*Code, founded the Open Code meetup series and blogs most infrequently at Jessica.tech. She's always interested in the new and novel in technology, so come tell her about what you're working on!</p>"
-  thumbnailUrl: jesslynnrose.jpg
+  bio: "<p>In her role as CIO at the well-known Dutch insurance company Klaverblad Verzekeringen, Kim van Wilgen is responsible for all software development and operations. Although a nerd at heart, she also has over a decade of experience in product development and comparable managerial roles on the other side: the business. She can still speak just enough of the language of the product owners and the users to understand the gap we quite frequently need to bridge. Kim van Wilgen is passionate about topics such as agile, Kanban, DevOps and continuous delivery. and the management of the cultural, organizational, team and technological changes associated with these approaches.</p>"
+  thumbnailUrl: KimvanWilgen.jpg
   rockstar: false
   social: 
-    - {name: "twitter", link: "http://twitter.com/jesslynnrose"}
+    - {name: "twitter", link: "http://twitter.com/kimvanwilgen"}
 - 
   id: 15
   name: "Kingsley"
@@ -327,6 +324,18 @@ On her spare time, she likes to tinker with her fellow restarters, volunteers th
   social: 
     - {name: "twitter", link: "http://twitter.com/ntcoding"}
 - 
+  id: 24
+  name: "Olly"
+  surname: "Brand"
+  company: "IBM"
+  title: ""
+  bio: "<p>Technology consultant and IBMer: specialising in the design, build and run of Business Intelligence and Data Warehousing projects. Adopting Agile and SCRUM methodologies to run geographically diverse teams, with members all over Europe and India. Successfully delivering while living full time in Cornwall.</p>
+  <p>Known for Remote Working and Agile practices, including being featured in the Times, Guardian, and Financial Times.</p>"
+  thumbnailUrl: OllyBrand.jpeg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "http://twitter.com/iOlly"}
+- 
   id: 25
   name: "Peter"
   surname: "Pito"
@@ -422,14 +431,3 @@ On her spare time, she likes to tinker with her fellow restarters, volunteers th
   social: 
     - {name: "twitter", link: "http://twitter.com/theburningmonk"}
     - {name: "site", link: "http://theburningmonk.com/"}
-- 
-  id: 34
-  name: "Yegor"
-  surname: "Bugayenko"
-  company: "Teamed.io"
-  title: ""
-  bio: "<p>Yegor is a CTO and co-founder of Teamed.io, a software development company with a unique approach to management of distributed teams; a regular blogger at www.yegor256.com; a proud holder of PMP and OCMEA certifications; a hands-on Java developer and a lead architect of a few popular open source projects, including jcabi.com, takes.org, rultor.com and qulice.com. Yegor lives in Palo Alto, CA and Kyiv, Ukraine.</p>"
-  thumbnailUrl: YegorBugayenko.jpg
-  rockstar: false
-  social: 
-    - {name: "twitter", link: "http://twitter.com/yegor256"}
