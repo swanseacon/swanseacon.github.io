@@ -243,13 +243,9 @@
   language: en
 -
   id: 031
-  title: "Stay credible, get growth"
-  description: "<p>We make the software that we think people will want to use.</p>
-  <p>When working on our own projects, we need to find those people and convince them to give our stuff a try. As developers, we're not always comfortable with marketing or putting ourselves out there.</p>
-  <p>This session covers the basics of building awareness and adoption for your software, whether it's a free as in beer or paid-for. You'll learn the basics of building awareness, educating your users and building a community around your software.</p>
-  <p>In particular, we'll focus on building communities for tools aimed at developers (APIs, libraries, infrastructure).</p>
-  <p>We'll take a tour of the techniques of developer relations and growth hacking, while asking an important question: How do we get into this world while maintaining credibility?</p>"
-  subtype: presentation
+  title: "Fishbowl Discussion - Do you need a scaled agile framework in order to scale agile?"
+  description: "<p>An agile way of working has more than proven its worth in businesses across the world.  Now with the proof being seen in the pudding lots of big organisations are looking to apply agile at scale.  As a consequence, new frameworks and methodologies have more recently been launched into the industry marketed at helping businesses to scale their agile delivery.  The agile manifesto talks about the need for individuals and interactions over process and tools.  This Fishbowl discussion will discuss if the frameworks themselves are taking over being able to allow a business to become agile iteratively.</p>"
+  subtype: discussion
   speakers: [20]
   language: en
 -
