@@ -25,6 +25,17 @@
   social: 
     - {name: "twitter", link: "http://twitter.com/alastairs"}
 - 
+  id: 20
+  name: "Bethan"
+  surname: "Timminsms"
+  company: "Equal Experts"
+  title: ""
+  bio: "<p>Bethan Timmins is a Delivery Manager currently working for Equal Experts. With over 15 years experience in the software development industry of which 8 of those years has been within agile environments.  Her experience ranges from working with clients that have 1 or 2 scrum teams to working with big organisations in government and media that has upwards of 20 agile teams running.  She has taken on many roles within agile teams from Product Owner, Business Analyst and Scrum Master.  She was born and raised in Cardiff and now lives in Twickenham Southwest London.</p>"
+  thumbnailUrl: BethanTimmins.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "http://twitter.com/BethanTimmins"}
+- 
   id: 3
   name: "Boris"
   surname: "Gonnot"
@@ -289,17 +300,6 @@ On her spare time, she likes to tinker with her fellow restarters, volunteers th
   rockstar: false
   social: 
     - {name: "twitter", link: "http://twitter.com/mattVSTS"}
-- 
-  id: 20
-  name: "Bethan"
-  surname: "To,,oms"
-  company: "Equal Experts"
-  title: ""
-  bio: "<p>Bethan Timmins is a Delivery Manager currently working for Equal Experts. With over 15 years experience in the software development industry of which 8 of those years has been within agile environments.  Her experience ranges from working with clients that have 1 or 2 scrum teams to working with big organisations in government and media that has upwards of 20 agile teams running.  She has taken on many roles within agile teams from Product Owner, Business Analyst and Scrum Master.  She was born and raised in Cardiff and now lives in Twickenham Southwest London.</p>"
-  thumbnailUrl: BethanTimmins.jpg
-  rockstar: false
-  social: 
-    - {name: "twitter", link: "http://twitter.com/BethanTimmins"}
 - 
   id: 21
   name: "Michal"
