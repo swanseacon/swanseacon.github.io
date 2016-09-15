@@ -59,7 +59,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "2nd Agile Development & Software Craftsmanship <typeout>conference"
+heroTitle: "3rd Agile Development & Software Craftsmanship <typeout>conference"
 eventDate: "Monday 25th September - Tuesday 26th September, 2017"
 typeoutTextValues: '"", "Agile", "Development", "Software", "Craftsmanship"'
 typeoutFallback: ""
