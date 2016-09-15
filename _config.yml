@@ -68,7 +68,7 @@ heroButtons:
  - {permalink: "https://www.picatic.com/event14433914651966", text: "Early bird tickets now on sale!"}
  
 # About Block
-aboutTitle: "<h3>About SwanseaCon</h3><p><strong><em>Profits made from SwanseaCon 2015 have gone toward helping provide free netbooks for children, which they will use to learn to code at our free summer code camp next year.</em></strong></p>"
+aboutTitle: "<h3>About SwanseaCon</h3>"
 aboutBlock:
  - {title: " 	", image: "code.jpg", text: "<p>SwanseaCon is a technical event for Software Developers, Software Architects, Project Managers, Analysts and Consultants in Wales. The third year is scheduled to kick start on 25th of September and go on until the 26th of September 2017 at the Liberty Stadium, Swansea, South Wales.</p>
  <p>SwanseaCon 2017 will be our second agile development and software craftsmanship conference in Swansea, South Wales. Exploring the latest agile and lean thinking in software craftsmanship, teams and business. The conference hopes to attract people from all parts of the globe to explore, evolve and find out what it means to be truly agile in business, from its culture to product development practices.</p>
