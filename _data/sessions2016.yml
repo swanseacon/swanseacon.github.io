@@ -1,0 +1,390 @@
+-
+  id: 001
+  title: "Registration & Breakfast"
+  place: ""
+  service: true
+-
+  id: 002
+  title: "Welcome to Swansea"
+  description: ""
+  subtype: presentation 
+  language: en
+-
+  id: 003
+  title: "Opening Keynote - Agile and architecture, finally friends after 15 years"
+  description: "The term 'software architecture' has historically induced visions of ivory tower architects doing big design up front in order to create excessively detailed documents, delivered to an unsuspecting development team as if they were the second leg of a relay race. 2001 saw the creation of the 'Manifesto for Agile Software Development', a turning point for the software development industry that put focus back upon individuals and interactions, working software, customer collaboration and responding to change. Big design up front certainly has problems but, in the haste for agility, some teams threw the baby out with the bath water. Big design up front was replaced with no design up front, documentation was seen as redundant, speculation became YAGNI and a new wave of 'agile architects' (who, of course, didn't call themselves architects) delayed decisions until the last responsible moment. Although agile and architecture may have parted ways, they are finally friends again after 15 years. This is their story."
+  subtype: keynote
+  speakers: [29]
+  language: en
+-
+  id: 004
+  title: "Let's Do Kano Analysis of SwanseaCon 2016 (Workshop)"
+  description: "<p>Kano Analysis is a method which can be used for understanding which features your customers expect, are excited by, and want more of.</p>
+  <p>This workshop will introduce attendees to Kano Analysis, including how it can be used to categorise features for release planning.  We'll discuss how to form questions to ask customers, how to interpret answers to those questions, and how to plan a release using those answers.</p>
+  <p>The workshop will encourage participation from attendees and use lots of examples to explore the topic.  We'll use Kano to analyse SwanseaCon 2016 itself and explore what aspects of the conference would be classified as basic, linear and exciting features.</p>"
+  subtype: workshop 
+  speakers: [6]
+  language: en
+-
+  id: 005
+  title: "It doesn't always have to be Scrum"
+  description: "<p>Scrum is becoming very popular; that’s good. Consciously or not, most people adopt Scrum by blindly following a so-called Scrum expert; that’s not so good.</p>
+  <p>As more organisations look to an Agile transition to become more efficient, I’m keen to make sure that they realise that there is more to Agile than just Scrum.</p>"
+  subtype: presentation 
+  speakers: [14]
+  language: en
+-
+  id: 006
+  title: "Refactoring and code smells"
+  description: "<p>A new sprint starts and you have to implement a new feature, you naively open the file where the functionality ought to live. To your great horror, a five headed monster seats there scaring the hell out of any developer trying to change that file.</p>
+  <p>You know the time has come to act.</p>
+  <p>Protected by our unit tests and armed with courage and ReSharper, we will refactor legacy code using some of the refactorings listed in Martin Fowler’s “Refactoring” book.</p>
+  <p>Rest assured, we’ll stay in green all the time.</p>
+  <p>Although the code is in C#, the refactoring examples in this session can be applied to any other Object-Oriented language.</p>"
+  subtype: presentation 
+  speakers: [9]
+  language: en
+-
+  id: 007
+  title: "From Scrum to Flow using Actionable Agile Metrics"
+  description: "This talk will detail the process of moving away from a ‘classic’ SCRUM based approach to planning (by using release planning, iteration planning, story points estimation using planning poker, etc) to an alternative method that uses a no estimate based approach.</p>
+  <p>The presentation will cover techniques that enable transitioning to this approach, such as: how to define work in progress, how to monitor throughput and ageing items, replenishment and right sizing as well as the use of Monte Carlo simulations for forecasting.</p>
+  <p>The techniques are based on Daniel Vacanti’s ‘Actionable Agile Metrics for Predictability’ and the presentation will contain practical aspects of how they have been applied at a major UK client.</p>"
+  subtype: presentation 
+  speakers: [25]
+  language: en
+-
+  id: 008
+  title: "Immutable Infrastructure for Mere Mortals"
+  description: "<p>Server configuration drift has caused many bugs. Many more have been caused by differences between development and production. In this session, we will see how immutable infrastructure can help us to build clean, well-factored applications that we can reason about.</p>
+  <p>We will discuss:
+  <ul>
+  <li>What are the problems of treating servers like pets?</li>
+  <li>What is immutable infrastructure and how can it help?</li>
+  <li>How does it work?</li>
+  <li>How does an app need to be written to support II? (spoiler: 12 factor)</li>
+  </ul>
+  </p>"
+  subtype: presentation 
+  speakers: [11]
+  language: en
+-
+  id: 009
+  title: "Common pitfalls of TDD and suggestions how to make TDD work better for you"
+  description: "<p>Are you a passionate about TDD? Test-driven development (TDD) is an Agile practice that, when used correctly, leads to better software quality and fewer defects in code. However, there are many cases where common mistakes crop up, even in teams with established TDD practices. Is TDD failing us or is it us that fail to practice in full the principles of TDD and in effect causing the problem? Join Christos Matskas in this session as he goes through some of the most common mistakes in TDD and find out what you can do to avoid them. Laughing is optional.</p>"
+  subtype: presentation 
+  speakers: [4]
+  language: en
+-
+  id: 0010
+  title: "How deep are your tests?"
+  description: "<p>Manual testing is most often done end-to-end. Tests are performed through the user interface. When testing gets automated, this is where most organisations start. They start with automating the way they do things now. The new way is faster, but it isn’t fast enough. And not robust enough.</p>
+  <p>It is unnecessarily complicated to understand why an end-to-end test fails. There are usually many different possibilities when something doesn’t work.</p>
+  <p>The number of possible paths through a reasonably large application will very fast make it impossible to cover them all. Combinatorics is your enemy.</p>
+  <p>The solution is to minimise the tests that passes through many layers in your application. Minimising doesn’t mean removing the end-to-end tests. They are still needed. But much fewer than most organisations seem to think.</p>
+  <p>I will show you why the testing pyramid need to be very wide. You will understand why this is an absolute necessity if all possible paths through the application should be tested.</p>
+  <p>In other words, let me show you why your tests must be very shallow.</p>"
+  subtype: presentation 
+  speakers: [31]
+  language: en
+-
+  id: 011
+  title: "Education for Engineers"
+  description: "<p>How can we best design education programmes that prepare students to be effective software engineers in the modern world? What do they need to learn? How can we teach these things? Post-university, can we use the same principles to develop effective training and development programmes for professionals?</p>
+  <p>Many university degree programmes provide students with a solid grounding in the theoretical basis of computing, but it is difficult in a university environment to provide training in the types of software engineering techniques and practices, such as agile methods, that are commonly used in industrial development projects. There is typically a large gap between theoretical knowledge and practical experience.</p>
+  <p>In this session we will present how we have developed a programme that aims to bridge this gap, providing students with practical experience of relevant skills for industrial software engineering careers. We will give examples from courses at both Imperial College and Oxford. We are aiming to create courses that are practical and industrially relevant, but built on the fundamentals of computer science and rigorous engineering.</p>
+  <p>The first part of this session will be a talk giving some reflections on trying to improve the quality of a university course. Taking inspiration from modern ideas on lean and continuous delivery, we tried to adapt the course to provide higher quality learning, and give more value to the time the students spent studying. Universities are traditional organisations with long histories of doing things a certain way, and so whilst we had a lot of freedom over the content of the course, changing the format and the delivery methods was a lot harder.</p>
+  <p>We applied principles and tools from agile methods, aiming to increase the value of the time the students spent studying by providing feedback and learning in smaller batches, aided by automation. On a practical level, we will discuss the use of version control, automated testing, automated build and continuous integration for student exercises, and the effects that this has had. We will also discuss our attempts to teach the value of continuous delivery in larger student projects, the problems we have had with this, and ideas for future improvements.</p>"
+  subtype: presentation 
+  speakers: [26]
+  language: en
+-
+  id: 012
+  title: "Seven ineffective coding habits many F# programmers don't have"
+  description: "<p>At BuildStuff'14, Kevlin Henney presented an excellent talk titled 'seven ineffective coding habits of many programmers'. As an attendee that day and someone who has exhibited many of these habits over the years, I came to realize that using F# has cured me of many of these ineffective habits!</p>
+  <p>In this talk I'll share my thoughts on how the use of F# and functional programming techniques can help form and nurture good habits and give you the perfect practice you need to make perfect.</p>"
+  subtype: presentation 
+  speakers: [32]
+  language: en
+-
+  id: 013
+  title: "Education for Engineers (Workshop)"
+  description: "<p>How can we best design education programmes that prepare students to be effective software engineers in the modern world? What do they need to learn? How can we teach these things? Post-university, can we use the same principles to develop effective training and development programmes for professionals?</p>
+  <p>We will introduce the technique of Reverse Instructional Design, and change to a workshop phase. We will also discuss applying agile techniques and systems thinking to the design of the educational experience.</p>
+  <p>We will draw on the expertise and experience in the room to discuss (in small groups) the most important things for people to learn to work effectively in software development, and then try to design new possible course structures to address these using the techniques described. To finish we will compile the outputs from the groups.</p>"
+  subtype: workshop 
+  speakers: [26]
+  language: en
+-
+  id: 016
+  title: "Introducing Eager Design"
+  description: "<p>What happens when the very frameworks, tools and patterns we cherish take the reins and forces us to focus on all the boilerplate scaffolding things, distracting us from really solving the real problems? Sometimes the outside-in approach can lead us to code that is more complex and coupled than it has to be.</p>
+  <p>Eager Design offers a fresh approach. Instead of being led by the delivery mechanisms, frameworks and patterns, we focus on the problems worth solving. Inspired by functional programming and Domain Driven Design, the principles of Eager Design helps us isolate and solve complex problems in a more focused and decouple manner.</p>
+  <p>Principles covered:
+  <ul><li>The problem with Outside-in development</li>
+  <li>Identifying opportunities for Eager Design</li>
+  <li>Jumping to the problem worth solving</li>
+  <li>Eagerly replacing primitives with values</li>
+  <li>Behaviour over state</li>
+  <li>Abstracting boundaries</li>
+  <li>Functional patterns applied in object oriented (immutability and persistency, identifying small units of behaviour, monoids, etc)</li></ul></p>"
+  subtype: presentation 
+  speakers: [18]
+  language: en
+-
+  id: 017
+  title: "Breakfast"
+  place: ""
+  service: true
+-
+  id: 018
+  title: "A Toolset for Creating a Potentially Releasable Product Increment"
+  description: "<p>Working software is one of the four Agile values. However, Agile practitioners today are seen following anti-patterns like special sprints for integration, leaving regression testing to special QA focus groups etc. This talk will set the stage by defining the context leading to such decisions. and indicative symptoms. This talk will conclude with recommendations to address the anti-patterns described earlier. Narratives, real-world examples and lessons learned from actual experience will be provided for the audience as key takeaway.</p>"
+  subtype: presentation 
+  speakers: [22]
+  language: en
+-
+  id: 019
+  title: "Tech Communities as Fandoms"
+  description: "<p>How is Django like Doctor Who? They’re both projects supported by an incredibly motivated community. This talk will look at the ways in which open source communities parallel fandoms as they form, grow, break off into factions and interact with their supporters and critics. As we learn more about our own communities by looking at our equally-obsessed geeky peers we’ll hopefully discover ways that we can help make our communities (and maybe even fandoms!) more equitable, accessible and open.</p>"
+  subtype: presentation 
+  speakers: [24]
+  language: en
+-
+  id: 020
+  title: "User-Story Point estimation: a new approach"
+  description: "<p>Estimation is the weak spot of agile methodologies. Current methods for task estimation are subjective and inconsistent. This often results in failed sprints, which -in turn- lead to delivery failures, loss of credibility and team friction. We can't always estimate complexity and effort accurately, but there is a way to ensure our estimates are the best we can give, every single time, all the time.</p>
+  <p>The USP (User Story Point) estimation method is an algorithmic approach that takes into account technical and environmental factors affecting a User Story and uses a mathematical formula to produce a complexity point value.</p>
+  <p>During this talk I will explain the motivation and workings of the USP methodology and I'll demonstrate how to use it to provide consistent, objective and reliable estimates.</p>"
+  subtype: presentation 
+  speakers: [10]
+  language: en
+-
+  id: 021
+  title: "User-Story Point estimation: a new approach (Workshop)"
+  description: "<p>This hands-on session will consist of a realistic scenario, where the audience will have the chance to apply the USP method to a project and thereby gain a better understanding of the USP methodology</p>"
+  subtype: workshop
+  speakers: [10]
+  language: en
+-
+  id: 022
+  title: "How and Why to Love Cucumber"
+  description: "<p>Using Cucumber and BDD can change the experience of software developers and project teams dramatically for the better. Still, many are left with a poor impression of these tools and workflows because they aren’t using them in an optimal way. This talk gives specific, actionable strategies you can use to incorporate Cucumber and behavior-driven workflows into your projects to improve your results and spend more of your time doing work you love.</p>"
+  subtype: presentation
+  speakers: [5]
+  language: en
+-
+  id: 023
+  title: "The Heroes of programming - 10x developer myth"
+  description: "<p>Mark Zuckeberg once said that there are developers 10, 100 times better that other ones. Of course Mark is an influential guy so his words has created this notion that there really are those Heroic developers somewhere that can save our projects and revolutionize our products. The only thing you need to do is find and attract them to join your crusade.</p>
+  <p>I was once a guy that also believed in it, working hard to become one of those Heroes. After 6 years trying to become one I have noticed that 10x work does exist but not in the way I imagined.</p>
+  <p>Join this talk to learn the truth behind 10x.</p>"
+  subtype: presentation
+  speakers: [21]
+  language: en
+-
+  id: 024
+  title: "Scaling MySQL"
+  description: "<p>Your new amazing code started off on a Vagrant image and now you want it to scale. The problem is that relational databases do not easily scale.  Do you need to scale for reads, or writes, or both??  This session will cover the easy, low cost ways to move from your development box where all is on one image to splitting services, splitting reads/writes, basic sharding, highly available & fault tolerant server farms, to clusters with 99.999% up time.  This talk will cover the costs (financial, time, opportunity cost, and sanity) as you scale with your data.</p>"
+  subtype: presentation
+  speakers: [7]
+  language: en
+-
+  id: 025
+  title: "Software Craftsmanship vs Lean Product"
+  description: "<p>You want to get your product out to users, but you want to write clean code. Test your market fast but keep the product maintainable. Lean product development and software craftsmanship just can’t work together, right?</p>
+  <p>In the red corner, we have Elizabeth Ayer, Product Manager at Redgate. She loves Minimum Viable Products, cunning experiments, and The Lean Startup is her bible. Craftsmanship to her means wasting time polishing internals. Everyone loves sausages regardless of what goes on inside the factory.</p>
+  <p>In the blue corner, we have Alastair Smith, Founder of the Cambridge Software Craftsmanship Community. He loves clean code, test-driven development, and The Pragmatic Programmer is his bible. Lean product development to him means half-finished products, mountains of technical debt. It’s less “fail cheap, fail often”, than just simply “#fail”.</p>
+  <p>Does Craftsmanship take focus off the end user? Does Lean make poor trade-offs between speed and quality? Can the same team follow both principles? Alastair and Elizabeth will explore common misconceptions, as well as genuine areas of contention between the two approaches. Come see if they can ever join forces to create products users love.</p>"
+  subtype: presentation
+  speakers: [2,8]
+  language: en
+-
+  id: 026
+  title: "KISS me quick; The battle against complexity"
+  description: "<p>Brian Kernighan famously said that 'Controlling complexity [was] the essence of computer programming'. In comparison Dijkstra stated that 'Simplicity is a great virtue but... complexity sells better.'.</p>
+  <p>This talk posits that the main goal of technology, or of right minded people working in tech, is to deliver things of value in a just way. However, in an ever changing landscape, where business models and tools to deliver tech solutions are shifting at breakneck speed, what chance do developers and designers have in exercising just and tasteful solutions! This talk aims to look at what factors suggest inappropriate or over engineered design, considers how we may have got to this point, and what strategies might be employed to stop digging out of the hole, but starting filling it in.</p>"
+  subtype: presentation
+  speakers: [15]
+  language: en
+-
+  id: 027
+  title: "An Insider’s View Of Agile In The Public Sector"
+  description: "<p>We’ve all heard the horror stories of software development in the public sector, but in recent years we’ve started to see hope, in the form of Government Digital Service (GDS), that taxpayer money isn’t being completely squandered on inefficient enterprise software development.</p>
+<p>GDS governs the way government agencies build and deliver digital products. GDS assesses each new service on a number of criteria, ranging from the thoroughness of user research, to the technical competency of delivery teams, and the agility and openness of their development process.</p>
+<p>Does GDS actually make any difference? Is agile software development in the public sector any different to the old ways? In this talk you will get an unbiased insider’s perspective.</p>"
+  subtype: presentation
+  speakers: [23]
+  language: en
+-
+  id: 028
+  title: "Organisational Wide Agility"
+  description: "<p>There is constant talk of scaling agile in the IT industry, but little talk about making organisations as a whole more agile.  In this session you will hear some of the challenges of becoming agile across the entire organisation can bring, along with ways it can be achieved.</p>
+  <p>This isn’t about IT, this is about the business as a whole, which IT is a part of. Irrespective of what change the organisation wants to make, or how it can get better at running the business, thinking holistically is the only way you can achieve change.</p>"
+  subtype: presentation
+  speakers: [12]
+  language: en
+-
+  id: 029
+  title: "The 7 unmentioned challenges of Scrum"
+  description: "<p>Organizations often start with Scrum after having heard about it, read about it, or after having read the Scrum Guide. While that is great, there are several unforeseen challenges they often face that prevent them from really benefiting from the advantages of Scrum. During this session we will discuss 'The 7 unmentioned challenges of Scrum' and we will work on uncovering possible solutions. There will be a strong focus on interaction during this session.</p>"
+  subtype: presentation
+  speakers: [17]
+  language: en
+-
+  id: 030
+  title: "Migration - from 'Jurassic Park' to MicroServices"
+  description: "<p>How a migration to MicroServices could change the team, architecture and coding culture.</p>
+  <p>What you could do and how you could transform a 'Jurasic Park' into a lightweight environment.</p>
+  <p>In this talk we will explore the strategy, techniques, pattern and tools I used to transform a team and the architecture that was grown over 15yrs.</p>
+  <p>This will be a mix of pattern, tools and techniques that was able to migrate old systems, used inside ensurance and banks. We had to migrate fat systems that are handling in the average 500-300.000.000 docs.</p>"
+  subtype: presentation
+  speakers: [30]
+  language: en
+-
+  id: 031
+  title: "Fishbowl Discussion - Do you need a scaled agile framework in order to scale agile?"
+  description: "<p>An agile way of working has more than proven its worth in businesses across the world.  Now with the proof being seen in the pudding lots of big organisations are looking to apply agile at scale.  As a consequence, new frameworks and methodologies have more recently been launched into the industry marketed at helping businesses to scale their agile delivery.  The agile manifesto talks about the need for individuals and interactions over process and tools.  This Fishbowl discussion will discuss if the frameworks themselves are taking over being able to allow a business to become agile iteratively.</p>"
+  subtype: discussion
+  speakers: [20]
+  language: en
+-
+  id: 032
+  title: "Object-Orientated Views"
+  description: "<p>I’ve seen this too many times in views (grails, ruby-on-rails, velocity)<br>
+  #if ($user.hasPicture())<br>
+  #parse (“userPicture”)<br>
+  #else<br>
+  ## do nothing<br>
+  #endif<br></p>
+  <p>or even worse:<br>
+  #if ( $user != null)<br>
+  #show user information<br>
+  #endif<br>
+  I mean, didn’t we just study Object Orientation to use polymorphism just for that sort of thing.</p>
+  <p>What if.<br>
+  <br>
+  What if we’d get a proper User representation from the domain. Whether it is a user with or without a picture, or if it is a NullObject (UserThatDoesNotExistInSystem), the details don’t need to pollute the views.</p>
+  <p>In this talk, I will show one possible solution for case like that – getting a User representation from the domain and displaying relevant information in web views. The information rendered in UI differs based on whether user exists or not, it’s data and whether the user is being edited or is only to be viewed.</p>
+  <p>The patterns used in the code include (but are not limited to)
+  <ul><li>Exhibit pattern (Avdi Grimm, Object on Rails)</li>
+  <li>Command-Query Responsibility Segregation</li></ul>
+  The best part is. This is live production code written and maintained. By spring 2015 I believe I have gotten some insights about the work, which I am happy to share with.</p>
+  <p>The talk is about showing real production code using the pattern, and using controllers & views with very few if-statements."
+  subtype: presentation
+  speakers: [1]
+  language: en
+-
+  id: 033
+  title: "SonarQube to manage our technical debt and increase value"
+  description: "<p>Code quality is very important, and it is also the best tool we have to ensure we are going to meet all the targets as a development eam. SonarQube with an existing pipeline is a great way of having a global overview of the general health state of our code, together with a detailed analysis of how we are faring - sometimes it might not be obvious, or we just can't see it! </p>"
+  subtype: presentation
+  speakers: [19]
+  language: en
+-
+  id: 034
+  title: "Teal Organisations: A Living Example"
+  description: "<p>Most organisational models are broken and very few employees can say they are empowered and trusted to do their jobs. Most professionals today want far more than a job—they want to develop their careers, be part of the decision making, and have the power to reshape the organisation they work for, and most importantly, enjoy their work. </p>
+  <p>In this talk Sandro will explain what Teal Organisations are and will describe some of the advantages and challenges of being part of a self-organised and self-managed company. He will be covering topics that include: complete flat structure, decentralised decision making, open financials, open salaries, recruitment, initiative circles, and cultural fit.</p>"
+  subtype: presentation
+  speakers: [28]
+  language: en
+-
+  id: 035
+  title: "Closing Keynote - Beyond breaking bad. The current state of agile in ten easy lessons"
+  description: "<p>After having coached agile projects for almost twenty years, author, craftsman and independent consultant Sander Hoogendoorn, looks back on what agile, Scrum, Kanban, XP and other agile approaches have brought us in real-life. In his well-known, high-speed style Sander will motivate why agile is dead, why you need to stay away from Scrum task-boards, how to stay away from estimates and deadlines, how to avoid red sprints, how to put your trust in metrics, how to draw owls, that projects are waste, and most of all that you are not Usain Bolt. </p>"
+  subtype: keynote
+  speakers: [27]
+  language: en
+-
+  id: 036
+  title: "Skills For Crafts"
+  description: "<p>Software Development Skills do not just happen. So, you need to take the bull by the horns and do it yourself. You need to make a plan because these skills rarely develop during your workdays. You also need to dedicate time to develop these skills. While in other craftsmanship, skills of good crafts are well-known. In software development, there is no consensus on this topic. In this talk, we are going to discuss the main skills every good developer should have and how to improve them. We will also share with you some tips and tricks but also some exercises we used to improve our software development skills. "
+  subtype: presentation
+  speakers: [13,3]
+  language: en
+-
+  id: 037
+  title: "End"
+  description: ""
+  subtype: presentation
+-
+  id: 038
+  title: "Why so serious?"
+  description: "<p>Don’t become a copy and paste machine, churning out the same old projects day after day. Stay on top of your game and harness any opportunity to get creative.</p>
+  <p>This talk looks at how doing something different can promote productivity, generate new ideas, and create great relationships.</p>
+  <p>Find out why we locked our teams in a house for 24 hours with nothing but their imaginations, and more importantly what happened!</p>"
+  subtype: presentation
+  speakers: [16]
+  language: en
+-
+  id: 039
+  title: "Progressive Web Application: Instant Load and Offline Support"
+  description: "<p>Over the past year, the Service Workers specification has been developed significantly.  Why should we be excited? Service Workers offer a tone of functionality that means the mobile web can now rival native applications.  This talk will explore how Service Workers can be used to create application that load instantly, support offline experience and push notifications on the web.</p>"
+  subtype: presentation
+  speakers: [33]
+  language: en
+-
+  id: 040
+  title: "Continuously delivering continuous delivery"
+  description: "<p>With agile principles and practices reaching maturity, in many organizations the focus for the coming years will be on the next steps. Beyond agile. In fast pace organizations are adopting agile, DevOps, continuous delivery and new architectures such as microservices. Often all at once. Although from a perspective of similarities between these paradigms this makes sense, this also requires for increased collaboration between business, development and operations. During this session, Kim van Wilgen, CIO at the Dutch insurance company Klaverblad, will give practical insights on the process of migration to continuous delivery, with real-life examples from her experiences. How can organizations deal with the complexity of simultaneously changing architectures, ways of working, technology, and foremost culture? How can we make that change and at the same time still deliver software on a daily basis? How can we deliver continuous delivery?</p>"
+  subtype: presentation
+  speakers: [34]
+  language: en
+-
+  id: 041
+  title: "Get your head in the Clouds!"
+  description: "<p>If someone had said to you a few years back that they could build an app, 'push' to the cloud and even scale it in a matter of minutes with a few simple commands, you'd have most likely responded; 'You've got your head in the clouds'.</p>
+  <p>Times do change. This talk explains this phenomenon called Platform as a Service and how it can benefit you while demonstrating a real live deployment of an application with a blue green deployment and scale-up operation thrown in for fun.</p>
+  <p>The session will outline, 
+  <ul><li>What is PaaS?</li>
+  <li>What options do I have?</li>
+  <li>How do I develop locally?</li>
+  <li>Dynamic Scaling of applications based on load</li>
+  <li>How do I build my application to be fault tolerant so I can dynamically scale?</li>
+  </ul></p>"
+  subtype: presentation
+  speakers: [35,36]
+  language: en
+-
+  id: 042
+  title: "Understanding abstractions. Or, how do regular expressions work?"
+  description: "<p>All abstractions are leaky, and we tend to think of that as a bad thing. But sometimes it’s useful to be reminded of the implementation details.  Knowing how something works under the covers often makes it a lot easier to use the abstraction. Take regular expressions - very powerful, yet very hard to use - arguably a write-only language! But once you know how the abstraction works, reading and writing a regular expression becomes a lot easier. In this talk, we’ll take a look at some popular, perhaps overlooked, abstractions, see how they work, and see how understanding the level below an abstraction makes you a better developer.</p>"
+  subtype: presentation
+  speakers: [37]
+  language: en
+-
+  id: 098
+  title: "Evening Reception"
+  place: "Penderyn Suite (Floor 3)"
+  service: true
+-
+  id: 099
+  title: ""
+  place: ""
+  service: true
+-
+  id: 100
+  title: "Mid Morning Refreshments"
+  place: ""
+  service: true
+-
+  id: 101
+  title: "Afternoon Refreshments"
+  place: ""
+  service: true
+-
+  id: 102
+  title: "Late Afternoon Refreshments"
+  place: ""
+  service: true
+-
+  id: 103
+  title: "Lunch"
+  place: ""
+  service: true
+-
+  id: 105
+  title: "TBC"
+  place: ""
+  service: true
