@@ -13,11 +13,15 @@ In August 2015, 10 netbooks were purchased and the idea was to have a day of cod
 
 Based on the fact that I already help children code and wanting to help as many children get in to coding as possible I decided that perhaps the best approach would be to donate the computers to a local school, potentially helping a lot more than the 10 children I hoped to help. Ahead of our second year in August 2016, I was made aware by a [work colleague](http://twitter.com/MrMarkProbez) that [Pontybrenin Primary School](http://twitter.com/Pontybrenin) were trying to raise funds to get computers for the children. I was amazed to find out they didn't have any at all and so this was an easy decision! [Yesterday the 10 notebook computers were handed over!](https://twitter.com/11vlr/status/783660042671226882)
 
-Without all the fantastic support from both attendees and sponsors for the last two years, none of this would have been possible so thank you. Just the smallest of things like donating the netbooks will make a massive difference to help the school and children as well as helping the wider goal of trying to build and foster a great tech community in South Wales, UK.
+#### Thank you!
+I'd like to thank both [Simon Brown](http://twitter.com/simonbrown) and [Jiri Knesl](http://twitter.com/jiriknesl) for both support and financial assistance to help make this happen as well as the fantastic support from attendees and sponsors for the last two years - none of this would have been possible without you all so thank you.
+
+Just the smallest of things like donating the netbooks will make a massive difference to help the school and children as well as helping the wider goal of trying to build and foster a great tech community in South Wales, UK.
 
 Thanks again for your support,
 
 Viv
+
 
 ##### SwanseaCon 2017
 
