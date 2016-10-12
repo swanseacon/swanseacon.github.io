@@ -5,7 +5,7 @@ date:   2016-10-06 07:15:10:00
 isStaticPost: false
 ---
 
-### Donation of notebooks to Pontybrenin Primary School
+### Donation of notebooks to Pontybrenin Primary School. 
 
 Back last year at the first Swanseacon, attendees were told that profits made from SwanseaCon 2015 would go toward helping provide free netbooks for children, which they would then use to learn to code at a free summer code camp.
 
