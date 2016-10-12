@@ -9,7 +9,7 @@ isStaticPost: false
 
 This year we will be doing an Awesome Employers list so please let your boss and their boss now!
 
-If your company sends 5 or more staff (or all IT if < 5) to SwanseaCon 2017, they'll find themselves publicised for investing in staff and will have their logo on the website as an awesome employer, they will also receive a small discount of 15% off tickets! For any organisation, this means a free reputation boost locally!
+If your company sends 5 or more staff (or all IT if < 5) to SwanseaCon 2017, they'll find themselves publicised for investing in staff and will have their logo on the website as an awesome employer, they will also receive a small discount of 15% off tickets. For any organisation, this means a free reputation boost locally!
 
 #### SwanseaCon 2017
 
