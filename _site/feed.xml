@@ -3,14 +3,14 @@
   <channel>
     <title>SwanseaCon 2017 - Agile Development &amp; Software Craftsmanship conference</title>
     <description>SwanseaCon is an agile development &amp; software craftsmanship conference</description>
-    <link>http://swanseacon.github.io/</link>
-    <atom:link href="http://swanseacon.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Awesome Employers list</title>
         <description>&lt;h3 id=&quot;awesome-employers-list&quot;&gt;Awesome Employers list.&lt;/h3&gt;
 
-&lt;p&gt;This year we will be doing an Awesome Employers list so please let your boss and their boss now!&lt;/p&gt;
+&lt;p&gt;This year we will be doing an Awesome Employers list so please let your boss and their boss know!&lt;/p&gt;
 
 &lt;p&gt;If your company sends 5 or more staff (or all IT if &amp;lt; 5) to SwanseaCon 2017, they’ll find themselves publicised for investing in staff and will have their logo on the website as an awesome employer, they will also receive a small discount of 15% off tickets. For any organisation, this means a free reputation boost locally!&lt;/p&gt;
 
@@ -24,8 +24,8 @@
 
 </description>
         <pubDate>Wed, 12 Oct 2016 13:43:54 +0100</pubDate>
-        <link>http://swanseacon.github.io/blog/awesome-employers-list</link>
-        <guid isPermaLink="true">http://swanseacon.github.io/blog/awesome-employers-list</guid>
+        <link>http://localhost:4000/blog/awesome-employers-list</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/awesome-employers-list</guid>
       </item>
     
       <item>
@@ -57,8 +57,8 @@
 
 </description>
         <pubDate>Thu, 06 Oct 2016 07:15:10 +0100</pubDate>
-        <link>http://swanseacon.github.io/blog/donating-notebooks-from-swanseacon</link>
-        <guid isPermaLink="true">http://swanseacon.github.io/blog/donating-notebooks-from-swanseacon</guid>
+        <link>http://localhost:4000/blog/donating-notebooks-from-swanseacon</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/donating-notebooks-from-swanseacon</guid>
       </item>
     
       <item>
@@ -90,8 +90,8 @@
 &lt;p&gt;twitter.com/SwanseaCon&lt;/p&gt;
 </description>
         <pubDate>Tue, 16 Feb 2016 20:19:00 +0000</pubDate>
-        <link>http://swanseacon.github.io/blog/call-for-speakers-now-closed</link>
-        <guid isPermaLink="true">http://swanseacon.github.io/blog/call-for-speakers-now-closed</guid>
+        <link>http://localhost:4000/blog/call-for-speakers-now-closed</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/call-for-speakers-now-closed</guid>
       </item>
     
       <item>
@@ -175,8 +175,8 @@ Contact us about any specific requests.&lt;/p&gt;
 &lt;p&gt;twitter.com/SwanseaCon&lt;/p&gt;
 </description>
         <pubDate>Sun, 15 Nov 2015 14:41:37 +0000</pubDate>
-        <link>http://swanseacon.github.io/blog/call-for-speakers-now-open</link>
-        <guid isPermaLink="true">http://swanseacon.github.io/blog/call-for-speakers-now-open</guid>
+        <link>http://localhost:4000/blog/call-for-speakers-now-open</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/call-for-speakers-now-open</guid>
       </item>
     
       <item>
@@ -185,7 +185,7 @@ Contact us about any specific requests.&lt;/p&gt;
 
 &lt;p&gt;We really hope you enjoyed SwanseaCon 2015 and we just wanted to write a quick post to say a massive thank you for coming along and being a part of it!&lt;/p&gt;
 
-&lt;p&gt;The feedback so far has been excellent and we’re already looking at ways to implement some of the suggestions. If you didn’t get a chance to leave feedback we’d love to know your thoughts so please &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#104;&amp;#101;&amp;#108;&amp;#108;&amp;#111;&amp;#064;&amp;#115;&amp;#119;&amp;#097;&amp;#110;&amp;#115;&amp;#101;&amp;#097;&amp;#099;&amp;#111;&amp;#110;&amp;#046;&amp;#099;&amp;#111;&amp;#046;&amp;#117;&amp;#107;&amp;#063;&amp;#102;&amp;#101;&amp;#101;&amp;#100;&amp;#098;&amp;#097;&amp;#099;&amp;#107;&quot;&gt;get in touch&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The feedback so far has been excellent and we’re already looking at ways to implement some of the suggestions. If you didn’t get a chance to leave feedback we’d love to know your thoughts so please &lt;a href=&quot;mailto:hello@swanseacon.co.uk?feedback&quot;&gt;get in touch&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;We had lots of photographs of both days taken, &lt;a href=&quot;https://www.flickr.com/photos/136328291@N04&quot;&gt;click here to view photos from SwanseaCon 2015&lt;/a&gt;. We recorded nearly all the speaker sessions so we will let you know as soon as these are available online for you to take a look.&lt;/p&gt;
 
@@ -240,8 +240,8 @@ Contact us about any specific requests.&lt;/p&gt;
 &lt;p&gt;You can get all the latest news and updates about next years conference over on &lt;a href=&quot;http://www.twitter.com/swanseacon&quot;&gt;our twitter account&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 14 Sep 2015 14:43:18 +0100</pubDate>
-        <link>http://swanseacon.github.io/blog/thank-you-for-attending-swaneacon-2015</link>
-        <guid isPermaLink="true">http://swanseacon.github.io/blog/thank-you-for-attending-swaneacon-2015</guid>
+        <link>http://localhost:4000/blog/thank-you-for-attending-swaneacon-2015</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/thank-you-for-attending-swaneacon-2015</guid>
       </item>
     
       <item>
@@ -276,12 +276,12 @@ Let’s face the truth. Remote working is an increasing trend for several startu
 &lt;p&gt;&lt;a href=&quot;http://swancon.co.uk/schedule/#session-5&quot;&gt;Managing global teams : Lessons learned&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 22 Jul 2015 21:43:18 +0100</pubDate>
-        <link>http://swanseacon.github.io/blog/patroklos-papapetrou-managing-global-teams</link>
-        <guid isPermaLink="true">http://swanseacon.github.io/blog/patroklos-papapetrou-managing-global-teams</guid>
+        <link>http://localhost:4000/blog/patroklos-papapetrou-managing-global-teams</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/patroklos-papapetrou-managing-global-teams</guid>
       </item>
     
       <item>
-        <title>Thomas Sundberg - Tell, don&#39;t ask</title>
+        <title>Thomas Sundberg - Tell, don't ask</title>
         <description>&lt;h4 id=&quot;tell-dont-ask&quot;&gt;Tell, don’t ask.&lt;/h4&gt;
 
 &lt;h5 id=&quot;why-talk-about-tell-dont-ask-at-swanseacon-2015&quot;&gt;Why talk about ‘Tell, don’t ask’ at Swanseacon 2015?&lt;/h5&gt;
@@ -307,12 +307,12 @@ Let’s face the truth. Remote working is an increasing trend for several startu
 &lt;p&gt;&lt;a href=&quot;http://swancon.co.uk/schedule/#session-13&quot;&gt;Tell, don’t ask&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 05 May 2015 12:18:18 +0100</pubDate>
-        <link>http://swanseacon.github.io/blog/thomas-sundberg-tell-dont-ask</link>
-        <guid isPermaLink="true">http://swanseacon.github.io/blog/thomas-sundberg-tell-dont-ask</guid>
+        <link>http://localhost:4000/blog/thomas-sundberg-tell-dont-ask</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/thomas-sundberg-tell-dont-ask</guid>
       </item>
     
       <item>
-        <title>Adam Tornhill - There&#39;s More to Code than Code</title>
+        <title>Adam Tornhill - There's More to Code than Code</title>
         <description>&lt;h4 id=&quot;theres-more-to-code-than-code&quot;&gt;There’s more to code than code&lt;/h4&gt;
 
 &lt;p&gt;Our software industry is good at exploring new ways to do things. If you’ve been around for a while you’ve probably seen your fair share of trends come and go. These trends are reactions to past failures. We push the pendulum from one extreme to the next. Yesterday’s silver bullet is tomorrow’s legacy code. Right now microservices are all the rage. In a few years we’ll see a counter reaction as we discover that the complexity is still there, only now it’s distributed as well.&lt;/p&gt;
@@ -356,13 +356,13 @@ Let’s face the truth. Remote working is an increasing trend for several startu
 &lt;p&gt;&lt;a href=&quot;http://swancon.co.uk/schedule/#session-17&quot;&gt;Treat your Code as a Crime Scene&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 05 May 2015 12:18:18 +0100</pubDate>
-        <link>http://swanseacon.github.io/blog/adam-tornhill-theres-more-to-code-than-code</link>
-        <guid isPermaLink="true">http://swanseacon.github.io/blog/adam-tornhill-theres-more-to-code-than-code</guid>
+        <link>http://localhost:4000/blog/adam-tornhill-theres-more-to-code-than-code</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/adam-tornhill-theres-more-to-code-than-code</guid>
       </item>
     
       <item>
         <title>Jiri Knesl - Should we use an existing agile methodology or create our own?</title>
-        <description>&lt;h4 id=&quot;should-we-use-an-existing-agile-methodology-or-create-our-own&quot;&gt;Should we use an existing agile methodology or create our own?&lt;/h4&gt;
+        <description>&lt;p&gt;####Should we use an existing agile methodology or create our own?&lt;/p&gt;
 
 &lt;p&gt;Picking a programming language, platform, and framework are key things that largely influence your development efforts. And for frameworks you have an important question: do you use an existing one or make your own?&lt;/p&gt;
 
@@ -415,8 +415,8 @@ Let’s face the truth. Remote working is an increasing trend for several startu
 &lt;p&gt;&lt;a href=&quot;http://swancon.co.uk/schedule/#session-11&quot;&gt;How to use Theory of Constraints to scale big agile development teams?&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 20 Apr 2015 08:00:00 +0100</pubDate>
-        <link>http://swanseacon.github.io/blog/jiri-knesl-should-we-use-an-existing-agile-methodology-or-create-our-own</link>
-        <guid isPermaLink="true">http://swanseacon.github.io/blog/jiri-knesl-should-we-use-an-existing-agile-methodology-or-create-our-own</guid>
+        <link>http://localhost:4000/blog/jiri-knesl-should-we-use-an-existing-agile-methodology-or-create-our-own</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/jiri-knesl-should-we-use-an-existing-agile-methodology-or-create-our-own</guid>
       </item>
     
       <item>
@@ -428,8 +428,8 @@ Let’s face the truth. Remote working is an increasing trend for several startu
 &lt;p&gt;More details about speakers, agenda and tickets will appear in subsequent posts. In the meantime like us on &lt;a href=&quot;https://www.facebook.com/swanseacon&quot;&gt;Facebook&lt;/a&gt;, follow on &lt;a href=&quot;https://twitter.com/SwanseaCon&quot;&gt;Twitter&lt;/a&gt;, add to circles in &lt;a href=&quot;https://plus.google.com/u/1/105624973822199981487&quot;&gt;Google+&lt;/a&gt; or subcribe to our &lt;a href=&quot;//swancon.us10.list-manage.com/subscribe/post?u=6f529863589ed3eabebff1faf&amp;amp;id=ac260fb163&quot;&gt;mailing list&lt;/a&gt; in order not to miss any cool stuff about the conference.&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Mar 2015 07:00:00 +0000</pubDate>
-        <link>http://swanseacon.github.io/blog/early-bird-tickets-now-on-sale</link>
-        <guid isPermaLink="true">http://swanseacon.github.io/blog/early-bird-tickets-now-on-sale</guid>
+        <link>http://localhost:4000/blog/early-bird-tickets-now-on-sale</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/early-bird-tickets-now-on-sale</guid>
       </item>
     
   </channel>

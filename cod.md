@@ -13,7 +13,7 @@ SwanseaCon prides itself on being an open, respectful, and inclusive conference.
 If someone is bothering you, please tell SwanseaCon Organizers immediately and they will take care of it. We want to maintain SwanseaCon’s awesomeness.
 
 
-######Contacts:
+###### Contacts:
 
 - Viv Richards, [hello@swancon.co.uk](mailto:hello@swancon.co.uk)
 
