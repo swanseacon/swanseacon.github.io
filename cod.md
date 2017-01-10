@@ -1,20 +1,12 @@
 ---
 layout: post
-title: Don't be a jerk policy
+title: Code of Conduct
 permalink: /cod/
 isStaticPost: true
 ---
 
-__This "Don't be a jerk" policy is a shortened, more casual version of the longer Code of Conduct policy. [Read full version](http://meta.wikimedia.org/wiki/Don%27t_be_a_dick).__
+__Code of Conduct__
 
 
-SwanseaCon prides itself on being an open, respectful, and inclusive conference. That means jerky behavior isn’t allowed at SwanseaCon. Because we know that it’s not obvious to everyone, here’s a reminder of the things we don’t allow: jokes or offensive comments about sex/sexuality/race/religion/nationality/body size, showing porn in public, touching people uninvited, or continuing to interact with someone after they’ve asked you to stop. Continuous jerky behavior may result in getting expelled from SwanseaCon.
+Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, or religion (or lack thereof). We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organisers.
 
-If someone is bothering you, please tell SwanseaCon Organizers immediately and they will take care of it. We want to maintain SwanseaCon’s awesomeness.
-
-
-###### Contacts:
-
-- Viv Richards, [hello@swancon.co.uk](mailto:hello@swancon.co.uk)
-
-<img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
