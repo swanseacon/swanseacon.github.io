@@ -5,6 +5,7 @@
 - 
   group: "Partners"
   elements: 
+    - {name: "Skills Matter", description: "Explore skillscasts, meetups, conferences, courses, tutorials and workshops", link: "https://skillsmatter.com/explore?q=agile", imageUrl: "skillsmatter.png", width: "160px"}
     - {name: "Codurance", description: "Codurance, Craft at heart", link: "http://www.codurance.com/", imageUrl: "codurance.png"}
     - {name: "Swansea Software Development Community", description: "#SSDC, Swansea Software Development Community", link: "http://www.meetup.com/swansea-software-development-community/", imageUrl: "ssdc.png", width: "160px"}
     - {name: "nCrafts.io", description: "NEWCRAFTS CONFERENCES Paris", link: "http://ncrafts.io", imageUrl: "oxiane_partenaire_formation_ncrafts2016-e1456319240424.png", width: "160px"}
