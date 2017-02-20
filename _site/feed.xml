@@ -7,6 +7,29 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Call for papers is now closed</title>
+        <description>&lt;p&gt;The call for speakers for our third event has now closed. The response has been fantastic, over 120 submissions were received from speakers all around the world.&lt;/p&gt;
+
+&lt;p&gt;We’re are currently busy putting together an agenda for the third Agile Development &amp;amp; Software Craftsmanship conference in Wales - &lt;a href=&quot;http://swanseacon.co.uk/&quot;&gt;SwanseaCon 2017&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;What to expect:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Attendance&lt;/strong&gt;: we’re expecting over 200 attendees&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Topic&lt;/strong&gt;: more than 25 hours of agile development &amp;amp; software craftsmanship&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Date&lt;/strong&gt;: 25-26 of September, expect a two day event&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Venue&lt;/strong&gt;: Liberty Stadium, Swansea&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Speakers&lt;/strong&gt;: more than 25 world class speakers&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;More details about speakers, agenda and tickets will appear in subsequent posts. In the meantime like us on &lt;a href=&quot;https://www.facebook.com/swanseacon&quot;&gt;Facebook&lt;/a&gt;, follow on &lt;a href=&quot;https://twitter.com/SwanseaCon&quot;&gt;Twitter&lt;/a&gt;, add to circles in &lt;a href=&quot;https://plus.google.com/u/1/105624973822199981487&quot;&gt;Google+&lt;/a&gt; or subcribe to our &lt;a href=&quot;//swancon.us10.list-manage.com/subscribe/post?u=6f529863589ed3eabebff1faf&amp;amp;id=ac260fb163&quot;&gt;mailing list&lt;/a&gt; in order not to miss any cool stuff about the conference.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 19 Feb 2017 08:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/call-for-papers-now-closed</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/call-for-papers-now-closed</guid>
+      </item>
+    
+      <item>
         <title>Awesome Employers list</title>
         <description>&lt;h3 id=&quot;awesome-employers-list&quot;&gt;Awesome Employers list.&lt;/h3&gt;
 
@@ -417,19 +440,6 @@ Let’s face the truth. Remote working is an increasing trend for several startu
         <pubDate>Mon, 20 Apr 2015 08:00:00 +0100</pubDate>
         <link>http://localhost:4000/blog/jiri-knesl-should-we-use-an-existing-agile-methodology-or-create-our-own</link>
         <guid isPermaLink="true">http://localhost:4000/blog/jiri-knesl-should-we-use-an-existing-agile-methodology-or-create-our-own</guid>
-      </item>
-    
-      <item>
-        <title>Early bird tickets now on sale!</title>
-        <description>&lt;p&gt;While we’re still running through speaker submissions and trying to finalise an agenda we’ve decided to give you lucky lot a chance to save £200 off a standard conference ticket!&lt;/p&gt;
-
-&lt;p&gt;If you purchase a ticket before 31st March 2015 you will be able to save £200 and snap up a ticket for just £250. After 31st March 2015 ticket prices will increase, so grab a bargain today.&lt;/p&gt;
-
-&lt;p&gt;More details about speakers, agenda and tickets will appear in subsequent posts. In the meantime like us on &lt;a href=&quot;https://www.facebook.com/swanseacon&quot;&gt;Facebook&lt;/a&gt;, follow on &lt;a href=&quot;https://twitter.com/SwanseaCon&quot;&gt;Twitter&lt;/a&gt;, add to circles in &lt;a href=&quot;https://plus.google.com/u/1/105624973822199981487&quot;&gt;Google+&lt;/a&gt; or subcribe to our &lt;a href=&quot;//swancon.us10.list-manage.com/subscribe/post?u=6f529863589ed3eabebff1faf&amp;amp;id=ac260fb163&quot;&gt;mailing list&lt;/a&gt; in order not to miss any cool stuff about the conference.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 01 Mar 2015 07:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/early-bird-tickets-now-on-sale</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/early-bird-tickets-now-on-sale</guid>
       </item>
     
   </channel>
