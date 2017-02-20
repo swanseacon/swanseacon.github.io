@@ -66,7 +66,7 @@ typeoutTextValues: '"", "Agile", "Development", "Software", "Craftsmanship"'
 typeoutFallback: ""
 heroButtons:
  - {permalink: "#about", text: "About SwanseaCon"}
- - {permalink: "#tickets", text: "Blind early bird tickets now on sale!"}
+ - {permalink: "#tickets", text: "Early bird tickets now on sale!"}
  
 # About Block
 aboutTitle: "<h3>About SwanseaCon</h3>"
