@@ -1,0 +1,37 @@
+- 
+  id: 1
+  name: "Sander"
+  surname: "Hoogendoorn"
+  company: "ditisagile.nl"
+  title: ""
+  bio: "<p>Sander is an independent dad, mentor, trainer, software architect, programmer, speaker, and writer. He is a highly appreciated catalyst in the innovation of software development at his many international clients. Well known as the author of the best-selling book This Is Agile, Sander coaches organizations, projects and teams, has written books on UML and agile, and published over 250 articles in international magazines. He is an inspiring (keynote) speaker at many international conferences, and presents seminars and training courses on a variety of topics such as (beyond) agile, Scrum, Kanban, software estimation, software architecture, microservices, design patterns, modeling and UML, writing code, and testing.</p>"
+  thumbnailUrl: SanderHoogendoorn.jpg
+  rockstar: true	
+  social: 
+    - {name: "twitter", link: "http://twitter.com/aahoogendoorn"}
+- 
+  id: 2
+  name: "Sallyann"
+  surname: "Freudenberg"
+  company: "Sallyann Freudenberg Consulting Limited"
+  title: ""
+  bio: "<p>With more than 25 years in the world of software development, Sal uniquely blends over ten years of doing, coaching and teaching Agile approaches with her research into the psychology of programming.</p>
+  <p>An experienced and popular speaker, most recently she has been speaking out to the tech industry on neurodiversity and how to support the different kinds of brains our industry needs. Her talks include keynotes at Oredev, RallyOn, and Lean Agile Scotland. She has also spoken several times at the XP20XX series of conferences in Europe, at QCON, London Lean Kanban Days, various European Scrum Gatherings, The symposium on Visual Languages and Human Centric Computing and the symposium on Cooperative Systems Design Conference (COOP).</p>"
+  thumbnailUrl: SallyannFreudenberg.jpg
+  rockstar: true	
+  social: 
+    - {name: "twitter", link: "http://twitter.com/salfreudenberg"}
+- 
+  id: 3
+  name: "Seb"
+  surname: "Rose"
+  company: "Cucumber Limited"
+  title: ""
+  bio: "<p>Consultant, Designer, Analyst and Developer for over 30 years.</p>
+  <p>I have been involved in the full development lifecycle with experience that ranges from Architecture to Support, from BASIC to Ruby. Recently I have been helping teams adopt and refine their agile practices, with a particular focus on automated testing.</p>
+  <p>Regular speaker at conferences and occasional contributor to software journals.</p>
+  <p>Contributing author to ''97 Things Every Programmer Should Know'' - O'Reilly. Lead author of ''The Cucumber for Java Book'' - Pragmatic Programmers (2015)</p>"
+  thumbnailUrl: SebRose.jpg
+  rockstar: true	
+  social: 
+    - {name: "twitter", link: "http://twitter.com/sebrose"}

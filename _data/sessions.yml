@@ -11,10 +11,10 @@
   language: en
 -
   id: 003
-  title: "Opening Keynote"
+  title: "Opening Keynote - Day 1"
   description: "Information to follow"
   subtype: keynote
-  speakers: [29]
+  speakers: [1]
   language: en
 -
   id: 004
@@ -100,10 +100,10 @@
   service: true
 -
   id: 018
-  title: "TBC"
+  title: "Opening Keynote - Day 2"
   description: "Information to follow"
-  subtype: presentation 
-  speakers: [22]
+  subtype: keynote 
+  speakers: [2]
   language: en
 -
   id: 019
@@ -152,7 +152,7 @@
   title: "TBC"
   description: "Information to follow"
   subtype: presentation
-  speakers: [2,8]
+  speakers: [12,8]
   language: en
 -
   id: 026
@@ -201,7 +201,7 @@
   title: "TBC"
   description: "Information to follow"
   subtype: presentation
-  speakers: [1]
+  speakers: [16]
   language: en
 -
   id: 033
@@ -219,17 +219,17 @@
   language: en
 -
   id: 035
-  title: "Closing Keynote"
+  title: "Closing Keynote - Day 2"
   description: "Information to follow"
   subtype: keynote
-  speakers: [27]
+  speakers: [3]
   language: en
 -
   id: 036
   title: "TBC"
   description: "Information to follow"
   subtype: presentation
-  speakers: [13,3]
+  speakers: [13,16]
   language: en
 -
   id: 037
