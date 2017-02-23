@@ -9,7 +9,7 @@ We're still busy going through all of the fantastic submissions we received from
 
 
 
-Sander Hoogendoorn will be returning for his third year at SwanseaCon and will be kicking things off on day one with the opening Keynote. The feedback the last two years on Sanders sessions has been fantastic with attendees stating he was one of the highlights of the event, and so we're very pleased to be able to have him join us again. We will also be joined by two new faces, Sallyann Freudenberg and Seb Rose. Sallyann will be giving an opening Keynote on day two with Seb bringing the event to a close on day two with the the closing keynote to SwanseaCon 2017. SwanseaCon is very lucky in having these exceptional speakers give their time to share their thoughts and knowledge with the community and we hope you will be as excited as us to see them at the event.
+Sander Hoogendoorn will be returning for his third year at SwanseaCon and will be kicking things off on day one with the opening Keynote. The feedback the last two years on Sanders sessions has been fantastic with attendees stating he was one of the highlights of the event, and so we're very pleased to be able to have him join us again. We will also be joined by two new faces at SwanseaCon, Sallyann Freudenberg and Seb Rose. Sallyann will be giving an opening Keynote on day two with Seb bringing the event to a close on day two with the the closing keynote to SwanseaCon 2017. SwanseaCon is very lucky in having these exceptional speakers give their time to share their thoughts and knowledge with the community and we hope you will be as excited as us to see them at the event.
 
 ***Sander Hoogendoorn***
 
