@@ -5,8 +5,8 @@
 - 
   group: "Bronze"
   elements: 
-    - {name: "Axosoft", description: "Scrum Software - Agile Project Management", link: "http://www.axosoft.com/", imageUrl: "axosoft.png", width: "210px"}
-    - {name: "GitKraken", description: "Git GUI for Windows, Mac & Linux", link: "http://www.gitkraken.com/", imageUrl: "gitkraken.png", width: "210px"}
+    - {name: "Axosoft", description: "Scrum Software - Agile Project Management", link: "http://www.axosoft.com/", imageUrl: "axosoft.png", width: "250px"}
+    - {name: "GitKraken", description: "Git GUI for Windows, Mac & Linux", link: "http://www.gitkraken.com/", imageUrl: "gitkraken.png", width: "250px"}
 - 
   group: "Media Partners"
   elements: 
