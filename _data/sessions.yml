@@ -180,6 +180,13 @@
   speakers: [17]
   language: en
 -
+  id: 028
+  title: "Closing Keynote - Day 2"
+  description: "Information to follow"
+  subtype: keynote 
+  speakers: [3]
+  language: en
+-
   id: 098
   title: "Evening Reception"
   place: "Penderyn Suite (Floor 3)"
