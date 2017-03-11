@@ -1,14 +1,172 @@
+
 - 
-  id: 1
-  name: "Sander"
-  surname: "Hoogendoorn"
-  company: "ditisagile.nl"
+  id: 17
+  name: "Andrea"
+  surname: "Rizzo"
+  company: "Accenture"
   title: ""
-  bio: "<p>Sander is an independent dad, mentor, trainer, software architect, programmer, speaker, and writer. He is a highly appreciated catalyst in the innovation of software development at his many international clients. Well known as the author of the best-selling book This Is Agile, Sander coaches organizations, projects and teams, has written books on UML and agile, and published over 250 articles in international magazines. He is an inspiring (keynote) speaker at many international conferences, and presents seminars and training courses on a variety of topics such as (beyond) agile, Scrum, Kanban, software estimation, software architecture, microservices, design patterns, modeling and UML, writing code, and testing.</p>"
-  thumbnailUrl: SanderHoogendoorn.jpg
-  rockstar: true	
+  bio: "<p>Born in Italy but currently living in the beautiful England, I'm Scrum Master and Agile Lead @ Accenture UKI. I started studying Communication and Information Techniques and eventually diverted to International Business with a Masters that taught me the art of analysing figures, processes and data. I'm an active certified Scrum Professional (CSP) and ISEB/BCS certified BA and Tester. I reckon I fully understand the benefits and values underlying the good practice of being agile and recommend its usage in the chaotic word of development. I coach people and try to remove any impediments that prevent teams from reaching their goals.</p>"
+  thumbnailUrl: AndreaRizzo.jpg
+  rockstar: false	
   social: 
-    - {name: "twitter", link: "http://twitter.com/aahoogendoorn"}
+    - {name: "twitter", link: "http://twitter.com/andrearizzo86"}
+- 
+  id: 8
+  name: "David"
+  surname: "Leach"
+  company: "Office Depot EU"
+  title: ""
+  bio: "<p>Having spent 15 years in Digital teams working in most roles within the software dev lifecycle, I am now a Senior Product Manager working on strategy and innovation for Office Depot.</p>
+  <p>I run the meetup Lean Coffee Milton Keynes having helped run the London ones and I also blog here: http://www.leanintoagile.com</p>"
+  thumbnailUrl: DavidLeach.jpg
+  rockstar: false	
+  social: 
+    - {name: "twitter", link: "http://twitter.com/agileleachy"}
+- 
+  id: 18
+  name: "David"
+  surname: "Stokes"
+  company: "Oracle"
+  title: ""
+  bio: "<p>Dave Stokes is a MySQL Community Manager for Oracle.  Previously he was the MySQL Certification Manager for MySQL AB and SUN.  He has worked for companies ranging alphabetically from the American Heart Association to Xerox and work ranging from Anti-submarine warfare to web developer. He lives in Texas, is @Stoker, blogs at elephantanddolphin.blogger.com, rides a Honda Goldwing, and wrote his first program in FORTAN on punch cards. And he really wonders how many people really, really read these conference biographies.</p>"
+  thumbnailUrl: DaveStokes.jpg
+  rockstar: false	
+  social: 
+    - {name: "twitter", link: "http://twitter.com/stoker"}
+- 
+  id: 19
+  name: "Denise"
+  surname: "Yu"
+  company: "Pivotal Cloud Foundry"
+  title: ""
+  bio: "<p>Denise started working in software two years ago, after a non-traditional route via law, policy, and education. She's actively involved with community initiatives in London surrounding diversity and inclusion in the tech industry.  Since November 2016, she's been a software engineer on the Pivotal Cloud Foundry RabbitMQ Service team in London, where she spends a lot of her day fighting with distributed systems and occasionally writing some Golang.</p>"
+  thumbnailUrl: DeniseYu.jpg
+  rockstar: false	
+  social: 
+    - {name: "twitter", link: "http://twitter.com/deniseyu21"}
+- 
+  id: 16
+  name: "Elisabeth"
+  surname: "Hocke"
+  company: "FlixBus"
+  title: ""
+  bio: "<p>Having graduated in sinology, I fell into agile and testing in 2009 and have been infected with the agile bug ever since. I'm especially passionate about the whole-team approach to testing and quality as well as the agile culture mindset behind it. Building great products which deliver value together with great people is what motivates me and keeps me going. I received a lot from the agile testing community; now I’m sharing my stories to give something of my experience back to the community. I tweet as @lisihocke and blog at lisihocke.blogspot.com. In my free time you can either find me in the gym running after a volleyball, having a good time with my friends or delving into games and stories of any kind.</p>"
+  thumbnailUrl: lisihocke.jpg
+  rockstar: false	
+  social: 
+    - {name: "twitter", link: "http://twitter.com/lisihocke"}
+- 
+  id: 15
+  name: "Georgina"
+  surname: "McFadyen"
+  company: "8th Light"
+  title: ""
+  bio: "<p>Georgina is a Software Crafter with a passion to help teams deliver high quality deliverables. She has witnessed successful agile transformations in huge corporate environments then watched them fail as key players depart. Today she enjoys working in collaborative teams and plays with a variety of technologies.</p>
+  <p>Outside of Programming Georgina likes to run miles in the great outdoors, and enjoys playing the violin in an amateur orchestra.</p>"
+  thumbnailUrl: GeorginaMcFadyen.jpg
+  rockstar: false	
+  social: 
+    - {name: "twitter", link: "http://twitter.com/gemcfadyen"}
+- 
+  id: 5
+  name: "Irina"
+  surname: "Tsyganok"
+  company: "YOOX NET-A-PORTER GROUP"
+  title: ""
+  bio: "<p>Irina Tsyganok is a software developer at YOOX NET-A-PORTER GROUP. An active member of Agile and wider technology community. This session is based on, and leads on from, her paper, 'Pair-Programming from a Beginner’s Perspective', that was presented at XP2016.</p>"
+  thumbnailUrl: IrinaTsyganok.jpg
+  rockstar: false	
+  social: 
+    - {name: "twitter", link: "http://twitter.com/irinatsyganok"}
+- 
+  id: 12
+  name: "Kathryn"
+  surname: "Goldman"
+  company: "KBG Solutions Ltd"
+  title: ""
+  bio: "<p>Kathryn Brett Goldman is a Director of KBG Solutions, a London-based consultancy focusing on IT/Business Convergence, innovative IT demand management processes, and developing Agile IT Leadership. She has over two decades of experience in relationship management and leadership skills, ranging from ‘in-the-trenches’ IT, to sales, consulting, training, and leadership coaching, and currently works with a wide range of organizations on IT Business engagement and Agile Leadership. The digital wave is breaking apart our old, static business and management models, and Kate enjoys bringing the best out of IT through bringing ‘outside’ thinking ‘into’ IT, motivating and mentoring IT professionals to break out of the box. She has over two decades of Consulting, Sales, Account Management, BRM, PM, BA, real life ‘in-the-trenches’ business experience, is a top ranked IT Trainer for Learning Tree International, and has served on the board for a number of small technology startups.</p>"
+  thumbnailUrl: KathrynGoldman.jpg
+  rockstar: false
+- 
+  id: 21
+  name: "Marcello"
+  surname: "Duarte"
+  company: "Inviqa"
+  title: ""
+  bio: "<p>Marcello Duarte is one of the creators of PhpSpec and heads the Training at Inviqa, a leading PHP consultancy business in Europe. He’s been awarded best UK Agile coach 2014 and has helped many teams in many organisations into Agile processes and development practices like Scrum, TDD, Refactoring, Collaborative Product Ownership and Software Quality.</p>"
+  thumbnailUrl: MarcelloDuarte.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "http://twitter.com/_md"}
+- 
+  id: 4
+  name: "Matteo"
+  surname: "Emili"
+  company: "Quest Software"
+  title: ""
+  bio: "<p>Matteo Emili is a Microsoft MVP for Visual Studio and Development Technologies since 2010. Former Microsoft Student Partner (youngest ever in Italy and the first ever in being both MSP and MVP, in 2010 at the age of 19), his experience spreads from Universities, going through small businesses to the largest worldwide enterprises.</p>
+  <p>His focus on software engineering tied with business processes led him to have a deep knowledge of different topics and technologies, from development to virtualization, and he has a passion for Agile Methodologies, Processes and all the techie stuff around the code, which leads him to always searching for something new to share with the worldwide community around the Application Lifecycle Management and DevOps fields.</p>
+  <p>He currently works for Quest Software as an Application Lifecycle Management and DevOps advisor.</p>"
+  thumbnailUrl: MatteoEmili.png
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "http://twitter.com/MattVSTS"}
+- 
+  id: 20
+  name: "Matt"
+  surname: "Lewis"
+  company: "DVLA"
+  title: ""
+  bio: "<p>Matt has over 17 years experience in the IT industry, working on major delivery and transformation projects in various countries and industries including financial services, telco, automotive and public sector. He is currently Chief Architect at DVLA, where he is responsible for overseeing technical direction. He is passionate about the use of technology and growing skills in the region, and is the founder of the AWS South Wales user group. Outside of work, he enjoys triathlons … apart from the swimming.</p>"
+  thumbnailUrl: MattLewis.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "http://twitter.com/m_lewis"}
+- 
+  id: 9 
+  name: "Max"
+  surname: "Woolf"
+  company: "Substrakt"
+  title: ""
+  bio: "<p>Max is a senior developer at Substrakt. He's a strong advocate of employing agile ideas within organisations (technology or otherwise) without being too bogged down in the detail of particular 'Agile' methodologies. He's also an avid tea drinker, piano player and puppy wrangler.</p>"
+  thumbnailUrl: MaxWoolf.jpg
+  rockstar: false	
+  social: 
+    - {name: "twitter", link: "http://twitter.com/maxehmookau"}
+- 
+  id: 13
+  name: "Nat"
+  surname: "Morris"
+  company: "Netflix"
+  title: ""
+  bio: "<p>Information to follow</p>"
+  thumbnailUrl: NatMorris.jpg
+  rockstar: false	
+  social: 
+    - {name: "twitter", link: "http://twitter.com/natmorris"}
+- 
+  id: 11
+  name: "Nick"
+  surname: "Tune"
+  company: "Salesforce"
+  title: ""
+  bio: "<p>Nick is passionate about delighting users, creating business impacts, and crafting quality software, placing an equal focus on improving both the delivery capabilities and alignment of an organisation. He specialises in transformation projects, having worked with a number of organisations in both the public and private sector to achieve continuous delivery. He is the co-author of Patterns, Principles and Practices of Domain-Driven Design, blogs at ntcoding.com, and is currently on a hugely-ambitious adventure with Salesforce where he is a Principal Engineer.</p>"
+  thumbnailUrl: NickTune.jpeg
+  rockstar: false	
+  social: 
+    - {name: "twitter", link: "http://twitter.com/ntcoding"}
+- 
+  id: 10
+  name: "Paul"
+  surname: "Stringer"
+  company: "Equal Experts"
+  title: ""
+  bio: "<p>Paul was given his first Mac in 1985. This was the beginning of a journey that has included everything from Hypercard to WebObjects, Cocoa and iOS.</p>
+  <p>Paul has worked at startups and companies including Sky & Apple and now leads mobile engineering at Equal Experts. As one of the industry's most seasoned practitioners, Paul is an advocate of Clean Code, SOLID principles and Acceptance Test Driven Development in the pursuit of beautifully made software for iOS.</p>"
+  thumbnailUrl: PaulStringer.jpg
+  rockstar: false	
+  social: 
+    - {name: "twitter", link: "http://twitter.com/paulstrigner"}
 - 
   id: 2
   name: "Sallyann"
@@ -21,6 +179,17 @@
   rockstar: true	
   social: 
     - {name: "twitter", link: "http://twitter.com/salfreudenberg"}
+- 
+  id: 1
+  name: "Sander"
+  surname: "Hoogendoorn"
+  company: "ditisagile.nl"
+  title: ""
+  bio: "<p>Sander is an independent dad, mentor, trainer, software architect, programmer, speaker, and writer. He is a highly appreciated catalyst in the innovation of software development at his many international clients. Well known as the author of the best-selling book This Is Agile, Sander coaches organizations, projects and teams, has written books on UML and agile, and published over 250 articles in international magazines. He is an inspiring (keynote) speaker at many international conferences, and presents seminars and training courses on a variety of topics such as (beyond) agile, Scrum, Kanban, software estimation, software architecture, microservices, design patterns, modeling and UML, writing code, and testing.</p>"
+  thumbnailUrl: SanderHoogendoorn.jpg
+  rockstar: true	
+  social: 
+    - {name: "twitter", link: "http://twitter.com/aahoogendoorn"}
 - 
   id: 3
   name: "Seb"
@@ -35,3 +204,37 @@
   rockstar: true	
   social: 
     - {name: "twitter", link: "http://twitter.com/sebrose"}
+- 
+  id: 6
+  name: "Scott"
+  surname: "Fulton"
+  company: "Self-Employed Consultant"
+  title: ""
+  bio: "<p>Scott Fulton is a head of digital services with over 17 years' experience. He introduced agile into a large, traditionally waterfall-based organisation and performs the role of product owner. He has led the transformation of the organisation's web channel, having driven up user satisfaction from 42% to 94% within 6 months. He has also recently been responsible for the introduction of an enterprise scale collaborative Intranet.</p>
+  <p>Scott is a huge agile advocate and regularly blogs and speaks on the subject, with a particular interest in how agile thinking applies to prioritisation and feeling overwhelmed, team welfare and organisational disruption.</p>"
+  thumbnailUrl: ScottFulton.jpg
+  rockstar: false	
+  social: 
+    - {name: "twitter", link: "http://twitter.com/SFWebDigital"}
+- 
+  id: 14
+  name: "Tatiana"
+  surname: "Kolesnikova"
+  company: ""
+  title: ""
+  bio: "<p>Design and development are not two poles apart. With academic background in both IT and design Tatiana helps all members of her teams connect with each other and reach shared understanding about what exactly is being built. She has studied graphic and interaction design, intellectual computer systems and visualization in IT in universities of St.-Petersburg and Bergen. Tatiana has worked with information architecture, branding and full range UX/UI design both in-house and as an external consultant. All this education and experience became the foundation of the methodology that brings together user-oriented design and Agile development process. </p>"
+  thumbnailUrl: TatianaKolesnikova.jpg
+  rockstar: false	
+  social: 
+    - {name: "twitter", link: "http://twitter.com/Kolett"}
+- 
+  id: 7
+  name: "Thomas"
+  surname: "Guest"
+  company: "Clinithink"
+  title: ""
+  bio: "<p>Thomas Guest is an experienced and enthusiastic software developer who likes puzzles, programming, running and noodles. His website is http://wordaligned.org</p>"
+  thumbnailUrl: ThomasGuest.jpeg
+  rockstar: false	
+  social: 
+    - {name: "twitter", link: "http://twitter.com/thomasguest"}

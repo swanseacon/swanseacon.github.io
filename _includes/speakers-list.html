@@ -5,7 +5,10 @@
             <div class="row text-left appear-animation-trigger">
 							
 							<h3>Speakers</h3>
-                {% for speaker in site.data.speakers %}
+							<h5>We will be announcing a further seven speakers to the lineup so please check back soon!<br><br></h5>
+						
+							
+                {% for speaker in site.data.speakers sort: 'surname' %}
                 <div class="effect-wrapper appear-animation col-md-4 col-sm-6 col-xs-12">
                     <div class="lily-effect ribbon-activator">
                         <div class="lily-head" data-toggle="modal" data-target="#speakerDetail-{{ speaker.id }}">
@@ -52,10 +55,6 @@
                     </div>
                 </div>
                 {% endfor %}
-				
-				
-				<h4>Submissions currently under review</h4>
-<p>The call for speakers ended on Friday 17th February 2017 and we are currently selecting speakers and putting together a schedule.</p>
             </div> 
            
         </div>
