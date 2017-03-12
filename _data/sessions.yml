@@ -180,6 +180,14 @@
   speakers: [17]
   language: en
 -
+  id: 027
+  title: "Turning Development Outside–In"
+  description: "<p>We default to considering systems from an insider's perspective; the view from outside can be quite different. Can we apply this inversion to more than just requirements?</p>
+  <p>We may say we want testing, but what do we want from testing? We may say we want logging, but what do we want from logging? We may say we want clean code, but what do we want from clean code? We may say we want an agile process, but what do we want from an agile process? These are harder questions, but their answers can make for better solutions.</p>"
+  subtype: presentation
+  speakers: [25]
+  language: en
+-
   id: 028
   title: "Closing Keynote - Day 2"
   description: "Information to follow"
