@@ -11,6 +11,17 @@
   social: 
     - {name: "twitter", link: "http://twitter.com/andrearizzo86"}
 - 
+  id: 26
+  name: "Arvid"
+  surname: "Torset"
+  company: "SeniorDev"
+  title: ""
+  bio: "<p>Building software development teams from ground up has been Arvid´s main specialty for more than ten years. His task is to assemble the technologies that are suitable for a particular business problem and then find the right set of people and skills for them. He has done this for clients in hugely diverse domains and also for several companies where he was a co-founder. Work on all these projects have revealed the same problem: traditional tools and artefacts are not very suitable to establish efficient communication in team that try to work lean way. It is a new process that is needed, the process that ties all the stakeholders and developers closer together - from the CEO to the QA. Arvid is working on creating this process and teaching the teams to sustain and evolve it.</p>"
+  thumbnailUrl: ArvidTorset.jpg
+  rockstar: false	
+  social: 
+    - {name: "twitter", link: "http://twitter.com/arvtor"}
+- 
   id: 8
   name: "David"
   surname: "Leach"
