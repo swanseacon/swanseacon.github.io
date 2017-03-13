@@ -132,7 +132,7 @@
   title: "Defining MVP with Scenarios"
   description: "<p>What is the minimal version of the product that should be build? How to define what is in and what is out? I will suggest a technique that helps to leave emotions and company politics out of the MVP equation. The centre of this technique is scenarios, stories that describe how people use the product. Applied to different projects with different stakeholders, this approach works over and over again helping to make MVP live as early as possible.</p>"
   subtype: presentation 
-  speakers: [14]
+  speakers: [14, 26]
   language: en
 -
   id: 021
