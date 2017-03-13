@@ -195,6 +195,20 @@
   speakers: [3]
   language: en
 -
+  id: 027
+  title: "TBC"
+  description: "<p>Information to follow</p>"
+  subtype: presentation
+  speakers: [22]
+  language: en
+-
+  id: 028
+  title: "TBC"
+  description: "<p>Information to follow</p>"
+  subtype: presentation
+  speakers: [23]
+  language: en
+-
   id: 098
   title: "Evening Reception"
   place: "Penderyn Suite (Floor 3)"

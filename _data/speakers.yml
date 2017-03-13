@@ -23,6 +23,18 @@
   social: 
     - {name: "twitter", link: "http://twitter.com/agileleachy"}
 - 
+  id: 22
+  name: "Prof Dave"
+  surname: "Snowden"
+  company: "Bangor University"
+  title: ""
+  bio: "<p>Dave Snowden divides his time between two roles: founder Chief Scientific Officer of Cognitive Edge and the founder and Director of the Centre for Applied Complexity at Bangor University in Wales  His work is international in nature and covers government and industry looking at complex issues relating to strategy, organisational decision making and decision making.  He has pioneered a science based approach to organisations drawing on anthropology, neuroscience and complex adaptive systems theory.  He is a popular and passionate keynote speaker on a range of subjects, and is well known for his pragmatic cynicism and iconoclastic style.</p>
+  <p>In addition to his position at Bangor University he holds positions extra-ordinary Professor at the Universities of Pretoria and Stellenbosch and has held similar positions at Hong Kong Polytechnic University, Canberra University, the University of Warwick and The University of Surrey.  He held the position of senior fellow at the Institute of Defence and Strategic Studies at Nanyang University and the Civil Service College in Singapore during a sabbatical period in Nanyang.</p>"
+  thumbnailUrl: DaveSnowden.jpg
+  rockstar: false	
+  social: 
+    - {name: "twitter", link: "http://twitter.com/snowded"}
+- 
   id: 18
   name: "David"
   surname: "Stokes"
@@ -67,6 +79,20 @@
   rockstar: false	
   social: 
     - {name: "twitter", link: "http://twitter.com/gemcfadyen"}
+- 
+  id: 23
+  name: "Halima"
+  surname: "Koundi"
+  company: "Codurance"
+  title: ""
+  bio: "<p>Halima worked as an IT consultant for several years, before switching career. Having to handle data migration projects is what dragged her to the technical side of Software five years ago; she decided to retrain and learn how to code.</p>
+<p>Joining Codurance for an apprenticeship, Halima is levelling up her engineering skills and embracing the values of software craftsmanship, seeking to become a skilled professional that delivers value building robust and resilient software.</p>
+<p>City Lead organiser at Women Who Code London, she is actively working on bringing more diversity to the tech community.
+On her spare time, she likes to tinker with her fellow restarters, volunteers that help people learn to repair their own electronics in community events.</p>"
+  thumbnailUrl: halima_koundi.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "http://twitter.com/hkoundi"}
 - 
   id: 5
   name: "Irina"
