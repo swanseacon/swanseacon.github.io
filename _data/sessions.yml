@@ -223,6 +223,14 @@
   speakers: [27]
   language: en
 -
+  id: 031
+  title: "Live coding a chatbot in less than 15 minutes"
+  description: "<p>Using the Microsoft Bot Framework and LUIS, I will live-code a chat bot that we'll interact with to find out what's on at SwanseaCon!</p>
+  <p>The Bot Framework is amazingly powerful but it's also very new, not well documented and confusing at first glance. I'll strip all of that away to give you a quick start and show you that creating a chat bot can be done in a small amount of time with no expert experience of the Bot Framework.</p>"
+  subtype: presentation
+  speakers: [28]
+  language: en
+-
   id: 098
   title: "Evening Reception"
   place: "Penderyn Suite (Floor 3)"

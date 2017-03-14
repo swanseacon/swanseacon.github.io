@@ -147,6 +147,18 @@ On her spare time, she likes to tinker with her fellow restarters, volunteers th
   social: 
     - {name: "twitter", link: "http://twitter.com/KevlinHenney"}
 - 
+  id: 28
+  name: "Kristian"
+  surname: "Brimble"
+  company: "Just Eat"
+  title: ""
+  bio: "<p>Kristian is a senior engineer at Just Eat where he currently spends most of his time building chatbots and chatbot tools. When not building chatbots, he spends his time experimenting with applying the actor model to everything and server-less functional programming.</p>
+  <p>Outside of work Kristian plays too much Dota 2, enjoys cycling and craft beer.</p>"
+  thumbnailUrl: KristianBrimble.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "http://twitter.com/KristianBrimble"}
+- 
   id: 27
   name: "Lawrence"
   surname: "Weetman"
