@@ -79,6 +79,17 @@
   social: 
     - {name: "twitter", link: "http://twitter.com/lisihocke"}
 - 
+  id: 24
+  name: "Georgiana"
+  surname: "Gligor"
+  company: "Tekkie Consulting"
+  title: ""
+  bio: "<p>Having crafted professional software since 2003, Georgiana Gligor is living proof that geek girls are an asset to any team. She loves coding large-scale applications and mentoring team mates in achieving craftsmanship. Georgiana has experience in every aspect of the life cycle of software development and is hungry for more. Since 2011 she is running her own consulting company specialised in application architecture, QA, DevOps, and modernising legacy codebases and can sometimes be found offering in-house trainings for companies on topics like Domain-Driven Design, RESTful APIs, Continuous Delivery, or software craftsmanship.</p>"
+  thumbnailUrl: GeorgianaGligor.jpg
+  rockstar: false	
+  social: 
+    - {name: "twitter", link: "http://twitter.com/gbtekkie"}
+- 
   id: 15
   name: "Georgina"
   surname: "McFadyen"
