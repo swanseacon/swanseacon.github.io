@@ -147,6 +147,17 @@ On her spare time, she likes to tinker with her fellow restarters, volunteers th
   social: 
     - {name: "twitter", link: "http://twitter.com/KevlinHenney"}
 - 
+  id: 27
+  name: "Lawrence"
+  surname: "Weetman"
+  company: "Ocado Technology"
+  title: ""
+  bio: "<p>Lawrence is a Software Engineer at Ocado Technology, helping thousands of vans to successfully deliver fresh groceries to customers' doors every day. He has delivered internal Kanban training at Ocado, has a healthy interest in team process and tries to keep up with an unsustainable list of agile podcast subscriptions.</p>"
+  thumbnailUrl: LawrenceWeetman.jpg
+  rockstar: false	
+  social: 
+    - {name: "twitter", link: "http://twitter.com/hairyagile"}
+- 
   id: 21
   name: "Marcello"
   surname: "Duarte"

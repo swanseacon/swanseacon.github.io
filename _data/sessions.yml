@@ -216,6 +216,13 @@
   speakers: [24]
   language: en
 -
+  id: 030
+  title: "Limiting WIP in the kitchen sink (aka 'shamelessly capitalising upon an argument with my wife...')"
+  description: "<p>Lawrence had an argument with his wife about the washing up. While sulking about it, he realised that a lot of parallels could be drawn with how we develop software... in particular, how having lots of 'work in progress' can seriously damage the flow of work through your development process.</p>"
+  subtype: presentation
+  speakers: [27]
+  language: en
+-
   id: 098
   title: "Evening Reception"
   place: "Penderyn Suite (Floor 3)"
