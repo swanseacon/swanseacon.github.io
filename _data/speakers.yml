@@ -147,6 +147,17 @@ On her spare time, she likes to tinker with her fellow restarters, volunteers th
   social: 
     - {name: "twitter", link: "http://twitter.com/KevlinHenney"}
 - 
+  id: 29
+  name: "Kim"
+  surname: "van Wilgen"
+  company: "ANVA"
+  title: ""
+  bio: "<p>Kim is an experienced Head of IT in technologically advanced environments. Although a nerd at heart, she also has over a decade of experience in product development and comparable managerial roles on the other side: the business. She can still speak the language of the product owners and the users to understand the gap we quite frequently need to bridge. Kim van Wilgen is passionate about topics such as agile, Kanban, DevOps and continuous delivery, and the management of the cultural, organizational, team and technological changes associated with these approaches.</p>"
+  thumbnailUrl: KimvanWilgen.jpg
+  rockstar: false	
+  social: 
+    - {name: "twitter", link: "http://twitter.com/kimvanwilgen"}
+- 
   id: 28
   name: "Kristian"
   surname: "Brimble"
