@@ -1,0 +1,37 @@
+ - 
+  id: 1
+  company: "MySQL"
+  description: "<h5>Where experiences are engineered</h5>
+  <p>MySQL is the world's most popular open source database. With its proven performance, reliability and ease-of-use, MySQL has become the leading database choice for web-based applications, used by high profile web properties including Facebook, Twitter, YouTube, Yahoo! and many more. Additionally, it is an extremely popular choice as embedded database, distributed by over 3,000 ISVs & OEMs. To organizations in need of an open source, ACID-compliant transactional database delivering real-time in-memory performance and 99.999 percent availability, Oracle offers MySQL Cluster. MySQL Cluster powers the subscriber databases of major communications service providers and is used in global fraud detection for financial transactions. Oracle drives MySQL innovation, constantly improving MySQL solutions and delivering new capabilities to power next generation web, cloud, mobile and embedded applications.</p> <p>For more information, visit:</p>"
+  thumbnailUrl: mysql.png
+  website: "http://www.mysql.com/" 
+ - 
+  id: 2
+  company: "Axosoft"
+  thumbnailUrl: axosoft.png
+  website: "http://www.axosoft.com/"
+ - 
+  id: 3
+  company: "GitKraken"
+  thumbnailUrl: gitkraken.png
+  website: "http://www.gitkraken.com/"
+ - 
+  id: 4
+  company: "Skills Matter"
+  thumbnailUrl: skillsmatter.png
+  website: "http://www.skillsmatter.com/explore?q=agile"
+ - 
+  id: 5
+  company: "Cucumber Limited"
+  thumbnailUrl: cucumber.png
+  website: "http://www.cucumber.io"
+ - 
+  id: 6
+  company: "Swansea Software Development Community"
+  thumbnailUrl: ssdc.png
+  website: "http://www.swanseasdc.co.uk/"
+ - 
+  id: 7
+  company: "nCrafts.io"
+  thumbnailUrl: oxiane_partenaire_formation_ncrafts2016-e1456319240424.png
+  website: "http://ncrafts.io"

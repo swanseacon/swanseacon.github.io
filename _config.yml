@@ -37,7 +37,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: "http://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/swanseacon-sponsorship-2017.pdf"
+c4sponsorsUrl: "/sponsorship"
 
 
 # Navigation
@@ -45,7 +45,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
 # - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
-# - {permalink: "/sponsors/", text: "Sponsors"}
+ - {permalink: "/sponsors/", text: "Sponsors"}
  - {permalink: "/sponsorship/", text: "Sponsorship"}
  - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/blog/", text: "Blog"}
