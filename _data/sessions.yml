@@ -203,8 +203,11 @@
   language: en
 -
   id: 028
-  title: "TBC"
-  description: "<p>Information to follow</p>"
+  title: "Test Driven Deployment"
+  description: "<p>Feedback from a journeyman in the world of devOps.</p>
+  <p>I will be sharing the approach we took building the continuous integration pipeline, and the deployment automation of non mature components.</p>
+  <p>We will see how the implementation of a walking skeleton & continuous integration from the beginning of the project would have shed some light on architectural flaws and could have spared development time later down the line.</p>
+  <p>There will be tests, [PowerShell] scripts, server-less functions, blood and tears. But above all there will be lessons learnt.</p>"
   subtype: presentation
   speakers: [23]
   language: en
