@@ -122,7 +122,7 @@
   title: ""
   bio: "<p>Irina Tsyganok is a software developer at YOOX NET-A-PORTER GROUP. An active member of Agile and wider technology community. This session is based on, and leads on from, her paper, 'Pair-Programming from a Beginner’s Perspective', that was presented at XP2016.</p>"
   thumbnailUrl: IrinaTsyganok.jpg
-  rockstar: false	
+  rockstar: true	
   social: 
     - {name: "twitter", link: "http://twitter.com/irinatsyganok"}
 - 
