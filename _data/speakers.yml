@@ -330,3 +330,21 @@
   rockstar: false	
   social: 
     - {name: "twitter", link: "http://twitter.com/thomasguest"}
+- 
+  id: 30
+  name: "TBC"
+  surname: ""
+  company: ""
+  title: ""
+  bio: "<p>Information to follow shortly.</p>"
+  thumbnailUrl: person.png
+  rockstar: false	
+- 
+  id: 31
+  name: "TBC"
+  surname: ""
+  company: ""
+  title: ""
+  bio: "<p>Information to follow shortly.</p>"
+  thumbnailUrl: person.png
+  rockstar: false	

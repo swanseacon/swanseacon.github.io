@@ -1,0 +1,172 @@
+- 
+  date: "2015-09-07"
+  dateReadable: "September 25 2017"
+  tracks: 
+    - {title: "Sinclair Suite 1", color: "#90be4e"}
+    - {title: "Sinclair Suite 2", color: "#03a9f4"}
+    - {title: "Sinclair Suite 3", color: "#03a9f4"}
+    - {title: "Penderyn Suite", color: "#03a9f4"}
+  timeslots:
+    - {
+    	startTime: "08:30",
+    	endTime: "09:00",
+    	sessionIds: [099,001,099,099]
+    }
+    - {
+    	startTime: "09:00",
+    	endTime: "09:10",
+    	sessionIds: [002,099,099,099]
+    }
+    - {
+        startTime: "09:10",
+        endTime: "10:00",
+        sessionIds: [003,099,099,099]
+    }
+    - {
+    	startTime: "10:05",
+    	endTime: "11:00",
+    	sessionIds: [004,099,006,099]
+    }
+    - {
+    	startTime: "11:00",
+    	endTime: "11:10",
+    	sessionIds: [099,100,099,099]
+    }
+    - {
+    	startTime: "11:10",
+    	endTime: "11:55",
+    	sessionIds: [040,099,041,099]
+    }
+    - {
+    	startTime: "12:00",
+    	endTime: "12:45",
+    	sessionIds: [005,099,008,099]
+    }
+    - {
+    	startTime: "12:45",
+    	endTime: "13:30",
+    	sessionIds: [099,103,099,099]
+    }
+    - {
+    	startTime: "13:30",
+    	endTime: "14:15",
+    	sessionIds: [009,099,010,099]
+    }
+    - {
+    	startTime: "14:20",
+    	endTime: "15:05",
+    	sessionIds: [011,099,012,099]
+    }
+    - {
+    	startTime: "15:05",
+    	endTime: "15:15",
+    	sessionIds: [099,101,099,099]
+    }
+    - {
+    	startTime: "15:15",
+    	endTime: "16:00",
+    	sessionIds: [013,099,042,099]
+    }
+    - {
+    	startTime: "16:05",
+    	endTime: "16:35",
+    	sessionIds: [028,099,038,099]
+    }
+    - {
+    	startTime: "16:40",
+    	endTime: "17:25",
+    	sessionIds: [007,099,016,099]
+    }
+    - {
+    	startTime: "17:30",
+    	endTime: "19:00",
+    	sessionIds: [099,099,099,098]
+    }
+- 
+  date: "2015-09-08"
+  dateReadable: "September 13 2016"
+  tracks: 
+    - {title: "Sinclair Suite 1", color: "#90be4e"}
+    - {title: "Sinclair Suite 2", color: "#03a9f4"}
+    - {title: "Sinclair Suite 3", color: "#03a9f4"}
+  timeslots: 
+    - {
+    	startTime: "08:30",
+    	endTime: "09:00",
+    	sessionIds: [099,017,099	]
+    }
+    - {
+    	startTime: "09:00",
+    	endTime: "09:45",
+    	sessionIds: [018,099,019]
+    }
+    - {
+    	startTime: "09:50",
+    	endTime: "10:35",
+    	sessionIds: [020,099,036]
+    }
+    - {
+    	startTime: "10:35",
+    	endTime: "10:45",
+    	sessionIds: [099,100,099]
+    }
+    - {
+    	startTime: "10:45",
+    	endTime: "11:30",
+    	sessionIds: [021,099,022]
+    }
+    - {
+    	startTime: "11:35",
+    	endTime: "12:20",
+    	sessionIds: [023,099,024]
+    }
+    - {
+    	startTime: "12:25",
+    	endTime: "13:00",
+    	sessionIds: [025,099,026]
+    }
+    - {
+    	startTime: "13:00",
+    	endTime: "13:45",
+    	sessionIds: [099,103,099]
+    }
+    - {
+    	startTime: "13:45",
+    	endTime: "14:40",
+    	sessionIds: [027,099,039]
+    }
+    - {
+    	startTime: "14:45",
+    	endTime: "15:15",
+    	sessionIds: [029,099,030]
+    }
+    - {
+    	startTime: "15:15",
+    	endTime: "15:25",
+    	sessionIds: [099,101,099]
+    }
+    - {
+    	startTime: "15:25",
+    	endTime: "15:55",
+    	sessionIds: [031,099,032]
+    }
+    - {
+    	startTime: "16:00",
+    	endTime: "16:45",
+    	sessionIds: [033,099,034]
+    }
+    - {
+    	startTime: "16:45",
+    	endTime: "16:55",
+    	sessionIds: [099,102,099]
+    }
+    - {
+    	startTime: "16:55",
+    	endTime: "17:55",
+    	sessionIds: [035,099,099]
+    }
+    - {
+    	startTime: "17:55",
+    	endTime: "18:00",
+    	sessionIds: [037,099,099]
+    }

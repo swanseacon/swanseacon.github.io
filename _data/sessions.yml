@@ -115,13 +115,6 @@
   place: ""
   service: true
 -
-  id: 018
-  title: "Opening Keynote - Day 2"
-  description: "Information to follow"
-  subtype: keynote 
-  speakers: [2]
-  language: en
--
   id: 019
   title: "10 things you need to know about BDD, Cucumber and SpecFlow"
   description: "<p>BDD is quite a recent addition to the software development toolbox. Sometimes it feels like we’re using a hammer to drive in a screw, so in this session we’ll explore what it’s good for, when to use it and how tools like Cucumebr and SpecFlow can help. We’ll also look at what problems it doesn’t help with and when not to use it.</p>"
@@ -190,10 +183,10 @@
   language: en
 -
   id: 028
-  title: "Closing Keynote - Day 2"
+  title: "Closing Keynote"
   description: "Information to follow"
   subtype: keynote 
-  speakers: [3]
+  speakers: [2]
   language: en
 -
   id: 027
