@@ -19,66 +19,61 @@
     }
     - {
         startTime: "09:10",
-        endTime: "10:00",
+        endTime: "10:10",
         sessionIds: [003,099,099,099]
     }
     - {
-    	startTime: "10:05",
+    	startTime: "10:15",
     	endTime: "11:00",
-    	sessionIds: [004,099,006,099]
+    	sessionIds: [031,099,032,099]
     }
     - {
     	startTime: "11:00",
-    	endTime: "11:10",
+    	endTime: "11:15",
     	sessionIds: [099,100,099,099]
     }
     - {
-    	startTime: "11:10",
-    	endTime: "11:55",
-    	sessionIds: [040,099,041,099]
+    	startTime: "11:15",
+    	endTime: "12:00",
+    	sessionIds: [029,099,033,099]
     }
     - {
-    	startTime: "12:00",
-    	endTime: "12:45",
-    	sessionIds: [005,099,008,099]
+    	startTime: "12:05",
+    	endTime: "12:50",
+    	sessionIds: [021,099,026,099]
     }
     - {
-    	startTime: "12:45",
-    	endTime: "13:30",
+    	startTime: "12:50",
+    	endTime: "13:50",
     	sessionIds: [099,103,099,099]
     }
     - {
-    	startTime: "13:30",
-    	endTime: "14:15",
-    	sessionIds: [009,099,010,099]
+    	startTime: "13:50",
+    	endTime: "14:35",
+    	sessionIds: [007,099,004,099]
     }
     - {
-    	startTime: "14:20",
-    	endTime: "15:05",
-    	sessionIds: [011,099,012,099]
+    	startTime: "14:40",
+    	endTime: "15:25",
+    	sessionIds: [028,099,016,099]
     }
     - {
-    	startTime: "15:05",
-    	endTime: "15:15",
+    	startTime: "15:25",
+    	endTime: "15:35",
     	sessionIds: [099,101,099,099]
     }
     - {
-    	startTime: "15:15",
-    	endTime: "16:00",
-    	sessionIds: [013,099,042,099]
+    	startTime: "15:35",
+    	endTime: "16:20",
+    	sessionIds: [019,099,024,099]
     }
     - {
-    	startTime: "16:05",
-    	endTime: "16:35",
-    	sessionIds: [028,099,038,099]
+    	startTime: "16:25",
+    	endTime: "17:05",
+    	sessionIds: [008,099,006,099]
     }
     - {
-    	startTime: "16:40",
-    	endTime: "17:25",
-    	sessionIds: [007,099,016,099]
-    }
-    - {
-    	startTime: "17:30",
+    	startTime: "17:15",
     	endTime: "19:00",
     	sessionIds: [099,099,099,098]
     }

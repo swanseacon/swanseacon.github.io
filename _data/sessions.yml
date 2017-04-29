@@ -75,7 +75,7 @@
   speakers: [4]
   language: en
 -
-  id: 0010
+  id: 010
   title: "Finding our agile feet"
   description: "<p>A case study of a Birmingham digital agency finding its feet in the agile development world. The good, the bad and the awful.</p>"
   subtype: presentation 
@@ -182,14 +182,14 @@
   speakers: [25]
   language: en
 -
-  id: 028
+  id: 035
   title: "Closing Keynote"
   description: "Information to follow"
   subtype: keynote 
   speakers: [2]
   language: en
 -
-  id: 027
+  id: 033
   title: "TBC"
   description: "<p>Information to follow</p>"
   subtype: presentation
