@@ -24,5 +24,6 @@
     - {name: "Cucumber Limited", description: "Simple, human collaboration", link: "http://cucumber.io/", imageUrl: "cucumber.png", width: "220px"}
     - {name: "Swansea Software Development Community", description: "#SSDC, Swansea Software Development Community", link: "http://www.swanseasdc.co.uk/", imageUrl: "ssdc.png", width: "170px"}
     - {name: "nCrafts.io", description: "NEWCRAFTS CONFERENCES Paris", link: "http://ncrafts.io", imageUrl: "oxiane_partenaire_formation_ncrafts2016-e1456319240424.png", width: "190px"}
+    - {name: "Ministry of Testing", description: "CO-CREATING SMARTER TESTERS", link: "http://www.ministryoftesting.com", imageUrl: "MoT.png", width: "130px"}
 - 
   group: "Awesome Employers list"
