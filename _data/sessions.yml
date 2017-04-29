@@ -1,12 +1,13 @@
 -
   id: 001
-  title: "Registration & Breakfast"
-  place: ""
-  service: true
+  title: "Registration"
+  description: "<p>Collect your attendee pass and goodie bag. Tea and coffee with cookies will be served on arrival.</p>"
 -
   id: 002
-  title: "Welcome to SwanseaCon 2017"
-  service: true
+  title: "Welcome"
+  description: "<p>Welcome to SwanseaCon 2017.</p>"
+  subtype: presentation
+  language: en
 -
   id: 003
   title: "Opening Keynote - It’s a small world after all"
@@ -249,8 +250,7 @@
 -
   id: 098
   title: "Evening Reception"
-  place: "Penderyn Suite (Floor 3)"
-  service: true
+  description: "<p>Join us for our evening reception in the Pendery Suite. This is a great opportunity to network and discuss the opening day with attendees and speakers, acompanied by a fantastic view across the hallowed turf. We will be also be serving complimentary Canapés along with a soft or alcoholic drink.</p>"
 -
   id: 099
   title: ""
@@ -259,23 +259,19 @@
 -
   id: 100
   title: "Mid Morning Refreshments"
-  place: ""
-  service: true
+  description: "<p>Tea and coffee</p>"
 -
   id: 101
   title: "Afternoon Refreshments"
-  place: ""
-  service: true
+  description: "<p>Tea and coffee with Welsh Cakes served mid afternoon</p>"
 -
   id: 102
   title: "Late Afternoon Refreshments"
   place: ""
-  service: true
 -
   id: 103
   title: "Lunch"
-  place: ""
-  service: true
+  description: "<p>Seasonal finger buffet lunch with fruit juice, tea and coffee</p>"
 
 -
   id: 104
