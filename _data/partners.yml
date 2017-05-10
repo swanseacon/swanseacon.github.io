@@ -5,6 +5,10 @@
     - {name: "Scrum Alliance", description: "Scrum Alliance", link: "http://www.scrumalliance.org/", imageUrl: "scrum-alliance.jpg", width: "310px"} 
     - {name: "Equal Experts", description: "Equal Experts, Making Software. Better.", link: "http://www.equalexperts.com/", imageUrl: "equal-experts.png"}
 - 
+  group: "Silver"
+  elements: 
+    - {name: "Vizolution", description: "vScreen from Vizolution  is an innovative screen sharing technology", link: "http://www.vizolution.co.uk/", imageUrl: "vizolution.jpg", width: "170px"}
+- 
   group: "Bronze"
   elements: 
     - {name: "Axosoft", description: "Scrum Software - Agile Project Management", link: "http://www.axosoft.com/", imageUrl: "axosoft.png", width: "250px"}
@@ -14,6 +18,7 @@
   elements: 
     - {name: "MySQL", description: "The world's most popular open source database", link: "http://www.mysql.com/", imageUrl: "mysql.png", width: "170px"} 
     - {name: "Equal Experts", description: "Equal Experts, Making Software. Better.", link: "http://www.equalexperts.com/", imageUrl: "equal-experts.png"}
+    - {name: "Vizolution", description: "vScreen from Vizolution  is an innovative screen sharing technology", link: "http://www.vizolution.co.uk/", imageUrl: "vizolution.jpg", width: "170px"}
 - 
   group: "Media Partners"
   elements: 

@@ -6,6 +6,32 @@
   thumbnailUrl: mysql.png
   website: "http://www.mysql.com/" 
  - 
+  id: 9
+  company: "Scrum Alliance"
+  description: "<h5>Become part of something bigger than you alone</h5>
+  <p>Scrum Alliance brings you together with like-minded people who are passionate about Scrum and who dream, explore – and live – project management brilliance every day. A nonprofit professional organization, we provide advocacy, community, and education to support this movement, equip our members, and help them succeed with Scrum in software development and beyond. Come sprint with us!</p>"
+  thumbnailUrl: scrum-alliance.png
+  website: "http://www.scrumalliance.org/"
+ - 
+  id: 10
+  company: "Equal Experts"
+  description: "<h5>Making Software. Better.</h5>
+  <p>Equal Experts’ agile practitioners combine technical excellence and business pragmatism to deliver simple bespoke software solutions to big business problems.</p>
+  <p>We offset delivery risk by trusting only talented, highly experienced people to employ relentless quality processes and a “zero tolerance” attitude to defects. We make heavy use of open source technology wherever possible, which dramatically lowers total cost of ownership for clients.</p>
+  <p>By leading by example and grounding everything we do in concrete software deliveries, we are able to bring our experience to bear, helping large organizations through their digital transformation.</p>
+  <p>Customers include Camelot and Telefonica and our software solutions underpin major initiatives such as O2’s Priority Moments customer loyalty campaign as well as myO2 self-serve capability. We are using our private sector experience to help UK government departments like HMRC and the Home Office to roll out their digital strategy.</p>
+  <p>For the last three years in a row, Equal Experts has been singled out as one of UK’s fastest growing companies in the tech sector, with sales reaching £24 million in 2014.</p>"
+  thumbnailUrl: equal-experts.png
+  website: "http://www.equalexperts.com/"
+ - 
+  id: 8
+  company: "Vizolution"
+  description: "<h5>vScreen from Vizolution  is an innovative screen sharing technology</h5>
+  <p>Vizolution is a multi-award-winning UK based software provider backed by a leading European venture capital firm, Notion Capital, and Finance Wales. Vizolution has offices in London, Bristol and Swansea.</p>
+  <p>Vizolution is the provider of vScreen, a market leading screen sharing technology that allows a presenter to remotely and securely share visual information with a customer on a real time basis during a call.</p>"
+  thumbnailUrl: vizolution.jpg
+  website: "http://www.vizolution.co.uk/"
+ - 
   id: 2
   company: "Axosoft"
   thumbnailUrl: axosoft.png
