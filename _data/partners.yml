@@ -23,6 +23,7 @@
   group: "Media Partners"
   elements: 
     - {name: "Skills Matter", description: "Explore skillscasts, meetups, conferences, courses, tutorials and workshops", link: "https://skillsmatter.com/explore?q=agile", imageUrl: "skillsmatter.png", width: "160px"}
+    - {name: "Coding Blocks", description: "Coding Blocks - Podcast and Your Source to Learn How To Become a Better Programmer", link: "https://www.codingblocks.net/", imageUrl: "codingblocks.jpg", width: "160px"}
 - 
   group: "Partners"
   elements: 
