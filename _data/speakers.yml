@@ -22,18 +22,6 @@
   social: 
     - {name: "twitter", link: "http://twitter.com/arvtor"}
 - 
-  id: 8
-  name: "David"
-  surname: "Leach"
-  company: "Office Depot EU"
-  title: ""
-  bio: "<p>Having spent 15 years in Digital teams working in most roles within the software dev lifecycle, I am now a Senior Product Manager working on strategy and innovation for Office Depot.</p>
-  <p>I run the meetup Lean Coffee Milton Keynes having helped run the London ones and I also blog here: http://www.leanintoagile.com</p>"
-  thumbnailUrl: DavidLeach.jpg
-  rockstar: false	
-  social: 
-    - {name: "twitter", link: "http://twitter.com/agileleachy"}
-- 
   id: 22
   name: "Prof Dave"
   surname: "Snowden"
@@ -330,6 +318,15 @@
   rockstar: false	
   social: 
     - {name: "twitter", link: "http://twitter.com/thomasguest"}
+- 
+  id: 8
+  name: "TBC"
+  surname: ""
+  company: ""
+  title: ""
+  bio: "<p>Information to follow shortly.</p>"
+  thumbnailUrl: person.png
+  rockstar: false	
 - 
   id: 30
   name: "TBC"
