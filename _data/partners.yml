@@ -1,4 +1,8 @@
 - 
+  group: "Platinum"
+  elements: 
+    - {name: "GoCompare", description: "Comparison Made Easier With Defaqto", link: "http://www.gocompare.com/", imageUrl: "gocompare.jpg", width: "255px"} 
+- 
   group: "Gold"
   elements: 
     - {name: "MySQL", description: "The world's most popular open source database", link: "http://www.mysql.com/", imageUrl: "mysql.png", width: "170px"} 

@@ -1,4 +1,11 @@
  - 
+  id: 12
+  company: "GoCompare"
+  description: "<h5>Comparison Made Easier With Defaqto</h5>
+  <p>For more information, visit:</p>"
+  thumbnailUrl: gocompare.jpg
+  website: "http://www.gocompare.com/" 
+ - 
   id: 1
   company: "MySQL"
   description: "<h5>Where experiences are engineered</h5>
