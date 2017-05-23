@@ -73,3 +73,8 @@
   company: "Coding Blocks"
   thumbnailUrl: codingblocks.JPG
   website: "https://www.codingblocks.net/"
+ - 
+  id: 13
+  company: "Ministry of Testing"
+  thumbnailUrl: MoT.png
+  website: "http://www.ministryoftesting.com"
