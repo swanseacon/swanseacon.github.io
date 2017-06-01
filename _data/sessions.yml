@@ -151,7 +151,7 @@
   language: en
 -
   id: 024
-  title: "TBC"
+  title: "Developing an agile mindset: leading teams to think beyond the tools, techniques and process."
   description: "<p>The Agile Manifesto captured the mindset of 17 software delivery thought leaders in how they wanted to deliver software. Since then the agile landscape has exploded with all sorts of different tools, techniques and practices. In my experience the adoption of agile focuses heavily on implementing the processes, tools and techniques. But, true agility is achieved by the people within the organisation adopting the agile mindset. This talk is all about the agile journey GoCompare has taken and, more importantly, contains an experience report of developing an agile mindset at all levels of the organisation.</p>"
   subtype: presentation
   speakers: [8]

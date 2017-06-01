@@ -56,6 +56,15 @@
   social: 
     - {name: "twitter", link: "http://twitter.com/deniseyu21"}
 - 
+  id: 8
+  name: "Dermot"
+  surname: "Kilroy"
+  company: "GoCompare"
+  title: ""
+  bio: "<p>I'm currently the Web Engineering Manager at GoCompare, on a mission to build the best tech environment in South Wales and beyond. I've been implementing enterprise software systems for over 10 years. In that time I've been involved in many agile transformations both as a team member and an agile enabler. I'm a firm believer that the agile philosophy is aligned with the needs and wants of profitable organisations and that we have a long way to go to fully achieve the benefit of an agile approach.</p>"
+  thumbnailUrl: DermotKilroy.jpg
+  rockstar: false	
+- 
   id: 16
   name: "Elisabeth"
   surname: "Hocke"
@@ -318,15 +327,6 @@
   rockstar: false	
   social: 
     - {name: "twitter", link: "http://twitter.com/thomasguest"}
-- 
-  id: 8
-  name: "Dermot"
-  surname: "Kilroy"
-  company: "GoCompare"
-  title: ""
-  bio: "<p>I'm currently the Web Engineering Manager at GoCompare, on a mission to build the best tech environment in South Wales and beyond. I've been implementing enterprise software systems for over 10 years. In that time I've been involved in many agile transformations both as a team member and an agile enabler. I'm a firm believer that the agile philosophy is aligned with the needs and wants of profitable organisations and that we have a long way to go to fully achieve the benefit of an agile approach.</p>"
-  thumbnailUrl: man.jpg
-  rockstar: false	
 - 
   id: 30
   name: "TBC"
