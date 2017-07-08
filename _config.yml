@@ -80,8 +80,8 @@ aboutBlock:
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "150", specialCharacter: "+", info: "attendees", detail: ""}
- - {count: "25", specialCharacter: "+", info: "sessions", detail: "of agile development & software craftsmanship"}
- - {count: "25", specialCharacter: "+", info: "speakers", detail: "from all around the world"}
+ - {count: "30", specialCharacter: "", info: "sessions", detail: "of agile development & software craftsmanship"}
+ - {count: "31", specialCharacter: "", info: "speakers", detail: "from all around the world"}
  - {count: "2", specialCharacter: "", info: "parallel tracks", detail: ""}
 
 # Latest News Block
