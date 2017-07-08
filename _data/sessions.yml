@@ -233,15 +233,23 @@
   language: en
 -
   id: 034
-  title: "TBC"
-  description: "<p>Information to follow</p>"
+  title: "Learning to Love HATEOAS"
+  description: "<p>How do you build APIs that are RESTful, but are more than just CRUD? The answer lies in HATEOAS - Hypermedia As The Engine Of Application State. In this session Dave will look at the principles behind HATEOAS, and show you some of the available options before giving a live demo of a HATEOAS API.</p>"
   subtype: presentation
   speakers: [30]
   language: en
 -
   id: 036
-  title: "TBC"
-  description: "<p>Information to follow</p>"
+  title: "Motivation for YOUR craft"
+  description: "<p>As a software craftsman we strive to raise the bar. We strive to be better, to leave a legacy. To do this we need motivation. What motivates us?</p>
+  <p>This is the story of how as a rising engineer I got blindsided by failure. I will detail my journey to positivity and what this journey taught me. A highly motivational talk covering many areas of personal motivation we all struggle with as engineers and teams. </p>
+  <p><ul>
+  <li>Goals and Dreams</li>
+  <li>Inner Voice</li>
+  <li>Excuses</li>
+  <li>Fear</li>
+  <li>Time/Habits</li>
+  <li>Skill</li></ul></p>"
   subtype: presentation
   speakers: [31]
   language: en

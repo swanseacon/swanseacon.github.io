@@ -34,6 +34,15 @@
   social: 
     - {name: "twitter", link: "http://twitter.com/snowded"}
 - 
+  id: 30
+  name: "Dave"
+  surname: "Lewis"
+  company: "iSAMS"
+  title: ""
+  bio: "<p>Dave has been working as a developer using primarily the Microsoft stack since 2000 (with the occasional foray into Java & Ruby on Rails). He has built radiation monitoring systems, oil and gas safety systems and even the odd website. Dave has spoken on a number of topics, but has a particular fondness for distributed systems and hypermedia. He currently works as a Lead Developer for iSAMS.</p>"
+  thumbnailUrl: DaveLewis.jpg
+  rockstar: false
+- 
   id: 18
   name: "David"
   surname: "Stokes"
@@ -328,20 +337,13 @@
   social: 
     - {name: "twitter", link: "http://twitter.com/thomasguest"}
 - 
-  id: 30
-  name: "TBC"
-  surname: ""
-  company: ""
-  title: ""
-  bio: "<p>Information to follow shortly.</p>"
-  thumbnailUrl: person.png
-  rockstar: false	
-- 
   id: 31
-  name: "TBC"
-  surname: ""
-  company: ""
+  name: "Stephen"
+  surname: "Mounsey"
+  company: "Infinity Works"
   title: ""
-  bio: "<p>Information to follow shortly.</p>"
-  thumbnailUrl: person.png
+  bio: "<p>Stephen Mounsey is an agile coach who values visualisation, games, play and fun at work. Stephen is on a mission to improve agility in teams, individuals and organisations through coaching.</p>
+  <p>An enthusiastic agilist with around 10 years experience a passion for emergent thinking and self organising teams. When Stephen gets time away from his family, 2 dogs and 2 young children, he likes to attend and speak at agile and test meet ups.</p>
+  <p>Expect to find Stephen sketch noting throughout the day - come and say hello!</p>"
+  thumbnailUrl: StephenMounsey.jpg
   rockstar: false	
