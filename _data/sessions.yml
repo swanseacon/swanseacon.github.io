@@ -187,8 +187,9 @@
   language: en
 -
   id: 033
-  title: "TBC"
-  description: "<p>Information to follow</p>"
+  title: "Making Agile safe again: resisting the Borg"
+  description: "<p>The consolidation of self-styled ’scaled’ methods into two dominant suppliers and the entry through acquisition of the big consultancy companies represents a significant phase shift in Agile. Increasingly commoditisation is generally the sign that an idea or approach is reaching the end of its natural life cycle and needs renewal and novelty. For many the growing levels of structure and associated method wars are the antithesis of what Agile was intended to achieve.</p>
+  <p>This presentation will seek to go back to some of the original issues and ideals that drove the creation of the Agile movement and seek to identify ways and means by which we can make Agile safe for innovation and novelty, and above all adding value to the organisation and society.</p>"
   subtype: presentation
   speakers: [22]
   language: en
