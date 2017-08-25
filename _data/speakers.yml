@@ -222,15 +222,13 @@
     - {name: "twitter", link: "http://twitter.com/m_lewis"}
 - 
   id: 9 
-  name: "Max"
-  surname: "Woolf"
-  company: "Substrakt"
+  name: "TBC"
+  surname: ""
+  company: ""
   title: ""
-  bio: "<p>Max is a senior developer at Substrakt. He's a strong advocate of employing agile ideas within organisations (technology or otherwise) without being too bogged down in the detail of particular 'Agile' methodologies. He's also an avid tea drinker, piano player and puppy wrangler.</p>"
-  thumbnailUrl: MaxWoolf.jpg
+  bio: "<p></p>"
+  thumbnailUrl: person.png
   rockstar: true	
-  social: 
-    - {name: "twitter", link: "http://twitter.com/maxehmookau"}
 - 
   id: 13
   name: "Nat"
