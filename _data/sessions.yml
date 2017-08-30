@@ -145,7 +145,7 @@
 -
   id: 023
   title: "Building Empowered Teams at Scale"
-  description: "<p>It is often difficult to scale cultural values while responding to challenges created by an influx of new people, structural reorganising, and other aspects of growth. This session will focus on Pivotal Cloud Foundry as a case study for expanding without losing empowered teams, followed by a roundtable discussion.</p>"
+  description: "<p>It is often difficult to scale cultural values while responding to challenges created by an influx of new people, structural reorganising, and other aspects of growth. This talk will use Pivotal Cloud Foundry as a case study for how to rapidly build and scale teams in an organisation that values empowerment at its core.</p>"
   subtype: presentation
   speakers: [19]
   language: en
@@ -241,16 +241,8 @@
   language: en
 -
   id: 036
-  title: "Motivation for YOUR craft"
-  description: "<p>As a software craftsman we strive to raise the bar. We strive to be better, to leave a legacy. To do this we need motivation. What motivates us?</p>
-  <p>This is the story of how as a rising engineer I got blindsided by failure. I will detail my journey to positivity and what this journey taught me. A highly motivational talk covering many areas of personal motivation we all struggle with as engineers and teams. </p>
-  <p><ul>
-  <li>Goals and Dreams</li>
-  <li>Inner Voice</li>
-  <li>Excuses</li>
-  <li>Fear</li>
-  <li>Time/Habits</li>
-  <li>Skill</li></ul></p>"
+  title: "Motivation for You, your Craft, your Team and your Org"
+  description: "<p>An in depth look at motivation theory with a personal story of how as a rising engineer I got blindsided by failure. I will detail my journey to positivity and what this journey taught me. A highly motivational talk covering many areas and theories of personal motivation we all struggle with as engineers and teams. We will finish by looking at how organisations can make use of these theories to motivate and engage there people.</p>"
   subtype: presentation
   speakers: [31]
   language: en
