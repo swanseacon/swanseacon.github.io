@@ -22,6 +22,15 @@
   social: 
     - {name: "twitter", link: "http://twitter.com/arvtor"}
 - 
+  id: 30
+  name: "Dave"
+  surname: "Lewis"
+  company: "iSAMS"
+  title: ""
+  bio: "<p>Dave has been working as a developer using primarily the Microsoft stack since 2000 (with the occasional foray into Java & Ruby on Rails). He has built radiation monitoring systems, oil and gas safety systems and even the odd website. Dave has spoken on a number of topics, but has a particular fondness for distributed systems and hypermedia. He currently works as a Lead Developer for iSAMS.</p>"
+  thumbnailUrl: DaveLewis.jpg
+  rockstar: true
+- 
   id: 22
   name: "Prof Dave"
   surname: "Snowden"
@@ -33,15 +42,6 @@
   rockstar: true	
   social: 
     - {name: "twitter", link: "http://twitter.com/snowded"}
-- 
-  id: 30
-  name: "Dave"
-  surname: "Lewis"
-  company: "iSAMS"
-  title: ""
-  bio: "<p>Dave has been working as a developer using primarily the Microsoft stack since 2000 (with the occasional foray into Java & Ruby on Rails). He has built radiation monitoring systems, oil and gas safety systems and even the odd website. Dave has spoken on a number of topics, but has a particular fondness for distributed systems and hypermedia. He currently works as a Lead Developer for iSAMS.</p>"
-  thumbnailUrl: DaveLewis.jpg
-  rockstar: true
 - 
   id: 18
   name: "David"
@@ -197,6 +197,17 @@
   social: 
     - {name: "twitter", link: "http://twitter.com/_md"}
 - 
+  id: 20
+  name: "Matt"
+  surname: "Lewis"
+  company: "DVLA"
+  title: ""
+  bio: "<p>Matt has over 17 years experience in the IT industry, working on major delivery and transformation projects in various countries and industries including financial services, telco, automotive and public sector. He is currently Chief Architect at DVLA, where he is responsible for overseeing technical direction. He is passionate about the use of technology and growing skills in the region, and is the founder of the AWS South Wales user group. Outside of work, he enjoys triathlons … apart from the swimming.</p>"
+  thumbnailUrl: MattLewis.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "http://twitter.com/m_lewis"}
+- 
   id: 4
   name: "Matteo"
   surname: "Emili"
@@ -209,17 +220,6 @@
   rockstar: true
   social: 
     - {name: "twitter", link: "http://twitter.com/MattVSTS"}
-- 
-  id: 20
-  name: "Matt"
-  surname: "Lewis"
-  company: "DVLA"
-  title: ""
-  bio: "<p>Matt has over 17 years experience in the IT industry, working on major delivery and transformation projects in various countries and industries including financial services, telco, automotive and public sector. He is currently Chief Architect at DVLA, where he is responsible for overseeing technical direction. He is passionate about the use of technology and growing skills in the region, and is the founder of the AWS South Wales user group. Outside of work, he enjoys triathlons … apart from the swimming.</p>"
-  thumbnailUrl: MattLewis.jpg
-  rockstar: true
-  social: 
-    - {name: "twitter", link: "http://twitter.com/m_lewis"}
 - 
   id: 9 
   name: "TBC"
@@ -287,6 +287,18 @@
   social: 
     - {name: "twitter", link: "http://twitter.com/aahoogendoorn"}
 - 
+  id: 6
+  name: "Scott"
+  surname: "Fulton"
+  company: "Self-Employed Consultant"
+  title: ""
+  bio: "<p>Scott Fulton is a head of digital services with over 17 years' experience. He introduced agile into a large, traditionally waterfall-based organisation and performs the role of product owner. He has led the transformation of the organisation's web channel, having driven up user satisfaction from 42% to 94% within 6 months. He has also recently been responsible for the introduction of an enterprise scale collaborative Intranet.</p>
+  <p>Scott is a huge agile advocate and regularly blogs and speaks on the subject, with a particular interest in how agile thinking applies to prioritisation and feeling overwhelmed, team welfare and organisational disruption.</p>"
+  thumbnailUrl: ScottFulton.jpg
+  rockstar: true	
+  social: 
+    - {name: "twitter", link: "http://twitter.com/SFWebDigital"}
+- 
   id: 3
   name: "Seb"
   surname: "Rose"
@@ -300,18 +312,6 @@
   rockstar: true	
   social: 
     - {name: "twitter", link: "http://twitter.com/sebrose"}
-- 
-  id: 6
-  name: "Scott"
-  surname: "Fulton"
-  company: "Self-Employed Consultant"
-  title: ""
-  bio: "<p>Scott Fulton is a head of digital services with over 17 years' experience. He introduced agile into a large, traditionally waterfall-based organisation and performs the role of product owner. He has led the transformation of the organisation's web channel, having driven up user satisfaction from 42% to 94% within 6 months. He has also recently been responsible for the introduction of an enterprise scale collaborative Intranet.</p>
-  <p>Scott is a huge agile advocate and regularly blogs and speaks on the subject, with a particular interest in how agile thinking applies to prioritisation and feeling overwhelmed, team welfare and organisational disruption.</p>"
-  thumbnailUrl: ScottFulton.jpg
-  rockstar: true	
-  social: 
-    - {name: "twitter", link: "http://twitter.com/SFWebDigital"}
 - 
   id: 31
   name: "Stephen"
@@ -333,7 +333,7 @@
   thumbnailUrl: TatianaKolesnikova.jpg
   rockstar: true	
   social: 
-    - {name: "twitter", link: "http://twitter.com/Kolett__"}
+    - {name: "twitter", link: "http://twitter.com/unicorn_job"}
 - 
   id: 7
   name: "Thomas"
