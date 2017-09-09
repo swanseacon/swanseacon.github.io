@@ -21,6 +21,17 @@
   rockstar: true	
   social: 
     - {name: "twitter", link: "http://twitter.com/arvtor"}
+- id: 9
+  name: "Christos"
+  surname: "Matskas"
+  company: "Microsoft (Azure)"
+  title: ""
+  bio: "<p>Christos Matskas has been working as a software developer for the last 12 years. He is an entrepreneur, founder and CEO of SoftwareLounge, a software consultancy firm. His portfolio includes collaborations with some great companies such as MarkIT, Lockheed Martin and Barclays. Over the years he has worked on numerous exciting projects from mobile applications to data crunching back-end solutions. He writes about his adventures in software development on his blog https://cmatskas.com. Christos is an advocate of Open Source Software and a regular contributor to numerous projects. He's passionate about public speaking and he regularly speaks at conferences and user groups about .NET, the Cloud, mobile applications and software development in general (.NETFringe, DevWeek, MDevCon, SwanseaCon, Software Architect)</p>"
+  thumbnailUrl: ChristosMatskas.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "http://twitter.com/christosmatskas"}
+    - {name: "site", link: "http://cmatskas.com/"}
 - 
   id: 30
   name: "Dave"
@@ -220,15 +231,6 @@
   rockstar: true
   social: 
     - {name: "twitter", link: "http://twitter.com/MattVSTS"}
-- 
-  id: 9 
-  name: "TBC"
-  surname: ""
-  company: ""
-  title: ""
-  bio: "<p></p>"
-  thumbnailUrl: person.png
-  rockstar: true	
 - 
   id: 13
   name: "Nat"

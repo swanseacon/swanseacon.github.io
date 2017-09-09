@@ -75,8 +75,8 @@
   language: en
 -
   id: 010
-  title: "TBC"
-  description: "<p>Information to follow.</p>"
+  title: "Serverless with Azure Functions - the rebel service"
+  description: "<p>Azure Functions in a few words: event-driven, micro-billing, horizontally scalable and all running on a fully managed infrastructure. Did I give it all away? This is not even half of the story! Azure Functions is the go-to service for many different solutions built on top of a serverless architecture, allowing developers to focus on what really matters, solving real world problems. Functions come with a great developer story, a testable framework, local development and support for end-to-end DevOps. Join me at SwanseaCon to find how to use your favourite command line tool and language to develop serverless, scalable, high performant and reliable solutions with the power of Azure Functions.</p>"
   subtype: presentation 
   speakers: [9]
   language: en
