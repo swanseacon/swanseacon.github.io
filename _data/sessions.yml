@@ -10,7 +10,7 @@
   language: en
 -
   id: 003
-  title: "Opening Keynote - It’s a small world after all"
+  title: "Opening Keynote: It’s a small world after all"
   description: "<h5>How software development is changing at increasing pace</h5>
   <p>The world is changing fast. More precisely, the world is changing at increasing speed. This means things that were not possible five years ago come into reach. Incumbent organizations need to adopt fast to keep up with new competitors that use new technologies easier, faster and better than they do. As a result, every aspect of software changes towards smaller. Smaller teams, less management, flatter organizations, shorter cycles and smaller components. During this energizing and fast-paced talk Sander Hoogendoorn, independent consultant and CTO of the Dutch insurance software product development company ANVA, discusses where software development goes wrong, how to move beyond enterprise agile, how continuous delivery leads to not do projects anymore and why microservices are hard, but essential.</p>"
   subtype: keynote
@@ -180,7 +180,7 @@
   language: en
 -
   id: 035
-  title: "Closing Keynote"
+  title: "Closing Keynote: The trouble with culture"
   description: "Information to follow"
   subtype: keynote 
   speakers: [2]

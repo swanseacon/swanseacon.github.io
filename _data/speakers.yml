@@ -41,6 +41,8 @@
   bio: "<p>Dave has been working as a developer using primarily the Microsoft stack since 2000 (with the occasional foray into Java & Ruby on Rails). He has built radiation monitoring systems, oil and gas safety systems and even the odd website. Dave has spoken on a number of topics, but has a particular fondness for distributed systems and hypermedia. He currently works as a Lead Developer for iSAMS.</p>"
   thumbnailUrl: DaveLewis.jpg
   rockstar: true
+  social: 
+    - {name: "twitter", link: "http://twitter.com/welshdave"}
 - 
   id: 22
   name: "Prof Dave"
