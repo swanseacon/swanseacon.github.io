@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "SwanseaCon 2017 - Agile Development & Software Craftsmanship conference"
+title: "SwanseaCon 2018 - Agile Development & Software Craftsmanship conference"
 email: "hello@swanseacon.co.uk"
 description: "SwanseaCon is an agile development & software craftsmanship conference"
 baseurl: ""
@@ -43,12 +43,13 @@ c4sponsorsUrl: "/sponsorship"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
+# - {permalink: "/schedule/", text: "Schedule"}
+# - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/sponsors/", text: "Sponsors"}
  - {permalink: "/sponsorship/", text: "Sponsorship"}
  - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/archive2017/", text: "Archive 2017"}
  - {permalink: "/archive2016/", text: "Archive 2016"}
  - {permalink: "/archive2015/", text: "Archive 2015"}
 bottomNavigationLinks:
@@ -59,8 +60,8 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "SwanseaCon <typeout> 2017"
-eventDate: "Monday 25th September - Tuesday 26th September, 2017"
+heroTitle: "SwanseaCon <typeout> 2018"
+eventDate: "Monday 10th September, 2018"
 typeoutTextValues: '"", "Agile", "Development", "Software", "Craftsmanship"'
 typeoutFallback: "Agile Development & Software Craftsmanship"
 heroButtons:
@@ -70,18 +71,18 @@ heroButtons:
 # About Block
 aboutTitle: "<h3>Agile Development & Software Craftsmanship</h3>"
 aboutBlock:
- - {title: " 	", image: "", text: "<p>SwanseaCon is a technical event for Software Developers, Software Architects, Project Managers, Analysts and Consultants in Wales. The third year is scheduled to kick start on 25th of September and go on until the 26th of September 2017 at the Liberty Stadium, Swansea, South Wales.</p>
- <p>SwanseaCon 2017 will be our third agile development and software craftsmanship conference in Swansea, South Wales. Exploring the latest agile and lean thinking in software craftsmanship, teams and business. The conference hopes to attract people from all parts of the globe to explore, evolve and find out what it means to be truly agile in business, from its culture to product development practices.</p>
- <p>SwanseaCon 2017 gives you and your colleagues the right platform to gather cutting-edge information on technology from the best speakers and trainers of the industry. </p>
- <p>The conference includes keynotes and presentations, an evening reception, and time between sessions to network and connect with colleagues from around the world.</p>
+ - {title: " 	", image: "", text: "<p>SwanseaCon is a technical event for Software Developers, Software Testers, Business Analysts, Scrum Masters, Software Architects, Project Managers and Consultants in Wales. The forth year is scheduled to kick start on Monday 10th of September, 2018 in Swansea, South Wales.</p>
+ <p>SwanseaCon 2018 will be the forth agile development and software craftsmanship conference in Swansea, South Wales. Exploring the latest agile and lean thinking in software craftsmanship, teams and business. The conference hopes once again to attract people from all parts of the globe to explore, evolve and find out what it means to be truly agile in business, from its culture to product development practices.</p>
+ <p>SwanseaCon 2018 gives you and your colleagues the right platform to gather cutting-edge information on technology from the best speakers and trainers of the industry. </p>
+ <p>The conference includes keynotes and presentations, and time between sessions to network and connect with colleagues from around the world.</p>
  <p>Delegates will get the opportunity to learn how to increase their productivity dramatically and save cost, learn how to enhance the quality of their software applications, as well as meet their peers in a productive and social environment.</p>" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "150", specialCharacter: "+", info: "attendees", detail: ""}
- - {count: "30", specialCharacter: "", info: "sessions", detail: "of agile development & software craftsmanship"}
- - {count: "31", specialCharacter: "", info: "speakers", detail: "from all around the world"}
+ - {count: "25", specialCharacter: "+", info: "sessions", detail: "of agile development & software craftsmanship"}
+ - {count: "25", specialCharacter: "+", info: "speakers", detail: "from all around the world"}
  - {count: "2", specialCharacter: "", info: "parallel tracks", detail: ""}
 
 # Latest News Block
@@ -95,19 +96,19 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Liberty Stadium"
-eventLocationLink: "http://www.liberty-stadium.com/"
-eventStreetAddress: "Landore"
+eventLocationName: "Village Hotel"
+eventLocationLink: "https://www.village-hotels.co.uk/hotels/swansea/"
+eventStreetAddress: "Langdon Road"
 eventAddressLocality: "Swansea"
 eventAddressLocalityRegion: ""
-eventPostalCode: "SA1 2FA"
+eventPostalCode: "SA1 8QY"
 eventAddressCountry: "Wales"
-eventStartTime: "2017-09-25T08:30"
+eventStartTime: "2018-09-10T08:30"
 eventDoorTime: "09:00"
-eventEndTime: "2017-09-26T17:00"
-eventPlaceCoordinates: "51.642697, -3.935307"
-mapCenterCoordinates: "51.643472, -3.935207"
-mapMobileCenterCoordinates: "51.643472, -3.935080"
+eventEndTime: "2018-09-10T17:00"
+eventPlaceCoordinates: "51.6212444619971, -3.9224749359680118"
+mapCenterCoordinates: "51.6212444619971, -3.9224749359680118"
+mapMobileCenterCoordinates: "51.6212444619971, -3.9224749359680118"
 
 # Venue Block
 venueBlockTitle: "#SwanseaCon"
@@ -115,7 +116,7 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Liberty Stadium"
+venueTitle: "Village Hotel"
 venueFeatures: ["The premier venue for conference and events in South West Wales.", "Located in the heart of Swansea."]
 
 # Tweets Feed Block
@@ -133,15 +134,15 @@ partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates for 2017"
+subscribeTitle: "Subscribe for updates for 2018"
 subscribeAction: "http://swancon.us10.list-manage.com/subscribe/post?u=6f529863589ed3eabebff1faf&amp;id=ac260fb163"
 subscribeInfo: "Registration is now open. Number of tickets are limited."
 
 # Tickets Block
 ticketsTitle: "Tickets"
 ticketTermsTitle: "Terms & Conditions"
-ticketTermsInfo: "<p><strong><em>Please note that once booked, Conference tickets cannot be cancelled and are non refundable. However, a substitute may be enrolled in a delegate’s place provided we are notified in writing before the first day of the event. Also note it is one ticket per delegate (ie no sharing). While SwanseaCon 2017 strives to maintain an up to date schedule, session list, and speaker list, these may be subject to change. If SwanseaCon has to cancel the conference for any reason, then we will refund 100% of any prepaid conference ticket fee, but we will not be liable for any other costs incurred including (for example) travel charges or any consequential damages, even if we were advised of them.</em></strong></p>"
-ticketsInfo: "<p><strong>Tickets include refreshments at designated times, a light lunch, access to the evening reception (Monday evening) plus access to all conference sessions. Accommodation and travel is NOT included in the ticket price.</strong></p>"
+ticketTermsInfo: "<p><strong><em>Please note that once booked, Conference tickets cannot be cancelled and are non refundable. However, a substitute may be enrolled in a delegate’s place provided we are notified in writing before the first day of the event. Also note it is one ticket per delegate (ie no sharing). While SwanseaCon 2018 strives to maintain an up to date schedule, session list, and speaker list, these may be subject to change. If SwanseaCon has to cancel the conference for any reason, then we will refund 100% of any prepaid conference ticket fee, but we will not be liable for any other costs incurred including (for example) travel charges or any consequential damages, even if we were advised of them.</em></strong></p>"
+ticketsInfo: "<p><strong>Tickets include refreshments at designated times, a light lunch, plus access to all conference sessions. Accommodation and travel is NOT included in the ticket price.</strong></p><p><em><strong>SwanseaCon is not VAT registered and so we do not charge VAT on tickets.</strong></em></p>"
 ticketsOffers:
  -
   name: "Book by 31st March"

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SwanseaCon 2017 - Agile Development &amp; Software Craftsmanship conference</title>
+    <title>SwanseaCon 2018 - Agile Development &amp; Software Craftsmanship conference</title>
     <description>SwanseaCon is an agile development &amp; software craftsmanship conference</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://swanseacon.github.io/</link>
+    <atom:link href="http://swanseacon.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Keynote speakers for SwanseaCon 2017</title>
@@ -36,8 +36,8 @@
 &lt;p&gt;More details about speakers, agenda and tickets will appear in subsequent posts. In the meantime like us on &lt;a href=&quot;https://www.facebook.com/swanseacon&quot;&gt;Facebook&lt;/a&gt;, follow on &lt;a href=&quot;https://twitter.com/SwanseaCon&quot;&gt;Twitter&lt;/a&gt;, add to circles in &lt;a href=&quot;https://plus.google.com/u/1/105624973822199981487&quot;&gt;Google+&lt;/a&gt; or subcribe to our &lt;a href=&quot;//swancon.us10.list-manage.com/subscribe/post?u=6f529863589ed3eabebff1faf&amp;amp;id=ac260fb163&quot;&gt;mailing list&lt;/a&gt; in order not to miss any cool stuff about the conference.&lt;/p&gt;
 </description>
         <pubDate>Thu, 23 Feb 2017 10:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/keynote-speakers</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/keynote-speakers</guid>
+        <link>http://swanseacon.github.io/blog/keynote-speakers</link>
+        <guid isPermaLink="true">http://swanseacon.github.io/blog/keynote-speakers</guid>
       </item>
     
       <item>
@@ -59,8 +59,8 @@
 &lt;p&gt;More details about speakers, agenda and tickets will appear in subsequent posts. In the meantime like us on &lt;a href=&quot;https://www.facebook.com/swanseacon&quot;&gt;Facebook&lt;/a&gt;, follow on &lt;a href=&quot;https://twitter.com/SwanseaCon&quot;&gt;Twitter&lt;/a&gt;, add to circles in &lt;a href=&quot;https://plus.google.com/u/1/105624973822199981487&quot;&gt;Google+&lt;/a&gt; or subcribe to our &lt;a href=&quot;//swancon.us10.list-manage.com/subscribe/post?u=6f529863589ed3eabebff1faf&amp;amp;id=ac260fb163&quot;&gt;mailing list&lt;/a&gt; in order not to miss any cool stuff about the conference.&lt;/p&gt;
 </description>
         <pubDate>Sun, 19 Feb 2017 08:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/call-for-papers-now-closed</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/call-for-papers-now-closed</guid>
+        <link>http://swanseacon.github.io/blog/call-for-papers-now-closed</link>
+        <guid isPermaLink="true">http://swanseacon.github.io/blog/call-for-papers-now-closed</guid>
       </item>
     
       <item>
@@ -81,8 +81,8 @@
 
 </description>
         <pubDate>Wed, 12 Oct 2016 13:43:54 +0100</pubDate>
-        <link>http://localhost:4000/blog/awesome-employers-list</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/awesome-employers-list</guid>
+        <link>http://swanseacon.github.io/blog/awesome-employers-list</link>
+        <guid isPermaLink="true">http://swanseacon.github.io/blog/awesome-employers-list</guid>
       </item>
     
       <item>
@@ -114,8 +114,8 @@
 
 </description>
         <pubDate>Thu, 06 Oct 2016 07:15:10 +0100</pubDate>
-        <link>http://localhost:4000/blog/donating-notebooks-from-swanseacon</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/donating-notebooks-from-swanseacon</guid>
+        <link>http://swanseacon.github.io/blog/donating-notebooks-from-swanseacon</link>
+        <guid isPermaLink="true">http://swanseacon.github.io/blog/donating-notebooks-from-swanseacon</guid>
       </item>
     
       <item>
@@ -147,8 +147,8 @@
 &lt;p&gt;twitter.com/SwanseaCon&lt;/p&gt;
 </description>
         <pubDate>Tue, 16 Feb 2016 20:19:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/call-for-speakers-now-closed</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/call-for-speakers-now-closed</guid>
+        <link>http://swanseacon.github.io/blog/call-for-speakers-now-closed</link>
+        <guid isPermaLink="true">http://swanseacon.github.io/blog/call-for-speakers-now-closed</guid>
       </item>
     
       <item>
@@ -232,8 +232,8 @@ Contact us about any specific requests.&lt;/p&gt;
 &lt;p&gt;twitter.com/SwanseaCon&lt;/p&gt;
 </description>
         <pubDate>Sun, 15 Nov 2015 14:41:37 +0000</pubDate>
-        <link>http://localhost:4000/blog/call-for-speakers-now-open</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/call-for-speakers-now-open</guid>
+        <link>http://swanseacon.github.io/blog/call-for-speakers-now-open</link>
+        <guid isPermaLink="true">http://swanseacon.github.io/blog/call-for-speakers-now-open</guid>
       </item>
     
       <item>
@@ -297,8 +297,8 @@ Contact us about any specific requests.&lt;/p&gt;
 &lt;p&gt;You can get all the latest news and updates about next years conference over on &lt;a href=&quot;http://www.twitter.com/swanseacon&quot;&gt;our twitter account&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 14 Sep 2015 14:43:18 +0100</pubDate>
-        <link>http://localhost:4000/blog/thank-you-for-attending-swaneacon-2015</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/thank-you-for-attending-swaneacon-2015</guid>
+        <link>http://swanseacon.github.io/blog/thank-you-for-attending-swaneacon-2015</link>
+        <guid isPermaLink="true">http://swanseacon.github.io/blog/thank-you-for-attending-swaneacon-2015</guid>
       </item>
     
       <item>
@@ -333,8 +333,8 @@ Let’s face the truth. Remote working is an increasing trend for several startu
 &lt;p&gt;&lt;a href=&quot;http://swancon.co.uk/schedule/#session-5&quot;&gt;Managing global teams : Lessons learned&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 22 Jul 2015 21:43:18 +0100</pubDate>
-        <link>http://localhost:4000/blog/patroklos-papapetrou-managing-global-teams</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/patroklos-papapetrou-managing-global-teams</guid>
+        <link>http://swanseacon.github.io/blog/patroklos-papapetrou-managing-global-teams</link>
+        <guid isPermaLink="true">http://swanseacon.github.io/blog/patroklos-papapetrou-managing-global-teams</guid>
       </item>
     
       <item>
@@ -364,8 +364,8 @@ Let’s face the truth. Remote working is an increasing trend for several startu
 &lt;p&gt;&lt;a href=&quot;http://swancon.co.uk/schedule/#session-13&quot;&gt;Tell, don’t ask&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 05 May 2015 12:18:18 +0100</pubDate>
-        <link>http://localhost:4000/blog/thomas-sundberg-tell-dont-ask</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/thomas-sundberg-tell-dont-ask</guid>
+        <link>http://swanseacon.github.io/blog/thomas-sundberg-tell-dont-ask</link>
+        <guid isPermaLink="true">http://swanseacon.github.io/blog/thomas-sundberg-tell-dont-ask</guid>
       </item>
     
       <item>
@@ -413,8 +413,8 @@ Let’s face the truth. Remote working is an increasing trend for several startu
 &lt;p&gt;&lt;a href=&quot;http://swancon.co.uk/schedule/#session-17&quot;&gt;Treat your Code as a Crime Scene&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 05 May 2015 12:18:18 +0100</pubDate>
-        <link>http://localhost:4000/blog/adam-tornhill-theres-more-to-code-than-code</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/adam-tornhill-theres-more-to-code-than-code</guid>
+        <link>http://swanseacon.github.io/blog/adam-tornhill-theres-more-to-code-than-code</link>
+        <guid isPermaLink="true">http://swanseacon.github.io/blog/adam-tornhill-theres-more-to-code-than-code</guid>
       </item>
     
   </channel>

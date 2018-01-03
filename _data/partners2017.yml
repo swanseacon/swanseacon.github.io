@@ -1,0 +1,42 @@
+- 
+  group: "Platinum"
+  elements: 
+    - {name: "GoCompare", description: "Comparison Made Easier With Defaqto", link: "http://www.gocompare.com/", imageUrl: "gocompare.jpg", width: "255px"} 
+- 
+  group: "Gold"
+  elements: 
+    - {name: "MySQL", description: "The world's most popular open source database", link: "http://www.mysql.com/", imageUrl: "mysql.png", width: "170px"} 
+    - {name: "Scrum Alliance", description: "Scrum Alliance", link: "http://www.scrumalliance.org/", imageUrl: "scrum-alliance.jpg", width: "310px"} 
+    - {name: "Equal Experts", description: "Equal Experts, Making Software. Better.", link: "http://www.equalexperts.com/", imageUrl: "equal-experts.png"}
+- 
+  group: "Silver"
+  elements: 
+    - {name: "Vizolution", description: "vScreen from Vizolution  is an innovative screen sharing technology", link: "http://www.vizolution.co.uk/", imageUrl: "vizolution.jpg", width: "170px"}
+- 
+  group: "Bronze"
+  elements: 
+    - {name: "Axosoft", description: "Scrum Software - Agile Project Management", link: "http://www.axosoft.com/", imageUrl: "axosoft.png", width: "250px"}
+    - {name: "GitKraken", description: "Git GUI for Windows, Mac & Linux", link: "http://www.gitkraken.com/", imageUrl: "gitkraken.png", width: "250px"}
+- 
+  group: "Exhibitors"
+  elements: 
+    - {name: "MySQL", description: "The world's most popular open source database", link: "http://www.mysql.com/", imageUrl: "mysql.png", width: "170px"} 
+    - {name: "Equal Experts", description: "Equal Experts, Making Software. Better.", link: "http://www.equalexperts.com/", imageUrl: "equal-experts.png"}
+    - {name: "Vizolution", description: "vScreen from Vizolution  is an innovative screen sharing technology", link: "http://www.vizolution.co.uk/", imageUrl: "vizolution.jpg", width: "170px"}
+    - {name: "Learning Connexions", description: "Learning Connexions. Learn, Train, Develop.", link: "http://www.learningconnexions.com/", imageUrl: "LearningConnexions_Logo.jpg"}
+    - {name: "Code Club", description: "A nationwide network of volunteer-led after school coding clubs for children aged 9-11", link: "http://www.codeclub.org.uk/", imageUrl: "codeclub.png"}
+- 
+  group: "Media Partners"
+  elements: 
+    - {name: "Skills Matter", description: "Explore skillscasts, meetups, conferences, courses, tutorials and workshops", link: "https://skillsmatter.com/explore?q=agile", imageUrl: "skillsmatter.png", width: "160px"}
+    - {name: "Coding Blocks", description: "Coding Blocks - Podcast and Your Source to Learn How To Become a Better Programmer", link: "https://www.codingblocks.net/", imageUrl: "codingblocks.JPG", width: "160px"}
+- 
+  group: "Partners"
+  elements: 
+    - {name: "Cucumber Limited", description: "Simple, human collaboration", link: "http://cucumber.io/", imageUrl: "cucumber.png", width: "220px"}
+    - {name: "Codurance", description: "Codurance, Craft at heart", link: "http://www.codurance.com/", imageUrl: "codurance.png"}
+    - {name: "Swansea Software Development Community", description: "#SSDC, Swansea Software Development Community", link: "http://www.swanseasdc.co.uk/", imageUrl: "ssdc.png", width: "170px"}
+    - {name: "nCrafts.io", description: "NEWCRAFTS CONFERENCES Paris", link: "http://ncrafts.io", imageUrl: "oxiane_partenaire_formation_ncrafts2016-e1456319240424.png", width: "190px"}
+    - {name: "Ministry of Testing", description: "CO-CREATING SMARTER TESTERS", link: "http://www.ministryoftesting.com", imageUrl: "MoT.png", width: "130px"}
+- 
+  group: "Awesome Employers list"
