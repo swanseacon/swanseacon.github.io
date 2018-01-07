@@ -140,9 +140,9 @@ subscribeInfo: "Registration is now open. Number of tickets are limited."
 
 # Tickets Block
 ticketsTitle: "Tickets"
-ticketTermsTitle: "Terms & Conditions"
+ticketTermsTitle: "Ticket Terms & Conditions"
 ticketTermsInfo: "<p><strong><em>Please note that once booked, Conference tickets cannot be cancelled and are non refundable. However, a substitute may be enrolled in a delegate’s place provided we are notified in writing before the first day of the event. Also note it is one ticket per delegate (ie no sharing). While SwanseaCon 2018 strives to maintain an up to date schedule, session list, and speaker list, these may be subject to change. If SwanseaCon has to cancel the conference for any reason, then we will refund 100% of any prepaid conference ticket fee, but we will not be liable for any other costs incurred including (for example) travel charges or any consequential damages, even if we were advised of them.</em></strong></p>"
-ticketsInfo: "<p><strong>Tickets include refreshments at designated times, a light lunch, plus access to all conference sessions. Accommodation and travel is NOT included in the ticket price.</strong></p><p><em><strong>SwanseaCon is not VAT registered and so we do not charge VAT on tickets.</strong></em></p>"
+ticketsInfo: "<p><strong>Accommodation and travel is NOT included in the ticket price.</strong></p><p><em><strong>SwanseaCon is not VAT registered and so we do not charge VAT on tickets.</strong></em></p>"
 ticketsOffers:
  -
   name: "Book by 31st March"
