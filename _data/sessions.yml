@@ -10,101 +10,86 @@
   language: en
 -
   id: 003
-  title: "Opening Keynote: It’s a small world after all"
-  description: "<h5>How software development is changing at increasing pace</h5>
-  <p>The world is changing fast. More precisely, the world is changing at increasing speed. This means things that were not possible five years ago come into reach. Incumbent organizations need to adopt fast to keep up with new competitors that use new technologies easier, faster and better than they do. As a result, every aspect of software changes towards smaller. Smaller teams, less management, flatter organizations, shorter cycles and smaller components. During this energizing and fast-paced talk Sander Hoogendoorn, independent consultant and CTO of the Dutch insurance software product development company ANVA, discusses where software development goes wrong, how to move beyond enterprise agile, how continuous delivery leads to not do projects anymore and why microservices are hard, but essential.</p>"
+  title: "Opening Keynote"
+  description: "<p>Information to follow</p>
+  <p></p>"
   subtype: keynote
   speakers: [1]
   language: en
 -
   id: 004
-  title: "Don't Diss the Discipline"
-  description: "<p>Having spent a decade as a developer I’ve worked with many teams of software professionals. Amongst those I’ve met, some have stood out as Software Crafters more than others.</p>
-  <p>What differentiates a Software Crafter from a Professional Software Developer?</p>
-  <p>If you’ve asked yourself the same question before, come along to discuss the common traits of Software Craftsmanship and decide whether there is any difference at all.</p>"
+  title: "TBC"
+  description: "Information to follow"
   subtype: presentation 
   speakers: [15]
   language: en
 -
   id: 005
-  title: "Pair-Programming From a Beginner's Perspective"
-  description: "<p>Many technical teams consider pairing their junior developers with more experienced colleagues as an effective way to upskill their new members. My team at www.net-a-porter.com follow the same approach. </p>
-  <p>However, my experience as a junior developer, who paired with experts on almost every story, showed that simply assigning two engineers with different skill levels to a single task is not enough for a successful pair-programming experience.</p>
-  <p>In this talk I will look at pair-programming from a beginner’s perspective, sharing the lessons I learned through my experience at YOOX Net-A-Porter Group over the last 2.5 years.</p>
-  <p>The topics I will cover in my talk include: 
-  <ul>
-  <li>pair-programming as a social skill: how the level of ‘seniority’ affects behaviour and decision-making of the pair</li>
-  <li>what I learned about the needs of junior and senior developers when pairing</li>
-  <li>what our team found to be most beneficial in pairing novices with experts </li>
-  <li>which aspects of pair-programming across skill proved to be ‘pain points’ to the team</li>
-  <li>a recipe for success: what we did to overcome challenges of pairs with the experience gap, and what we can do to improve further.</li>
-  </ul>
-  </p>
-  <p>The key tips which I will share at the end of the session are relevant not only to pairing across skill levels, but to pair-programming practice in general.</p>"
+  title: "TBC"
+  description: "Information to follow"
   subtype: presentation 
   speakers: [5]
   language: en
 -
   id: 006
-  title: "Harnessing Culture for Great Agile Relationships"
-  description: "<p>How can you use culture to drive change, relationships, and innovation in an Agile Environment? At KBG we believe there is a clear and explicit link between culture, change, and performance. We don’t see culture as something vague or optional, but a powerful force in your organization that can be dealt with in an analytical, systematic and practical way. It is a strength you can harness for driving performance, achieving challenging outcomes, innovating.</p>"
+  title: "TBC"
+  description: "Information to follow"
   subtype: presentation 
   speakers: [12]
   language: en
 -
   id: 007
-  title: "Building a REPL for Phunkie, with Phunkie"
-  description: "<p>After writing PhpSpec using PhpSpec, I decided my latest project should be writing a REPL for Phunkie – my PHP functional structures library – using Phunkie itself, along with functional programming patterns and techniques. In this talk I will share what I've learned.</p>"
+  title: "TBC"
+  description: "Information to follow"
   subtype: presentation 
   speakers: [21]
   language: en
 -
   id: 008
-  title: "The Future is Serverless"
-  description: "<p>Serverless has taken over from containers as part of the natural evolution of computing and the next big concept. It is already fundamentally changing how we architect and develop solutions. This session gives a background to serverless, highlighting how and why it has evolved, and identifying some of the most common use cases. The session will also show practical demonstrations of the ease in which functions can be deployed and run as a service.</p>"
+  title: "TBC"
+  description: "Information to follow"
   subtype: presentation 
   speakers: [20]
   language: en
 -
   id: 009
-  title: "Scaling Continuous Delivery is not black magic"
-  description: "<p>Let’s have a look at how to scale Continuous Delivery up and out, in a sustainable and approachable way. We all know it is an art of good practices and people working together, but the biggest challenge once it works is to make it scale properly.</p>
-  <p>There are several options for processes, and that is where high level views come handy, where tools like VSTS provide great support to managers and above when it comes to scaling up the process to non-technical people.</p>"
+  title: "TBC"
+  description: "Information to follow"
   subtype: presentation 
   speakers: [4]
   language: en
 -
   id: 010
-  title: "Serverless with Azure Functions - the rebel service"
-  description: "<p>Azure Functions in a few words: event-driven, micro-billing, horizontally scalable and all running on a fully managed infrastructure. Did I give it all away? This is not even half of the story! Azure Functions is the go-to service for many different solutions built on top of a serverless architecture, allowing developers to focus on what really matters, solving real world problems. Functions come with a great developer story, a testable framework, local development and support for end-to-end DevOps. Join me at SwanseaCon to find how to use your favourite command line tool and language to develop serverless, scalable, high performant and reliable solutions with the power of Azure Functions.</p>"
+  title: "TBC"
+  description: "Information to follow"
   subtype: presentation 
   speakers: [9]
   language: en
 -
   id: 011
-  title: "Scale @ Netflix"
+  title: "TBC"
   description: "Information to follow"
   subtype: presentation 
   speakers: [13]
   language: en
 -
   id: 012
-  title: "The Domain-Driven Coding Architect"
-  description: "<p>Do you work for an organisation that creates masses of ivory tower architecture that no-one reads, or a trendy agile startup who pity any fool that wastes their time on that architecture rubbish? It doesn’t really matter, because there is a better way. Learn how to design, visual and communicate a strong shared vision highly-aligned with the key areas of your problem domain and business needs. In this session, you’ll learn to architect like a strategic DDD expert.</p>"
+  title: "TBC"
+  description: "Information to follow"
   subtype: presentation 
   speakers: [11]
   language: en
 -
   id: 013
-  title: "Acceptance Testing on Mobile"
-  description: "<p>Acceptance Testing is one of the essential components of a healthy software development process; unfortunately on Mobile this typically results in the creation of slow, brittle and highly complex UI automation based tests. These can leave development teams and businesses left wondering, is it worth it? By revisiting fundamentals this talk explores the role it should play in driving collaboration between business and software and how it can be best applied in Mobile.</p>"
+  title: "TBC"
+  description: "Information to follow"
   subtype: presentation 
   speakers: [10]
   language: en
 -
   id: 016
-  title: "Agile life lessons - looking beyond the processes"
-  description: "<p>Agile life lessons, learned and shared from Product Owner's perspective.  How it's essential to look beyond the processes to be successful as a team and an individual.  Real world examples of how things can go wrong and how to use an Agile mindset to be a better leader, always put the customer first and manage the expectations of others.</p>"
+  title: "TBC"
+  description: "Information to follow"
   subtype: presentation 
   speakers: [6]
   language: en
@@ -115,141 +100,134 @@
   service: true
 -
   id: 019
-  title: "10 things you need to know about BDD, Cucumber and SpecFlow"
-  description: "<p>BDD is quite a recent addition to the software development toolbox. Sometimes it feels like we’re using a hammer to drive in a screw, so in this session we’ll explore what it’s good for, when to use it and how tools like Cucumebr and SpecFlow can help. We’ll also look at what problems it doesn’t help with and when not to use it.</p>"
+  title: "TBC"
+  description: "Information to follow"
   subtype: presentation 
   speakers: [3]
   language: en
 -
   id: 020
-  title: "Defining MVP with Scenarios"
-  description: "<p>What is the minimal version of the product that should be build? How to define what is in and what is out? I will suggest a technique that helps to leave emotions and company politics out of the MVP equation. The centre of this technique is scenarios, stories that describe how people use the product. Applied to different projects with different stakeholders, this approach works over and over again helping to make MVP live as early as possible.</p>"
+  title: "TBC"
+  description: "Information to follow"
   subtype: presentation 
   speakers: [14, 26]
   language: en
 -
   id: 021
-  title: "Unit Tests: Let's get skeptical"
-  description: "<p>Unit tests. As software developers, we're supposed to write them. Our customers want services, products and features though. Could it be that all these unit tests are wasting our time, and that we'd be better off getting on writing -- and system testing -- the code we're actually paid to produce?  This presentation draws on personal experience and on the wisdom of Sir Tony Hoare, James Coplien, Donald Knuth, and others in an attempt to answer this question.</p>"
+  title: "TBC"
+  description: "Information to follow"
   subtype: presentation
   speakers: [7]
   language: en
 -
   id: 022
-  title: "'I am Groot' - Learning Agile Testing"
-  description: "<p>Everybody's talking about continuous learning and how essential it is for a tester. You have to keep growing, keep stretching yourself, keep exploring new worlds so as not to miss the forest for the trees.</p>
-  <p>But how do you actually do that? Okay, since you’re reading this it seems that you're at least thinking about going to conferences to learn. But is learning once a year enough? If not, how do you grow on an everyday basis? How can you become a better tester? And what about learning as a team, company, community? In this talk, I will share my personal experience and concrete tips on how to re-invent yourself and the world around you. We are Groot!</p>"
+  title: "TBC"
+  description: "Information to follow"
   subtype: presentation
   speakers: [16]
   language: en
 -
   id: 023
-  title: "Building Empowered Teams at Scale"
-  description: "<p>It is often difficult to scale cultural values while responding to challenges created by an influx of new people, structural reorganising, and other aspects of growth. This talk will use Pivotal Cloud Foundry as a case study for how to rapidly build and scale teams in an organisation that values empowerment at its core.</p>"
+  title: "TBC"
+  description: "Information to follow"
   subtype: presentation
   speakers: [19]
   language: en
 -
   id: 024
-  title: "Developing an agile mindset: leading teams to think beyond the tools, techniques and process."
-  description: "<p>The Agile Manifesto captured the mindset of 17 software delivery thought leaders in how they wanted to deliver software. Since then the agile landscape has exploded with all sorts of different tools, techniques and practices. In my experience the adoption of agile focuses heavily on implementing the processes, tools and techniques. But, true agility is achieved by the people within the organisation adopting the agile mindset. This talk is all about the agile journey GoCompare has taken and, more importantly, contains an experience report of developing an agile mindset at all levels of the organisation.</p>"
+  title: "TBC"
+  description: "Information to follow"
   subtype: presentation
   speakers: [8]
   language: en
 -
   id: 025
-  title: "Making MySQL Agile-ish"
-  description: "<p>NoSQL has been popular for schemaless data storage and MySQL has had a JSON data type since version 5.7.  And now with the X Devapi you can use MySQL without knowing Structured Query Langauge (SQL). This session covers how to use MySQL as a document store for fast development and schemaless data storage.  Covered will be setup, the new protocol used, the connectors needed to support this new functionality, and programming examples in JavaScript, Node.JS, Python and more.  See how to make you stodgy but reliable old database do new agile tricks.</p>"
+  title: "TBC"
+  description: "Information to follow"
   subtype: presentation
   speakers: [18]
   language: en
 -
   id: 026
-  title: "The Bad and Good Hierarchies in the journey of a self-organising team"
-  description: "<p>The concept of self-organisation has always been one of the tenets of many agile frameworks. According to many, this is not achievable and can only cause confusion and undisciplined dynamics, according to others, instead, a self-aware and self-organised team is the only option to achieve the expected benefits of an agile transformation.</p>"
+  title: "TBC"
+  description: "Information to follow"
   subtype: presentation
   speakers: [17]
   language: en
 -
   id: 027
-  title: "Turning Development Outside–In"
-  description: "<p>We default to considering systems from an insider's perspective; the view from outside can be quite different. Can we apply this inversion to more than just requirements?</p>
-  <p>We may say we want testing, but what do we want from testing? We may say we want logging, but what do we want from logging? We may say we want clean code, but what do we want from clean code? We may say we want an agile process, but what do we want from an agile process? These are harder questions, but their answers can make for better solutions.</p>"
+  title: "TBC"
+  description: "Information to follow"
   subtype: presentation
   speakers: [25]
   language: en
 -
   id: 035
-  title: "Closing Keynote: The trouble with culture"
+  title: "TBC"
   description: "Information to follow"
-  subtype: keynote 
+  subtype: presentation 
   speakers: [2]
   language: en
 -
   id: 033
-  title: "Making Agile safe again: resisting the Borg"
-  description: "<p>The consolidation of self-styled ’scaled’ methods into two dominant suppliers and the entry through acquisition of the big consultancy companies represents a significant phase shift in Agile. Increasingly commoditisation is generally the sign that an idea or approach is reaching the end of its natural life cycle and needs renewal and novelty. For many the growing levels of structure and associated method wars are the antithesis of what Agile was intended to achieve.</p>
-  <p>This presentation will seek to go back to some of the original issues and ideals that drove the creation of the Agile movement and seek to identify ways and means by which we can make Agile safe for innovation and novelty, and above all adding value to the organisation and society.</p>"
+  title: "TBC"
+  description: "Information to follow"
   subtype: presentation
   speakers: [22]
   language: en
 -
   id: 028
-  title: "Test Driven Deployment"
-  description: "<p>Feedback from a journeyman in the world of devOps.</p>
-  <p>I will be sharing the approach we took building the continuous integration pipeline, and the deployment automation of non mature components.</p>
-  <p>We will see how the implementation of a walking skeleton & continuous integration from the beginning of the project would have shed some light on architectural flaws and could have spared development time later down the line.</p>
-  <p>There will be tests, [PowerShell] scripts, server-less functions, blood and tears. But above all there will be lessons learnt.</p>"
+  title: "TBC"
+  description: "Information to follow"
   subtype: presentation
   speakers: [23]
   language: en
 -
   id: 029
-  title: "Branching strategies: choose wisely to minimise costs"
-  description: "<p>Is your team choosing the branching strategy from the beginning, or is it switching after a while to better accommodate the current project stage? How does this affect you, and what are the costs involved? Multiply this by the number of repositories, each playing a definite role in a large-scale project, and you will want to know how to minimise the impact.</p>"
+  title: "TBC"
+  description: "Information to follow"
   subtype: presentation
   speakers: [24]
   language: en
 -
   id: 030
-  title: "Limiting WIP in the kitchen sink (aka 'shamelessly capitalising upon an argument with my wife...')"
-  description: "<p>Lawrence had an argument with his wife about the washing up. While sulking about it, he realised that a lot of parallels could be drawn with how we develop software... in particular, how having lots of 'work in progress' can seriously damage the flow of work through your development process.</p>"
+  title: "TBC"
+  description: "Information to follow"
   subtype: presentation
   speakers: [27]
   language: en
 -
   id: 031
-  title: "Live coding a chatbot in less than 15 minutes"
-  description: "<p>Using the Microsoft Bot Framework and LUIS, I will live-code a chat bot that we'll interact with to find out what's on at SwanseaCon!</p>
-  <p>The Bot Framework is amazingly powerful but it's also very new, not well documented and confusing at first glance. I'll strip all of that away to give you a quick start and show you that creating a chat bot can be done in a small amount of time with no expert experience of the Bot Framework.</p>"
+  title: "TBC"
+  description: "Information to follow"
   subtype: presentation
   speakers: [28]
   language: en
 -
   id: 032
-  title: "Travel guide to continuous delivery"
-  description: "<p>With agile principles and practices reaching maturity, in many organizations the focus for the coming years will be on the next steps. Beyond agile. In fast pace organizations are adopting agile, DevOps, continuous delivery and new architectures such as microservices. Often all at once. Although from a perspective of similarities between these paradigms this makes sense, this also requires for increased collaboration between business, development and operations. During this session, Kim van Wilgen, head of IT at the Dutch insurance softwarecompany ANVA, will give practical insights on their journey to continuous delivery with real-life pictures and stories. She’ll be your guide through the journey to continuous delivery and tell you about the things to do or to avoid. How can organizations deal with the complexity of simultaneously changing architectures, ways of working, technology, and foremost culture? How do we make this journey comfortable and safe? How can we make the business case for continuous delivery? How can we deliver continuous delivery?</p>"
+  title: "TBC"
+  description: "Information to follow"
   subtype: presentation
   speakers: [29]
   language: en
 -
   id: 034
-  title: "Learning to Love HATEOAS"
-  description: "<p>How do you build APIs that are RESTful, but are more than just CRUD? The answer lies in HATEOAS - Hypermedia As The Engine Of Application State. In this session Dave will look at the principles behind HATEOAS, and show you some of the available options before giving a live demo of a HATEOAS API.</p>"
+  title: "TBC"
+  description: "Information to follow"
   subtype: presentation
   speakers: [30]
   language: en
 -
   id: 036
-  title: "Motivation for You, your Craft, your Team and your Org"
-  description: "<p>An in depth look at motivation theory with a personal story of how as a rising engineer I got blindsided by failure. I will detail my journey to positivity and what this journey taught me. A highly motivational talk covering many areas and theories of personal motivation we all struggle with as engineers and teams. We will finish by looking at how organisations can make use of these theories to motivate and engage there people.</p>"
+  title: "TBC"
+  description: "Information to follow"
   subtype: presentation
   speakers: [31]
   language: en
 -
   id: 098
-  title: "Evening Reception"
-  description: "<p>Join us for our evening reception in the Pendery Suite. This is a great opportunity to network and discuss the opening day with attendees and speakers, acompanied by a fantastic view across the hallowed turf. We will be also be serving complimentary Canapés along with a soft or alcoholic drink.</p>"
+  title: "TBC"
+  description: "Information to follow"
 -
   id: 099
   title: ""
@@ -274,5 +252,5 @@
 
 -
   id: 104
-  title: "SwanseaCon 2017 End"
+  title: "SwanseaCon 2018 End"
   service: true
