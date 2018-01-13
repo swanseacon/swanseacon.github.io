@@ -1,4 +1,15 @@
 - 
+  id: 3
+  name: "David"
+  surname: "Stokes"
+  company: "Oracle"
+  title: ""
+  bio: "<p>Dave Stokes is a MySQL Community Manager for Oracle.  Previously he was the MySQL Certification Manager for MySQL AB and SUN.  He has worked for companies ranging alphabetically from the American Heart Association to Xerox and work ranging from Anti-submarine warfare to web developer. He lives in Texas, is @Stoker, blogs at elephantanddolphin.blogger.com, rides a Honda Goldwing, and wrote his first program in FORTAN on punch cards. And he really wonders how many people really, really read these conference biographies.</p>"
+  thumbnailUrl: DaveStokes.jpg
+  rockstar: true	
+  social: 
+    - {name: "twitter", link: "http://twitter.com/stoker"}
+- 
   id: 1
   name: "Hadi"
   surname: "Hariri"
@@ -21,14 +32,3 @@
   rockstar: true	
   social: 
     - {name: "twitter", link: "http://twitter.com/mashooq"}
-- 
-  id: 3
-  name: "David"
-  surname: "Stokes"
-  company: "Oracle"
-  title: ""
-  bio: "<p>Dave Stokes is a MySQL Community Manager for Oracle.  Previously he was the MySQL Certification Manager for MySQL AB and SUN.  He has worked for companies ranging alphabetically from the American Heart Association to Xerox and work ranging from Anti-submarine warfare to web developer. He lives in Texas, is @Stoker, blogs at elephantanddolphin.blogger.com, rides a Honda Goldwing, and wrote his first program in FORTAN on punch cards. And he really wonders how many people really, really read these conference biographies.</p>"
-  thumbnailUrl: DaveStokes.jpg
-  rockstar: true	
-  social: 
-    - {name: "twitter", link: "http://twitter.com/stoker"}
