@@ -1,4 +1,4 @@
-- 
+-
   id: 3
   name: "David"
   surname: "Stokes"
@@ -21,13 +21,35 @@
   social: 
     - {name: "twitter", link: "http://twitter.com/hhariri"}
 - 
+  id: 4
+  name: "Kim"
+  surname: "van Wilgen"
+  company: "ANVA"
+  title: ""
+  bio: "<p>Kim is an experienced Head of IT in technologically advanced environments. Although a nerd at heart, she also has over a decade of experience in product development and comparable managerial roles on the other side: the business. She can still speak the language of the product owners and the users to understand the gap we quite frequently need to bridge. Kim van Wilgen is passionate about topics such as agile, Kanban, DevOps and continuous delivery, and the management of the cultural, organizational, team and technological changes associated with these approaches.</p>"
+  thumbnailUrl: KimvanWilgen.jpg
+  rockstar: true	
+  social: 
+    - {name: "twitter", link: "http://twitter.com/kimvanwilgen"}
+- 
   id: 2
   name: "Mashooq"
   surname: "Badar"
   company: "Codurance"
   title: ""
-  bio: "<p>Mash is a pragmatic software craftsman always looking to improve his software creation skills and helping others do the same. He firmly believes that a well-rounded software craftsman must have a keen interest in all aspects of software creation, including; process, people, technology, user experience, development, operation, maintenance, and social impact. He relishes the daily challenges that Codurance brings to him–stretching his existing knowledge and expertise allowing him to constantly grow as a professional.</p>"
+  bio: "<p>Mash is a pragmatic software craftsman always looking to improve his software creation skills and helping others do the same. He firmly believes that a well-rounded software craftsman must have a keen interest in all aspects of software creation, including; process, people, technology, user experience, development, operation, maintenance, and social impact. He relishes the daily challenges that Codurance brings to him stretching his existing knowledge and expertise allowing him to constantly grow as a professional.</p>"
   thumbnailUrl: MashooqBadar.jpg
   rockstar: true	
   social: 
     - {name: "twitter", link: "http://twitter.com/mashooq"}
+- 
+  id: 5
+  name: "Sander"
+  surname: "Hoogendoorn"
+  company: "ditisagile.nl"
+  title: ""
+  bio: "<p>Sander is an independent dad, mentor, trainer, software architect, programmer, speaker, and writer. He is a highly appreciated catalyst in the innovation of software development at his many international clients. Well known as the author of the best-selling book This Is Agile, Sander coaches organizations, projects and teams, has written books on UML and agile, and published over 250 articles in international magazines. He is an inspiring (keynote) speaker at many international conferences, and presents seminars and training courses on a variety of topics such as (beyond) agile, Scrum, Kanban, software estimation, software architecture, microservices, design patterns, modeling and UML, writing code, and testing.</p>"
+  thumbnailUrl: SanderHoogendoorn.jpg
+  rockstar: true	
+  social: 
+    - {name: "twitter", link: "http://twitter.com/aahoogendoorn"}

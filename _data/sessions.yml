@@ -25,8 +25,11 @@
   language: en
 -
   id: 005
-  title: "TBC"
-  description: "Information to follow"
+  title: "Do or don’t. There’s no try. Or is there?"
+  description: "<h5>The power of monads explained. Sort of</h5>
+  <p>One of the great things about being a programmer is that you never stop learning. Even after having programmed for almost 35 years, I still improve on the way I write code. Recently the way I write code changed once again when I started to apply monads and especially the Try class.</p>
+  <p>During a recent project, my team created a small library that ports the behavior of the Scala Try monad. Although at first this new monad didn't appeal to me, I soon really started to appreciate this style of programming, where we concatenate series of Map() and FlatMap() methods, using lambda’s, and avoiding abundant try-catch blocks, and many if statements and null checks.</p>
+  <p>In the meantime, I have contaminated many programmers with this style. Developers make it a sport to always start every method with a return statement. During this talk I’ll discuess lambda’s, closures and monads, and demonstrate the power of this simple monad, using many code examples (in Java, C# and TypeScript). Don't hesitate to join in.</p>"
   subtype: presentation 
   speakers: [5]
   language: en
