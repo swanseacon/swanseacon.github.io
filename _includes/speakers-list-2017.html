@@ -29,12 +29,12 @@
                                 {% endif %}
                             </figure>
                         </div>
-                       <!--  <div class="lily-bottom">
+                       <div class="lily-bottom">
                             <ul class="slider">
                                 {% assign sessionsNumber = 0 %}
                                 {% if site.showSessions %} 
-                                    {% for session in site.data.sessions2016 %} 
-                                        {% for session_speaker in session.speakers2016 %} 
+                                    {% for session in site.data.sessions2017 %} 
+                                        {% for session_speaker in session.speakers2017 %} 
                                             {% if session_speaker == speaker.id %}
                                             {% assign sessionsNumber = sessionsNumber | plus: 1 %}
                                                 <li class="title slider-item animated fadeInRight hidden">{{ session.title }}</li>
@@ -47,7 +47,7 @@
                                 {% endif %}
                             </ul>
                             <a href="#" class="slider-next-item {% if sessionsNumber == 1 %}hidden{% endif %}">Next</a>
-                        </div> -->
+                        </div> 
 							
                     </div>
                 </div>
