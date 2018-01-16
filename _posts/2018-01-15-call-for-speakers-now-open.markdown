@@ -15,11 +15,13 @@ Whether you have never spoken at a conference, a relatively new speaker or spoke
 
 #### Speakers
 
-We're really pleased to announce that this years opening keynote will be by the fantastic Hadi Hariri (JetBrains), we will be announcing the closing keynote speaker very soon! Already we have some great speakers lined up including David Stokes (Oracle), Sander Hoogendoorn (DITISAGILE.NL), Kim Van Wilgen (ANVA), and Mashooq Badar (Codurance) - but we have lots more space for more amazing speakers like you!
+We're really pleased to announce that this years opening keynote will be by the fantastic Hadi Hariri (JetBrains), we will be announcing the closing keynote speaker very soon! We already have some speakers lined up including David Stokes (Oracle), Sander Hoogendoorn (DITISAGILE.NL), Kim Van Wilgen (ANVA), and Mashooq Badar (Codurance) - but we have lots more space and so we're putting out a call for speakers.
 
 #### Sessions
 
 We're happy for you to stand up and present a talk about your experiences or something you've done, but we also strongly encourage interactive sessions that generate conversation with the audience, group discussion, or hands-on experiences.
+
+One of the themes of the conference is agile development. If you work or have worked as part of an agile team to deliver software we'd love to hear from you. The other theme is software craftsmanship, it's about well-crafted software, adding value to the software that you help to develop and deliver.
 
 Whilst we ask for talk submissions around agile development and software craftsmanship, below are just some of the talk titles that were submitted, accepted and run at previous SwanseaCon events. 
 
