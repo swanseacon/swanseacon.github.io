@@ -15,17 +15,17 @@ modal: all
         <div class="col-md-10 col-sm-10 col-lg-offset-2 col-md-offset-2 col-sm-offset-1">
             
             <div class="col-lg-8 col-md-10 col-xs-12">
-              <!--  {% for sponsor in site.data.sponsors %}
+               {% for sponsor in site.data.sponsors %}
                     <article class="row post">
                         <a href="{{ sponsor.website }}" target="_blank" title="{{ sponsor.company }}"><h4><img src="{{ site.baseurl }}/img/partners/{{ sponsor.thumbnailUrl }}"/></h4></a>
                        <br>
                         <div class="sponsor-body">{{ sponsor.description }} </div>
-						<p><a href="{{ sponsor.website }}">{{ sponsor.website }}</a></p>
+						<p><a href="{{ sponsor.website }}" target="_blank">{{ sponsor.website }}</a></p>
                     </article>
-                {% endfor %}  -->
+                {% endfor %}  
 
 				<article class="row post">
-				<h5>If you'd like to sponsor SwanseaCon 2018, <a href="mailto:hello@swanseacon.co.uk">click here to enquire about sponsorship opportunities</a>.</h5>
+				<h5>If you'd like to sponsor SwanseaCon 2018, <a href="/sponsorship">click here to view our sponsorship opportunities</a>.</h5>
 				</article>
 				
                 {% if paginator.total_pages > 1 %}
