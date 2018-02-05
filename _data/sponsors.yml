@@ -24,3 +24,8 @@
   company: "Codurance"
   thumbnailUrl: codurance.png
   website: "http://codurance.com"
+ - 
+  id: 5
+  company: "JetBrains"
+  thumbnailUrl: jetbrains.png
+  website: "http://www.jetbrains.com/"
