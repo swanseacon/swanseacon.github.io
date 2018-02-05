@@ -10,6 +10,13 @@
   thumbnailUrl: equal-experts.png
   website: "http://www.equalexperts.com/"
  - 
+  id: 6
+  company: "Scrum Alliance"
+  description: "<h5>Become part of something bigger than you alone</h5>
+  <p>alone. Founded in 2001, Scrum Alliance® is the largest, most established and influential professional membership and certification organization in the Agile community. Scrum Alliance® is a nonprofit association, having certified more than 450,000 individuals worldwide. Its vision is to &quot;Transform the World of Work” with a mission to guide and inspire individuals, leaders, and organizations with practices, principles, and values that create workplaces that are joyful, prosperous, and sustainable. Come sprint with us!</p>"
+  thumbnailUrl: scrum-alliance.png
+  website: "http://www.scrumalliance.org/"
+ - 
   id: 2
   company: "Swansea Software Development Community"
   thumbnailUrl: ssdc.png
