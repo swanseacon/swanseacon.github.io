@@ -28,6 +28,6 @@
     - {name: "Codurance", description: "Codurance, Craft at heart", link: "http://www.codurance.com/", imageUrl: "codurance.png"}
     - {name: "Swansea Software Development Community", description: "#SSDC, Swansea Software Development Community", link: "http://www.swanseasdc.co.uk/", imageUrl: "ssdc.png", width: "170px"}
     - {name: "nCrafts.io", description: "NEWCRAFTS CONFERENCES Paris", link: "http://ncrafts.io", imageUrl: "oxiane_partenaire_formation_ncrafts2016-e1456319240424.png", width: "190px"}
-    - {name: "JetBrains", description: "The drive to develop", link: "http://www.jetbrains.com/", imageUrl: "jetbrains.png", width: "170px"}
+    - {name: "JetBrains", description: "The drive to develop", link: "http://www.jetbrains.com/", imageUrl: "jetbrains.png"}
 - 
   group: "Awesome Employers list"
