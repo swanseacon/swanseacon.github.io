@@ -36,3 +36,8 @@
   company: "JetBrains"
   thumbnailUrl: jetbrains.png
   website: "http://www.jetbrains.com/"
+ - 
+  id: 6
+  company: "Aspose Ptd Ltd"
+  thumbnailUrl: Aspose.png
+  website: "http://www.asposeptyltd.com/"
