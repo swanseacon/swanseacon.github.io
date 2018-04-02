@@ -1,4 +1,26 @@
 -
+  id: 1
+  name: "Allie"
+  surname: "Brock"
+  company: "Box UK"
+  title: ""
+  bio: "<p>Allie is a Business Analyst and Agile Coach at Cardiff-based software consultancy Box UK, and prior to this was the organisation's Head of Support for 10 years. She has a wealth of experience in understanding, prioritising and managing client needs and, most recently, has acted as Product Owner on a number of high-profile projects with global electronics retailer RS Components. Outside of work she's a keen photographer and, until injury ruled her out, she was a regular with the Tiger Bay Brawlers roller derby team!</p>"
+  thumbnailUrl: AllieBrock.jpg
+  rockstar: true	
+  social: 
+    - {name: "twitter", link: "http://twitter.com/brocknroller"}
+- 
+  id: 2
+  name: "Chris"
+  surname: "Cundill"
+  company: "Diligent Software"
+  title: ""
+  bio: "<p>Seasoned Java & Scala developer with team lead experience.  Contracting. The founder of Diligent Software.  Married with three kids. Also play guitar, coaches junior football, teaches at Code Club.  Enjoying life.</p>"
+  thumbnailUrl: ChrisCundill.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "http://twitter.com/ChrisCundill"}
+-
   id: 3
   name: "David"
   surname: "Stokes"
@@ -10,7 +32,30 @@
   social: 
     - {name: "twitter", link: "http://twitter.com/stoker"}
 - 
-  id: 1
+  id: 4
+  name: "Elisabeth"
+  surname: "Hocke"
+  company: "FlixMobility Tech GmbH"
+  title: ""
+  bio: "<p>Having graduated in sinology, Lisi fell into agile and testing in 2009 and has been infected with the agile bug ever since. She’s especially passionate about the whole-team approach to testing and quality as well as the agile culture mindset behind it. Building great products which deliver value together with great people is what motivates her and keeps her going. She received a lot from the agile testing community; now she’s sharing her stories to give something of her experience back to the community. She tweets as @lisihocke and blogs at www.lisihocke.com. In her free time you can either find her in the gym running after a volleyball, having a good time with her friends or delving into games and stories of any kind.</p>"
+  thumbnailUrl: lisihocke.jpg
+  rockstar: true	
+  social: 
+    - {name: "twitter", link: "http://twitter.com/lisihocke"}
+    - {name: "site", link: "http://www.lisihocke.com"}	
+-
+  id: 5
+  name: "Gem"
+  surname: "Hill"
+  company: "BBC"
+  title: ""
+  bio: "<p>I've been a webtester for about 4-5 years now, and currently work for the BBC. I've recently dipped my toes in VR testing for BBC Research and Development. I'm a podcaster, with two podcasts; Lets Talk About Tests, Baby (which is about software testing), and Inner Pod (which is about mental health). I'm also a qualified Mental Health First Aider.</p>"
+  thumbnailUrl: GemHill.png
+  rockstar: true	
+  social: 
+    - {name: "twitter", link: "http://twitter.com/gem_hill"}	
+- 
+  id: 6
   name: "Hadi"
   surname: "Hariri"
   company: "JetBrains"
@@ -21,7 +66,7 @@
   social: 
     - {name: "twitter", link: "http://twitter.com/hhariri"}
 - 
-  id: 4
+  id: 7
   name: "Kim"
   surname: "van Wilgen"
   company: "ANVA"
@@ -31,8 +76,21 @@
   rockstar: true	
   social: 
     - {name: "twitter", link: "http://twitter.com/kimvanwilgen"}
+-
+  id: 8
+  name: "Kristine"
+  surname: "Corbus"
+  company: "trendig technology services GmbH"
+  title: ""
+  bio: "<p>Kristine is a software tester with an interest in risk-based testing in the context of digital transformation. Over the years she's worked in several start-ups with web-based technologies. A special highlight was her work close together with linguistic scientists on self-learning application for Android platform. Currently, she works as a Trainer for trendig technology services GmbH in Berlin, Germany. She was the organiser of TestBash Germany 2017 conference and since 2015 runs local tester meet-up: TestParadies.</p>
+  <p>Kristine blogs randomly on https://testretreat.com and is constantly exploring ways of improving her skills in software testing, quality processes, soft skills and team leadership. She is happily married and has three children.</p>"
+  thumbnailUrl: KristineCorbus.jpg
+  rockstar: true	
+  social: 
+    - {name: "twitter", link: "http://twitter.com/e_tester"}
+    - {name: "site", link: "http://testretreat.com"}	
 - 
-  id: 6
+  id: 9
   name: "Lisa"
   surname: "Crispin"
   company: ""
@@ -44,8 +102,20 @@
     - {name: "twitter", link: "http://twitter.com/lisacrispin"}
     - {name: "site", link: "http://www.lisacrispin.com"}
     - {name: "site", link: "http://www.agiletester.ca"}	
+-
+  id: 10
+  name: "Loïc"
+  surname: "Knuchel"
+  company: "Criteo"
+  title: ""
+  bio: "<p>Typed functional programmer at Criteo, much interested in correctness and maintainability. Scala trainer, conference speaker, meetup organizer and former freelance & startup founder.</p>
+  <p>Like to talk about: code quality, functional programming, DDD, TDD, event sourcing as well as agility and management ;).</p>"
+  thumbnailUrl: LoicKnuchel.jpg
+  rockstar: true	
+  social: 
+    - {name: "twitter", link: "http://twitter.com/loicknuchel"}
 - 
-  id: 2
+  id: 11
   name: "Mashooq"
   surname: "Badar"
   company: "Codurance"
@@ -56,7 +126,96 @@
   social: 
     - {name: "twitter", link: "http://twitter.com/mashooq"}
 - 
-  id: 5
+  id: 12
+  name: "Matt"
+  surname: "Ellis"
+  company: "JetBrains"
+  title: ""
+  bio: "<p>Matt Ellis is a developer advocate at JetBrains. He has spent 20 years shipping software and currently works with language tooling, having fun with plugins, abstract syntax trees and source code analysis. He owns and contributes to various open source projects, and believes in the open closed principle.</p>"
+  thumbnailUrl: MattEllis.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "http://twitter.com/citizenmatt"}
+- 
+  id: 13
+  name: "Matt"
+  surname: "Jukes"
+  company: "NotBinary"
+  title: ""
+  bio: "<p>Matt Jukes has spent the majority of his 20-year career managing digital teams for government and research institutions. Throughout that time he has operated at the forefront of internet-enabled change for his employers.</p>
+  <p>Since 2001 he has successfully introduced content management systems, social media and open-source technologies - and in recent years, an agile, user-centric approach to product development.</p>"
+  thumbnailUrl: MattJukes.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "http://twitter.com/jukesie"}
+- 
+  id: 14
+  name: "Matthew"
+  surname: "Fortunka"
+  company: "Admiral"
+  title: ""
+  bio: "<p>Matt has spent the last 20 years submerged in the Microsoft stack, and now heads a team at Admiral making heavy use of Azure.</p>"
+  thumbnailUrl: MatthewFortunka.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "http://twitter.com/memleek"}
+- 
+  id: 15
+  name: "Monira"
+  surname: "Rhaimi"
+  company: "Thoughtworks"
+  title: ""
+  bio: "<p>Monira Rhaimi has worked across multiple roles from software engineer to product manager, in different regions of the world (Europe, America and Australia). Having experienced many different environments, teams and culture, she developed a passion for product management, lean and agile practices and culture change in organisations.</p>
+  <p>Currently working for thoughtworks as a senior product and strategy consultant, she has the opportunity to practice her craft and deepen her learnings while helping teams start a change.</p>"
+  thumbnailUrl: MoniraRhaimi.jpg
+  rockstar: true
+- 
+  id: 16
+  name: "Nick"
+  surname: "Tune"
+  company: "Equal Experts"
+  title: ""
+  bio: "<p>Nick is a product-focused strategic technical leader with experience across a variety of organisations including the UK Government, Salesforce, and 7digital. He is the co-author of Designing Autonomous Teams and Services (O’Reilly) and Patterns, Principles and Practices of Domain-Driven Design (Wrox), and blogs from ntcoding.co.uk.</p>"
+  thumbnailUrl: NickTune.jpeg
+  rockstar: true	
+  social: 
+    - {name: "twitter", link: "http://twitter.com/ntcoding"}
+    - {name: "site", link: "http://www.ntcoding.co.uk"}	
+- 
+  id: 17
+  name: "Oli"
+  surname: "Gibson"
+  company: "Thoughtworks"
+  title: ""
+  bio: "<p>Oli Gibson has worked with companies, across all sectors, helping them build better products. He has been an entrepreneur, employee and is now a Product & Strategy Consultant at ThoughtWorks. After several startups, his focus shifted towards the enterprise where he now helps organisations transform their business strategy, take an experimental approach to product development and manage cultural transformation.</p>"
+  thumbnailUrl: OliGibson.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "http://twitter.com/oligibson"}
+- 
+  id: 18
+  name: "Phillip"
+  surname: "Krenn"
+  company: "Elastic"
+  title: ""
+  bio: "<p>Philipp is part of the infrastructure team and a developer advocate at Elastic. He is frequently talking about full-text search, databases, operations, and security. Additionally, he is organizing multiple meetups in Vienna.</p>"
+  thumbnailUrl: PhillipKrenn.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "http://twitter.com/xeraa"}
+- 
+  id: 19
+  name: "Romeu"
+  surname: "Moura"
+  company: "Arolla"
+  title: ""
+  bio: "<p>Endless conversation — with friends & compilers — on art, crafts, dialectic, paradigm jump, serendipity.</p>"
+  thumbnailUrl: RomeuMoura.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "http://twitter.com/malk_zameth"}
+- 
+  id: 20
   name: "Sander"
   surname: "Hoogendoorn"
   company: "ditisagile.nl"
@@ -66,3 +225,50 @@
   rockstar: true	
   social: 
     - {name: "twitter", link: "http://twitter.com/aahoogendoorn"}
+- 
+  id: 21
+  name: "Shahid"
+  surname: "Iqbal"
+  company: "Head For Cloud"
+  title: ""
+  bio: "<p>Shahid is an independent consultant working with companies to help migrate their existing applications to the Cloud and to build natively for the cloud using technologies such as Kubernetes.</p>
+  <p>A .NET developer/architect with nearly a decade of experience he is usually happiest working with the latest technologies and playing around with gadgets or talking about cars.</p>"
+  thumbnailUrl: ShahidIqbal.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "http://twitter.com/shahiddev"}
+- 
+  id: 22
+  name: "Stephen"
+  surname: "Mounsey"
+  company: "Infinity Works"
+  title: ""
+  bio: "<p>Consultant, Tester, Performance Tester, Scrum Master and Agile Coach.</p>
+  <p>Stephen values visualisation, games, play and fun at work. Stephen is on a mission to improve agility in teams, individuals and organisations through coaching starting with himself. An enthusiastic agilist and tester with over 10 years experience.</p>
+  <p>When Stephen gets time away from his family, 2 dogs and 2 young children, he likes to attend and speak at agile and test conferences and meet ups. 1/7th of the organising committee for the completely free Leeds Testing Atelier.</p>
+  <p>Expect to find Stephen sketch noting throughout the day.</p>"
+  thumbnailUrl: StephenMounsey.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "http://twitter.com/stephenmounsey"}
+- 
+  id: 23
+  name: "Victoria"
+  surname: "Morgan-Smith"
+  company: "Financial Times"
+  title: ""
+  bio: "<p>Victoria Morgan-Smith is an Agile Delivery Lead and Coach at the Financial Times, where she has been helping teams succeed since 2009. Before this she was a developer for 9 years, a background which fuels her interest in finding fun ways to coach, energise and motivate teams into self-organising units. She is passionate about collaboration beyond the team, adopting agile principles to get under the skin of what will deliver measurable business value around the organisation.</p>"
+  thumbnailUrl: VictoriaMorganSmith.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "http://twitter.com/toschneck"}
+    - {name: "site", link: "https://www.linkedin.com/in/victoriamorgansmith"}
+- 
+  id: 24
+  name: "TBC"
+  surname: ""
+  company: ""
+  title: ""
+  bio: "<p>Information to follow..</p>"
+  thumbnailUrl: person.png
+  rockstar: false
