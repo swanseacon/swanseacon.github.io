@@ -27,6 +27,7 @@
 - 
   group: "Media Partners"
   elements: 
+    - {name: "Coding Blocks", description: "Coding Blocks - Podcast and Your Source to Learn How To Become a Better Programmer", link: "https://www.codingblocks.net/", imageUrl: "codingblocks.JPG", width: "160px"}
 - 
   group: "Partners"
   elements: 
