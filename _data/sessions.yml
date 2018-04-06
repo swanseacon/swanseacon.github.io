@@ -66,13 +66,6 @@
   speakers: [18]
   language: en
 -
-  id: 010
-  title: "Closing Keynote"
-  description: "Information to follow"
-  subtype: presentation 
-  speakers: [24]
-  language: en
--
   id: 011
   title: "How to build products people care about"
   description: "<p>In this talk we’ll discuss how an experimental approach to product development will lead to the many small failures that are essential to achieving great outcomes. We’ll share stories from our experience in startups and enterprises, the mistakes we made along the way and how we came to the realisation we needed to approach building products differently.</p>
@@ -182,6 +175,20 @@
   <p>We'll talk about and demo deploying .NET applications to Kubernetes and we'll finish with a discussion of the future where you can deploy both legacy and modern .NET applications to the same platform.</p>"
   subtype: presentation
   speakers: [21]
+  language: en
+-
+  id: 026
+  title: "UI Testing - Selenium? Rich-Clients? Containers?"
+  description: "<p>Writing Selenium Tests is a complex task by itself, but how can we validate a generated PDF? Test the rich client implementation? Or bring the tests into a container-based build environment? This and more challenges can be solved by using a combination of open source tools - see how!</p>"
+  subtype: presentation
+  speakers: [24]
+  language: en
+-
+  id: 027
+  title: "Closing Keynote"
+  description: "<p>Information to follow</p>"
+  subtype: keynote
+  speakers: [25]
   language: en
 -
   id: 099

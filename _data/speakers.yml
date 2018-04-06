@@ -226,6 +226,20 @@
   social: 
     - {name: "twitter", link: "http://twitter.com/aahoogendoorn"}
 - 
+  id: 25
+  name: "Seb"
+  surname: "Rose"
+  company: "Cucumber Limited"
+  title: ""
+  bio: "<p>Consultant, Designer, Analyst and Developer for over 30 years.</p>
+  <p>I have been involved in the full development lifecycle with experience that ranges from Architecture to Support, from BASIC to Ruby. Recently I have been helping teams adopt and refine their agile practices, with a particular focus on automated testing.</p>
+  <p>Regular speaker at conferences and occasional contributor to software journals.</p>
+  <p>Contributing author to ''97 Things Every Programmer Should Know'' - O'Reilly. Lead author of ''The Cucumber for Java Book'' - Pragmatic Programmers (2015)</p>"
+  thumbnailUrl: SebRose.jpg
+  rockstar: true	
+  social: 
+    - {name: "twitter", link: "http://twitter.com/sebrose"}
+- 
   id: 21
   name: "Shahid"
   surname: "Iqbal"
@@ -252,6 +266,17 @@
   social: 
     - {name: "twitter", link: "http://twitter.com/stephenmounsey"}
 - 
+  id: 24
+  name: "Tobias"
+  surname: "Schneck"
+  company: "ConSol Software GmbH"
+  title: ""
+  bio: "<p>Organizer of 'Agile Testing @Munich' meetup & Co-founder of the open source testing framework Sakuli with the aim of making end-2-end tests simpler.</p>"
+  thumbnailUrl: TobiasSchneck.png
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "http://twitter.com/toschneck"}
+- 
   id: 23
   name: "Victoria"
   surname: "Morgan-Smith"
@@ -261,10 +286,10 @@
   thumbnailUrl: VictoriaMorganSmith.jpg
   rockstar: true
   social: 
-    - {name: "twitter", link: "http://twitter.com/toschneck"}
+    - {name: "twitter", link: "http://twitter.com/VictoriaJMS"}
     - {name: "site", link: "https://www.linkedin.com/in/victoriamorgansmith"}
 - 
-  id: 24
+  id: 26
   name: "TBC"
   surname: ""
   company: ""
