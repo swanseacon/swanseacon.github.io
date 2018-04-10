@@ -191,6 +191,17 @@
   speakers: [25]
   language: en
 -
+  id: 028
+  title: "Culture for the win"
+  description: "<p>Based in Finland and with a growing team in Swansea, our roots are in agile software development. Right from the start of the company, we decided to include a people focus in everything we do. We believe that a motivated and happy team deliver superior quality results - be they software, business consulting or even a mobile app.</p>
+  <p>Traditionally digital transformation projects are focussed on software and processes, we wanted to include the people aspect. So we developed something that we call Minimum Viable Management. We live and breathe minimum viable management and, at Gofore we truly empower all of our employees. Many of our company processes are managed online, some using proprietary tools developed by our crew.</p>
+  <p>As a testament to the success of our minimum viable management, Gofore won the Best Workplace in Finland and was runner up in the Best workplace in Europe 2017.</p>
+  <p>Our unique way of working is quite different to others in the industry, amongst other things, we have our own Crew clothing, funky offices and great coffee. Goforeans as we call ourselves, manage their own time, work from wherever they consider appropriate and have developed a thriving company community. With teams based in Finland, Germany, Spain and the UK we operate as 'one company'. For example, the team in Swansea work seamlessly with clients across Europe and the US together with colleagues from Finland, Germany and Spain.</p>
+  <p>A key element of our company culture is transparency and we love to share our learning with others. Listen to our experience of minimum viable management, share your thoughts and discuss how empowerment and transparency can help deliver better employees and better solutions.</p>"
+  subtype: presentation
+  speakers: [27,28]
+  language: en
+-
   id: 099
   title: ""
   place: ""

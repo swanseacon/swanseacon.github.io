@@ -43,6 +43,18 @@
   social: 
     - {name: "twitter", link: "http://twitter.com/lisihocke"}
     - {name: "site", link: "http://www.lisihocke.com"}	
+- 
+  id: 27
+  name: "Erkki"
+  surname: "Salminen"
+  company: "Gofore"
+  title: ""
+  bio: "<p>Erkki is a software guy turned people and culture enthusiast. In his current role as Gofore’s director of culture and competences, Erkki makes sure members of the Gofore Crew are skilled and happy in their work.</p>
+  <p>With over 20 years experience in the industry, Erkki has been involved in dozens of IT projects as a developer, project manager and architecture/specification consultant. Having joined Gofore in 2007, he has seen the company’s growth from 10+ employees to an international company of over 400 professionals.</p>"
+  thumbnailUrl: ErkkiSalminen.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "http://twitter.com/GoforeGroup"}
 -
   id: 5
   name: "Gem"
@@ -114,6 +126,19 @@
   rockstar: true	
   social: 
     - {name: "twitter", link: "http://twitter.com/loicknuchel"}
+- 
+  id: 28
+  name: "Mari"
+  surname: "Wuoti"
+  company: "Gofore"
+  title: ""
+  bio: "<p>Mari is the powerhouse behind Gofore’s recruitment. During the last three years, she and her team have recruited almost 300 new members to the Gofore Crew.</p>
+  <p>In addition to bringing people on board, she has been heavily involved in developing the employee experience at Gofore. She also helps Gofore’s customers in shaping a new workplace culture required by digital transformation.</p>
+  <p>Being one of Gofore’s internal coaches, she is fascinated by the human mind and finding out things that make people happy and motivated.</p>"
+  thumbnailUrl: MariWuoti.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "http://twitter.com/GoforeGroup"}
 - 
   id: 11
   name: "Mashooq"
