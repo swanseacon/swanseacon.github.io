@@ -35,5 +35,6 @@
     - {name: "Swansea Software Development Community", description: "#SSDC, Swansea Software Development Community", link: "http://www.swanseasdc.co.uk/", imageUrl: "ssdc.png", width: "170px"}
     - {name: "nCrafts.io", description: "NEWCRAFTS CONFERENCES Paris", link: "http://ncrafts.io", imageUrl: "oxiane_partenaire_formation_ncrafts2016-e1456319240424.png", width: "190px"}
     - {name: "JetBrains", description: "The drive to develop", link: "http://www.jetbrains.com/", imageUrl: "jetbrains.png"}
+    - {name: "GOFORE", description: "We create tomorrow's digital services and work culture today", link: "http://www.gofore.com/en", imageUrl: "gofore.png"}
 - 
   group: "Awesome Employers list"
