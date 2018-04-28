@@ -1,11 +1,12 @@
 -
   id: 001
   title: "Registration"
-  description: "<p>Collect your attendee pass and goodie bag. Tea and coffee with cookies will be served on arrival.</p>"
+  description: "<p>Collect your attendee pass and goodie bag.</p>
+  <p>Full range of Teas, Coffees, Herbal & Fruit Teas. Soft drinks, mineral water and orange juice and selection of muffins - free for attendees.</p>"
 -
   id: 002
   title: "Welcome"
-  description: "<p>Welcome to SwanseaCon 2017.</p>"
+  description: "<p>Welcome to SwanseaCon 2018.</p>"
   subtype: presentation
   language: en
 -
@@ -69,7 +70,7 @@
   id: 011
   title: "How to build products people care about"
   description: "<p>In this talk we’ll discuss how an experimental approach to product development will lead to the many small failures that are essential to achieving great outcomes. We’ll share stories from our experience in startups and enterprises, the mistakes we made along the way and how we came to the realisation we needed to approach building products differently.</p>
-  <p>We aim for you to leave knowing how to practically apply an experimental approach to your product development, how to create a culture of experimentation and to recognise the dangers of launching without learning first.</p>"
+  <p>We aim for you to leave knowing how tohow to practically apply an experimental approach to your product development, how to create a culture of experimentation and to recognise the dangers of launching without learning first.</p>"
   subtype: presentation 
   speakers: [15,17]
   language: en
@@ -205,25 +206,35 @@
   id: 099
   title: ""
   place: ""
+  description: "<p></p>"
   service: true
 -
   id: 100
-  title: "Mid Morning Refreshments"
-  description: "<p>Tea and coffee</p>"
+  title: "Break"
+  description: "<p>Full range of Teas, Coffees, Herbal & Fruit Teas. Soft drinks, mineral water and orange juice - free for attendees.</p>"
 -
   id: 101
-  title: "Afternoon Refreshments"
-  description: "<p>Tea and coffee with Welsh Cakes served mid afternoon</p>"
+  title: "Break"
+  description: "<p>Full range of Teas, Coffees, Herbal & Fruit Teas. Soft drinks, mineral water and orange juice. Giant American style cookies - free for attendees.</p>"
 -
   id: 102
-  title: "Late Afternoon Refreshments"
+  title: "Break"
+  description: "<p>Full range of Teas, Coffees, Herbal & Fruit Teas. Soft drinks, mineral water and orange juice - free for attendees.</p>"
   place: ""
 -
   id: 103
   title: "Lunch"
-  description: "<p>Seasonal finger buffet lunch with fruit juice, tea and coffee</p>"
-
+  description: "<p>Two course lunch at the hotel restaurant</p>"
 -
   id: 104
   title: "SwanseaCon 2018 End"
-  service: true
+  description: "<p>Closing of SwanseaCon 2018.</p>"
+  subtype: presentation
+  language: en
+-
+  id: 105
+  title: "TBC"
+  description: "Information to follow"
+  subtype: presentation 
+  speakers: [26]
+  language: en

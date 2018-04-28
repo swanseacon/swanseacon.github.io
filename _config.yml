@@ -43,7 +43,7 @@ c4sponsorsUrl: "/sponsorship"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
-# - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/schedule/", text: "Schedule"}
 # - {permalink: "/speaker-info/", text: "Call for Speakers 2018"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/sponsors/", text: "Sponsors"}
