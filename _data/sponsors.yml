@@ -24,6 +24,13 @@
   thumbnailUrl: ons.jpg
   website: "https://www.ons.gov.uk/"
  - 
+  id: 12
+  company: "Agile Testing Fellowship"
+  description: "<h5>Agile Testing Fellow</h5>
+  <p>The Agile Testing Fellowship is a community of practitioners forging new frontiers in agile testing.</p>"
+  thumbnailUrl: agiletestingfellowlogo.jpg
+  website: "https://agiletestingfellow.com/"
+ - 
   id: 2
   company: "Swansea Software Development Community"
   thumbnailUrl: ssdc.png
