@@ -1,6 +1,7 @@
 - 
   group: "Platinum"
   elements: 
+    - {name: "Alcumus", description: "Your Trusted Partner", link: "http://www.alcumusgroup.com/", imageUrl: "Alcumus.jpg"}
     - {name: "Become a Sponsor", description: "Find out more", link: "https://www.jetbrains.com/company/press/http://www.swanseacon.co.uk/sponsorship", imageUrl: "enquire.png"} 
 - 
   group: "Gold"
