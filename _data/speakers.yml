@@ -185,6 +185,15 @@
   social: 
     - {name: "twitter", link: "http://twitter.com/memleek"}
 - 
+  id: 26
+  name: "Mike"
+  surname: "Talbot"
+  company: "Alcumus Group Limited"
+  title: ""
+  bio: "<p>I'm a visionary and technical architect who gets inspired by seeing challenges in the real world and creating solutions for them that are cutting edge and push the boundaries of available technology.</p>"
+  thumbnailUrl: MikeTalbot.jpg
+  rockstar: true
+- 
   id: 15
   name: "Monira"
   surname: "Rhaimi"
@@ -313,12 +322,3 @@
   social: 
     - {name: "twitter", link: "http://twitter.com/VictoriaJMS"}
     - {name: "site", link: "https://www.linkedin.com/in/victoriamorgansmith"}
-- 
-  id: 26
-  name: "TBC"
-  surname: ""
-  company: ""
-  title: ""
-  bio: "<p>Information to follow..</p>"
-  thumbnailUrl: person.png
-  rockstar: false
