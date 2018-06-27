@@ -18,6 +18,7 @@
 - 
   group: "Bronze"
   elements: 
+    - {name: "Confused.com", description: "Find your driver win", link: "http://www.confused.com/", imageUrl: "confused.jpg", width: "310px"} 
     - {name: "Aspose Pty Ltd", description: "File Format & Document Manipulation APIs", link: "https://www.asposeptyltd.com", imageUrl: "Aspose.png", width: "310px"} 
     - {name: "Become a Sponsor", description: "Find out more", link: "http://www.swanseacon.co.uk/sponsorship", imageUrl: "enquire.png"} 
 - 
