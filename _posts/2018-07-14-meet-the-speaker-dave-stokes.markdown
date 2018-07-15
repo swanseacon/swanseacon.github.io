@@ -5,7 +5,11 @@ date:   2018-07-14 16:01:00:00
 isStaticPost: false
 ---
 
-#### What’s your session topic?*  
+#### Meet the Speaker: Dave Stokes.
+
+<img src="/img/people/DaveStokes.jpg"/>
+
+#### What’s your session topic?  
 MySQL 8 Server Optimization
 
 #### Why is your topic important?
@@ -27,8 +31,7 @@ Yes, twice.
 The audience is very sharp and it is always a joy to talk to a great audience.  That and Viv Richards keeps promissing to introduce me to Catherine Zeta-Jones when she comes to the conference.  Viv: Is she still planning on attending this year??
 
 #### Are there any sessions other than your own which you are looking forward to at SwanseaCon?  
-I'm here for the argument, How to build products people care about, and Questioning Requirements.  I generally recommend first time conferce attendees attend one session on a subjext they know zero about to expand their horizons.  That is if there is a hole in your schedule where there are no must attend sessions and that is often hard to do at Swanseacon.  And if you have questions for any speaker, please ask -- even if it is before/after their talk as all the presenters love to sahre their knowledge.
-
+I'm here for the argument, How to build products people care about, and Questioning Requirements.  I generally recommend first time conferce attendees attend one session on a subject they know zero about to expand their horizons.  That is if there is a hole in your schedule where there are no must attend sessions and that is often hard to do at Swanseacon.  And if you have questions for any speaker, please ask -- even if it is before/after their talk as all the presenters love to sahre their knowledge.
 
 #### Did you enjoy this post?
 
