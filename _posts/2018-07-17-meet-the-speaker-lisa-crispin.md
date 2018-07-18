@@ -30,7 +30,8 @@ It's our first year!
 #### What made you want to speak at SwanseaCon this year?  
 Lisa heard so many people talking about it last year, she was keen to participate this year.  
 
-#### Are there any sessions other than your own which you are looking It's one of those conferences where there are multiple sessions at the same time that all sound compelling. Lisa is keen to see Gem Hill's "Anxiety under Test" talk. She's a fan of both of Gem's podcasts. Lisa also looks forward to Lisi's report from her pair testing journey, that is so inspiring! 
+#### Are there any sessions other than your own which you are looking forward to?
+It's one of those conferences where there are multiple sessions at the same time that all sound compelling. Lisa is keen to see Gem Hill's "Anxiety under Test" talk. She's a fan of both of Gem's podcasts. Lisa also looks forward to Lisi's report from her pair testing journey, that is so inspiring! 
 
 
 #### Did you enjoy this post?
