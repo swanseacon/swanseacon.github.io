@@ -7,6 +7,87 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Meet the Speaker: Matt Jukes</title>
+        <description>&lt;h4 id=&quot;meet-the-speaker-matt-jukes&quot;&gt;Meet the Speaker: Matt Jukes.&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/people/MattJukes.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;whats-your-session-topic&quot;&gt;What’s your session topic?&lt;/h4&gt;
+&lt;p&gt;I’m talking about working, and thinking, in the open and how that helps us as individuals, teams and institutions.&lt;/p&gt;
+
+&lt;h4 id=&quot;why-is-your-topic-important&quot;&gt;Why is your topic important?&lt;/h4&gt;
+&lt;p&gt;I believe that openness is really the ‘secret sauce’ (well not that secret as it is open!) for this industry of ours. It is more than the open source software on which we are all reliant - it is about open culture, being open minded and importantly being willing to share the rough with the smooth.&lt;/p&gt;
+
+&lt;h4 id=&quot;what-are-the-prerequisites-should-the-audience-have-for-attending-your-session&quot;&gt;What are the prerequisites should the audience have for attending your session?&lt;/h4&gt;
+&lt;p&gt;Nothing.&lt;/p&gt;
+
+&lt;h4 id=&quot;how-long-have-you-been-in-this-industry&quot;&gt;How long have you been in this industry?&lt;/h4&gt;
+&lt;p&gt;20 years!&lt;/p&gt;
+
+&lt;h4 id=&quot;what-is-one-of-those-things-you-wish-you-knew-when-you-started-out-in-this-industry&quot;&gt;What is one of those things you wish you knew when you started out in this industry?&lt;/h4&gt;
+&lt;p&gt;That I would still be doing this in 20 years time!&lt;/p&gt;
+
+&lt;p&gt;Also I’d have fought harder to protect the web we lost https://anildash.com/2012/12/13/the_web_we_lost/&lt;/p&gt;
+
+&lt;p&gt;I’ve been supporting Mozilla, Wikipedia, Open Rights Group and others for a long time but I could and should have done more.&lt;/p&gt;
+
+&lt;h4 id=&quot;have-you-spoken-at-or-attended-swanseacon-before&quot;&gt;Have you spoken at or attended SwanseaCon before?&lt;/h4&gt;
+&lt;p&gt;Nope&lt;/p&gt;
+
+&lt;h4 id=&quot;what-made-you-want-to-speak-at-swanseacon-this-year&quot;&gt;What made you want to speak at SwanseaCon this year?&lt;/h4&gt;
+&lt;p&gt;Swansea is one my my favourite places and I have been spending a lot of time there this year for work so it was a great opportunity to speak at an event I’ve only heard great things about.&lt;/p&gt;
+
+&lt;h4 id=&quot;are-there-any-sessions-other-than-your-own-which-you-are-looking-forward-to-at-swanseacon&quot;&gt;Are there any sessions other than your own which you are looking forward to at SwanseaCon?&lt;/h4&gt;
+&lt;p&gt;There are too many sessions I like the look of to mention here but I’m very much looking forward to hearing from Gem Hill and Allie Brock in particular.&lt;/p&gt;
+
+&lt;h4 id=&quot;did-you-enjoy-this-post&quot;&gt;Did you enjoy this post?&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.swanseacon.co.uk/&quot;&gt;Get your tickets today to see Matt Jukes and many others at SwanseaCon 2018&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 19 Jul 2018 17:19:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/meet-the-speaker-matt-jukes</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/meet-the-speaker-matt-jukes</guid>
+      </item>
+    
+      <item>
+        <title>Meet the Speaker: Lisa Crispin</title>
+        <description>&lt;h4 id=&quot;meet-the-speaker-lisa-crispin&quot;&gt;Meet the Speaker: Lisa Crispin.&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/people/LisaCrispin.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;whats-your-session-topic&quot;&gt;What’s your session topic?&lt;/h4&gt;
+&lt;p&gt;We’re going to explore how to question requirements for each story, ways to elaborate and build shared understanding among the whole delivery team. Participants will get a chance to take a one-line user story and practice the types of questions that help the team discover the story’s value. We start by asking why. What’s the purpose of the story, what is the goal? How can we measure whether the story achieves that goal once it’s released to production? Who benefits from the story? There are several useful frameworks to help guide these conversations, we will try out a couple of them.&lt;/p&gt;
+
+&lt;h4 id=&quot;why-is-your-topic-important&quot;&gt;Why is your topic important?&lt;/h4&gt;
+&lt;p&gt;If you’ve ever been a “customer” needing software, you’ve experienced this: it’s hard to know what you want until you get your hands on the keyboard and try it! We humans have a tendency to ask for an implementation, rather than start with a specific, measurable goal and leave it up to the team to decide the best way to implement. If the whole team, including testers, developers, product owners, analysts, operations and others understands the purpose of each feature and each story that is part of that feature, we can save a lot of churn and wasted effort.&lt;/p&gt;
+
+&lt;h4 id=&quot;what-are-the-prerequisites-should-the-audience-have-for-attending-your-session&quot;&gt;What are the prerequisites should the audience have for attending your session?&lt;/h4&gt;
+&lt;p&gt;Curiosity! This is about asking good questions. As Pete Walen has said, “QA” stands for “Question Asker”. Testers are especially good at thinking of questions that others don’t think of. But this is something everyone on the team can learn to do better.&lt;/p&gt;
+
+&lt;h4 id=&quot;how-long-have-you-been-in-this-industry&quot;&gt;How long have you been in this industry?&lt;/h4&gt;
+&lt;p&gt;Lisa started out her first programming job in 1982! She moved into testing in the early 1990s and joined her first Extreme Programming team in 2000.&lt;/p&gt;
+
+&lt;h4 id=&quot;what-is-one-of-those-things-you-wish-you-knew-when-you-started-out-in-this-industry&quot;&gt;What is one of those things you wish you knew when you started out in this industry?&lt;/h4&gt;
+&lt;p&gt;Lisa wishes she had realized what a great approach her team was using back in 1982. It anticipated the “agile” principles that would come out 20 years later, collaborating with everyone on the team and working directly with the customers. Instead, Lisa got sucked into the waterfall world. Waterfall can work fine if the teams follow good technical practices such as continuous integration and TDD. But, in today’s world, customers expect products that respond to change and they want new value delivered frequently.&lt;/p&gt;
+
+&lt;h4 id=&quot;have-you-spoken-at-or-attended-swanseacon-before&quot;&gt;Have you spoken at or attended SwanseaCon before?&lt;/h4&gt;
+&lt;p&gt;It’s our first year!&lt;/p&gt;
+
+&lt;h4 id=&quot;what-made-you-want-to-speak-at-swanseacon-this-year&quot;&gt;What made you want to speak at SwanseaCon this year?&lt;/h4&gt;
+&lt;p&gt;Lisa heard so many people talking about it last year, she was keen to participate this year.&lt;/p&gt;
+
+&lt;h4 id=&quot;are-there-any-sessions-other-than-your-own-which-you-are-looking-forward-to&quot;&gt;Are there any sessions other than your own which you are looking forward to?&lt;/h4&gt;
+&lt;p&gt;It’s one of those conferences where there are multiple sessions at the same time that all sound compelling. Lisa is keen to see Gem Hill’s “Anxiety under Test” talk. She’s a fan of both of Gem’s podcasts. Lisa also looks forward to Lisi’s report from her pair testing journey, that is so inspiring!&lt;/p&gt;
+
+&lt;h4 id=&quot;did-you-enjoy-this-post&quot;&gt;Did you enjoy this post?&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.swanseacon.co.uk/&quot;&gt;Get your tickets today to see Lisa Crispin and many others at SwanseaCon 2018&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 17 Jul 2018 17:19:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/meet-the-speaker-lisa-crispin</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/meet-the-speaker-lisa-crispin</guid>
+      </item>
+    
+      <item>
         <title>Meet the Speaker: Hadi Hariri</title>
         <description>&lt;h4 id=&quot;meet-the-speaker-hadi-hariri&quot;&gt;Meet the Speaker: Hadi Hariri.&lt;/h4&gt;
 
@@ -365,156 +446,6 @@ Twitter: twitter.com/SwanseaCon&lt;/p&gt;
         <pubDate>Tue, 16 Feb 2016 20:19:00 +0000</pubDate>
         <link>http://localhost:4000/blog/call-for-speakers-now-closed</link>
         <guid isPermaLink="true">http://localhost:4000/blog/call-for-speakers-now-closed</guid>
-      </item>
-    
-      <item>
-        <title>Call for speakers is now open</title>
-        <description>&lt;h4 id=&quot;call-for-speakers-is-now-open&quot;&gt;Call for speakers is now open.&lt;/h4&gt;
-
-&lt;p&gt;We’re really pleased to announce that after a really successful first conference we’re going to do it all over again 12-13th September, 2016.&lt;/p&gt;
-
-&lt;p&gt;SwanseaCon is aimed at software developers, software architects, project managers, analysts and consultants.&lt;/p&gt;
-
-&lt;p&gt;The event has a strong practical focus on agile development, software craftsmanship, teams and business, to ensure participants have the opportunity to learn new approaches they can immediately apply in their work.&lt;/p&gt;
-
-&lt;p&gt;Some of our previous attendees have held the following positions:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Software Engineer&lt;/li&gt;
-  &lt;li&gt;Senior Consultant&lt;/li&gt;
-  &lt;li&gt;Software Craftsman&lt;/li&gt;
-  &lt;li&gt;Lead Software Engineer&lt;/li&gt;
-  &lt;li&gt;Professor&lt;/li&gt;
-  &lt;li&gt;Entrepreneur&lt;/li&gt;
-  &lt;li&gt;Apprentice&lt;/li&gt;
-  &lt;li&gt;Trainer&lt;/li&gt;
-  &lt;li&gt;Delivery Director&lt;/li&gt;
-  &lt;li&gt;Software Architect&lt;/li&gt;
-  &lt;li&gt;Services Engineer&lt;/li&gt;
-  &lt;li&gt;Scrum Master&lt;/li&gt;
-  &lt;li&gt;Director of Digital Services&lt;/li&gt;
-  &lt;li&gt;Blogger&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h5 id=&quot;sessions&quot;&gt;Sessions&lt;/h5&gt;
-
-&lt;p&gt;We’re happy for you to stand up and present a talk about your experiences or something you’ve done, but we also strongly encourage interactive sessions that generate conversation with the audience, group discussion, or hands-on experiences.&lt;/p&gt;
-
-&lt;p&gt;There is no limit to the number of sessions you can submit. Upon submission you will need to select a category which loosely describes your session; presentation, tutorial (includes some group activities), hands-on (practical session - on laptops etc), panel discussion or if your unsure you can enter your own. You will also be able to select how long in length your session will be, we may however have to ask you to vary your session length so it fits into our finished programme.&lt;/p&gt;
-
-&lt;h5 id=&quot;speaker-support&quot;&gt;Speaker support&lt;/h5&gt;
-
-&lt;p&gt;What’s included&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;2 nights hotel stay (night before your session/night after)&lt;/li&gt;
-  &lt;li&gt;Participation in the full event programme&lt;/li&gt;
-  &lt;li&gt;Lunch on each day you attend&lt;/li&gt;
-  &lt;li&gt;Refreshments with delegates at designated times&lt;/li&gt;
-  &lt;li&gt;Free wi-fi at the conference venue&lt;/li&gt;
-  &lt;li&gt;Delegate pack&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Anything not listed above is not included.
-Contact us about any specific requests.&lt;/p&gt;
-
-&lt;h6 id=&quot;expenses&quot;&gt;Expenses&lt;/h6&gt;
-
-&lt;p&gt;Although our general policy is not to cover speaker expenses we do have some money to help speakers who are personally funding their own way to SwanseaCon - we would strongly prefer to direct this money to those who most need this support.&lt;/p&gt;
-
-&lt;p&gt;We’ll provide flip charts, pens, a/v equiptment etc. but we can also help fund anything out of the ordinary you need to make your session more valuable to your participants and yourelf.&lt;/p&gt;
-
-&lt;p&gt;Please let us know on your session proposal whether you need this support to take part in the conference, and, if possible, roughly how much money you’d need to claim from us. (To give you a rough idea, overnight accomodation in the city costs from £79 upwards per night).&lt;/p&gt;
-
-&lt;p&gt;Unfortunately we can’t reimburse expenses that we haven’t agreed to pay in advance of the event.&lt;/p&gt;
-
-&lt;h5 id=&quot;session-reviews&quot;&gt;Session reviews&lt;/h5&gt;
-
-&lt;p&gt;After the deadline closes, our selection panel will review all submissions anonymously.&lt;/p&gt;
-
-&lt;p&gt;The review process usually takes between 2 and 3 weeks depending on the volume of submissions. We’ll contact both successful and unsuccessful candidates within the review period.&lt;/p&gt;
-
-&lt;p&gt;If you’re ready to submit a session for consideration, please visit:
-&lt;a href=&quot;http://www.swanseacon.co.uk/call-for-speakers&quot;&gt;http://www.swanseacon.co.uk/call-for-speakers&lt;/a&gt;&lt;/p&gt;
-
-&lt;h5 id=&quot;for-more-advice-or-information&quot;&gt;For more advice or information&lt;/h5&gt;
-
-&lt;p&gt;We’re happy to provide further advice if you need more help before submitting your session.&lt;/p&gt;
-
-&lt;p&gt;hello@swanseacon.co.uk/call-for-speakers&lt;/p&gt;
-
-&lt;p&gt;07722 328 233&lt;/p&gt;
-
-&lt;p&gt;twitter.com/SwanseaCon&lt;/p&gt;
-</description>
-        <pubDate>Sun, 15 Nov 2015 14:41:37 +0000</pubDate>
-        <link>http://localhost:4000/blog/call-for-speakers-now-open</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/call-for-speakers-now-open</guid>
-      </item>
-    
-      <item>
-        <title>Thank you for attending SwanseaCon 2015</title>
-        <description>&lt;h4 id=&quot;prynhawn-dagood-afternoon&quot;&gt;Prynhawn da/Good afternoon,&lt;/h4&gt;
-
-&lt;p&gt;We really hope you enjoyed SwanseaCon 2015 and we just wanted to write a quick post to say a massive thank you for coming along and being a part of it!&lt;/p&gt;
-
-&lt;p&gt;The feedback so far has been excellent and we’re already looking at ways to implement some of the suggestions. If you didn’t get a chance to leave feedback we’d love to know your thoughts so please &lt;a href=&quot;mailto:hello@swanseacon.co.uk?feedback&quot;&gt;get in touch&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;We had lots of photographs of both days taken, &lt;a href=&quot;https://www.flickr.com/photos/136328291@N04&quot;&gt;click here to view photos from SwanseaCon 2015&lt;/a&gt;. We recorded nearly all the speaker sessions so we will let you know as soon as these are available online for you to take a look.&lt;/p&gt;
-
-&lt;p&gt;Speakers have already started posting links to their slides which you can find below:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://www.codingthearchitecture.com/presentations/swanseacon2015-software-architecture-vs-code&quot;&gt;Simon Brown - Software architecture vs code&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://www.slideshare.net/christosmatskas/common-mistakes-in-tdd-can-you-guess&quot;&gt;Christos Matskas - Common mistakes in tdd can you guess&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://www.slideshare.net/marcello.duarte/understanding-craftsmanship-swanseacon2015-52546920&quot;&gt;Marcello Duarte - Understanding Craftsmanship&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://www.slideshare.net/RachelDavies/swanseacon-closing-keynote&quot;&gt;Rachel Davies - Swanseacon Closing Keynote&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://talks.samirtalwar.com/use-your-type-system.html&quot;&gt;Samir Talwar - Use Your Type System; Write Less Code&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://www.slideshare.net/valtechuk/leanux-and-agile-in-the-public-sector&quot;&gt;Kevin Murray - LeanUX and Agile in the Public Sector&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://slides.com/franziskasauerwein/refactoring#/&quot;&gt;Erik Talboom &amp;amp; Franzi SauerWein - Refactoring mount doom&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://www.codemanship.co.uk/files/ContinuousInspection.pdf&quot;&gt;Jason Gorman - Continous Inspection&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://speakerdeck.com/tooky/surrender-the-illusion-of-control&quot;&gt;Steve Tooke - Surrender the Illusion of Control&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://www.slideshare.net/adibolb/legacy-code-is-fear-swanseacon-08-09-2015&quot;&gt;Adrian Bolboaca - Legacy Code is Fear&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://www.slideshare.net/aahoogendoorn/microservices-stairway-to-heaven-or-highway-to-hell&quot;&gt;Sander Hoogendoorn - Designing and building a micro-services architecture. Stairway to heaven or a highway to hell?&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Thank you once again for being a part of our first conference, we’re already planning next year’s event which will run Monday 12th - Tuesday 13th September 2016. Super early bird tickets are available now, enabling all this years attendees to come along for just £125!&lt;/p&gt;
-
-&lt;p&gt;We hope to see you next year!&lt;/p&gt;
-
-&lt;p&gt;Diolch/Thank you,&lt;/p&gt;
-
-&lt;p&gt;The SwanseaCon team&lt;/p&gt;
-
-&lt;h4 id=&quot;did-you-enjoy-this-post&quot;&gt;Did you enjoy this post?&lt;/h4&gt;
-
-&lt;p&gt;You can get all the latest news and updates about next years conference over on &lt;a href=&quot;http://www.twitter.com/swanseacon&quot;&gt;our twitter account&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 14 Sep 2015 14:43:18 +0100</pubDate>
-        <link>http://localhost:4000/blog/thank-you-for-attending-swaneacon-2015</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/thank-you-for-attending-swaneacon-2015</guid>
       </item>
     
   </channel>
