@@ -7,7 +7,7 @@ isStaticPost: false
 
 #### Meet the Speaker: Nick Tune.
 
-<img src="/img/people/NickTune.jpg"/>
+<img src="/img/people/NickTune.jpeg"/>
 
 #### What’s your session topic?
  
