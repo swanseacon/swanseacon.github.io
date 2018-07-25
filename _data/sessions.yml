@@ -187,7 +187,9 @@
 -
   id: 027
   title: "Closing Keynote"
-  description: "<p>Information to follow</p>"
+  description: "<p>Whatever your job title, you’re actually being paid to think!</p>
+  <p>Books, conference talks, the internet are all awash with heuristics, patterns, models and acronyms to help us solve problems. They document how other people have overcome challenges in a way that makes those solutions accessible to others.</p>
+  <p>They’re not magic formulae. They help us think, but they don’t make thinking unnecessary. The ability to think is our ‘secret sauce’ and we need to start realising that, while experts have valuable things to say, we need to filter their insights through our own experience.</p>"
   subtype: keynote
   speakers: [25]
   language: en
