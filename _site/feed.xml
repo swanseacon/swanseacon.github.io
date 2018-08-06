@@ -7,6 +7,150 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Meet the Speaker: Elisabeth Hocke</title>
+        <description>&lt;h4 id=&quot;meet-the-speaker-elisabeth-hocke&quot;&gt;Meet the Speaker: Elisabeth Hocke.&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/people/lisihocke.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;whats-your-session-topic&quot;&gt;What’s your session topic?&lt;/h4&gt;
+
+&lt;p&gt;Beginning of this year, I started out on a testing tour. I had many pair testing sessions with many different testers from all over the world, as experiment whether this is a feasible way to level up my skills. I am happy to share my lessons learned on this journey as well as tips to go on your own adventure.&lt;/p&gt;
+
+&lt;h4 id=&quot;why-is-your-topic-important&quot;&gt;Why is your topic important?*&lt;/h4&gt;
+
+&lt;p&gt;I feel that continuous learning and self-improvement is crucial in today’s ever changing world. Personally I really enjoy to increase my skills and ways how I can provide value. But how to succeed in getting better than yesterday, every day?&lt;/p&gt;
+
+&lt;p&gt;Having been the lone tester in the company for a long time, I always wondered where I stand regarding my knowledge and skills as a tester. I’m not the only tester anymore, but still I wanted to become better at assessing my own skills, and especially, improving them. Learning on my own is a feasible way and can lead me that far, but I struggle doing so with hands-on topics. I rather start new things without finishing them and miss the feedback whether I’m going in the right direction. Learning in a pair or mob situation, however, already proved very valuable to me so I got myself into situations to do so with other testers. Join my talk and learn whether the testing tour solved my problem of continuously improving my skills!&lt;/p&gt;
+
+&lt;h4 id=&quot;what-are-the-prerequisites-should-the-audience-have-for-attending-your-session&quot;&gt;What are the prerequisites should the audience have for attending your session?&lt;/h4&gt;
+
+&lt;p&gt;The only prerequisite is to have an open mind. Although I will tell my story from a tester point of view, I strongly believe the lessons of my learning journey can be applied to many other roles.&lt;/p&gt;
+
+&lt;h4 id=&quot;how-long-have-you-been-in-this-industry&quot;&gt;How long have you been in this industry?&lt;/h4&gt;
+
+&lt;p&gt;I fell into testing and agile in 2009 in a little startup building an AI middleware for game developers. I’ve come a bit around since then and saw different environments, taking over different hats, but always being a tester at heart and in practice.&lt;/p&gt;
+
+&lt;h4 id=&quot;what-is-one-of-those-things-you-wish-you-knew-when-you-started-out-in-this-industry&quot;&gt;What is one of those things you wish you knew when you started out in this industry?&lt;/h4&gt;
+
+&lt;p&gt;I would have loved to know that there is an amazing community out there with great people learning with and from each other that are so inspiring, supportive, and encouraging. Also, I wish I would have had the courage to reach out earlier than I did.&lt;/p&gt;
+
+&lt;h4 id=&quot;have-you-spoken-at-or-attended-swanseacon-before&quot;&gt;Have you spoken at or attended SwanseaCon before?&lt;/h4&gt;
+
+&lt;p&gt;Last year I had the honor to speak at SwanseaCon as well. It was a wonderful event with great people and I am really happy to have the opportunity to come back this year!&lt;/p&gt;
+
+&lt;h4 id=&quot;what-made-you-want-to-speak-at-swanseacon-this-year&quot;&gt;What made you want to speak at SwanseaCon this year?&lt;/h4&gt;
+
+&lt;p&gt;The conference was really diverse last year when it came to the sessions. I really enjoyed listening to a variety of topics presented from different perspectives, all so relevant for development. Experience reports and personal learning stories are my favorite sessions and SwanseaCon provided plenty of those.&lt;/p&gt;
+
+&lt;h4 id=&quot;are-there-any-sessions-other-than-your-own-which-you-are-looking-forward-to-at-swanseacon&quot;&gt;Are there any sessions other than your own which you are looking forward to at SwanseaCon?&lt;/h4&gt;
+
+&lt;p&gt;Absolutely! This year it will get difficult as we have four tracks to choose from. I’m really curious to hear both the talks of Mashooq Badar about the “Nature of Learning” as well as Gem Hill about “Anxiety Under Test”; too bad they take place at the same time! Also, I’m looking forward to the workshop offered by Kristīne Corbus and Lisa Crispin: “Questioning requirements: improving quality for everyone”, practicing in a hands-on way to increase my skills.&lt;/p&gt;
+
+&lt;h4 id=&quot;did-you-enjoy-this-post&quot;&gt;Did you enjoy this post?&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.swanseacon.co.uk/&quot;&gt;Get your tickets today to see Elisabeth Hocke and many others at SwanseaCon 2018&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 06 Aug 2018 17:19:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/meet-the-speakers-elisabeth-hocke</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/meet-the-speakers-elisabeth-hocke</guid>
+      </item>
+    
+      <item>
+        <title>Meet the Speaker: Mashooq Badar</title>
+        <description>&lt;h4 id=&quot;meet-the-speaker-mashooq-badar&quot;&gt;Meet the Speaker: Mashooq Badar.&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/people/MashooqBadar.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;whats-your-session-topic&quot;&gt;What’s your session topic?&lt;/h4&gt;
+&lt;p&gt;Nature of Learning&lt;/p&gt;
+
+&lt;h4 id=&quot;why-is-your-topic-important&quot;&gt;Why is your topic important?&lt;/h4&gt;
+
+&lt;p&gt;Learning is a part of our survival and key to professional success. Understanding its nature helps us to become better learners. In our industry, where technologies and practices evolve so fast, effective learning is an absolute necessity. It is too important for us to simply stumble through, our approach to learning must be deliberate.&lt;/p&gt;
+
+&lt;h4 id=&quot;what-are-the-prerequisites-should-the-audience-have-for-attending-your-session&quot;&gt;What are the prerequisites should the audience have for attending your session?&lt;/h4&gt;
+
+&lt;p&gt;None, or maybe an attentive ear.&lt;/p&gt;
+
+&lt;h4 id=&quot;how-long-have-you-been-in-this-industry&quot;&gt;How long have you been in this industry?&lt;/h4&gt;
+
+&lt;p&gt;20 Years&lt;/p&gt;
+
+&lt;h4 id=&quot;what-is-one-of-those-things-you-wish-you-knew-when-you-started-out-in-this-industry&quot;&gt;What is one of those things you wish you knew when you started out in this industry?&lt;/h4&gt;
+
+&lt;p&gt;Critical Thinking and a deeper understanding of simplicity in Software Design.&lt;/p&gt;
+
+&lt;h4 id=&quot;have-you-spoken-at-or-attended-swanseacon-before&quot;&gt;Have you spoken at or attended SwanseaCon before?&lt;/h4&gt;
+
+&lt;p&gt;No&lt;/p&gt;
+
+&lt;h4 id=&quot;what-made-you-want-to-speak-at-swanseacon-this-year&quot;&gt;What made you want to speak at SwanseaCon this year?&lt;/h4&gt;
+
+&lt;p&gt;Many of my friends have attended and presented at SwanseaCon in the previous years. Their experiences have been amazing. I decided to experience it first hand myself this year.&lt;/p&gt;
+
+&lt;h4 id=&quot;are-there-any-sessions-other-than-your-own-which-you-are-looking-forward-to-at-swanseacon&quot;&gt;Are there any sessions other than your own which you are looking forward to at SwanseaCon?&lt;/h4&gt;
+
+&lt;p&gt;I am particularly interested in Sander Hoogendoorn’s talk “Do or don’t. There’s no try. Or is there?”, and  and Nick Tunes take on “Patterns and Heuristics”.&lt;/p&gt;
+
+&lt;h4 id=&quot;did-you-enjoy-this-post&quot;&gt;Did you enjoy this post?&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.swanseacon.co.uk/&quot;&gt;Get your tickets today to see Mashooq Badar and many others at SwanseaCon 2018&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 27 Jul 2018 17:19:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/meet-the-speakers-mashooq-badar</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/meet-the-speakers-mashooq-badar</guid>
+      </item>
+    
+      <item>
+        <title>Meet the Speaker: Chris Cundill</title>
+        <description>&lt;h4 id=&quot;meet-the-speaker-chris-cundill&quot;&gt;Meet the Speaker: Chris Cundill.&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/people/ChrisCundill.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;whats-your-session-topic&quot;&gt;What’s your session topic?&lt;/h4&gt;
+&lt;p&gt;The title of my talk is “releaseflow: a healthy build, release and deploy process”.  I’ll be using this opportunity to demonstrate a real, live example of Continuous Delivery which will be suitable for both newbies to CI/CD and to those who are hardened travellers down that road.  We’ll watch a code change make it’s way through a CI/CD pipeline all the way through to production live during the talk!  We’ll discuss how we can apply practices that facilitate continuous delivery in our everyday work.  We’ll also discuss the releaseflow.org branching strategy and why it’s superior to alternatives such as gitflow.&lt;/p&gt;
+
+&lt;h4 id=&quot;why-is-your-topic-important&quot;&gt;Why is your topic important?*&lt;/h4&gt;
+
+&lt;p&gt;Each software team desires to deliver value to their customers early and often.  The reality that teams face is often quite different.  This topic is important since we’ll identify what constitutes a healthy build, release and deploy process.  We’ll chat about changes that will get your team delivering more. We’ll expose the things that are toxic and must be addressed.  We’ll challenge the status quo.&lt;/p&gt;
+
+&lt;h4 id=&quot;what-are-the-prerequisites-the-audience-should-have-for-attending-your-session&quot;&gt;What are the prerequisites the audience should have for attending your session?&lt;/h4&gt;
+
+&lt;p&gt;It will be helpful if attendees for this session already work within a software development team in some capacity; whether that be in a supporting role such as Agile Coach, Business Analyst or Product Owner, or an active role such as Software Engineer, Ops or QA.  However, they’ll be something for everyone so feel free to come along even if you’re new to the industry!&lt;/p&gt;
+
+&lt;h4 id=&quot;how-long-have-you-been-in-this-industry&quot;&gt;How long have you been in this industry?&lt;/h4&gt;
+
+&lt;p&gt;Over 14 years :)&lt;/p&gt;
+
+&lt;h4 id=&quot;what-is-one-of-those-things-you-wish-you-knew-when-you-started-out-in-this-industry&quot;&gt;What is one of those things you wish you knew when you started out in this industry?&lt;/h4&gt;
+
+&lt;p&gt;How awesome it was going to be!  Seriously, there’s so much to learn in this industry.  You’ll never have to lack motivation to get out of bed in the morning.&lt;/p&gt;
+
+&lt;h4 id=&quot;have-you-spoken-at-or-attended-swanseacon-before&quot;&gt;Have you spoken at or attended SwanseaCon before?&lt;/h4&gt;
+
+&lt;p&gt;Yes, I spoke at the first two SwanseaCon events but didn’t manage to submit something last year due to time commitments.  The first year I gave an introduction to the Scala language.  The second year I performed a dual act with my friend Greg Simons for a talk entitled “Get your head in the Clouds”.&lt;/p&gt;
+
+&lt;h4 id=&quot;what-made-you-want-to-speak-at-swanseacon-this-year&quot;&gt;What made you want to speak at SwanseaCon this year?&lt;/h4&gt;
+
+&lt;p&gt;A couple of reasons; the first is that I wanted to speak about releaseflow.org and Continuous Delivery since it’s a subject I’ve been passionate about for years.  Second, I’m massively invested in the tech scene in Swansea and would love to see a rise in the innovation and craftsmanship of software here in my home town.&lt;/p&gt;
+
+&lt;h4 id=&quot;are-there-any-sessions-other-than-your-own-which-you-are-looking-forward-to-at-swanseacon&quot;&gt;Are there any sessions other than your own which you are looking forward to at SwanseaCon?&lt;/h4&gt;
+
+&lt;p&gt;Definitely! It looks like a genuinely great lineup! Here’s a few I plan on attending:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;“How to build products people care about” by Monira &amp;amp; Oli from Thoughtworks&lt;/li&gt;
+  &lt;li&gt;“How to parse a file” by Matt Ellis from Jetbrains&lt;/li&gt;
+  &lt;li&gt;“Testcontainers for Real Integration Tests” by Philip Krenn from Elastic&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;did-you-enjoy-this-post&quot;&gt;Did you enjoy this post?&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.swanseacon.co.uk/&quot;&gt;Get your tickets today to see Chris Cundill and many others at SwanseaCon 2018&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 26 Jul 2018 17:19:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/meet-the-speakers-chris-cundill</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/meet-the-speakers-chris-cundill</guid>
+      </item>
+    
+      <item>
         <title>Meet the Speaker: Seb Rose</title>
         <description>&lt;h4 id=&quot;meet-the-speaker-seb-rose&quot;&gt;Meet the Speaker: Seb Rose.&lt;/h4&gt;
 
@@ -347,123 +491,6 @@ always looking to pick up new things.&lt;/p&gt;
         <pubDate>Thu, 19 Jul 2018 17:19:00 +0100</pubDate>
         <link>http://localhost:4000/blog/meet-the-speaker-matt-jukes</link>
         <guid isPermaLink="true">http://localhost:4000/blog/meet-the-speaker-matt-jukes</guid>
-      </item>
-    
-      <item>
-        <title>Meet the Speaker: Lisa Crispin</title>
-        <description>&lt;h4 id=&quot;meet-the-speaker-lisa-crispin&quot;&gt;Meet the Speaker: Lisa Crispin.&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/people/LisaCrispin.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;whats-your-session-topic&quot;&gt;What’s your session topic?&lt;/h4&gt;
-&lt;p&gt;We’re going to explore how to question requirements for each story, ways to elaborate and build shared understanding among the whole delivery team. Participants will get a chance to take a one-line user story and practice the types of questions that help the team discover the story’s value. We start by asking why. What’s the purpose of the story, what is the goal? How can we measure whether the story achieves that goal once it’s released to production? Who benefits from the story? There are several useful frameworks to help guide these conversations, we will try out a couple of them.&lt;/p&gt;
-
-&lt;h4 id=&quot;why-is-your-topic-important&quot;&gt;Why is your topic important?&lt;/h4&gt;
-&lt;p&gt;If you’ve ever been a “customer” needing software, you’ve experienced this: it’s hard to know what you want until you get your hands on the keyboard and try it! We humans have a tendency to ask for an implementation, rather than start with a specific, measurable goal and leave it up to the team to decide the best way to implement. If the whole team, including testers, developers, product owners, analysts, operations and others understands the purpose of each feature and each story that is part of that feature, we can save a lot of churn and wasted effort.&lt;/p&gt;
-
-&lt;h4 id=&quot;what-are-the-prerequisites-should-the-audience-have-for-attending-your-session&quot;&gt;What are the prerequisites should the audience have for attending your session?&lt;/h4&gt;
-&lt;p&gt;Curiosity! This is about asking good questions. As Pete Walen has said, “QA” stands for “Question Asker”. Testers are especially good at thinking of questions that others don’t think of. But this is something everyone on the team can learn to do better.&lt;/p&gt;
-
-&lt;h4 id=&quot;how-long-have-you-been-in-this-industry&quot;&gt;How long have you been in this industry?&lt;/h4&gt;
-&lt;p&gt;Lisa started out her first programming job in 1982! She moved into testing in the early 1990s and joined her first Extreme Programming team in 2000.&lt;/p&gt;
-
-&lt;h4 id=&quot;what-is-one-of-those-things-you-wish-you-knew-when-you-started-out-in-this-industry&quot;&gt;What is one of those things you wish you knew when you started out in this industry?&lt;/h4&gt;
-&lt;p&gt;Lisa wishes she had realized what a great approach her team was using back in 1982. It anticipated the “agile” principles that would come out 20 years later, collaborating with everyone on the team and working directly with the customers. Instead, Lisa got sucked into the waterfall world. Waterfall can work fine if the teams follow good technical practices such as continuous integration and TDD. But, in today’s world, customers expect products that respond to change and they want new value delivered frequently.&lt;/p&gt;
-
-&lt;h4 id=&quot;have-you-spoken-at-or-attended-swanseacon-before&quot;&gt;Have you spoken at or attended SwanseaCon before?&lt;/h4&gt;
-&lt;p&gt;It’s our first year!&lt;/p&gt;
-
-&lt;h4 id=&quot;what-made-you-want-to-speak-at-swanseacon-this-year&quot;&gt;What made you want to speak at SwanseaCon this year?&lt;/h4&gt;
-&lt;p&gt;Lisa heard so many people talking about it last year, she was keen to participate this year.&lt;/p&gt;
-
-&lt;h4 id=&quot;are-there-any-sessions-other-than-your-own-which-you-are-looking-forward-to&quot;&gt;Are there any sessions other than your own which you are looking forward to?&lt;/h4&gt;
-&lt;p&gt;It’s one of those conferences where there are multiple sessions at the same time that all sound compelling. Lisa is keen to see Gem Hill’s “Anxiety under Test” talk. She’s a fan of both of Gem’s podcasts. Lisa also looks forward to Lisi’s report from her pair testing journey, that is so inspiring!&lt;/p&gt;
-
-&lt;h4 id=&quot;did-you-enjoy-this-post&quot;&gt;Did you enjoy this post?&lt;/h4&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.swanseacon.co.uk/&quot;&gt;Get your tickets today to see Lisa Crispin and many others at SwanseaCon 2018&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 17 Jul 2018 17:19:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/meet-the-speaker-lisa-crispin</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/meet-the-speaker-lisa-crispin</guid>
-      </item>
-    
-      <item>
-        <title>Meet the Speaker: Hadi Hariri</title>
-        <description>&lt;h4 id=&quot;meet-the-speaker-hadi-hariri&quot;&gt;Meet the Speaker: Hadi Hariri.&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/people/HadiHariri.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;whats-your-session-topic&quot;&gt;What’s your session topic?&lt;/h4&gt;
-&lt;p&gt;Amongst other things, it’s about the impact of information in our age&lt;/p&gt;
-
-&lt;h4 id=&quot;why-is-your-keynote-topic-important&quot;&gt;Why is your keynote topic important?&lt;/h4&gt;
-&lt;p&gt;Because I’ve witnessed many times the prejudices and biases that we all suffer from and how often we do not understand the impact of our own small actions&lt;/p&gt;
-
-&lt;h4 id=&quot;what-are-the-prerequisites-should-the-audience-have-for-attending-your-session&quot;&gt;What are the prerequisites should the audience have for attending your session?&lt;/h4&gt;
-&lt;p&gt;Nothing&lt;/p&gt;
-
-&lt;h4 id=&quot;how-long-have-you-been-in-this-industry&quot;&gt;How long have you been in this industry?&lt;/h4&gt;
-&lt;p&gt;Nearly three decades&lt;/p&gt;
-
-&lt;h4 id=&quot;what-is-one-of-those-things-you-wish-you-knew-when-you-started-out-in-this-industry&quot;&gt;What is one of those things you wish you knew when you started out in this industry?&lt;/h4&gt;
-&lt;p&gt;Not so much when I started, but in University, I wish I’d have paid more attention to Haskell.&lt;/p&gt;
-
-&lt;h4 id=&quot;have-you-spoken-at-or-attended-swanseacon-before&quot;&gt;Have you spoken at or attended SwanseaCon before?&lt;/h4&gt;
-&lt;p&gt;No&lt;/p&gt;
-
-&lt;h4 id=&quot;what-made-you-want-to-speak-at-swanseacon-this-year&quot;&gt;What made you want to speak at SwanseaCon this year?&lt;/h4&gt;
-&lt;p&gt;I’d heard great things about the event.&lt;/p&gt;
-
-&lt;h4 id=&quot;are-there-any-sessions-other-than-your-own-which-you-are-looking-forward-to-at-swanseacon&quot;&gt;Are there any sessions other than your own which you are looking forward to at SwanseaCon?&lt;/h4&gt;
-&lt;p&gt;I’m very much interested in topics related to communication and collaboration.&lt;/p&gt;
-
-&lt;h4 id=&quot;did-you-enjoy-this-post&quot;&gt;Did you enjoy this post?&lt;/h4&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.swanseacon.co.uk/&quot;&gt;Get your tickets today to see Hadi Hariri and many others at SwanseaCon 2018&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 16 Jul 2018 22:19:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/meet-the-speaker-hadi-hariri</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/meet-the-speaker-hadi-hariri</guid>
-      </item>
-    
-      <item>
-        <title>Meet the Speaker: Dave Stokes</title>
-        <description>&lt;h4 id=&quot;meet-the-speaker-dave-stokes&quot;&gt;Meet the Speaker: Dave Stokes.&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/people/DaveStokes.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;whats-your-session-topic&quot;&gt;What’s your session topic?&lt;/h4&gt;
-&lt;p&gt;MySQL 8 Server Optimization&lt;/p&gt;
-
-&lt;h4 id=&quot;why-is-your-topic-important&quot;&gt;Why is your topic important?&lt;/h4&gt;
-&lt;p&gt;So many folks run MySQL and the new version of MySQL has some big changes for the better. Hopefully my session will help uses exploit those new changes.  The new temporary file type and histograms will be a big win for many.&lt;/p&gt;
-
-&lt;h4 id=&quot;what-are-the-prerequisites-should-the-audience-have-for-attending-your-session&quot;&gt;What are the prerequisites should the audience have for attending your session?&lt;/h4&gt;
-&lt;p&gt;Hopefully if they do not run MySQL they will know a little about relational databases.  For those that run MySQL I hope this will polish their knowledge.&lt;/p&gt;
-
-&lt;h4 id=&quot;how-long-have-you-been-in-this-industry&quot;&gt;How long have you been in this industry?&lt;/h4&gt;
-&lt;p&gt;My first programming ex[erience was at Grossmont Community College in El Cajon CA (and I doubt any alumi will be joining me) in 1978.  Fortan on punch cards on a Digital Equipement Corporation KL 1091 36 bit computer.  And I started getting paid to work on computers not long after. And yes back then dinosaurs did roam the school parking lots which could prove very messy.&lt;/p&gt;
-
-&lt;h4 id=&quot;what-is-one-of-those-things-you-wish-you-knew-when-you-started-out-in-this-industry&quot;&gt;What is one of those things you wish you knew when you started out in this industry?&lt;/h4&gt;
-&lt;p&gt;It is okay to say ‘I do not know; let me go explore’.  Too many feel guilty they do not know everything and do not admit they need to research.  Of course once you join the ranks of those of us who do know everything it makes you humble. ;-)&lt;/p&gt;
-
-&lt;h4 id=&quot;have-you-spoken-at-or-attended-swanseacon-before&quot;&gt;Have you spoken at or attended SwanseaCon before?&lt;/h4&gt;
-&lt;p&gt;Yes, twice.&lt;/p&gt;
-
-&lt;h4 id=&quot;what-made-you-want-to-speak-at-swanseacon-this-year&quot;&gt;What made you want to speak at SwanseaCon this year?&lt;/h4&gt;
-&lt;p&gt;The audience is very sharp and it is always a joy to talk to a great audience.  That and Viv Richards keeps promissing to introduce me to Catherine Zeta-Jones when she comes to the conference.  Viv: Is she still planning on attending this year??&lt;/p&gt;
-
-&lt;h4 id=&quot;are-there-any-sessions-other-than-your-own-which-you-are-looking-forward-to-at-swanseacon&quot;&gt;Are there any sessions other than your own which you are looking forward to at SwanseaCon?&lt;/h4&gt;
-&lt;p&gt;I’m here for the argument, How to build products people care about, and Questioning Requirements.  I generally recommend first time conferce attendees attend one session on a subject they know zero about to expand their horizons.  That is if there is a hole in your schedule where there are no must attend sessions and that is often hard to do at Swanseacon.  And if you have questions for any speaker, please ask – even if it is before/after their talk as all the presenters love to sahre their knowledge.&lt;/p&gt;
-
-&lt;h4 id=&quot;did-you-enjoy-this-post&quot;&gt;Did you enjoy this post?&lt;/h4&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.swanseacon.co.uk/&quot;&gt;Get your tickets today to see Dave Stokes and many others at SwanseaCon 2018&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 14 Jul 2018 16:01:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/meet-the-speaker-dave-stokes</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/meet-the-speaker-dave-stokes</guid>
       </item>
     
   </channel>
