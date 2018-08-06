@@ -7,6 +7,45 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Meet the Speaker: Stephen Mounsey</title>
+        <description>&lt;h4 id=&quot;meet-the-speaker-stephen-mounsey&quot;&gt;Meet the Speaker: Stephen Mounsey.&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/people/StephenMounsey.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;whats-your-session-topic&quot;&gt;What’s your session topic?&lt;/h4&gt;
+
+&lt;p&gt;Conflict in Agile teams&lt;/p&gt;
+
+&lt;h4 id=&quot;why-is-your-topic-important&quot;&gt;Why is your topic important?&lt;/h4&gt;
+&lt;p&gt;Because every one of us deals with conflict each day. We disagree on all sorts of stuff. Agile values collaboration and consensus decision making for that to work we need to be able to work with conflict and disagreement in our teams.&lt;/p&gt;
+
+&lt;h4 id=&quot;what-are-the-prerequisites-should-the-audience-have-for-attending-your-session&quot;&gt;What are the prerequisites should the audience have for attending your session?&lt;/h4&gt;
+&lt;p&gt;Nothing special, a thirst for learning a bunch of tools for dealing with conflict&lt;/p&gt;
+
+&lt;h4 id=&quot;how-long-have-you-been-in-this-industry&quot;&gt;How long have you been in this industry?&lt;/h4&gt;
+&lt;p&gt;Over 10 years&lt;/p&gt;
+
+&lt;h4 id=&quot;what-is-one-of-those-things-you-wish-you-knew-when-you-started-out-in-this-industry&quot;&gt;What is one of those things you wish you knew when you started out in this industry?&lt;/h4&gt;
+&lt;p&gt;Keep learning, all the time.&lt;/p&gt;
+
+&lt;h4 id=&quot;have-you-spoken-at-or-attended-swanseacon-before&quot;&gt;Have you spoken at or attended SwanseaCon before?&lt;/h4&gt;
+&lt;p&gt;I have it is a great event, one of the highlights of my year.&lt;/p&gt;
+
+&lt;h4 id=&quot;what-made-you-want-to-speak-at-swanseacon-this-year&quot;&gt;What made you want to speak at SwanseaCon this year?&lt;/h4&gt;
+&lt;p&gt;As a tester speaking at events which broaden my spectrum of learning is a key goal for me. I want to speak at SwanseaCon because it’s an awesome event and I really want to go again.&lt;/p&gt;
+
+&lt;h4 id=&quot;are-there-any-sessions-other-than-your-own-which-you-are-looking-forward-to-at-swanseacon&quot;&gt;Are there any sessions other than your own which you are looking forward to at SwanseaCon?&lt;/h4&gt;
+&lt;p&gt;Looking forward to many of the sessions, they are usually of a very high standard.&lt;/p&gt;
+
+&lt;h4 id=&quot;did-you-enjoy-this-post&quot;&gt;Did you enjoy this post?&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.swanseacon.co.uk/&quot;&gt;Get your tickets today to see Stephen Mounsey and many others at SwanseaCon 2018&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 06 Aug 2018 17:19:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/meet-the-speakers-stephen-mounsey</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/meet-the-speakers-stephen-mounsey</guid>
+      </item>
+    
+      <item>
         <title>Meet the Speaker: Elisabeth Hocke</title>
         <description>&lt;h4 id=&quot;meet-the-speaker-elisabeth-hocke&quot;&gt;Meet the Speaker: Elisabeth Hocke.&lt;/h4&gt;
 
@@ -449,48 +488,6 @@ always looking to pick up new things.&lt;/p&gt;
         <pubDate>Fri, 20 Jul 2018 17:19:00 +0100</pubDate>
         <link>http://localhost:4000/blog/meet-the-speaker-nick-tune</link>
         <guid isPermaLink="true">http://localhost:4000/blog/meet-the-speaker-nick-tune</guid>
-      </item>
-    
-      <item>
-        <title>Meet the Speaker: Matt Jukes</title>
-        <description>&lt;h4 id=&quot;meet-the-speaker-matt-jukes&quot;&gt;Meet the Speaker: Matt Jukes.&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/people/MattJukes.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;whats-your-session-topic&quot;&gt;What’s your session topic?&lt;/h4&gt;
-&lt;p&gt;I’m talking about working, and thinking, in the open and how that helps us as individuals, teams and institutions.&lt;/p&gt;
-
-&lt;h4 id=&quot;why-is-your-topic-important&quot;&gt;Why is your topic important?&lt;/h4&gt;
-&lt;p&gt;I believe that openness is really the ‘secret sauce’ (well not that secret as it is open!) for this industry of ours. It is more than the open source software on which we are all reliant - it is about open culture, being open minded and importantly being willing to share the rough with the smooth.&lt;/p&gt;
-
-&lt;h4 id=&quot;what-are-the-prerequisites-should-the-audience-have-for-attending-your-session&quot;&gt;What are the prerequisites should the audience have for attending your session?&lt;/h4&gt;
-&lt;p&gt;Nothing.&lt;/p&gt;
-
-&lt;h4 id=&quot;how-long-have-you-been-in-this-industry&quot;&gt;How long have you been in this industry?&lt;/h4&gt;
-&lt;p&gt;20 years!&lt;/p&gt;
-
-&lt;h4 id=&quot;what-is-one-of-those-things-you-wish-you-knew-when-you-started-out-in-this-industry&quot;&gt;What is one of those things you wish you knew when you started out in this industry?&lt;/h4&gt;
-&lt;p&gt;That I would still be doing this in 20 years time!&lt;/p&gt;
-
-&lt;p&gt;Also I’d have fought harder to protect the web we lost https://anildash.com/2012/12/13/the_web_we_lost/&lt;/p&gt;
-
-&lt;p&gt;I’ve been supporting Mozilla, Wikipedia, Open Rights Group and others for a long time but I could and should have done more.&lt;/p&gt;
-
-&lt;h4 id=&quot;have-you-spoken-at-or-attended-swanseacon-before&quot;&gt;Have you spoken at or attended SwanseaCon before?&lt;/h4&gt;
-&lt;p&gt;Nope&lt;/p&gt;
-
-&lt;h4 id=&quot;what-made-you-want-to-speak-at-swanseacon-this-year&quot;&gt;What made you want to speak at SwanseaCon this year?&lt;/h4&gt;
-&lt;p&gt;Swansea is one my my favourite places and I have been spending a lot of time there this year for work so it was a great opportunity to speak at an event I’ve only heard great things about.&lt;/p&gt;
-
-&lt;h4 id=&quot;are-there-any-sessions-other-than-your-own-which-you-are-looking-forward-to-at-swanseacon&quot;&gt;Are there any sessions other than your own which you are looking forward to at SwanseaCon?&lt;/h4&gt;
-&lt;p&gt;There are too many sessions I like the look of to mention here but I’m very much looking forward to hearing from Gem Hill and Allie Brock in particular.&lt;/p&gt;
-
-&lt;h4 id=&quot;did-you-enjoy-this-post&quot;&gt;Did you enjoy this post?&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&quot;http://www.swanseacon.co.uk/&quot;&gt;Get your tickets today to see Matt Jukes and many others at SwanseaCon 2018&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 19 Jul 2018 17:19:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/meet-the-speaker-matt-jukes</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/meet-the-speaker-matt-jukes</guid>
       </item>
     
   </channel>
