@@ -15,6 +15,7 @@
   group: "Silver"
   elements: 
     - {name: "Agile Testing Fellowship", description: "Agile Testing Fellow", link: "https://agiletestingfellow.com/", imageUrl: "agiletestingfellowlogo.jpg", width: "140px"}
+    - {name: "CPS Group", description: "THE EXPERTS AT FINDING EXPERTS", link: "http://www.cpsgroupuk.com", imageUrl: "CPS_Logo.png", width: "260px"}
     - {name: "Become a Sponsor", description: "Find out more", link: "http://www.swanseacon.co.uk/sponsorship", imageUrl: "enquire.png"} 
 - 
   group: "Bronze"
@@ -32,6 +33,7 @@
     - {name: "Office for National Statistics", description: "The UK's largest independent producer of official statistics and the recognised national statistical institute of the UK.", link: "https://www.ons.gov.uk/", imageUrl: "ons.jpg"} 
     - {name: "Learning Connexions", description: "Learning Connexions. Learn, Train, Develop.", link: "http://www.learningconnexions.com/", imageUrl: "LearningConnexions_Logo.jpg"}
     - {name: "MySQL", description: "The world's most popular open source database", link: "http://www.mysql.com/", imageUrl: "mysql.png", width: "170px"} 
+    - {name: "CPS Group", description: "THE EXPERTS AT FINDING EXPERTS", link: "www.cpsgroupuk.com", imageUrl: "CPS_Logo.png", width: "260px"}
 - 
   group: "Media Partners"
   elements: 

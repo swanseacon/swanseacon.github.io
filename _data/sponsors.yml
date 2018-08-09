@@ -45,6 +45,26 @@
   thumbnailUrl: agiletestingfellowlogo.jpg
   website: "https://agiletestingfellow.com/"
  - 
+  id: 13
+  company: "CPS Group"
+  description: "<h5>THE EXPERTS AT FINDING EXPERTS</h5>
+  <p>CPS Group is a £12m+ turnover company and one of Europe’s best technology recruiters.</p>
+  <p>Headquartered in Cardiff we are the fastest-growing, most profitable, independent recruitment company based in Wales. </p>
+  <p>Working across four continents, we source and supply permanent and interim staff for the IT, ERP and Engineering sectors.</p>
+  <p>By thoroughly understanding what our clients need and by uncovering the best candidates, we place in excess of 1000 professionals a year into jobs with businesses ranging from SMEs to global PLCs and FTSE organisations. </p>
+  <p>We are renowned for the results we deliver for clients and candidates, and for being the place the best people want to work, as recognised by the following:
+• Cardiff Business Awards – Employer of the Year 2016
+• Recruiter Hot 100 2014, 2015 & 2016– Ranked 33rd most profitable Recruitment Company in UK
+• Hot 10 IT Recruiter 2014 & 2015 – Ranked 8th most profitable IT Recruitment Company in UK
+• Recruitment International Magazine Top 500 listing 2015
+• Recruiter Fast 50 2015 – Ranked 22nd fastest growing recruitment companies in the UK
+• Fast Growth 50 – Ranked one of the fastest growing businesses in Wales
+• Great Places to Work 2015 – 18th out of 6,000 UK based businesses
+Investors in People - Silver 2017</p>
+<p>If you are a candidate looking for your next contract or permanent role, a business looking to recruit high quality technical staff, or a recruiter looking to work for one of the best Recruitment Companies in the UK, get in touch today.</p>"
+  thumbnailUrl: CPS_Logo.png
+  website: "http://www.cpsgroupuk.com"
+ - 
   id: 2
   company: "Swansea Software Development Community"
   thumbnailUrl: ssdc.png
