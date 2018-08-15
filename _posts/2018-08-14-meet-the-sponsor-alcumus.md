@@ -7,7 +7,7 @@ isStaticPost: false
 
 #### Meet the Sponsor: Alcumus Group.
 
-<img src="/img/partners/Alcumus.jpg"/>
+<img src="/img/partners/Alcumus.JPG"/>
 
 #### Who are you?
 Louis Cross – Internal Tech Recruiter at Alcumus
