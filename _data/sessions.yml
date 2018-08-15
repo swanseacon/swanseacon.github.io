@@ -11,9 +11,8 @@
   language: en
 -
   id: 003
-  title: "Opening Keynote"
-  description: "<p>Information to follow</p>
-  <p></p>"
+  title: "Opening Keynote: Where's my free lunch"
+  description: "<p>Have you ever thought about how many amazing things we get in this day and age that are free? Think about it, whether it’s articles in daily newspapers, social media, your code repository, your continuous integration server as a service. And that’s not even mentioning all the amazing open source libraries, frameworks that’s all out there. It’s all free, and it’s awesomesauce! Reality though is someone is paying for all this. Sometimes it’s being paid in cash, other times in the form of data and many times in the form of liabilities. But many of us choose to ignore this and glaze at the wonder of it all. One day however, we’ll wake up and ask, hey, where the hell did my free lunch go, and watch how a lot of things come crumbling down.</p>"
   subtype: keynote
   speakers: [6]
   language: en
