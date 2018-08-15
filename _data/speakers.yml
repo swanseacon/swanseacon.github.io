@@ -116,16 +116,13 @@
     - {name: "site", link: "http://www.agiletester.ca"}	
 -
   id: 10
-  name: "Loïc"
-  surname: "Knuchel"
-  company: "Criteo"
+  name: "TBC"
+  surname: ""
+  company: ""
   title: ""
-  bio: "<p>Typed functional programmer at Criteo, much interested in correctness and maintainability. Scala trainer, conference speaker, meetup organizer and former freelance & startup founder.</p>
-  <p>Like to talk about: code quality, functional programming, DDD, TDD, event sourcing as well as agility and management ;).</p>"
-  thumbnailUrl: LoicKnuchel.jpg
+  bio: "<p></p>"
+  thumbnailUrl: person.png
   rockstar: true	
-  social: 
-    - {name: "twitter", link: "http://twitter.com/loicknuchel"}
 - 
   id: 28
   name: "Mari"

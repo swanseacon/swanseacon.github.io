@@ -128,9 +128,8 @@
   language: en
 -
   id: 020
-  title: "Mutation testing, finally a good test quality measurement?"
-  description: "<p>We all know tests are important. But are they good enough ? Mutation testing can show you which bugs will not get caught by your tests, then it's up to you to improve your test suite.</p>
-  <p>This talk will be very practical showing what is mutation testing, how to set it up on a scala project and what are the results on a real project.</p>"
+  title: "TBC"
+  description: "<p>Information to follow.</p>"
   subtype: presentation 
   speakers: [10]
   language: en
