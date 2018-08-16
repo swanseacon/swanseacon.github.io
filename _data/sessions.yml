@@ -127,8 +127,10 @@
   language: en
 -
   id: 020
-  title: "TBC"
-  description: "<p>Information to follow.</p>"
+  title: "Automating your test infrastructure with Kubernetes"
+  description: "<p>As a developer, I find the most important job I have isn’t writing code, it’s shipping code that delivers value, and code only delivers value if it works. At a company without the most resources, we need to be clever, which is why we relied on Kubernetes to help automate our test infrastructure and increase confidence in our product.</p>
+  <p>Kubernetes is container orchestration - but that doesn’t mean you need to be a docker expert to take advantage of the platform. Testing is imperative to any product, but it can be hard. Long running tests can be painful, especially when running them concurrently isn’t possible because of resource constraints, with kubernetes, we can address this. Tools such as selenium grid can be difficult to orchestrate and deploy, but with kubernetes, it is significantly simplified.</p>
+  <p>Together, we’ll explore how we use Kubernetes to automate our test infrastructure and have greater confidence in our product, and you will learn how you can do the same.</p>"
   subtype: presentation 
   speakers: [10]
   language: en

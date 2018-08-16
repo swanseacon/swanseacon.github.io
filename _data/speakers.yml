@@ -116,13 +116,15 @@
     - {name: "site", link: "http://www.agiletester.ca"}	
 -
   id: 10
-  name: "TBC"
-  surname: ""
-  company: ""
+  name: "Joe"
+  surname: "Stead"
+  company: "VQ Communications Ltd"
   title: ""
-  bio: "<p></p>"
-  thumbnailUrl: person.png
+  bio: "<p>Joe is currently working on software that is designed to scale to millions of users concurrently, and he has been for the past 5 years. Prior to that, he spent some time working on security-conscious systems. His current focus is on improving the delivery of effective and usable software.</p>"
+  thumbnailUrl: JoeStead.jpg
   rockstar: true	
+  social: 
+    - {name: "twitter", link: "http://twitter.com/Joe_Stead"}
 - 
   id: 28
   name: "Mari"
