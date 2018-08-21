@@ -45,7 +45,7 @@
   thumbnailUrl: agiletestingfellowlogo.jpg
   website: "https://agiletestingfellow.com/"
  - 
-  id: 13
+  id: 14
   company: "CPS Group"
   description: "<h5>THE EXPERTS AT FINDING EXPERTS</h5>
   <p>CPS Group is a £12m+ turnover company and one of Europe’s best technology recruiters.</p>
@@ -64,6 +64,14 @@ Investors in People - Silver 2017</p>
 <p>If you are a candidate looking for your next contract or permanent role, a business looking to recruit high quality technical staff, or a recruiter looking to work for one of the best Recruitment Companies in the UK, get in touch today.</p>"
   thumbnailUrl: CPS_Logo.png
   website: "http://www.cpsgroupuk.com"
+ - 
+  id: 15
+  company: "Vizolution"
+  description: "<h5>vScreen from Vizolution  is an innovative screen sharing technology</h5>
+  <p>Vizolution is a multi-award-winning UK based software provider backed by a leading European venture capital firm, Notion Capital, and Finance Wales. Vizolution has offices in London, Bristol and Swansea.</p>
+  <p>Vizolution is the provider of vScreen, a market leading screen sharing technology that allows a presenter to remotely and securely share visual information with a customer on a real time basis during a call.</p>"
+  thumbnailUrl: vizolution.jpg
+  website: "http://www.vizolution.co.uk/"
  - 
   id: 2
   company: "Swansea Software Development Community"
