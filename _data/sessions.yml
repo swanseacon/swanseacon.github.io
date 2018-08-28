@@ -45,8 +45,8 @@
   language: en
 -
   id: 007
-  title: "TBC"
-  description: "Information to follow"
+  title: "Continuous security"
+  description: "Agile is maturing in delivering incremental change. We innovate through data-driven experiments, enabled through continuous delivery and evolutionary architectures. Delivering small and fast means we are more frequently introducing new vulnerabilities. We are also facing new threats that come from increased integration through cloud computing and the internet of things. Traditional cycles of penetration tests and code reviews are not keeping up with the accelerated delivery pace unless these processes are also automated. DevSecOps focusses on integrating security in our processes and teams. Automate security first and fail fast will help build security in, but will also support the growth of awareness in the teams. Kim will show the lessons learned from her journey to Continuous security at ANVA, securing their open SaaS cloud platform for insurance software. Get an overview of the current continuous security landscape and the practical insights and pitfalls. And learn how security can be fun."
   subtype: presentation 
   speakers: [7]
   language: en
