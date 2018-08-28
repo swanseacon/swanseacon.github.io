@@ -16,11 +16,9 @@
   id: 10
   company: "Equal Experts"
   description: "<h5>Making Software. Better.</h5>
-  <p>Equal Experts’ agile practitioners combine technical excellence and business pragmatism to deliver simple bespoke software solutions to big business problems.</p>
-  <p>We offset delivery risk by trusting only talented, highly experienced people to employ relentless quality processes and a “zero tolerance” attitude to defects. We make heavy use of open source technology wherever possible, which dramatically lowers total cost of ownership for clients.</p>
-  <p>By leading by example and grounding everything we do in concrete software deliveries, we are able to bring our experience to bear, helping large organizations through their digital transformation.</p>
-  <p>Customers include Camelot and Telefonica and our software solutions underpin major initiatives such as O2’s Priority Moments customer loyalty campaign as well as myO2 self-serve capability. We are using our private sector experience to help UK government departments like HMRC and the Home Office to roll out their digital strategy.</p>
-  <p>For the last three years in a row, Equal Experts has been singled out as one of UK’s fastest growing companies in the tech sector, with sales reaching £24 million in 2014.</p>"
+  <p>At Equal Experts we help organisations achieve great things – processing millions of transactions per day in government; building top-5 mobile apps for iOS and Android; launching startups with lean, elegant technology and much, much more.</p>
+  <p>We’re a community of over 750 experienced consultants (across eight countries, five continents), comprising user researchers, designers, strategic thinkers, product people, BAs, developers, architects, QAs, devops and more – all bound by our shared set of values.</p>
+  <p>Our network model means experienced, pragmatic people are always invited to join us (even if you’re not looking for an imminent move). Once in the network you’re part of our community, and we’ll keep you informed of new developments and opportunities. When the time is right, we’ll work quickly to find you new challenges – always working with experienced, like-minded practitioners, and helping us achieve even greater things.</p>"
   thumbnailUrl: equal-experts.png
   website: "http://www.equalexperts.com/"
  - 
@@ -38,6 +36,13 @@
   thumbnailUrl: ons.jpg
   website: "https://www.ons.gov.uk/"
  - 
+  id: 16
+  company: "MySQL"
+  description: "<h5>Where experiences are engineered</h5>
+  <p>MySQL is the world's most popular open source database. With its proven performance, reliability and ease-of-use, MySQL has become the leading database choice for web-based applications, used by high profile web properties including Facebook, Twitter, YouTube, Yahoo! and many more. Additionally, it is an extremely popular choice as embedded database, distributed by over 3,000 ISVs & OEMs. To organizations in need of an open source, ACID-compliant transactional database delivering real-time in-memory performance and 99.999 percent availability, Oracle offers MySQL Cluster. MySQL Cluster powers the subscriber databases of major communications service providers and is used in global fraud detection for financial transactions. Oracle drives MySQL innovation, constantly improving MySQL solutions and delivering new capabilities to power next generation web, cloud, mobile and embedded applications.</p> <p>For more information, visit:</p>"
+  thumbnailUrl: mysql.png
+  website: "http://www.mysql.com/" 
+ - 
   id: 12
   company: "Agile Testing Fellowship"
   description: "<h5>Agile Testing Fellowship</h5>
@@ -45,7 +50,7 @@
   thumbnailUrl: agiletestingfellowlogo.jpg
   website: "https://agiletestingfellow.com/"
  - 
-  id: 13
+  id: 14
   company: "CPS Group"
   description: "<h5>THE EXPERTS AT FINDING EXPERTS</h5>
   <p>CPS Group is a £12m+ turnover company and one of Europe’s best technology recruiters.</p>
@@ -64,6 +69,14 @@ Investors in People - Silver 2017</p>
 <p>If you are a candidate looking for your next contract or permanent role, a business looking to recruit high quality technical staff, or a recruiter looking to work for one of the best Recruitment Companies in the UK, get in touch today.</p>"
   thumbnailUrl: CPS_Logo.png
   website: "http://www.cpsgroupuk.com"
+ - 
+  id: 15
+  company: "Vizolution"
+  description: "<h5>vScreen from Vizolution  is an innovative screen sharing technology</h5>
+  <p>Vizolution is a multi-award-winning UK based software provider backed by a leading European venture capital firm, Notion Capital, and Finance Wales. Vizolution has offices in London, Bristol and Swansea.</p>
+  <p>Vizolution is the provider of vScreen, a market leading screen sharing technology that allows a presenter to remotely and securely share visual information with a customer on a real time basis during a call.</p>"
+  thumbnailUrl: vizolution.jpg
+  website: "http://www.vizolution.co.uk/"
  - 
   id: 2
   company: "Swansea Software Development Community"

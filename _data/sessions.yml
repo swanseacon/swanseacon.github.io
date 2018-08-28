@@ -235,8 +235,13 @@
   language: en
 -
   id: 105
-  title: "From Bedroom to Boardroom."
-  description: "Information to follow"
+  title: "From Bedroom to Boardroom"
+  description: "<p>An insightful, energetic, humorous and outright captivating talk - with something for everyone.</p>
+  <p>Whether you’re a beginner bedroom developer, experienced engineer, start-up pioneers or experienced consultant – you’re sure to get something from Mike’s story.</p>
+  <p>Mike will cover his journey from when he first got interested in technology from a young age, to his time in game development including some titles you game buffs will know from the late 80’s namely “Storm” and “Shadow Warriors”. Hear how Mike moved into launching, nurturing and growing a number of successful start-up businesses to most recently becoming the CTO of Alcumus!</p>
+  <p>Reflecting on some of the highs, and some of the lows throughout his career, our CTO shows that anything is possible, wherever or whoever you are as long as you have the right idea, drive and people around you to make it happen.</p>
+  <p>Mike would be happy to go into further detail and answer questions and would love to chat after his talk.</p>
+  <p>PS!.. We set one of our guys a ‘lunchtime challenge’ to get the 1986 game ‘Storm’ written by Mike running through a HDMI cable – 32 years on from its original release and they cracked it. Join us on our stand to get your place on the leaderboard – top position at the end of the day will get something great to take away’</p>"
   subtype: presentation 
   speakers: [26]
   language: en
