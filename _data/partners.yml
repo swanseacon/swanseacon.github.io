@@ -36,6 +36,7 @@
     - {name: "MySQL", description: "The world's most popular open source database", link: "http://www.mysql.com/", imageUrl: "mysql.png", width: "170px"} 
     - {name: "CPS Group", description: "THE EXPERTS AT FINDING EXPERTS", link: "www.cpsgroupuk.com", imageUrl: "CPS_Logo.png", width: "260px"}
     - {name: "Vizolution", description: "vScreen from Vizolution  is an innovative screen sharing technology", link: "http://www.vizolution.co.uk/", imageUrl: "vizolution.jpg", width: "170px"}
+    - {name: "Confused.com", description: "Find your driver win", link: "http://www.confused.com/", imageUrl: "confused.JPG", width: "310px"} 
 - 
   group: "Media Partners"
   elements: 
