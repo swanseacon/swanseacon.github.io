@@ -8,6 +8,10 @@
 
 <style type="text/css">
 
+body {
+    text-align: center;
+}
+
 .button {
     background-color: #4CAF50; /* Green */
     border: none;
@@ -20,8 +24,6 @@
 }
 
 #WinningNumber {
-	float: left;
-    width: 625px;
 	font-size:40px;
     color: #1e88e5;
     margin: 20px;
@@ -35,19 +37,17 @@
 .lanyard {
 	clear:both;
     background-image: url(lanyard.png);
+	background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
     height: 900px;
-    float: left;
-    width: 625px;
 }
 
 #GeneratedNumber {
-    text-align: right;
-    margin-top: 40px;
-    padding-right: 90px;
     font-size: 28px;
     color: white;
+	padding-left: 440px;
+    padding-top: 40px;
 }
 </style>
 <input type="button" value="Pick a Winner!" id="Generate" class="button" onclick="generateRandomNumber()"><br>
@@ -65,8 +65,6 @@ function generateRandomNumber() {
     var x = Math.floor((Math.random() * 180) + 1);
     document.getElementById("GeneratedNumber").innerHTML = x;
 	document.getElementById("WinnerNumber").innerHTML = x;
-	
-	pulsate();
 }
 
 // Pulsate the winning number!
