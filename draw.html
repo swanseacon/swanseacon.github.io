@@ -23,7 +23,7 @@ body {
     font-size: 16px;
 }
 
-#WinningNumber {
+#WinningNumberText {
 	font-size:40px;
     color: #1e88e5;
     margin: 20px;
@@ -51,7 +51,7 @@ body {
 }
 </style>
 <input type="button" value="Pick a Winner!" id="Generate" class="button" onclick="generateRandomNumber()"><br>
-<div id="WinningNumber">Winner! Lanyard Number: <div id="WinnerNumber" class="	"></div></div>
+<div id="WinningNumberText"><div id="WinnerNumber" class="	"></div></div>
 <div class="lanyard">
 <div id="GeneratedNumber" class="pulsate">
 </div>
@@ -64,6 +64,7 @@ body {
 function generateRandomNumber() {
     var x = Math.floor((Math.random() * 180) + 1);
     document.getElementById("GeneratedNumber").innerHTML = x;
+    document.getElementById("WinningNumberText").innerHTML = 'Winner! Lanyard Number: <div id="WinnerNumber"></div>';
 	document.getElementById("WinnerNumber").innerHTML = x;
 }
 
