@@ -75,8 +75,9 @@
   language: en
 -
   id: 012
-  title: "TBC"
-  description: "<p>Info to follow.</p>"
+  title: "Lessons from the floor... what it means to be a first-time Product Owner"
+  description: "<p>Head of Support for 10 years, Business Analyst for 2 years and Tiger Bay Brawler for 5 years, Allie's first foray into product ownership was on the not so small RS Components DesignSpark project where, among other things, the team 'built Facebook in 6 sprints'. </p>
+  <p>She'll be walking us through her journey - good and bad - and sharing the lessons she's learnt along the way. Expect to come away with a clear understanding of why she believes empathy and honesty are critical to successful product ownership, and how she's woven mutually-beneficial values such as partnership and respect into the day-to-day working ethos of both client- and supplier-side project teams... with award-winning effect.</p>"
   subtype: presentation 
   speakers: [1]
   language: en
@@ -142,8 +143,10 @@
   language: en
 -
   id: 022
-  title: "TBC"
-  description: "<p>Info to follow.</p>"
+  title: "releaseflow: a healthy build, release and deploy process"
+  description: "<p>Do you have a healthy CI/CD pipeline? Do releases simply flow through? CI, CD, PRs, Pipelines, Releases, Deployments and all that jazz.</p>
+  <p>Whether you're new to Continuous Delivery or a hardened traveller down that road, this session has something for you.  We’ll start with an exploration of branching strategy (releaseflow.org) before walking through a healthy continuous delivery configuration.</p>
+  <p>We’ll watch a code change make it's way through a pipeline to production and discuss how we can apply such practices to our everyday work.</p>"
   subtype: presentation
   speakers: [2]
   language: en

@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "SwanseaCon 2018 - Agile Development & Software Craftsmanship conference"
+title: "SwanseaCon 2019 - Agile Development & Software Craftsmanship conference"
 email: "hello@swanseacon.co.uk"
 description: "SwanseaCon is an agile development & software craftsmanship conference"
 baseurl: ""
@@ -43,16 +43,18 @@ c4sponsorsUrl: "/sponsorship"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/schedule/", text: "Schedule"}
+# - {permalink: "/schedule/", text: "Schedule"}
 # - {permalink: "/speaker-info/", text: "Call for Speakers 2018"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/sponsors/", text: "Sponsors"}
  - {permalink: "/sponsorship/", text: "Sponsorship"}
  - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/archive2017/", text: "Archive 2017"}
- - {permalink: "/archive2016/", text: "Archive 2016"}
- - {permalink: "/archive2015/", text: "Archive 2015"}
+# - {permalink: "/archive2017/", text: "Archive 2017"}
+# - {permalink: "/archive2016/", text: "Archive 2016"}
+# - {permalink: "/archive2015/", text: "Archive 2015"}
+ - {permalink: "https://www.flickr.com/photos/136328291@N04/albums/with/72157661155466938", text: "Gallery"}
+ - {permalink: "https://www.youtube.com/swanseacon", text: "Videos"}
 bottomNavigationLinks:
 rightNavigationButtons:
 # - {link: "#about", text: "About SwanseaCon"}
@@ -61,30 +63,31 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "SwanseaCon <typeout> 2018"
-eventDate: "Monday 10th September, 2018"
+heroTitle: "SwanseaCon <typeout> 2019"
+eventDate: "Monday 9th September, 2019"
 typeoutTextValues: '"", "Agile", "Development", "Software", "Craftsmanship"'
 typeoutFallback: "Agile Development & Software Craftsmanship"
 heroButtons:
  - {permalink: "#about", text: "About SwanseaCon"}
- - {permalink: "#tickets", text: "Super early bird tickets now on sale!"}
+ - {permalink: "#tickets", text: "Early bird tickets now on sale!"}
  
 # About Block
 aboutTitle: "<h3>Agile Development & Software Craftsmanship</h3>"
 aboutBlock:
- - {title: " 	", image: "", text: "<p>SwanseaCon is a one day, agile development and software craftmanship conference for Software Developers, Software Testers, Business Analysts, Scrum Masters, Software Architects, Project Managers and Consultants in Wales. The forth year is scheduled to kick start on Monday 10th of September, 2018 in Swansea, South Wales.</p>
- <p>SwanseaCon 2018 will be the fourth agile development and software craftsmanship conference in Swansea, South Wales. Exploring the latest in agile development, software craftsmanship, teams and business.</p>
- <p>SwanseaCon 2018 gives you and your colleagues the right platform to gather cutting-edge information on technology from the best speakers and trainers of the industry. </p>
+ - {title: " 	", image: "", text: "<p>SwanseaCon is a one day, agile development and software craftmanship conference for Software Developers, Software Testers, Business Analysts, Scrum Masters, Software Architects, Project Managers and Consultants in Wales. The fifth year is scheduled to kick start on Monday 9th of September, 2019 in Swansea, South Wales.</p>
+ <p>In 2018, SwanseaCon was a sell out event, with 180 people in attendance.</p>
+ <p>SwanseaCon 2019 will be the fifth agile development and software craftsmanship conference in Swansea, South Wales. Exploring the latest in agile development, software craftsmanship, teams and business.</p>
+ <p>SwanseaCon 2019 gives you and your colleagues the right platform to gather cutting-edge information on technology from the best speakers and trainers of the industry. </p>
  <p>The conference includes keynotes and presentations, and time between sessions to network and connect with colleagues from around the world.</p>
  <p>Delegates will get the opportunity to learn how to increase their productivity dramatically and save cost, learn how to enhance the quality of their software applications, as well as meet their peers in a productive and social environment.</p>" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "150", specialCharacter: "+", info: "attendees", detail: ""}
- - {count: "25", specialCharacter: "", info: "sessions", detail: "of agile development & software craftsmanship"}
- - {count: "28", specialCharacter: "", info: "speakers", detail: "from all around the world"}
- - {count: "4", specialCharacter: "", info: "parallel tracks", detail: ""}
+ - {count: "180", specialCharacter: "", info: "attendees", detail: "Maximum Capacity"}
+ - {count: "25", specialCharacter: "", info: "sessions", detail: "Agile Development & Software Craftsmanship"}
+ - {count: "28", specialCharacter: "", info: "speakers", detail: "Travelling from all around the world"}
+ - {count: "4", specialCharacter: "", info: "parallel tracks", detail: "Agile, Development, Testing, Tools/Frameworks"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -104,9 +107,9 @@ eventAddressLocality: "Swansea"
 eventAddressLocalityRegion: ""
 eventPostalCode: "SA1 8QY"
 eventAddressCountry: "Wales"
-eventStartTime: "2018-09-10T08:30"
+eventStartTime: "2019-09-10T08:30"
 eventDoorTime: "09:00"
-eventEndTime: "2018-09-10T17:00"
+eventEndTime: "2019-09-10T17:00"
 eventPlaceCoordinates: "51.6212444619971, -3.9224749359680118"
 mapCenterCoordinates: "51.6212444619971, -3.9224749359680118"
 mapMobileCenterCoordinates: "51.6212444619971, -3.9224749359680118"
@@ -135,14 +138,14 @@ partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates for 2018"
+subscribeTitle: "Subscribe for updates for 2019"
 subscribeAction: "http://swancon.us10.list-manage.com/subscribe/post?u=6f529863589ed3eabebff1faf&amp;id=ac260fb163"
 subscribeInfo: "Registration is now open. Number of tickets are limited."
 
 # Tickets Block
 ticketsTitle: "Tickets"
 ticketTermsTitle: "Ticket Terms & Conditions"
-ticketTermsInfo: "<p><strong><em>Please note that once booked, Conference tickets cannot be cancelled and are non refundable. However, a substitute may be enrolled in a delegate’s place provided we are notified in writing before the first day of the event. Also note it is one ticket per delegate (ie no sharing). While SwanseaCon 2018 strives to maintain an up to date schedule, session list, and speaker list, these may be subject to change. If SwanseaCon has to cancel the conference for any reason, then we will refund 100% of any prepaid conference ticket fee, but we will not be liable for any other costs incurred including (for example) travel charges or any consequential damages, even if we were advised of them.</em></strong></p>"
+ticketTermsInfo: "<p><strong><em>Please note that once booked, Conference tickets cannot be cancelled and are non refundable. However, a substitute may be enrolled in a delegate’s place provided we are notified in writing before the first day of the event. Also note it is one ticket per delegate (ie no sharing). While SwanseaCon 2019 strives to maintain an up to date schedule, session list, and speaker list, these may be subject to change. If SwanseaCon has to cancel the conference for any reason, then we will refund 100% of any prepaid conference ticket fee, but we will not be liable for any other costs incurred including (for example) travel charges or any consequential damages, even if we were advised of them.</em></strong></p>"
 ticketsInfo: "<p><strong>Accommodation and travel is NOT included in the ticket price.</strong></p><p><em><strong>SwanseaCon is not VAT registered and so we do not charge VAT on tickets.</strong></em></p>"
 ticketsOffers:
  -

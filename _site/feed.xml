@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SwanseaCon 2018 - Agile Development &amp; Software Craftsmanship conference</title>
+    <title>SwanseaCon 2019 - Agile Development &amp; Software Craftsmanship conference</title>
     <description>SwanseaCon is an agile development &amp; software craftsmanship conference</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
@@ -10,7 +10,7 @@
         <title>Meet the Sponsor: Alcumus Group</title>
         <description>&lt;h4 id=&quot;meet-the-sponsor-alcumus-group&quot;&gt;Meet the Sponsor: Alcumus Group.&lt;/h4&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/partners/Alcumus.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/partners/Alcumus.JPG&quot; /&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;who-are-you&quot;&gt;Who are you?&lt;/h4&gt;
 &lt;p&gt;Louis Cross – Internal Tech Recruiter at Alcumus&lt;/p&gt;
@@ -33,7 +33,7 @@
 &lt;p&gt;Questioning Requirements: Improving Quality for everyone. Sounds like an interesting topic and ultimately is what our company is about. Looking forward to hearing more about that from a new perspective.&lt;/p&gt;
 
 &lt;h4 id=&quot;did-you-enjoy-this-post&quot;&gt;Did you enjoy this post?&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&quot;http://www.swanseacon.co.uk/&quot;&gt;Get your tickets today to meet Alcumus, our platinum sponsors at SwanseaCon 2018&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.swanseacon.co.uk/&quot;&gt;Pop over to say hello to Alcumus, our platinum sponsors at SwanseaCon 2018&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 14 Aug 2018 17:19:00 +0100</pubDate>
         <link>http://localhost:4000/blog/meet-the-sponsor-alcumus</link>

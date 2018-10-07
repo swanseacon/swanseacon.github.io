@@ -1,0 +1,114 @@
+ - 
+  id: 13
+  company: "Alcumus"
+  description: "<h5>Your Trusted Partner</h5>
+  <p>Alcumus provides technology-led compliance risk management, certification and accreditation  services, supporting both UK and International clients with their Testing, Inspection & Certification (TIC) and Governance, Risk & Compliance (GRC) strategies.</p>
+  <h6>Our Purpose</h6>
+  <p>We are here to help organisations be safer, healthier and stronger</p>
+  <h6>Our Vision</h6>
+  <p>To be recognised as the UK’s highest quality and fastest growing business for software led compliance risk management solutions</p>
+  <h6>Our Mission</h6>
+  <p>To think beyond compliance, ensuring we provide our customers with sustainable, long term solutions that fit their needs precisely.</p>
+  <p>Our aim is to deliver the certainty and confidence to turn compliance into competitive advantage</p>"
+  thumbnailUrl: Alcumus.JPG
+  website: "http://www.alcumusgroup.com/" 
+ - 
+  id: 10
+  company: "Equal Experts"
+  description: "<h5>Making Software. Better.</h5>
+  <p>At Equal Experts we help organisations achieve great things – processing millions of transactions per day in government; building top-5 mobile apps for iOS and Android; launching startups with lean, elegant technology and much, much more.</p>
+  <p>We’re a community of over 750 experienced consultants (across eight countries, five continents), comprising user researchers, designers, strategic thinkers, product people, BAs, developers, architects, QAs, devops and more – all bound by our shared set of values.</p>
+  <p>Our network model means experienced, pragmatic people are always invited to join us (even if you’re not looking for an imminent move). Once in the network you’re part of our community, and we’ll keep you informed of new developments and opportunities. When the time is right, we’ll work quickly to find you new challenges – always working with experienced, like-minded practitioners, and helping us achieve even greater things.</p>"
+  thumbnailUrl: equal-experts.png
+  website: "http://www.equalexperts.com/"
+ - 
+  id: 9
+  company: "Scrum Alliance"
+  description: "<h5>Become part of something bigger than you alone</h5>
+  <p>alone. Founded in 2001, Scrum Alliance® is the largest, most established and influential professional membership and certification organization in the Agile community. Scrum Alliance® is a nonprofit association, having certified more than 450,000 individuals worldwide. Its vision is to &quot;Transform the World of Work” with a mission to guide and inspire individuals, leaders, and organizations with practices, principles, and values that create workplaces that are joyful, prosperous, and sustainable. Come sprint with us!</p>"
+  thumbnailUrl: scrum-alliance.png
+  website: "http://www.scrumalliance.org/"
+ - 
+  id: 8
+  company: "Office for National Statistics"
+  description: "<h5>The UK's largest independent producer of official statistics and the recognised national statistical institute of the UK.</h5>
+  <p>We are the UK’s largest independent producer of official statistics and its recognised national statistical institute. We are responsible for collecting and publishing statistics related to the economy, population and society at national, regional and local levels. We also conduct the census in England and Wales every 10 years.</p>"
+  thumbnailUrl: ons.jpg
+  website: "https://www.ons.gov.uk/"
+ - 
+  id: 16
+  company: "MySQL"
+  description: "<h5>Where experiences are engineered</h5>
+  <p>MySQL is the world's most popular open source database. With its proven performance, reliability and ease-of-use, MySQL has become the leading database choice for web-based applications, used by high profile web properties including Facebook, Twitter, YouTube, Yahoo! and many more. Additionally, it is an extremely popular choice as embedded database, distributed by over 3,000 ISVs & OEMs. To organizations in need of an open source, ACID-compliant transactional database delivering real-time in-memory performance and 99.999 percent availability, Oracle offers MySQL Cluster. MySQL Cluster powers the subscriber databases of major communications service providers and is used in global fraud detection for financial transactions. Oracle drives MySQL innovation, constantly improving MySQL solutions and delivering new capabilities to power next generation web, cloud, mobile and embedded applications.</p> <p>For more information, visit:</p>"
+  thumbnailUrl: mysql.png
+  website: "http://www.mysql.com/" 
+ - 
+  id: 12
+  company: "Agile Testing Fellowship"
+  description: "<h5>Agile Testing Fellowship</h5>
+  <p>Janet Gregory and Lisa Crispin started the Agile Testing Fellowship to help testers and agile teams learn more ways to succeed with building quality into their product and making testing activities team-oriented. We offer a three-day course on the whole team approach to agile testing and quality with experienced trainers. Our trainers are highly proficient agile testing practitioners who can share their experience. They expertly guide participants in learning essential principles and practices through lecture, hands-on simulations and discussion. We offer both public and in-house training. Participants as well as anyone with a basic knowledge of agile testing principles and practices are invited to join our online community to help each other and generate new ideas. We’re proud to be a SwanseaCon sponsor. Visit http://agiletestingfellow.com/ .</p>"
+  thumbnailUrl: agiletestingfellowlogo.jpg
+  website: "https://agiletestingfellow.com/"
+ - 
+  id: 14
+  company: "CPS Group"
+  description: "<h5>THE EXPERTS AT FINDING EXPERTS</h5>
+  <p>CPS Group is a £12m+ turnover company and one of Europe’s best technology recruiters.</p>
+  <p>Headquartered in Cardiff we are the fastest-growing, most profitable, independent recruitment company based in Wales. </p>
+  <p>Working across four continents, we source and supply permanent and interim staff for the IT, ERP and Engineering sectors.</p>
+  <p>By thoroughly understanding what our clients need and by uncovering the best candidates, we place in excess of 1000 professionals a year into jobs with businesses ranging from SMEs to global PLCs and FTSE organisations. </p>
+  <p>We are renowned for the results we deliver for clients and candidates, and for being the place the best people want to work, as recognised by the following:
+• Cardiff Business Awards – Employer of the Year 2016
+• Recruiter Hot 100 2014, 2015 & 2016– Ranked 33rd most profitable Recruitment Company in UK
+• Hot 10 IT Recruiter 2014 & 2015 – Ranked 8th most profitable IT Recruitment Company in UK
+• Recruitment International Magazine Top 500 listing 2015
+• Recruiter Fast 50 2015 – Ranked 22nd fastest growing recruitment companies in the UK
+• Fast Growth 50 – Ranked one of the fastest growing businesses in Wales
+• Great Places to Work 2015 – 18th out of 6,000 UK based businesses
+Investors in People - Silver 2017</p>
+<p>If you are a candidate looking for your next contract or permanent role, a business looking to recruit high quality technical staff, or a recruiter looking to work for one of the best Recruitment Companies in the UK, get in touch today.</p>"
+  thumbnailUrl: CPS_Logo.png
+  website: "http://www.cpsgroupuk.com"
+ - 
+  id: 15
+  company: "Vizolution"
+  description: "<h5>vScreen from Vizolution  is an innovative screen sharing technology</h5>
+  <p>Vizolution is a multi-award-winning UK based software provider backed by a leading European venture capital firm, Notion Capital, and Finance Wales. Vizolution has offices in London, Bristol and Swansea.</p>
+  <p>Vizolution is the provider of vScreen, a market leading screen sharing technology that allows a presenter to remotely and securely share visual information with a customer on a real time basis during a call.</p>"
+  thumbnailUrl: vizolution.jpg
+  website: "http://www.vizolution.co.uk/"
+ - 
+  id: 2
+  company: "Swansea Software Development Community"
+  thumbnailUrl: ssdc.png
+  website: "http://www.swanseasdc.co.uk/"
+ - 
+  id: 3
+  company: "nCrafts.io"
+  thumbnailUrl: oxiane_partenaire_formation_ncrafts2016-e1456319240424.png
+  website: "http://ncrafts.io"
+ - 
+  id: 4
+  company: "Codurance"
+  thumbnailUrl: codurance.png
+  website: "http://codurance.com"
+ - 
+  id: 5
+  company: "JetBrains"
+  thumbnailUrl: jetbrains.png
+  website: "http://www.jetbrains.com/"
+ - 
+  id: 6
+  company: "Aspose Ptd Ltd"
+  thumbnailUrl: Aspose.png
+  website: "http://www.asposeptyltd.com/"
+ - 
+  id: 14
+  company: "Confused.com"
+  thumbnailUrl: confused.JPG
+  website: "http://www.confused.com/"
+ - 
+  id: 11
+  company: "GOFORE"
+  thumbnailUrl: gofore.png
+  website: "https://gofore.com"
