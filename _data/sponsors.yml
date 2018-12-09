@@ -1,8 +1,12 @@
  - 
-  id: 2
+  id: 1
   company: "Swansea Software Development Community"
   thumbnailUrl: ssdc.png
   website: "http://www.swanseasdc.co.uk/"
+ - 
+  id: 2
+  company: "Rubber Duck Consulting"
+  thumbnailUrl: rdc.jpg
  - 
   id: 3
   company: "nCrafts.io"
