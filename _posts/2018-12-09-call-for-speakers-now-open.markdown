@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "SwanseaCon 2018 - Call for speakers is now open"
+title:  "SwanseaCon 2019 - Call for speakers is now open"
 date:   2018-12-09 14:12:34:00
 isStaticPost: false
 ---
