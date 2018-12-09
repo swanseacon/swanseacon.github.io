@@ -7,6 +7,180 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>SwanseaCon 2018 - Call for speakers is now open</title>
+        <description>&lt;h4 id=&quot;swanseacon-2019---call-for-speakers-is-now-open&quot;&gt;SwanseaCon 2019 - Call for speakers is now open.&lt;/h4&gt;
+&lt;p&gt;The call for speakers for the 5th year of SwanseaCon is now open and will close on Saturday 16th February 2019!&lt;/p&gt;
+
+&lt;p&gt;Whether your somebody who’s never spoken before or maybe you have traveled all over the world giving talks. If you help to design, develop, test or release software as part of an agile team then we want to hear from you.&lt;/p&gt;
+
+&lt;p&gt;Perhaps you have an inspiring story you want to share or maybe a lesson learnt from something that didn’t go so well? Want to run a workshop to help people to learn different ways of doing something? What ever you ideas please get in touch, we would love to hear from you.&lt;/p&gt;
+
+&lt;p&gt;Previous years we’ve had speakers from all different background, travelling from all over the world (one year from Sydney, Australia) to speak.&lt;/p&gt;
+
+&lt;p&gt;Below are some of the talk titles that were submitted, accepted and run at previous SwanseaCon events.&lt;/p&gt;
+
+&lt;h5 id=&quot;swanseacon-2018-sessions&quot;&gt;SwanseaCon 2018 Sessions&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;Where’s my free lunch&lt;/li&gt;
+  &lt;li&gt;Nature of Learning&lt;/li&gt;
+  &lt;li&gt;Do or don’t. There’s no try. Or is there?&lt;/li&gt;
+  &lt;li&gt;The Systemics of the Liskov Substitution Principle&lt;/li&gt;
+  &lt;li&gt;Continuous security&lt;/li&gt;
+  &lt;li&gt;Strategic Autonomous Design: Patterns and Heuristics&lt;/li&gt;
+  &lt;li&gt;Testcontainers for Real Integration Tests&lt;/li&gt;
+  &lt;li&gt;Automating your test infrastructure with Kubernetes&lt;/li&gt;
+  &lt;li&gt;Lessons from the floor… what it means to be a first-time Product Owner&lt;/li&gt;
+  &lt;li&gt;How to build products people care about&lt;/li&gt;
+  &lt;li&gt;Working in the open works&lt;/li&gt;
+  &lt;li&gt;MySQL 8 Server Optimization&lt;/li&gt;
+  &lt;li&gt;I am here for an argument – Working with conflict in teams&lt;/li&gt;
+  &lt;li&gt;Questioning requirements: improving quality for everyone&lt;/li&gt;
+  &lt;li&gt;Anxiety Under Test&lt;/li&gt;
+  &lt;li&gt;Cross-team pair testing: lessons of a testing traveler&lt;/li&gt;
+  &lt;li&gt;How to parse a file&lt;/li&gt;
+  &lt;li&gt;releaseflow: a healthy build, release and deploy process&lt;/li&gt;
+  &lt;li&gt;Azure from A-Z&lt;/li&gt;
+  &lt;li&gt;Kubernetes for .NET developers&lt;/li&gt;
+  &lt;li&gt;Cracking the WIP&lt;/li&gt;
+  &lt;li&gt;UI Testing - Selenium? Rich-Clients? Containers?&lt;/li&gt;
+  &lt;li&gt;Culture for the win&lt;/li&gt;
+  &lt;li&gt;From Bedroom to Boardroom&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;swanseacon-2017-sessions&quot;&gt;SwanseaCon 2017 Sessions&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;Pair-Programming From a Beginner’s Perspective&lt;/li&gt;
+  &lt;li&gt;Harnessing Culture for Great Agile Relationships&lt;/li&gt;
+  &lt;li&gt;Building a REPL for Phunkie, with Phunkie&lt;/li&gt;
+  &lt;li&gt;The Future is Serverless&lt;/li&gt;
+  &lt;li&gt;Scaling Continuous Delivery is not black magic&lt;/li&gt;
+  &lt;li&gt;Serverless with Azure Functions - the rebel service&lt;/li&gt;
+  &lt;li&gt;Scale @ Netflix&lt;/li&gt;
+  &lt;li&gt;The Domain-Driven Coding Architect&lt;/li&gt;
+  &lt;li&gt;Agile life lessons - looking beyond the processes&lt;/li&gt;
+  &lt;li&gt;Acceptance Testing on Mobile&lt;/li&gt;
+  &lt;li&gt;10 things you need to know about BDD, Cucumber and SpecFlow&lt;/li&gt;
+  &lt;li&gt;Defining MVP with Scenarios&lt;/li&gt;
+  &lt;li&gt;Unit Tests: Let’s get skeptical&lt;/li&gt;
+  &lt;li&gt;‘I am Groot’ - Learning Agile Testing&lt;/li&gt;
+  &lt;li&gt;Building Empowered Teams at Scale&lt;/li&gt;
+  &lt;li&gt;Developing an agile mindset: leading teams to think beyond the tools, techniques and process.&lt;/li&gt;
+  &lt;li&gt;Turning Development Outside–In&lt;/li&gt;
+  &lt;li&gt;The trouble with culture&lt;/li&gt;
+  &lt;li&gt;Making Agile safe again: resisting the Borg&lt;/li&gt;
+  &lt;li&gt;Test Driven Deployment&lt;/li&gt;
+  &lt;li&gt;Branching strategies: choose wisely to minimise costs&lt;/li&gt;
+  &lt;li&gt;Limiting WIP in the kitchen sink (aka ‘shamelessly capitalising upon an argument with my wife…’)&lt;/li&gt;
+  &lt;li&gt;Live coding a chatbot in less than 15 minutes&lt;/li&gt;
+  &lt;li&gt;Travel guide to continuous delivery&lt;/li&gt;
+  &lt;li&gt;Motivation for You, your Craft, your Team and your Org&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;swanseacon-2016&quot;&gt;SwanseaCon 2016&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;Let’s Do Kano Analysis of SwanseaCon&lt;/li&gt;
+  &lt;li&gt;It doesn’t always have to be Scrum&lt;/li&gt;
+  &lt;li&gt;Introducing Eager Design&lt;/li&gt;
+  &lt;li&gt;A Toolset for Creating a Potentially Releasable Product Increment&lt;/li&gt;
+  &lt;li&gt;Seven ineffective coding habits many F# programmers don’t have&lt;/li&gt;
+  &lt;li&gt;Education for Engineers&lt;/li&gt;
+  &lt;li&gt;From Scrum to Flow using Actionable Agile Metrics&lt;/li&gt;
+  &lt;li&gt;How deep are your tests?&lt;/li&gt;
+  &lt;li&gt;Tech Communities as Fandoms&lt;/li&gt;
+  &lt;li&gt;How and Why to Love Cucumber&lt;/li&gt;
+  &lt;li&gt;User-Story Point estimation: a new approach&lt;/li&gt;
+  &lt;li&gt;Scaling MySQL&lt;/li&gt;
+  &lt;li&gt;Software Craftsmanship vs Lean Product&lt;/li&gt;
+  &lt;li&gt;An Insider’s View Of Agile In The Public Sector&lt;/li&gt;
+  &lt;li&gt;KISS me quick; The battle against complexity&lt;/li&gt;
+  &lt;li&gt;Organisational Wide Agility&lt;/li&gt;
+  &lt;li&gt;Migration - from ‘Jurassic Park’ to MicroServices&lt;/li&gt;
+  &lt;li&gt;SonarQube to manage our technical debt and increase value&lt;/li&gt;
+  &lt;li&gt;Teal Organisations: A Living Example&lt;/li&gt;
+  &lt;li&gt;Skills For Crafts&lt;/li&gt;
+  &lt;li&gt;Why so serious?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;swanseacon-2015-sessions&quot;&gt;SwanseaCon 2015 Sessions&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;What Is Continuous Inspection, Anyway?&lt;/li&gt;
+  &lt;li&gt;Managing global teams : Lessons learned&lt;/li&gt;
+  &lt;li&gt;Level Up Your Tests&lt;/li&gt;
+  &lt;li&gt;Taking back BDD&lt;/li&gt;
+  &lt;li&gt;Use your type system; write less code&lt;/li&gt;
+  &lt;li&gt;Scala in GOV.UK Digital Services&lt;/li&gt;
+  &lt;li&gt;Spreadsheets are Code&lt;/li&gt;
+  &lt;li&gt;How to use Theory of Constraints to scale big agile development teams?&lt;/li&gt;
+  &lt;li&gt;Software architecture vs code&lt;/li&gt;
+  &lt;li&gt;It doesn’t work that way in enterprise&lt;/li&gt;
+  &lt;li&gt;The differences between US and European startups from a technical leadership point-of-view.&lt;/li&gt;
+  &lt;li&gt;Lean UX and Agile development taking the Public sector to new levels&lt;/li&gt;
+  &lt;li&gt;Exploring alternatives to software estimation with #NoEstimates&lt;/li&gt;
+  &lt;li&gt;Refactoring mount doom: the story of a story&lt;/li&gt;
+  &lt;li&gt;Common mistakes in TDD – can you guess?&lt;/li&gt;
+  &lt;li&gt;Bringing Agile Concepts to Operations&lt;/li&gt;
+  &lt;li&gt;Legacy Code is Fear&lt;/li&gt;
+  &lt;li&gt;Designing and building a micro-services architecture. Stairway to heaven or a highway to hell?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you do have a talk that’s a bit different, please do not be put off - submit it or get in touch (hello@swanseacon.co.uk) and we can discuss it with you if you’d like?&lt;/p&gt;
+
+&lt;h4 id=&quot;attendees&quot;&gt;Attendees&lt;/h4&gt;
+
+&lt;p&gt;Some of our previous attendees have held the following positions:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Developer&lt;/li&gt;
+  &lt;li&gt;Tester&lt;/li&gt;
+  &lt;li&gt;Professor&lt;/li&gt;
+  &lt;li&gt;Entrepreneur&lt;/li&gt;
+  &lt;li&gt;Apprentice&lt;/li&gt;
+  &lt;li&gt;Trainer&lt;/li&gt;
+  &lt;li&gt;Delivery Director&lt;/li&gt;
+  &lt;li&gt;Software Architect&lt;/li&gt;
+  &lt;li&gt;Business Analyst&lt;/li&gt;
+  &lt;li&gt;Scrum Master&lt;/li&gt;
+  &lt;li&gt;Director of Digital Services&lt;/li&gt;
+  &lt;li&gt;Blogger&lt;/li&gt;
+  &lt;li&gt;Product Owner&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;speakers-package&quot;&gt;Speakers’ package&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Conference ticket to attend the event&lt;/li&gt;
+  &lt;li&gt;Refreshments&lt;/li&gt;
+  &lt;li&gt;Lunch&lt;/li&gt;
+  &lt;li&gt;Free Wifi at the event&lt;/li&gt;
+  &lt;li&gt;Participant pack&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For out of town speakers we are able to also provide:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Travel (maximum of £250)&lt;/li&gt;
+  &lt;li&gt;Hotel stay (maximum of two nights covered)
+Anything not listed above is not included. Please contact us about any specific requests.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;ready-to-submit&quot;&gt;Ready to submit?&lt;/h4&gt;
+
+&lt;p&gt;We would love you to submit! Please head over to the &lt;a href=&quot;www.swanseacon.co.uk/speaker-info&quot;&gt;call for speakers&lt;/a&gt; page and we will be in touch soon.&lt;/p&gt;
+
+&lt;h4 id=&quot;for-more-advice-or-information&quot;&gt;For more advice or information&lt;/h4&gt;
+
+&lt;p&gt;We hope the above provides enough information about SwanseaCon and the types of sessions we are looking for.&lt;/p&gt;
+
+&lt;p&gt;If your stuck or have any questions please get in touch. We’re happy to provide further advice if you need more help before submitting your session.&lt;/p&gt;
+
+&lt;p&gt;Email: hello@swanseacon.co.uk
+Twitter: twitter.com/SwanseaCon&lt;/p&gt;
+</description>
+        <pubDate>Sun, 09 Dec 2018 14:12:34 +0000</pubDate>
+        <link>http://localhost:4000/blog/call-for-speakers-now-open</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/call-for-speakers-now-open</guid>
+      </item>
+    
+      <item>
         <title>Meet the Sponsor: Alcumus Group</title>
         <description>&lt;h4 id=&quot;meet-the-sponsor-alcumus-group&quot;&gt;Meet the Sponsor: Alcumus Group.&lt;/h4&gt;
 
@@ -406,62 +580,6 @@ always looking to pick up new things.&lt;/p&gt;
         <pubDate>Sun, 22 Jul 2018 17:19:00 +0100</pubDate>
         <link>http://localhost:4000/blog/meet-the-speaker-gem-hill</link>
         <guid isPermaLink="true">http://localhost:4000/blog/meet-the-speaker-gem-hill</guid>
-      </item>
-    
-      <item>
-        <title>Meet the Speaker: Shahid Iqbal</title>
-        <description>&lt;h4 id=&quot;meet-the-speaker-shahid-iqbal&quot;&gt;Meet the Speaker: Shahid Iqbal.&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/people/ShahidIqbal.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;whats-your-session-topic&quot;&gt;What’s your session topic?&lt;/h4&gt;
-
-&lt;p&gt;Kubernetes for .NET developers&lt;/p&gt;
-
-&lt;h4 id=&quot;why-is-your-topic-important&quot;&gt;Why is your topic important?*&lt;/h4&gt;
-
-&lt;p&gt;Arguably Kubernetes has become the de facto container orchestration platform, however with its origins in firmly in the Linux world it can be a daunting subject for .NET developers who traditionally come from a Windows world.&lt;/p&gt;
-
-&lt;p&gt;Kubernetes also provides .NET developers an opportunity to utilise the same platform to deploy both traditional full .NET framework applications and also newer .NET Core applications, this is a journey many .NET shops will be embarking on as they modernise their software and a platform like Kubernetes can help make the transition easier by providing many capabilities that would otherwise need to be created by the team.&lt;/p&gt;
-
-&lt;p&gt;My talk tries to break down the barriers to entry for people by demonstrating how quickly you can get started with Kubernetes and once you have the basics you can go away and dig deeper into this amazing and comprehensive platform.&lt;/p&gt;
-
-&lt;h4 id=&quot;what-are-the-prerequisites-should-the-audience-have-for-attending-your-session&quot;&gt;What are the prerequisites should the audience have for attending your session?&lt;/h4&gt;
-
-&lt;p&gt;It would help the audience if they have an understanding of what Containers are and how to create them, my talk will cover what you can do with containers once you’ve created them.&lt;/p&gt;
-
-&lt;h4 id=&quot;how-long-have-you-been-in-this-industry&quot;&gt;How long have you been in this industry?&lt;/h4&gt;
-
-&lt;p&gt;About 10yrs now as a .NET developer/Architect with the past 2 years as a freelance hands-on consultant.&lt;/p&gt;
-
-&lt;h4 id=&quot;what-is-one-of-those-things-you-wish-you-knew-when-you-started-out-in-this-industry&quot;&gt;What is one of those things you wish you knew when you started out in this industry?&lt;/h4&gt;
-
-&lt;p&gt;That there are only 2 hard things in computer science&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Naming things&lt;/li&gt;
-  &lt;li&gt;Cache invalidation&lt;/li&gt;
-  &lt;li&gt;Off by one errors&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;have-you-spoken-at-or-attended-swanseacon-before&quot;&gt;Have you spoken at or attended SwanseaCon before?&lt;/h4&gt;
-
-&lt;p&gt;No&lt;/p&gt;
-
-&lt;h4 id=&quot;what-made-you-want-to-speak-at-swanseacon-this-year&quot;&gt;What made you want to speak at SwanseaCon this year?&lt;/h4&gt;
-
-&lt;p&gt;I enjoyed being part of the inaugural DDD Wales and love talking about cool tech to as many people as possible, I’ve not spoken in Wales much so it’s an opportunity to meet more like minded people. I also particularly enjoy the atmosphere of smaller more intimate events where you can be a bit more relaxed.&lt;/p&gt;
-
-&lt;h4 id=&quot;are-there-any-sessions-other-than-your-own-which-you-are-looking-forward-to-at-swanseacon&quot;&gt;Are there any sessions other than your own which you are looking forward to at SwanseaCon?&lt;/h4&gt;
-
-&lt;p&gt;I’m not sure I can single out any specific sessions as the whole line-up looks great. It’s a shame I miss the sessions that are on at the same time as I am speaking!&lt;/p&gt;
-
-&lt;h4 id=&quot;did-you-enjoy-this-post&quot;&gt;Did you enjoy this post?&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&quot;http://www.swanseacon.co.uk/&quot;&gt;Get your tickets today to see Shahid Iqbal and many others at SwanseaCon 2018&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 21 Jul 2018 17:19:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/meet-the-speaker-shahid-iqbal</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/meet-the-speaker-shahid-iqbal</guid>
       </item>
     
   </channel>
