@@ -17,3 +17,8 @@
   company: "Codurance"
   thumbnailUrl: codurance.png
   website: "http://codurance.com"
+ - 
+  id: 5
+  company: "SpeakEasy"
+  thumbnailUrl: SpeakEasy.png
+  website: "https://speaking-easy.com/"

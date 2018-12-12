@@ -28,4 +28,5 @@
     - {name: "Codurance", description: "Codurance, Craft at heart", link: "http://www.codurance.com/", imageUrl: "codurance.png"}
     - {name: "Swansea Software Development Community", description: "#SSDC, Swansea Software Development Community", link: "http://www.swanseasdc.co.uk/", imageUrl: "ssdc.png", width: "170px"}
     - {name: "Rubber Duck Consulting", description: "Rubber Duck Consulting Ltd", link: "#", imageUrl: "rdc.jpg"}
+    - {name: "SpeakEasy", description: "Increasing Diversity at Testing Conferences", link: "https://speaking-easy.com/", imageUrl: "SpeakEasy.png"}
     - {name: "nCrafts.io", description: "NEWCRAFTS CONFERENCES Paris", link: "http://ncrafts.io", imageUrl: "oxiane_partenaire_formation_ncrafts2016-e1456319240424.png", width: "190px"}
