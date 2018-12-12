@@ -147,7 +147,7 @@ Anything not listed above is not included. Please contact us about any specific 
 
 #### Ready to submit?
 
-We would love you to submit! Please head over to the [call for speakers](www.swanseacon.co.uk/speaker-info) page and we will be in touch soon.
+We would love you to submit! Please head over to the [call for speakers](http://www.swanseacon.co.uk/speaker-info) page and we will be in touch soon.
 
 #### For more advice or information
 
