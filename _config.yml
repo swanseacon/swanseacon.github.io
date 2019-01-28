@@ -53,6 +53,7 @@ navigationLinks:
 # - {permalink: "/archive2017/", text: "Archive 2017"}
 # - {permalink: "/archive2016/", text: "Archive 2016"}
 # - {permalink: "/archive2015/", text: "Archive 2015"}
+ - {permalink: "/cod/", text: "Code of Conduct"}
  - {permalink: "https://www.flickr.com/photos/136328291@N04/albums/with/72157661155466938", text: "Gallery"}
  - {permalink: "https://www.youtube.com/swanseacon", text: "Videos"}
 bottomNavigationLinks:
