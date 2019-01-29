@@ -1,18 +1,79 @@
--
+- 
   id: 1
-  name: "TBC"
+  name: "Dorothy"
+  surname: "Graham"
+  company: ""
+  title: "Software Testing Consultant"
+  bio: "<p>Dorothy Graham has been in software testing for over 40 years, and is co-author of 5 books: Software Inspection, Software Test Automation, Foundations of Software Testing, Experiences of Test Automation and A Journey Through Test Automation Patterns (linking to the wiki TestAutomationPatterns.org.</p>
+  <p>Dot has been on the boards of conferences and publications in software testing, including programme chair for EuroStar (twice). She was a founder member of the ISEB Software Testing Board and helped develop the first ISTQB Foundation Syllabus. She is a popular and entertaining speaker at conferences and events worldwide.</p>
+  <p>She was awarded the European Excellence Award in Software Testing in 1999 and the first ISTQB Excellence Award in 2012.</p>"
+  thumbnailUrl: DorothyGraham.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "http://twitter.com/dorothygraham"}
+- 
+  id: 3
+  name: "Kim"
+  surname: "van Wilgen"
+  company: ""
+  title: "Head of Software Development"
+  bio: "<p>Kim van Wilgen is an experienced leader in software product development. She’s passionate about topics such as DevOps, continuous delivery, agile and continuous security, and the management of the cultural, organizational and technological changes associated with these approaches. As a leader she works with self-organized teams, enabling people to thrive at work by being transparent and by empowering them, all to deliver value in the hands of the customer. Although a nerd at heart, she also has over a decade of experience in product management and comparable managerial roles on the other side: the business, to bridge the gap between business and IT. Together with agile thought-leader Sander Hoogendoorn, Kim is writing a new book titled The Continuous Culture.</p>"
+  thumbnailUrl: KimvanWilgen.jpg
+  rockstar: true	
+  social: 
+    - {name: "twitter", link: "http://twitter.com/kimvanwilgen"}
+- 
+  id: 2
+  name: "Liz"
+  surname: "Keogh"
+  company: ""
+  title: "Lean/Agile Consultant"
+  bio: "<p>Liz Keogh is a Lean and Agile consultant based in London. 
+  She is a well-known blogger and international speaker, a core member of the BDD community and a passionate advocate of the Cynefin framework and its ability to change mindsets. 
+  She has a strong technical background with 20 years’ experience in delivering value and coaching others to deliver, from small start-ups to global enterprises. 
+  Most of her work now focuses on Lean, Agile and organizational transformations, and the use of transparency, positive language, well-formed outcomes and safe-to-fail experiments in making change innovative, easy and fun.</p>"
+  thumbnailUrl: LizKeogh.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "http://twitter.com/lunivore"}
+- 
+  id: 4
+  name: "Sander"
+  surname: "Hoogendoorn"
+  title: ""
+  bio: "<p>Sander is an independent dad, mentor, trainer, software architect, programmer, speaker, and writer. He is a highly appreciated catalyst in the innovation of software development at his many international clients. Well known as the author of the best-selling book This Is Agile, Sander coaches organizations, projects and teams, has written books on UML and agile, and published over 250 articles in international magazines. He is an inspiring (keynote) speaker at many international conferences, and presents seminars and training courses on a variety of topics such as (beyond) agile, Scrum, Kanban, software estimation, software architecture, microservices, design patterns, modeling and UML, writing code, and testing.</p>"
+  thumbnailUrl: SanderHoogendoorn.jpg
+  rockstar: true	
+  company: "ditisagile.nl"
+  social: 
+    - {name: "twitter", link: "http://twitter.com/aahoogendoorn"}
+# - 
+#   id: 5
+#   name: "Simon"
+#   surname: "Stewart"
+#   company: ""
+#   title: "Lead Committer, Selenium Project & Creator of WebDriver"
+#   bio: "<p>Simon Stewart is the creator of WebDriver, the open source web application testing tool, as well as a core Selenium developer. WebDriver remains a hot topic as it is currently going through a W3C (World Wide Web Consortium) specification process, which Simon is a co-editor of.</p>
+#   <p>He describes himself as “undeniably hairy”, and holds a BSc in computer science from Nottingham University.</p>"
+#   thumbnailUrl: SimonStewart.jpg
+#   rockstar: true	
+#   social: 
+#     - {name: "twitter", link: "http://twitter.com/shs96c"}
+-
+  id: 6
+  name: "You?"
   surname: ""
   company: ""
   title: ""
-  bio: "<p>Info to follow</p>"
+  bio: "<p><a href='https://swanseacon.co.uk/speaker-info'>Our call for speakers is now open, we'd love you to submit!</a></p>"
   thumbnailUrl: person.png
   rockstar: true
 - 
-  id: 2
-  name: "TBC"
+  id: 7
+  name: "You?"
   surname: ""
   company: ""
   title: ""
-  bio: "<p>Info to follow</p>"
+  bio: "<p><a href='https://swanseacon.co.uk/speaker-info'>Our call for speakers is now open, we'd love you to submit!</a></p>"
   thumbnailUrl: person.png
   rockstar: true
