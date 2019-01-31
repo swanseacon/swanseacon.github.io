@@ -12,6 +12,23 @@
   social: 
     - {name: "twitter", link: "http://twitter.com/dorothygraham"}
 - 
+  id: 6
+  name: "Jason"
+  surname: "Gorman"
+  company: "Codemanship"
+  title: "Programmer & Trainer"
+  bio: "<p>Jason Gorman, a software development practitioner, trainer, coach and author based in London with two decades’ experience working with teams in a wide range of industries.
+Jason has worked with teams at the BBC, City Index, Electronic Arts, Higher Education Statistics Agency, BUPA,  British Standards Institute, The Post Office, Merrill Lynch HSBC, Freshfields Bruckhaus Deringer, Orange, Lloyds TSB, AOL, Reed Business Information and Symbian, and many more.</p>
+<p>Jason chairs the Software Craftsmanship conference in the UK, and is a contributor to other conferences including QCon, Software Practice Advancement, XPDay, Agile Finland, JAX London and CITCON Europe.</p>
+<p>His web site, parlezuml.com, has been visited by more than a million software professionals since 2003, and his free tutorials on use cases, UML, OO design and Test-driven Development have had more than 500,000 downloads.</p>
+<p>Jason is a patron of the Bletchley Park Trust, and a fundraiser for programming clubs and the STAK St Austell Community Kitchen</p>
+"
+  thumbnailUrl: JasonGorman.jpg
+  rockstar: false
+  social: 
+    - {name: "twitter", link: "https://twitter.com/jasongorman"}
+    - {name: "site", link: "http://www.parlezuml.com/"}	
+- 
   id: 3
   name: "Kim"
   surname: "van Wilgen"
@@ -47,20 +64,19 @@
   company: "ditisagile.nl"
   social: 
     - {name: "twitter", link: "http://twitter.com/aahoogendoorn"}
-# - 
-#   id: 5
-#   name: "Simon"
-#   surname: "Stewart"
-#   company: ""
-#   title: "Lead Committer, Selenium Project & Creator of WebDriver"
-#   bio: "<p>Simon Stewart is the creator of WebDriver, the open source web application testing tool, as well as a core Selenium developer. WebDriver remains a hot topic as it is currently going through a W3C (World Wide Web Consortium) specification process, which Simon is a co-editor of.</p>
-#   <p>He describes himself as “undeniably hairy”, and holds a BSc in computer science from Nottingham University.</p>"
-#   thumbnailUrl: SimonStewart.jpg
-#   rockstar: true	
-#   social: 
-#     - {name: "twitter", link: "http://twitter.com/shs96c"}
+- 
+  id: 5
+  name: "Simon"
+  surname: "Stewart"
+  company: ""
+  title: "Lead Committer, Selenium Project & Creator of WebDriver"
+  bio: "<p>Simon is the lead of the Selenium project, the creator of WebDriver, and the co-editor of the W3C WebDriver specification. His career has lead him through ThoughtWorks, Google, and Facebook, and most recently through Deliveroo. He speaks regularly at conferences, and lives in London with his family.</p>"
+  thumbnailUrl: SimonStewart.jpg
+  rockstar: true	
+  social: 
+    - {name: "twitter", link: "http://twitter.com/shs96c"}
 -
-  id: 6
+  id: 7
   name: "You?"
   surname: ""
   company: ""
