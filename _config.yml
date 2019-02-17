@@ -10,9 +10,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "SwanseaCon 2019 - Agile Development & Software Craftsmanship conference"
+title: "SwanseaCon 2019 - Agile Development & Software Crafting conference"
 email: "hello@swanseacon.co.uk"
-description: "SwanseaCon is an agile development & software craftsmanship conference"
+description: "SwanseaCon is a conference for people who build quality software as part of an agile team"
 baseurl: ""
 url: "http://swanseacon.github.io"
 permalink: "/blog/:title"
@@ -73,11 +73,11 @@ heroButtons:
  - {permalink: "#tickets", text: "Early bird tickets now on sale!"}
  
 # About Block
-aboutTitle: "<h3>Agile Development & Software Craftsmanship</h3>"
+aboutTitle: "<h3>Do you help design, develop, test or release quality software as part of an agile team?</h3>"
 aboutBlock:
- - {title: " 	", image: "", text: "<p>SwanseaCon is a one day, agile development and software craftmanship conference for Software Developers, Software Testers, Business Analysts, Scrum Masters, Software Architects, Project Managers and Consultants in Wales. The fifth year is scheduled to kick start on Monday 9th of September, 2019 in Swansea, South Wales.</p>
+ - {title: " 	", image: "", text: "<p>SwanseaCon is a one day conference aimed for people who help design, develop, test and release quality software as part of an agile team. The fifth year is scheduled to kick start on Monday 9th of September, 2019 in Swansea, South Wales.</p>
  <p>In 2018, SwanseaCon was a sell out event, with 180 people in attendance.</p>
- <p>SwanseaCon 2019 will be the fifth agile development and software craftsmanship conference in Swansea, South Wales. Exploring the latest in agile development, software craftsmanship, teams and business.</p>
+ <p>SwanseaCon 2019 will be the fifth conference held in Swansea, South Wales. Exploring the latest in agile development, software crafting, teams and business.</p>
  <p>SwanseaCon 2019 gives you and your colleagues the right platform to gather cutting-edge information on technology from the best speakers and trainers of the industry. </p>
  <p>The conference includes keynotes and presentations, and time between sessions to network and connect with colleagues from around the world.</p>
  <p>Delegates will get the opportunity to learn how to increase their productivity dramatically and save cost, learn how to enhance the quality of their software applications, as well as meet their peers in a productive and social environment.</p>" }
@@ -85,8 +85,8 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "180", specialCharacter: "", info: "attendees", detail: "Maximum Capacity"}
- - {count: "25", specialCharacter: "", info: "sessions", detail: "Agile Development & Software Craftsmanship"}
+ - {count: "180", specialCharacter: "", info: "attendees", detail: "Maximum capacity"}
+ - {count: "25", specialCharacter: "", info: "sessions", detail: "World class speakers"}
  - {count: "28", specialCharacter: "", info: "speakers", detail: "Travelling from all around the world"}
  - {count: "4", specialCharacter: "", info: "parallel tracks", detail: "Agile, Development, Testing, Tools/Frameworks"}
 
