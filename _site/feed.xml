@@ -7,6 +7,29 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>SwanseaCon 2019 - Call for speakers is now closed</title>
+        <description>&lt;h4 id=&quot;swanseacon-2019---call-for-speakers-is-now-closed&quot;&gt;SwanseaCon 2019 - Call for speakers is now closed.&lt;/h4&gt;
+&lt;p&gt;Thank you to each and every person who took the time to submit to our call for speakers for SwanseaCon 2019.&lt;/p&gt;
+
+&lt;p&gt;We had a fantastic response to our call for speakers and are now busy going through lots of submissions.&lt;/p&gt;
+
+&lt;p&gt;Keep an eye out over the next few weeks as we will be announcing all of our fantastic speakers.&lt;/p&gt;
+
+&lt;h4 id=&quot;for-more-advice-or-information&quot;&gt;For more advice or information&lt;/h4&gt;
+
+&lt;p&gt;While we aim to get back to everyone in the next few weeks, due to the volume of submissions we received this may take longer than anticipated so please be patient.&lt;/p&gt;
+
+&lt;p&gt;If you do however want to chase up your submission please feel free to get in touch.&lt;/p&gt;
+
+&lt;p&gt;Email: hello@swanseacon.co.uk
+Twitter: twitter.com/SwanseaCon&lt;/p&gt;
+</description>
+        <pubDate>Sun, 17 Feb 2019 14:12:34 +0000</pubDate>
+        <link>http://localhost:4000/blog/call-for-speakers-now-closed</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/call-for-speakers-now-closed</guid>
+      </item>
+    
+      <item>
         <title>SwanseaCon 2019 - Call for speakers is now open</title>
         <description>&lt;h4 id=&quot;swanseacon-2019---call-for-speakers-is-now-open&quot;&gt;SwanseaCon 2019 - Call for speakers is now open.&lt;/h4&gt;
 &lt;p&gt;The call for speakers for the 5th year of SwanseaCon is now open and will close on Saturday 16th February 2019!&lt;/p&gt;
@@ -541,45 +564,6 @@ always looking to pick up new things.&lt;/p&gt;
         <pubDate>Mon, 23 Jul 2018 17:19:00 +0100</pubDate>
         <link>http://localhost:4000/blog/meet-the-speaker-matt-fortunka</link>
         <guid isPermaLink="true">http://localhost:4000/blog/meet-the-speaker-matt-fortunka</guid>
-      </item>
-    
-      <item>
-        <title>Meet the Speaker: Gem Hill</title>
-        <description>&lt;h4 id=&quot;meet-the-speaker-gem-hill&quot;&gt;Meet the Speaker: Gem Hill.&lt;/h4&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/people/GemHill.png&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;whats-your-session-topic&quot;&gt;What’s your session topic?&lt;/h4&gt;
-
-&lt;p&gt;Anxiety Under Test&lt;/p&gt;
-
-&lt;h4 id=&quot;why-is-your-topic-important&quot;&gt;Why is your topic important?&lt;/h4&gt;
-&lt;p&gt;I want to get to a place where the tech industry specifically and humanity in general are more comfortable talking about mental health. It’s good for us and will help us be healthier, happier people. I also want to try to reassure people that are or have struggled with mental illness or ill-health that they’re not alone.&lt;/p&gt;
-
-&lt;h4 id=&quot;what-are-the-prerequisites-should-the-audience-have-for-attending-your-session&quot;&gt;What are the prerequisites should the audience have for attending your session?&lt;/h4&gt;
-&lt;p&gt;An open mind. I want to add here that there are no trigger/content warnings for this talk other than I will be talking about anxiety.&lt;/p&gt;
-
-&lt;h4 id=&quot;how-long-have-you-been-in-this-industry&quot;&gt;How long have you been in this industry?&lt;/h4&gt;
-&lt;p&gt;I’ve been a tester for 5/6 years now.&lt;/p&gt;
-
-&lt;h4 id=&quot;what-is-one-of-those-things-you-wish-you-knew-when-you-started-out-in-this-industry&quot;&gt;What is one of those things you wish you knew when you started out in this industry?&lt;/h4&gt;
-&lt;p&gt;The test community is the best! They’re so supportive in all aspects of my life and I’ve made some true friends there.&lt;/p&gt;
-
-&lt;h4 id=&quot;have-you-spoken-at-or-attended-swanseacon-before&quot;&gt;Have you spoken at or attended SwanseaCon before?&lt;/h4&gt;
-&lt;p&gt;No! I’m excited to be here&lt;/p&gt;
-
-&lt;h4 id=&quot;what-made-you-want-to-speak-at-swanseacon-this-year&quot;&gt;What made you want to speak at SwanseaCon this year?&lt;/h4&gt;
-&lt;p&gt;I love Wales, but haven’t really been to Swansea! The conference also looked good and has a good CoC, and isn’t Pay to Speak, which all makes me very happy to speak there.&lt;/p&gt;
-
-&lt;h4 id=&quot;are-there-any-sessions-other-than-your-own-which-you-are-looking-forward-to-at-swanseacon&quot;&gt;Are there any sessions other than your own which you are looking forward to at SwanseaCon?&lt;/h4&gt;
-&lt;p&gt;Gosh. They all look great. I am excited about finally meeting Lisa Crispin, but I’m also looking forward to be surprised by a talk that I didn’t think was going to be for me, which tends to happen at all conferences.&lt;/p&gt;
-
-&lt;h4 id=&quot;did-you-enjoy-this-post&quot;&gt;Did you enjoy this post?&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&quot;http://www.swanseacon.co.uk/&quot;&gt;Get your tickets today to see Gem Hill and many others at SwanseaCon 2018&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 22 Jul 2018 17:19:00 +0100</pubDate>
-        <link>http://localhost:4000/blog/meet-the-speaker-gem-hill</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/meet-the-speaker-gem-hill</guid>
       </item>
     
   </channel>
