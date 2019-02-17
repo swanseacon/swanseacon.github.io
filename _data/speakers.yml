@@ -77,19 +77,10 @@ Jason has worked with teams at the BBC, City Index, Electronic Arts, Higher Educ
     - {name: "twitter", link: "http://twitter.com/shs96c"}
 -
   id: 7
-  name: "You?"
+  name: "TBC"
   surname: ""
   company: ""
   title: ""
-  bio: "<p><a href='https://swanseacon.co.uk/speaker-info'>Our call for speakers is now open, we'd love you to submit!</a></p>"
-  thumbnailUrl: person.png
-  rockstar: true
-- 
-  id: 7
-  name: "You?"
-  surname: ""
-  company: ""
-  title: ""
-  bio: "<p><a href='https://swanseacon.co.uk/speaker-info'>Our call for speakers is now open, we'd love you to submit!</a></p>"
+  bio: "<p>The call for speakers is now closed. Watch this space!</p>"
   thumbnailUrl: person.png
   rockstar: true
