@@ -57,11 +57,13 @@ Jason has worked with teams at the BBC, City Index, Electronic Arts, Higher Educ
   id: 4
   name: "Sander"
   surname: "Hoogendoorn"
-  title: ""
-  bio: "<p>Sander is an independent dad, mentor, trainer, software architect, programmer, speaker, and writer. He is a highly appreciated catalyst in the innovation of software development at his many international clients. Well known as the author of the best-selling book This Is Agile, Sander coaches organizations, projects and teams, has written books on UML and agile, and published over 250 articles in international magazines. He is an inspiring (keynote) speaker at many international conferences, and presents seminars and training courses on a variety of topics such as (beyond) agile, Scrum, Kanban, software estimation, software architecture, microservices, design patterns, modeling and UML, writing code, and testing.</p>"
+  company: ""
+  title: "Chief Architect"
+  bio: "<p>Sander Hoogendoorn is a dad, an independent consultant, software craftsman, architect, programmer, coach, speaker, trainer, and writer. He is seasoned in agile, Scrum, Kanban, continuous delivery, (no) software estimation, agile requirements, design patterns, domain driven design, UML, software architecture, microservices, and writing beautiful code.</p>
+  <p>Sander changes organizations and teams and coaches them to optimize their processes, practices, architecture, code, and tests, currently as chief architect at smart energy company Quby (makers of Toon), and before as director with the agile consultancy 101 Ways, as chief technology officer at software vendor ANVA and insurer Klaverblad, as global agile thought leader at Capgemini, and as partner at consultancy Ordina. Sander authored best-selling books such as This Is Agile and Pragmatic Modeling with UML and published hundreds of articles in international magazines. He is an inspiring (keynote) speaker at international conferences, he presented hundreds of (in-house) training courses and lectured at many universities. Currently, Sander is working on a new book about the new agile.</p>"
   thumbnailUrl: SanderHoogendoorn.jpg
   rockstar: true	
-  company: "ditisagile.nl"
+  company: "Quby"
   social: 
     - {name: "twitter", link: "http://twitter.com/aahoogendoorn"}
 - 
