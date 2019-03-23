@@ -84,3 +84,14 @@ Jason has worked with teams at the BBC, City Index, Electronic Arts, Higher Educ
   bio: "<p>The call for speakers is now closed. Watch this space!</p>"
   thumbnailUrl: person.png
   rockstar: true
+-
+  id: 8
+  name: "Rachel"
+  surname: "Davies"
+  company: "Tes Global"
+  title: ""
+  bio: "<p>Rachel Davies is a world-renowned expert in Agile approaches to software development, especially Extreme Programming (XP) and an author of the first book on Agile Coaching . In 30 years, she’s seen programming languages and design methodologies come and go. Her current role is as a senior software engineer developing JavaScript micro-services at Tes Global, a digital education company.</p>"
+  thumbnailUrl: RachelDavies.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "http://twitter.com/rachelcdavies"}

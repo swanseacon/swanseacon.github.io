@@ -9,30 +9,46 @@
 #   description: "<p>Welcome to SwanseaCon 2019.</p>"
 #   subtype: presentation
 #   language: en
-# -
-#   id: 003
-#   title: ""
-#   description: "<p</p>"
-#   subtype: keynote
-#   language: en
 -
   id: 003
+  title: "Keynote"
+  description: "<p</p>"
+  subtype: keynote
+  speakers: [3,4]
+  language: en
+-
+  id: 004
   title: "Testing, Agile and DevOps - their roots and evolution"
   description: "<p>Testing has been around for a long time, but has changed a lot over the years. Agile and DevOps are “the new kids on the block” but are fast becoming mainstream. What are the roots of the changes and popularity of new approaches and how have they evolved over the years? What prophets were around years ago who foresaw current trends? In this presentation, Dorothy Graham leads you through some of her early experiences in testing and early encounters with precursors to Agile and DevOps. We look at why Agile has “taken off” and why DevOps is a hot topic today, and what the role of testing has been, is now and perhaps should be in the future.</p>"
   subtype: presentation 
   speakers: [1]
   language: en
 -
-  id: 004
+  id: 005
   title: "Introducing Selenium 4"
   description: "<p>Selenium 4 is coming! The team have been working hard since the last 3.x release to add new features and improve the experience of developing with Selenium. In this talk, we’ll walk through updating an existing java Selenium test suite and scaling it up to run on Grid 4 hosted in the cloud. Not only will you see how easy the upgrade will be, you’ll also discover the new features added in Selenium 4.</p>"
   subtype: presentation 
   speakers: [5]
   language: en
 -
-  id: 005
+  id: 006
   title: "Evil FizzBuzz"
   description: "<h5>Group workshop on Team Craft and Continuous Delivery</h5><p>You will work as part of a team to deliver a working program based on a popular coding exercise that, done alone, is very simple. But this exercise will be broken down into 5 individual requirements, and you will need to coordinate as a team - working individually or in pairs - to deliver the complete solution with each pair only allowed to code their part of the whole. You'll use version control and do Continuous Integration to pull the parts together, and - very importantly - YOU MUST NOT BREAK THE BUILD. In a time limit of one hour, 90% of teams who attempt Evil FizzBuzz fail. You'll have 1 hour to build your team, choose a technology stack, shave some yaks, agree on a design and implement it so that you can demonstrate a working program that passes a simple acceptance test to your 'customer'. You'll need more than Code Fu to master Evil FizzBuzz. Teams can be 5-10 people and a mix of individuals and pairs, depending on the size of the overall group.</p>"
   subtype: workshop 
   speakers: [6]
+  language: en
+-
+  id: 007
+  title: "Keynote - Sustaining Remote-First Teams"
+  description: "<p>Curious about how to build and sustain a ‘remote-first’ culture? At Tes we have more engineers working from home or travelling than sitting at a desk in our London office. Over the last few years we adapted our engineering practices to support small teams working in close collaboration over distance. This talk will cover how we organise cross-team initiatives to sustain this way of working.</p>"
+  subtype: keynote
+  speakers: [8]
+  language: en
+  
+-
+  id: 006
+  title: "TBC"
+  description: "<h5>Information to follow..</p>"
+  subtype: presentation 
+  speakers: [2,7]
   language: en
