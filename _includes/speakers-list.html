@@ -7,8 +7,10 @@
 							<h3>Speakers</h3>
 							<h4>More speakers will be added shortly..</h4>
 							<div style="padding-bottom:30px;"></div>
-							
-                {% for speaker in site.data.speakers sort: 'surname' %}
+              
+                            {% assign sorted = site.data.speakers | sort:"name" %}
+
+                {% for speaker in sorted %}
                 <div class="effect-wrapper appear-animation col-md-4 col-sm-6 col-xs-12">
                     <div class="lily-effect ribbon-activator">
                         <div class="lily-head" data-toggle="modal" data-target="#speakerDetail-{{ speaker.id }}">
