@@ -71,6 +71,13 @@
   subtype: presentation 
   speakers: [10]
   language: en
-  
-
-  
+-
+  id: 011
+  title: "It's not me, or you…it's both of us: why your messages aren't getting through"
+  description: "<p>How many times have you tried to explain something to your team…to only have blank faces stare back at you? Has someone asked you to do a task…but what you end up doing turns out to be not what they wanted? Is one team being effective…while another is lagging behind? Using social science models as our guide, we can see why teams can have problems communicating – especially in certain stages of a project's lifetime – and what we can do to address this.</p>
+  <p>We'll start by looking at the Shannon Weaver communication model (1949) and what it tells us about the different phases of successful communication. With this model we'll be able to address exactly where problems can be found between individuals, and how messages can be interpreted inaccurately or sometimes even lost all together. You'll find that the responsibility of effective communication relies on all participants, and not just those receiving the message. After identifying common problems, we'll discuss some potential solutions for you to try implementing with your own teams.</p>
+  <p>But is good communication enough in tough times? By looking at Tuckman's team development model (1965), we'll be able to evaluate why even the best communication practices can fail depending on what stage of development a team is currently in. But…we can do things to address this! We'll look at how communication methods will need to be adapted when teams face tough times, and how comparing the Tuckman and Shannon Weaver models together can better inform our understanding of each.</p>
+  <p>Attendees should come away with some insight in to what goes in to successful communication, the lifecycle that teams go through, and what methods can be used to address common problems we may find with these. Ultimately, an agile approach to both is what will ensure happy successful teams.</p>"
+  subtype: presentation 
+  speakers: [11]
+  language: en

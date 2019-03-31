@@ -121,3 +121,14 @@ Jason has worked with teams at the BBC, City Index, Electronic Arts, Higher Educ
   rockstar: true
   social: 
     - {name: "twitter", link: "http://twitter.com/michalinwales"}
+-
+  id: 11
+  name: "Sophie"
+  surname: "Hayden"
+  company: "Box UK"
+  title: ""
+  bio: "<p>Sophie is a business analyst, product owner and all round agile enthusiast. She has a background in software testing and HR, so quality and people are paramount in her approach to agile software delivery. Sophie is passionate about building fantastic teams, delivering value in solutions and trying all of the new things.</p>"
+  thumbnailUrl: SophieHayden.png
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "http://twitter.com/thesophiehayden"}
