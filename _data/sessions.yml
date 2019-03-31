@@ -1,14 +1,14 @@
-# -
-#   id: 001
-#   title: "Registration"
-#   description: "<p>Collect your attendee pass and goodie bag.</p>
-#   <p>Full range of Teas, Coffees, Herbal & Fruit Teas. Soft drinks, mineral water and orange juice and selection of muffins - free for attendees.</p>"
-# -
-#   id: 002
-#   title: "Welcome"
-#   description: "<p>Welcome to SwanseaCon 2019.</p>"
-#   subtype: presentation
-#   language: en
+-
+  id: 001
+  title: "Registration"
+  description: "<p>Collect your attendee pass and goodie bag.</p>
+  <p>Full range of Teas, Coffees, Herbal & Fruit Teas. Soft drinks, mineral water and orange juice and selection of muffins - free for attendees.</p>"
+-
+  id: 002
+  title: "Welcome"
+  description: "<p>Welcome to SwanseaCon 2019.</p>"
+  subtype: presentation
+  language: en
 -
   id: 003
   title: "Keynote"
@@ -44,11 +44,33 @@
   subtype: keynote
   speakers: [8]
   language: en
-  
 -
-  id: 006
+  id: 008
   title: "TBC"
-  description: "<h5>Information to follow..</p>"
+  description: "<p>Information to follow..</p>"
   subtype: presentation 
   speakers: [2,7]
   language: en
+-
+  id: 009
+  title: "Securing the web with AI"
+  description: "<p>In today’s web not a week goes by without a large data breach or a website being hacked. Unlawful access to our online information can be prevented by encryption, 2FA and IP detection, but often this isn’t enough. Additionally tools like 2FA can be difficult to configure or understand for the initiated, leaving many at a disadvantage - security should be a right, not a privilege.</p>
+  <p>This session explores some interesting and experimental ways that AI could be used to improve security and protect users on the web.</p>
+  <p>Using existing AI tools like Azure Cognitive Services we’ll look at ways facial or voice recognition could be used as part of 2FA to make security more accessible to end users, including code examples in .NET and JavaScript. Then we’ll investigate some simple methods to find patterns in user behaviour, such as login times and mouse behaviour, to detect anomalies and take action.</p>
+  <p>Finally, we’ll see how machine learning can be used to identify fraudulent text or photoshopped images within webpages and warn users of scams before it becomes an issue.</p>
+  <p>Code examples will be given in a mix of .NET and JavaScript.</p>"
+  subtype: presentation 
+  speakers: [9]
+  language: en
+-
+  id: 010
+  title: "The Good, the Bad and the Avoidable SQL Practicies"
+  description: "<p>Code quality matters!</p>
+  <p>You probably have worked with SQL queries before. What was the experience like? Have you ever looked at a piece of SQL and thought... G! that's ugly! Have you seen a query that worked just fine in development but annoyingly not in production, or it used to work for a while, but then started timing out without any change or a warning?</p>
+  <p>This session is for you! Let's take a hard look at SQL code quality. I will show you some ugly queries and teach you how to transform them into good, clean code, that not only looks right but also performs well.</p>"
+  subtype: presentation 
+  speakers: [10]
+  language: en
+  
+
+  

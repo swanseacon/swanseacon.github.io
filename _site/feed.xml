@@ -3,8 +3,8 @@
   <channel>
     <title>SwanseaCon 2019 - Agile Development &amp; Software Crafting conference</title>
     <description>SwanseaCon is a conference for people who build quality software as part of an agile team</description>
-    <link>http://swanseacon.github.io/</link>
-    <atom:link href="http://swanseacon.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>SwanseaCon 2019 - Call for speakers is now closed</title>
@@ -25,8 +25,8 @@
 Twitter: twitter.com/SwanseaCon&lt;/p&gt;
 </description>
         <pubDate>Sun, 17 Feb 2019 14:12:34 +0000</pubDate>
-        <link>http://swanseacon.github.io/blog/call-for-speakers-now-closed</link>
-        <guid isPermaLink="true">http://swanseacon.github.io/blog/call-for-speakers-now-closed</guid>
+        <link>http://localhost:4000/blog/call-for-speakers-now-closed</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/call-for-speakers-now-closed</guid>
       </item>
     
       <item>
@@ -199,8 +199,8 @@ Anything not listed above is not included. Please contact us about any specific 
 Twitter: twitter.com/SwanseaCon&lt;/p&gt;
 </description>
         <pubDate>Sun, 09 Dec 2018 14:12:34 +0000</pubDate>
-        <link>http://swanseacon.github.io/blog/call-for-speakers-now-open</link>
-        <guid isPermaLink="true">http://swanseacon.github.io/blog/call-for-speakers-now-open</guid>
+        <link>http://localhost:4000/blog/call-for-speakers-now-open</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/call-for-speakers-now-open</guid>
       </item>
     
       <item>
@@ -233,8 +233,8 @@ Twitter: twitter.com/SwanseaCon&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://www.swanseacon.co.uk/&quot;&gt;Pop over to say hello to Alcumus, our platinum sponsors at SwanseaCon 2018&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 14 Aug 2018 17:19:00 +0100</pubDate>
-        <link>http://swanseacon.github.io/blog/meet-the-sponsor-alcumus</link>
-        <guid isPermaLink="true">http://swanseacon.github.io/blog/meet-the-sponsor-alcumus</guid>
+        <link>http://localhost:4000/blog/meet-the-sponsor-alcumus</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/meet-the-sponsor-alcumus</guid>
       </item>
     
       <item>
@@ -272,8 +272,8 @@ Twitter: twitter.com/SwanseaCon&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://www.swanseacon.co.uk/&quot;&gt;Get your tickets today to see Stephen Mounsey and many others at SwanseaCon 2018&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 06 Aug 2018 17:19:00 +0100</pubDate>
-        <link>http://swanseacon.github.io/blog/meet-the-speakers-stephen-mounsey</link>
-        <guid isPermaLink="true">http://swanseacon.github.io/blog/meet-the-speakers-stephen-mounsey</guid>
+        <link>http://localhost:4000/blog/meet-the-speakers-stephen-mounsey</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/meet-the-speakers-stephen-mounsey</guid>
       </item>
     
       <item>
@@ -320,8 +320,8 @@ Twitter: twitter.com/SwanseaCon&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://www.swanseacon.co.uk/&quot;&gt;Get your tickets today to see Elisabeth Hocke and many others at SwanseaCon 2018&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 06 Aug 2018 17:19:00 +0100</pubDate>
-        <link>http://swanseacon.github.io/blog/meet-the-speakers-elisabeth-hocke</link>
-        <guid isPermaLink="true">http://swanseacon.github.io/blog/meet-the-speakers-elisabeth-hocke</guid>
+        <link>http://localhost:4000/blog/meet-the-speakers-elisabeth-hocke</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/meet-the-speakers-elisabeth-hocke</guid>
       </item>
     
       <item>
@@ -365,8 +365,8 @@ Twitter: twitter.com/SwanseaCon&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://www.swanseacon.co.uk/&quot;&gt;Get your tickets today to see Mashooq Badar and many others at SwanseaCon 2018&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 27 Jul 2018 17:19:00 +0100</pubDate>
-        <link>http://swanseacon.github.io/blog/meet-the-speakers-mashooq-badar</link>
-        <guid isPermaLink="true">http://swanseacon.github.io/blog/meet-the-speakers-mashooq-badar</guid>
+        <link>http://localhost:4000/blog/meet-the-speakers-mashooq-badar</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/meet-the-speakers-mashooq-badar</guid>
       </item>
     
       <item>
@@ -416,8 +416,8 @@ Twitter: twitter.com/SwanseaCon&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://www.swanseacon.co.uk/&quot;&gt;Get your tickets today to see Chris Cundill and many others at SwanseaCon 2018&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 26 Jul 2018 17:19:00 +0100</pubDate>
-        <link>http://swanseacon.github.io/blog/meet-the-speakers-chris-cundill</link>
-        <guid isPermaLink="true">http://swanseacon.github.io/blog/meet-the-speakers-chris-cundill</guid>
+        <link>http://localhost:4000/blog/meet-the-speakers-chris-cundill</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/meet-the-speakers-chris-cundill</guid>
       </item>
     
       <item>
@@ -463,8 +463,8 @@ Twitter: twitter.com/SwanseaCon&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://www.swanseacon.co.uk/&quot;&gt;Get your tickets today to see Seb Rose and many others at SwanseaCon 2018&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 25 Jul 2018 17:19:00 +0100</pubDate>
-        <link>http://swanseacon.github.io/blog/meet-the-speakers-seb-rose</link>
-        <guid isPermaLink="true">http://swanseacon.github.io/blog/meet-the-speakers-seb-rose</guid>
+        <link>http://localhost:4000/blog/meet-the-speakers-seb-rose</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/meet-the-speakers-seb-rose</guid>
       </item>
     
       <item>
@@ -517,8 +517,8 @@ always looking to pick up new things.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://www.swanseacon.co.uk/&quot;&gt;Get your tickets today to see Oliver Gibson, Monira Rhaimi and many others at SwanseaCon 2018&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 24 Jul 2018 17:19:00 +0100</pubDate>
-        <link>http://swanseacon.github.io/blog/meet-the-speakers-oliver-gibson-and-monira-rhaimi</link>
-        <guid isPermaLink="true">http://swanseacon.github.io/blog/meet-the-speakers-oliver-gibson-and-monira-rhaimi</guid>
+        <link>http://localhost:4000/blog/meet-the-speakers-oliver-gibson-and-monira-rhaimi</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/meet-the-speakers-oliver-gibson-and-monira-rhaimi</guid>
       </item>
     
       <item>
@@ -562,8 +562,8 @@ always looking to pick up new things.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://www.swanseacon.co.uk/&quot;&gt;Get your tickets today to see Matt Fortunka and many others at SwanseaCon 2018&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 23 Jul 2018 17:19:00 +0100</pubDate>
-        <link>http://swanseacon.github.io/blog/meet-the-speaker-matt-fortunka</link>
-        <guid isPermaLink="true">http://swanseacon.github.io/blog/meet-the-speaker-matt-fortunka</guid>
+        <link>http://localhost:4000/blog/meet-the-speaker-matt-fortunka</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/meet-the-speaker-matt-fortunka</guid>
       </item>
     
   </channel>

@@ -97,3 +97,27 @@ Jason has worked with teams at the BBC, City Index, Electronic Arts, Higher Educ
   rockstar: true
   social: 
     - {name: "twitter", link: "http://twitter.com/rachelcdavies"}
+-
+  id: 9
+  name: "Callum"
+  surname: "Whyte"
+  company: "Bump Digital"
+  title: ""
+  bio: "<p>Callum is a lead developer who's expertise lies in building robust scalable microservice and serverless systems on the .NET stack, as well as Xamarin mobile apps and websites with the Umbraco CMS.</p>
+  <p>Away from his desk you can find him organising community events; from local meetups and hackathons to the annual 300 person Umbraco UK Festival conference. He’s an active contributor to open source projects, as well as co-host of a weekly YouTube series “UmbraCoffee” and a regular speaker at events all over the world!</p>"
+  thumbnailUrl: CallumWhyte.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "http://twitter.com/callumbwhyte"}
+-
+  id: 10
+  name: "Michal"
+  surname: "Poreba"
+  company: "Vizolution"
+  title: ""
+  bio: "<p>Michał Poręba is a sort of a DBA who spends more of his time writing C#, PowerShell, JavaScript or even Ruby code than he does writing SQL queries. Server administration can and should be automated, performance is best addressed by good system design and implementation, and working with teams of developers is simply a much more fun way of spending time in an office than looking at Management Studio.</p>
+  <p>He lives in Wales where he currently works as a Senior SQL Server DBA at Vizolution in Swansea. In his free time, he speaks obscure languages, plays music with code or dives in local caves trying to find places no human has ever been to before. An intermittent blogger at https://dbain.wales, and a once-in-a-while contributor to a few OSS projects.</p>"
+  thumbnailUrl: MichalPoreba.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "http://twitter.com/michalinwales"}
