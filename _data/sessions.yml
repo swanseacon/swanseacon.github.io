@@ -2,7 +2,8 @@
   id: 001
   title: "Registration"
   description: "<p>Collect your attendee pass and goodie bag.</p>
-  <p>Full range of Teas, Coffees, Herbal & Fruit Teas. Soft drinks, mineral water and orange juice and selection of muffins - free for attendees.</p>"
+  <p>Full range of Teas, Coffees, Herbal & Fruit Teas. Soft drinks, mineral water and orange juice - free for attendees.</p>"
+  language: en
 -
   id: 002
   title: "Welcome"
@@ -49,7 +50,7 @@
   title: "TBC"
   description: "<p>Information to follow..</p>"
   subtype: presentation 
-  speakers: [2,7]
+  speakers: [7]
   language: en
 -
   id: 009
@@ -152,4 +153,26 @@
   <p>Note: if you're bringing a Windows machine, please double-check the Docker installation requirements here to make sure you'll be able to get Docker running: https://docs.docker.com/docker-for-windows/install/. Older versions of Windows aren't ideal so if in doubt, and if you're comfortable running a Linux virtual machine or using a cloud machine instance, then you'll still be able to do the workshop. I'll recommend you go with Ubuntu because I'm most familiar with it for installing Docker so it'll make it easiest to support you.</p>"
   subtype: workshop 
   speakers: [22]
+  language: en
+-
+  id: 021
+  title: "TBC"
+  description: "<p>Information to follow..</p>"
+  subtype: presentation 
+  speakers: [2]
+  language: en
+-
+  id: 100
+  title: "Break"
+  description: "<p>Full range of Teas, Coffees, Herbal & Fruit Teas. Soft drinks, mineral water and orange juice - free for attendees.</p>"
+  language: en
+-
+  id: 101
+  title: "Lunch"
+  description: "<p>Lunch in the restaurant - hot finger buffet.</p>"
+  language: en
+-
+  id: 102
+  title: "Close"
+  description: "<p>Closing of SwanseaCon</p>"
   language: en
