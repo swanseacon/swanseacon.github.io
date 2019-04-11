@@ -169,7 +169,8 @@
 -
   id: 101
   title: "Lunch"
-  description: "<p>Lunch in the restaurant - hot finger buffet.</p>"
+  description: "<p>Lunch in the restaurant - hot finger buffet.</p>
+  <p>In Room One there will also be lightning talks between 13:00-14:00</p>"
   language: en
 -
   id: 102
