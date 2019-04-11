@@ -81,3 +81,24 @@
   subtype: presentation 
   speakers: [11]
   language: en
+-
+  id: 012
+  title: "There’s an Imposter in this room!"
+  description: "<p>Do you ever feel like you’re not as talented or as successful as others? Do you feel that you have tricked others into believing that you are more capable or knowledgeable than you are? I’m here to tell you that you’re not alone in these feelings, that you are highly successful person who is impacted by Imposter Syndrome. Using my own experiences, I will be helping you take off your Imposter mask and break out of the Imposter syndrome cycle.</p>"
+  subtype: presentation 
+  speakers: [12]
+  language: en
+-
+  id: 013
+  title: "Embracing Change: From Tester to Quality Coach"
+  description: "<p>Even today, there exist development teams in which the whole burden of product quality falls on testers' shoulders. This can cause from delays of deliveries to fights within the team about severe bugs deployed to production. By converting a tester into a quality coach, the quality load can be distributed, helping everybody in the team work better.</p>"
+  subtype: presentation 
+  speakers: [13]
+  language: en
+-
+  id: 014
+  title: "NoSQL + SQL = MySQL"
+  description: "<p>Learn how to use a modern API to control your database. The simplified CRUD interface in MySQL offers easy development but still offers full functionality in reporting. This will also bridge the gap to powerful reporting in NoSQL use cases. We will discuss example code to access relational and NoSQL data via CRUD interface. See the power of combining the best of both worlds.</p>"
+  subtype: presentation 
+  speakers: [14]
+  language: en

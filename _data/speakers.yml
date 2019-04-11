@@ -132,3 +132,35 @@ Jason has worked with teams at the BBC, City Index, Electronic Arts, Higher Educ
   rockstar: true
   social: 
     - {name: "twitter", link: "http://twitter.com/thesophiehayden"}
+-
+  id: 12
+  name: "Angharad"
+  surname: "Edwards"
+  company: "Aviva"
+  title: ""
+  bio: "<p>Currently working as a Scrum Master in the Agile transformation team in Bristol, Angharad injects a holistic approach into her role by also ensuring a focus on team wellbeing. She started her career teaching Philosophy at the University of Nottingham after obtaining a BSc and MA in Philosophy and Free Will. As a tutor, she used media and hands on activities to engage her students. Angharad has also worked in training and leadership positions for Lush, Santa’s Grotto, and LEGO before moving to Aviva. With this wide range of experience, she brings her caring nature and fun flair into the Agile community.</p>"
+  thumbnailUrl: AngharadEdwards.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "http://twitter.com/Agile_AJ"}
+-
+  id: 13
+  name: "Areti"
+  surname: "Panou"
+  company: "SAP SE"
+  title: ""
+  bio: "<p>A mathematician by vocation, a software tester by profession, I am now working as a cloud quality coach, helping development teams within SAP come up with cloud test strategies that best fit their needs. Before that, I was the sole tester in one of the first products at SAP, to put a full Continuous Delivery approach into action and the first one in SAP history to daily deliver to its customers.</p>
+  <p>I’ve recently started blogging about the questions that occupy my mind regarding testing, software development and quality at https://unremarkabletester.wordpress.com.</p>"
+  thumbnailUrl: AretiPanou.png
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "http://twitter.com/unremarkableQA"}
+-
+  id: 14
+  name: "Mario"
+  surname: "Beck"
+  company: "MySQL"
+  title: ""
+  bio: "<p>Mario is managing the sales consulting team of MySQL in EMEA. The team is focused on helping customers to develop MySQL applications, and to improve high availability and scalability of their MySQL deployments. This includes educating and consulting customers on the optimal usage of tools, processes and new features to increase professionalism of MySQL operations. Prior to joining MySQL Mario was a system engineer in Sun Microsystems' hardware business unit. During that time he also worked on topics like IT operations, high availability and TCO analyses. Mario graduated from Technical University of Berlin in Computer Science.</p>"
+  thumbnailUrl: MarioBeck.jpg
+  rockstar: true
