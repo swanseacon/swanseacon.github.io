@@ -136,3 +136,10 @@
   subtype: workshop 
   speakers: [18,19]
   language: en
+-
+  id: 019
+  title: "Re-designing a service for vulnerable users in a digital age"
+  description: "<p>Healthy Start is a Government scheme that helps eligible families on low incomes to eat healthily, by providing vouchers to buy vegetables, fruit, milk and infant formula. A small team is redesigning the service from the ground up by digitising the service and changing policy, legislation, operations and how the service interacts with multiple stakeholders. Our talk will cover how we are designing for the unique needs of our (often extremely vulnerable) users, as well as those of retailers.</p>"
+  subtype: presentation 
+  speakers: [20,21]
+  language: en

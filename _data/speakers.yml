@@ -223,3 +223,24 @@ Jason has worked with teams at the BBC, City Index, Electronic Arts, Higher Educ
   rockstar: true
   social: 
     - {name: "twitter", link: "http://twitter.com/geeky_jazzy"}
+-
+  id: 20
+  name: "Suzanne"
+  surname: "How"
+  company: "Department of Health and Social Care"
+  title: ""
+  bio: "<p>Suzanne How has worked for the Department of Health and Social Care for nearly 10 years in a variety of roles. In the last couple of years she has been working in the policy team on the Healthy Start Service. As part of Government's 'digital by default' agenda, the service is being digitised in a number of ways to make it more flexible and convenient for its users - many of which are vulnerable. Suzanne is the Product Owner for the 'help to buy healthy foods' beta project.</p>"
+  thumbnailUrl: lady.png
+  rockstar: true
+-
+  id: 21
+  name: "Andy"
+  surname: "Kemp"
+  company: "Equal Experts"
+  title: ""
+  bio: "<p>Andy has been working in agile and product driven environments over a decade, mostly as a consultant.</p>
+  <p>Currently a Partner at Equal Experts, focussed on Product Management, Engagement Management and Social Impact work. He likes to spend most of his time in South Wales and the South West of England.</p>"
+  thumbnailUrl: AndyKemp.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "http://twitter.com/kyndainverse"}
