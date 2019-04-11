@@ -244,3 +244,14 @@ Jason has worked with teams at the BBC, City Index, Electronic Arts, Higher Educ
   rockstar: true
   social: 
     - {name: "twitter", link: "http://twitter.com/kyndainverse"}
+-
+  id: 22
+  name: "Dave"
+  surname: "Carboni"
+  company: "Notbinary"
+  title: ""
+  bio: "<p>David 'Carbs' Carboni is Chief Technology Officer at Notbinary, a technology and digital transformation consultancy. As a hands-on technologist, he prefers to be known as Head Geek and believes in building teams based on good culture as well as practical skills. David's background is in Java and more recently Python and Go, designing and building systems with microservices, containers and functions with AWS and Google Cloud for the likes of National Rail Enquiries, The Office for National Statistics and the BBC. David coaches, advises on and blogs about technology, culture and organisation transformation, highlighting the links between human connection, decentralised design, high-performing teams, organisation success and the impact of a positive working environment on people and communities. David loves good food, coffee, cake and debating and continuously learning about sustainable systems design. He also built his own full-size retro arcade machine.</p>"
+  thumbnailUrl: DaveCarboni.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "http://twitter.com/davidcarboni"}

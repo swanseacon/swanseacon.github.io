@@ -143,3 +143,13 @@
   subtype: presentation 
   speakers: [20,21]
   language: en
+-
+  id: 020
+  title: "Introduction to Containers In Practice"
+  description: "<p>Bring a laptop and step into a guided tour of what containers are and how to use them in practice. No buzzwords or vague statements about accelerating delivery, just straight-up information and hands-on experience.</p>
+  <p>You'll get to build and run containers for yourself. We'll start by installing Docker and I'll aim to get you to the point where you're running your own multi-container application. No previous container experience is needed, but you'll need to be comfortable using a command-line and have a general understanding of networking concepts like ports and web servers.</p>
+  <p>If you're interested in technologies like Kubernetes, container scheduling and Gitops, the aim of this workshop is to get you from a clean slate to a declarative, multi-container application, understanding the concepts involved and setting you up to go on and explore. We won't attempt to get Kubernetes running in this workshop because of time constraints, but I'm happy to talk about my experience of using it.</p>
+  <p>Note: if you're bringing a Windows machine, please double-check the Docker installation requirements here to make sure you'll be able to get Docker running: https://docs.docker.com/docker-for-windows/install/. Older versions of Windows aren't ideal so if in doubt, and if you're comfortable running a Linux virtual machine or using a cloud machine instance, then you'll still be able to do the workshop. I'll recommend you go with Ubuntu because I'm most familiar with it for installing Docker so it'll make it easiest to support you.</p>"
+  subtype: workshop 
+  speakers: [22]
+  language: en
