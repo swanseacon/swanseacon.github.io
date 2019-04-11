@@ -6,6 +6,7 @@
   group: "Gold"
   elements: 
     - {name: "Equal Experts", description: "Equal Experts, Making Software. Better.", link: "http://www.equalexperts.com/", imageUrl: "equal-experts.png"}
+    - {name: "MySQL", description: "The world's most popular open source database", link: "http://www.mysql.com/", imageUrl: "mysql.png", width: "170px"} 
     - {name: "Become a Sponsor", description: "Find out more", link: "http://www.swanseacon.co.uk/sponsorship", imageUrl: "enquire.png"} 
 - 
   group: "Silver"
