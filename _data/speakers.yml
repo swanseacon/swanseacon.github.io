@@ -164,3 +164,62 @@ Jason has worked with teams at the BBC, City Index, Electronic Arts, Higher Educ
   bio: "<p>Mario is managing the sales consulting team of MySQL in EMEA. The team is focused on helping customers to develop MySQL applications, and to improve high availability and scalability of their MySQL deployments. This includes educating and consulting customers on the optimal usage of tools, processes and new features to increase professionalism of MySQL operations. Prior to joining MySQL Mario was a system engineer in Sun Microsystems' hardware business unit. During that time he also worked on topics like IT operations, high availability and TCO analyses. Mario graduated from Technical University of Berlin in Computer Science.</p>"
   thumbnailUrl: MarioBeck.jpg
   rockstar: true
+-
+  id: 15
+  name: "Joseph"
+  surname: "Woodward"
+  company: "Just Eat"
+  title: ""
+  bio: "<p>Joseph Woodward is a Senior Software Engineer at Just Eat, organiser of .NET South West, co-organiser of the DDD South West developers' conference and open-source contributor. Over the years  Joseph has developed a keen interested in distributed systems and resiliency engineering.</p>"
+  thumbnailUrl: JosephWoodward.jpeg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "http://twitter.com/joe_mighty"}
+-
+  id: 16
+  name: "Andy"
+  surname: "Hiles"
+  company: "Professional Scrum Trainer with Scrum.org"
+  title: ""
+  bio: "<p>Andy is a highly experienced agile practitioner, Scrum coach and Professional Scrum Trainer.</p>
+  <p>Over his years of woking in both the private and public sector, he has developed a deep understanding of the challenges around organisational complexity and the impact on delivery teams and behaviour.</p>
+  <p>A firm believer that great teams build great products, Andy strives for success and in doing so displays his experience and passion for agile in every engagement.</p>"
+  thumbnailUrl: AndyHiles.jpg
+  rockstar: true
+  rockstar: true
+-
+  id: 17
+  name: "Sean"
+  surname: "Robinson"
+  company: "DevOps Group"
+  title: ""
+  bio: "<p>Having worked as an engineer, Scrum Master and Product Owner, I now consult on Agile adoption and digital strategy on behalf of DevOps Group.</p>
+  <p>I have a passion for systems thinking, queuing theory, theory of constraints, lean leadership and modern motivational theory; plus anything else that tells me why we do what we do. I love developing process and strategy, but nowhere near as much as i like working with people to help them develop themselves. As a coach, my primary passion will always be for helping people.</p>"
+  thumbnailUrl: SeanRobinson.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "http://twitter.com/seantrobinson"}
+-
+  id: 18
+  name: "Marit"
+  surname: "van Dijk"
+  company: "bol.com"
+  title: ""
+  bio: "<p>IT professional with over 15 years of experience in software development in different roles and companies. Loves building awesome software with amazing people, and is an open source contributor to Cucumber. Enjoys learning new things, as well as sharing knowledge on software engineering, Cucumber/BDD and test automation.</p>"
+  thumbnailUrl: MaritVanDijk.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "http://twitter.com/MaritvanDijk77"}
+-
+  id: 19
+  name: "Jasmine"
+  surname: "Vyas"
+  company: "Roamler"
+  title: ""
+  bio: "<p>Jasmine is a Sr. QA Engineer and rookie Scrum Master at Roamler. An Exploratory Tester with a bubbly personality and a pro at rubber ducking and cross-cultural cognition, she loves causing controlled oopsies.</p>
+  <p>Her interests are Test Engineering, Software Testing, Agile and Scrum. She has been using her QA superpowers to test and validate high performance software and hardware in audio, fintech and wireless communication sectors.</p>
+  <p>Residing in Amsterdam, Jasmine identifies with being a nerd, polyglot, and loves bad puns, reading fiction, writing, Star Wars, Dr. Who, My Little Pony: Friendship is Magic and technology.</p>"
+  thumbnailUrl: JasmineVyas.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "http://twitter.com/geeky_jazzy"}

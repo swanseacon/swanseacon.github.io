@@ -102,3 +102,37 @@
   subtype: presentation 
   speakers: [14]
   language: en
+-
+  id: 015
+  title: "Improving System Resiliency via Chaos Engineering"
+  description: "<p>Advances in Cloud technology means systems are becoming increasingly more distributed and complex. Large monoliths are being split up into microservices, we're depending on more remote services and Functions as a Service (FaaS)/Serverless are becoming increasingly common. The very nature of distributed systems mean they're far more prone to failures than similarly-scoped monoliths; this makes predicting or preventing possible failure modes increasingly more difficult.</p>
+  <p>In this talk we'll look at how we can harness Chaos Engineering, a discipline pioneered by Netflix, to better understand our systems, their failure modes and how we can use this information to improve system overall resiliency and reliability.</p>"
+  subtype: presentation 
+  speakers: [15]
+  language: en
+-
+  id: 016
+  title: "What's the point?"
+  description: "<p>Information to follow.</p>"
+  subtype: presentation 
+  speakers: [16]
+  language: en
+-
+  id: 017
+  title: "Valuable Retrospectives"
+  description: "<p>We often curse meetings, poorly designed or facilitated retrospectives seem to simply drain people's energy without delivering any meaningful output.</p>
+  <p>This workshop will explore what makes a great retrospective, furnish you with the beginnings of a great toolbox, and take everyone through a full retrospective delivered over the course of the talk.</p>
+  <p>As a group, we'll explore the flow of retrospectives, highlighting and using useful tools that can be used in different parts of the process.  This won't be exhaustive, but everyone should leave with a few extra things in their box.</p>
+  <p>While there will be slides, everyone will form themselves into groups, and will then actively participate in a full-scale retrospective example, where we will explore our relationship with meetings at our place of work.  The aim is to deliver a fully interactive workshop, where everyone learns about the subject by actually doing it.  The activities are carefully spaced over the talk and immediately follow the relevant learning sections.</p>
+  <p>While this talk will furnish everyone with a few example structures, the main purpose is to teach how to structure your own.  Everyone should leave with the ability to build their own retrospectives from scratch, pulling in influence from what's happening within the team at that time.</p>"
+  subtype: workshop 
+  speakers: [17]
+  language: en
+-
+  id: 018
+  title: "A software quality mission"
+  description: "<p>"Software Quality means different things to different people in different contexts[1]. In this workshop we would like to explore these different meanings of software quality. We would like the participants to share their perspectives with each other and, from those, build a shared mission statement for software quality.</p>
+  <p>We will introduce techniques to get to a shared mission statement. The techniques we will be using are based on the process[2] that Cucumber Ltd. went through to create their company mission statement.</p>"
+  subtype: workshop 
+  speakers: [18,19]
+  language: en
