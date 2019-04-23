@@ -131,7 +131,7 @@
   language: en
 -
   id: 018
-  title: "A software quality mission"
+  title: "Building a software quality mission statement"
   description: "<p>Software Quality means different things to different people in different contexts[1]. In this workshop we would like to explore these different meanings of software quality. We would like the participants to share their perspectives with each other and, from those, build a shared mission statement for software quality.</p>
   <p>We will introduce techniques to get to a shared mission statement. The techniques we will be using are based on the process[2] that Cucumber Ltd. went through to create their company mission statement.</p>"
   subtype: workshop 
