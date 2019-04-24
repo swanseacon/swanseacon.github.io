@@ -47,8 +47,11 @@
   language: en
 -
   id: 008
-  title: "TBC"
-  description: "<p>Information to follow..</p>"
+  title: "Quality not Quantity - Getting value out of test automation"
+  description: "<p>Test automation is becoming more and more popular as part of a software testing strategy. However, there is a danger of using test automation incorrectly. If the wrong tests are automated, then the time and resource spent developing these tests is wasted and very little value is gained. If the right tests are automated, then the value gained from test automation can exceed the cost of developing the test. </p>
+  <p>But how do we decide which tests are best to automate?</p>
+  <p>In this talk, I will show how I try to get the most value out of automated testing by identifying problems with the current test strategy. Tests which are most likely to solve this problem are the ones chosen for automation. </p>
+  <p>Following this, I will suggest various metrics that could be used to demonstrate the value and progress that has been gained from the introduction of automated tests. Demonstrating value is important as support for test automation development will be lost unless there is proven value.</p>"
   subtype: presentation 
   speakers: [7]
   language: en
@@ -160,6 +163,13 @@
   description: "<p>Information to follow..</p>"
   subtype: presentation 
   speakers: [2]
+  language: en
+-
+  id: 022
+  title: "TBC"
+  description: "<p>Information to follow..</p>"
+  subtype: presentation 
+  speakers: [23]
   language: en
 -
   id: 100

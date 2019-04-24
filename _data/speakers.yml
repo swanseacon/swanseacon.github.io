@@ -79,12 +79,12 @@ Jason has worked with teams at the BBC, City Index, Electronic Arts, Higher Educ
     - {name: "twitter", link: "http://twitter.com/shs96c"}
 -
   id: 7
-  name: "TBC"
-  surname: ""
-  company: ""
+  name: "Louise"
+  surname: "Gibbs"
+  company: "Malvern Panalytical"
   title: ""
-  bio: "<p>The call for speakers is now closed. Watch this space!</p>"
-  thumbnailUrl: person.png
+  bio: "<p>I am a Software Test Engineer at Malvern Panalytical where we develop scientific instruments for a variety of industries, most notably pharmaceuticals. I am involved in testing the software used to carry out automated particle imaging and Raman spectroscopy to identify particles in a mixed sample. I graduated from Bangor University in 2013 with a degree in Computer Science for Business. My first job after university was as a software tester for Loyalty Logistix, a company that produced Web, Mobile and Desktop applications that allowed members of the Automotive industry to run Loyalty schemes for customers.</p>"
+  thumbnailUrl: LouiseGibbs.JPG
   rockstar: true
 -
   id: 8
@@ -255,3 +255,12 @@ Jason has worked with teams at the BBC, City Index, Electronic Arts, Higher Educ
   rockstar: true
   social: 
     - {name: "twitter", link: "http://twitter.com/davidcarboni"}
+-
+  id: 23
+  name: "TBC"
+  surname: ""
+  company: ""
+  title: ""
+  bio: "<p></p>"
+  thumbnailUrl: person.png
+  rockstar: true
