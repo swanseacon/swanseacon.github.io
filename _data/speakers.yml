@@ -157,12 +157,13 @@ Jason has worked with teams at the BBC, City Index, Electronic Arts, Higher Educ
     - {name: "twitter", link: "http://twitter.com/unremarkableQA"}
 -
   id: 14
-  name: "Mario"
-  surname: "Beck"
+  name: "Stuart"
+  surname: "Davey"
   company: "MySQL"
   title: ""
-  bio: "<p>Mario is managing the sales consulting team of MySQL in EMEA. The team is focused on helping customers to develop MySQL applications, and to improve high availability and scalability of their MySQL deployments. This includes educating and consulting customers on the optimal usage of tools, processes and new features to increase professionalism of MySQL operations. Prior to joining MySQL Mario was a system engineer in Sun Microsystems' hardware business unit. During that time he also worked on topics like IT operations, high availability and TCO analyses. Mario graduated from Technical University of Berlin in Computer Science.</p>"
-  thumbnailUrl: MarioBeck.jpg
+  bio: "<p>Stuart is a member of the sales consulting team of MySQL in EMEA with particular responsibility for the UK&I. He is focussed both on helping customers to develop MySQL applications and improving the availability, performance and scalability of their MySQL deployments. This includes educating and consulting with customers on the optimal usage of tools, processes and new features to increase professionalism of MySQL operations. Prior to joining MySQL, Stuart worked as an Architect for Fujitsu UK on many high-profile projects for central government. Before Fujitsu, he worked as a Systems Engineer for Sun Microsystems where his various roles included: Java consultancy; performance tuning of large-scale databases, and Sun/SPARC virtualisation. Going further back, Stuart worked for Motorola developing firmware and software for GSM infrastructure.</p>
+  <p>Stuart graduated from the University of Sunderland in 1995 with a first class BSc (hons) degree in Information Technology.</p>"
+  thumbnailUrl: StuartDavey.png
   rockstar: true
 -
   id: 15
