@@ -178,14 +178,12 @@ Jason has worked with teams at the BBC, City Index, Electronic Arts, Higher Educ
     - {name: "twitter", link: "http://twitter.com/joe_mighty"}
 -
   id: 16
-  name: "Andy"
-  surname: "Hiles"
-  company: "Professional Scrum Trainer with Scrum.org"
+  name: "TBC"
+  surname: ""
+  company: ""
   title: ""
-  bio: "<p>Andy is a highly experienced agile practitioner, Scrum coach and Professional Scrum Trainer.</p>
-  <p>Over his years of woking in both the private and public sector, he has developed a deep understanding of the challenges around organisational complexity and the impact on delivery teams and behaviour.</p>
-  <p>A firm believer that great teams build great products, Andy strives for success and in doing so displays his experience and passion for agile in every engagement.</p>"
-  thumbnailUrl: AndyHiles.jpg
+  bio: "<p></p>"
+  thumbnailUrl: person.png
   rockstar: true
   rockstar: true
 -
