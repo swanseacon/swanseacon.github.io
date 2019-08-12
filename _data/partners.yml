@@ -12,10 +12,12 @@
   group: "Silver"
   elements: 
     - {name: "Nagra", description: "Leading Provider of Pay-TV Solutions", link: "http://www.nagra.com/dtv/", imageUrl: "NAGRA.PNG"}
+    - {name: "Vizolution", description: "vScreen from Vizolution  is an innovative screen sharing technology", link: "http://www.vizolution.co.uk/", imageUrl: "vizolution.png", width: "270px"}
     - {name: "Become a Sponsor", description: "Find out more", link: "http://www.swanseacon.co.uk/sponsorship", imageUrl: "enquire.png"} 
 - 
   group: "Bronze"
   elements: 
+    - {name: "Twilio", description: "Twilio - Communication APIs for SMS, Voice, Video and Authentication", link: "https://www.twilio.com", imageUrl: "twilio.png", width: "270px"}
     - {name: "Become a Sponsor", description: "Find out more", link: "http://www.swanseacon.co.uk/sponsorship", imageUrl: "enquire.png"} 
 - 
   group: "Exhibitors"
@@ -23,6 +25,7 @@
     - {name: "Equal Experts", description: "Equal Experts, Making Software. Better.", link: "http://www.equalexperts.com/", imageUrl: "equal-experts.png"}
     - {name: "MySQL", description: "The world's most popular open source database", link: "http://www.mysql.com/", imageUrl: "mysql.png", width: "170px"} 
     - {name: "Nagra", description: "Leading Provider of Pay-TV Solutions", link: "http://www.nagra.com/dtv/", imageUrl: "NAGRA.PNG"}
+    - {name: "Vizolution", description: "vScreen from Vizolution  is an innovative screen sharing technology", link: "http://www.vizolution.co.uk/", imageUrl: "vizolution.png", width: "270px"}
     - {name: "Become an Exhibitor", description: "Find out more", link: "http://www.swanseacon.co.uk/sponsorship", imageUrl: "enquire.png"} 
 - 
   group: "Media Partners"
@@ -37,3 +40,8 @@
     - {name: "Rubber Duck Consulting", description: "Rubber Duck Consulting Ltd", link: "#", imageUrl: "rdc.jpg"}
     - {name: "SpeakEasy", description: "Increasing Diversity at Testing Conferences", link: "https://speaking-easy.com/", imageUrl: "SpeakEasy.png"}
     - {name: "nCrafts.io", description: "NEWCRAFTS CONFERENCES Paris", link: "http://ncrafts.io", imageUrl: "oxiane_partenaire_formation_ncrafts2016-e1456319240424.png", width: "190px"}
+- 
+  group: "Awesome Employers list"
+  elements: 
+    - {name: "DVLA", description: "Driver & Vehicle Licensing Agency", link: "https://www.gov.uk/government/organisations/driver-and-vehicle-licensing-agency", imageUrl: "dvla.jpg"}
+    - {name: "Vizolution", description: "vScreen from Vizolution  is an innovative screen sharing technology", link: "http://www.vizolution.co.uk/", imageUrl: "vizolution.png", width: "270px"}
