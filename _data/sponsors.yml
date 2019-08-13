@@ -15,6 +15,13 @@
   thumbnailUrl: mysql.png
   website: "http://www.mysql.com/" 
  - 
+  id: 9
+  company: "Office for National Statistics"
+  description: "<h5>The UK's largest independent producer of official statistics and the recognised national statistical institute of the UK.</h5>
+  <p>We are the UK’s largest independent producer of official statistics and its recognised national statistical institute. We are responsible for collecting and publishing statistics related to the economy, population and society at national, regional and local levels. We also conduct the census in England and Wales every 10 years.</p>"
+  thumbnailUrl: ons.jpg
+  website: "https://www.ons.gov.uk/"
+ - 
   id: 8
   company: "Nagra"
   description: "<h5>Leading Provider of Pay-TV Solutions</h5>
@@ -24,6 +31,33 @@
  <p>If you’d like to join us and be a part of our success, please upload your latest CV and a brief explanation of why you’d like to join our team at http://careers.nagra.com</p>"
   thumbnailUrl: NAGRA.PNG
   website: "http://www.nagra.com/dtv/"
+ - 
+  id: 10
+  company: "Vizolution"
+  description: "<h5>vScreen from Vizolution  is an innovative screen sharing technology</h5>
+  <p>Vizolution is a multi-award-winning UK based software provider backed by a leading European venture capital firm, Notion Capital, and Finance Wales. Vizolution has offices in London, Bristol and Swansea.</p>
+  <p>Vizolution is the provider of vScreen, a market leading screen sharing technology that allows a presenter to remotely and securely share visual information with a customer on a real time basis during a call.</p>"
+  thumbnailUrl: vizolution.jpg
+  website: "http://www.vizolution.co.uk/"
+ - 
+  id: 11
+  company: "Twilio"
+  description: "<h5>Twilio - Communication APIs for SMS, Voice, Video and Authentication</h5>
+  <p>Millions of developers around the world have used Twilio to unlock the magic of communications to improve any human experience.</p>
+  <p>Twilio has democratized communications channels like voice, text, chat, video, and email by virtualizing the world’s communications infrastructure through APIs that are simple enough for any developer to use, yet robust enough to power the world’s most demanding applications.</p>
+  <p>By making communications a part of every software developer’s toolkit, Twilio is enabling innovators across every industry — from emerging leaders to the world’s largest organizations — to reinvent how companies engage with their customers.</p>"
+  thumbnailUrl: twilio.png
+  website: "https://www.twilio.com"
+ - 
+  id: 11
+  company: "Fantom Factory"
+  description: "<h5>Full stack development advice</h5>
+  <p>Based in the UK, Fantom Factory Ltd is owned by Steve and Emma Eynon. We are a company dedicated to providing excellent training and consultancy for Fantom, Axon, and Project Haystack technologies.</p>
+  <p>Steve has an extensive background in full stack development, and in more recent years has become well known for his good looks, enthusiasm, and expertise in the Fantom programming language.</p>
+  <p>Emma has a wealth of experience in knowledge management and technical support. As a qualified group trainer she enforces a good standard of learning for all audience types, including non-developers.</p>
+  <p>Previous happy customers include SkyFoundry, Altura Associates, Anka Labs, BAM Group, BASSG, BuildingFit, Infinity Monitoring, Group 14, Rubysoft, and Strukton Worksphere.</p>"
+  thumbnailUrl: fantom-factory.png
+  website: "http://fantomfactory.com/"
  - 
   id: 1
   company: "Swansea Software Development Community"
