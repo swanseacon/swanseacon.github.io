@@ -1,6 +1,7 @@
 - 
   group: "Gold"
   elements: 
+    - {name: "Rubber Duck Consulting", description: "Rubber Duck Consulting Ltd", link: "http://rubberduckconsulting.co.uk/", imageUrl: "rdc.jpg"}
     - {name: "Equal Experts", description: "Equal Experts, Making Software. Better.", link: "http://www.equalexperts.com/", imageUrl: "equal-experts.png"}
     - {name: "MySQL", description: "The world's most popular open source database", link: "http://www.mysql.com/", imageUrl: "mysql.png", width: "170px"} 
     - {name: "Office for National Statistics", description: "The UK's largest independent producer of official statistics and the recognised national statistical institute of the UK.", link: "https://www.ons.gov.uk/", imageUrl: "ons.jpg"}
@@ -14,6 +15,7 @@
   group: "Bronze"
   elements: 
     - {name: "Twilio", description: "Twilio - Communication APIs for SMS, Voice, Video and Authentication", link: "https://www.twilio.com", imageUrl: "twilio.png", width: "270px"}
+    - {name: "Notbinary", description: "Think big. Start small. Learn fast.", link: "https://notbinary.co.uk", imageUrl: "NotBinary.png", width: "190px"}
 - 
   group: "Exhibitors"
   elements: 
@@ -32,7 +34,6 @@
   elements: 
     - {name: "Codurance", description: "Codurance, Craft at heart", link: "http://www.codurance.com/", imageUrl: "codurance.png"}
     - {name: "Swansea Software Development Community", description: "#SSDC, Swansea Software Development Community", link: "http://www.swanseasdc.co.uk/", imageUrl: "ssdc.png", width: "170px"}
-    - {name: "Rubber Duck Consulting", description: "Rubber Duck Consulting Ltd", link: "#", imageUrl: "rdc.jpg"}
     - {name: "SpeakEasy", description: "Increasing Diversity at Testing Conferences", link: "https://speaking-easy.com/", imageUrl: "SpeakEasy.png"}
     - {name: "nCrafts.io", description: "NEWCRAFTS CONFERENCES Paris", link: "http://ncrafts.io", imageUrl: "oxiane_partenaire_formation_ncrafts2016-e1456319240424.png", width: "190px"}
 - 

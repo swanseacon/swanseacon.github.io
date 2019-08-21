@@ -1,4 +1,11 @@
  - 
+  id: 2
+  company: "Rubber Duck Consuulting"
+  description: "<h5>What does quality mean to you?</h5>
+  <p>From QA consultancy services to automation training, Rubber Duck Consulting provides clients with the knowledge and tools that create value, build relationships, and grow revenue. We adapt to a variety of needs and goals across industries, providing quality assurance so our clients can truly transform and have the confidence to deliver quality software.</p>"
+  thumbnailUrl: rdc.jpg
+  website: "http://rubberduckconsulting.co.uk/"
+ - 
   id: 6
   company: "Equal Experts"
   description: "<h5>Making Software. Better.</h5>
@@ -49,7 +56,17 @@
   thumbnailUrl: twilio.png
   website: "https://www.twilio.com"
  - 
-  id: 11
+  id: 12
+  company: "Notbinary"
+  description: "<h5>Think big. Start small. Learn fast.</h5>
+  <p>Notbinary works with institutions to help them embrace the opportunities of the internet era.</p>
+  <p>We are trusted by government, education, charities and industry to design and engineer user-centric solutions to hard problems using modern cloud-based technologies.</p>
+  <p>We do much more than meet technology challenges. Notbinary supports institutions to implement lean and agile methodologies, new business models and user engagement to secure sustainable, successful change.</p>
+  <p>Many of our people are veterans of the kinds of institutions we seek to support. They bring insights that create empathy with our clients based on an understanding of the challenges clients face and the expectations of their users.</p>"
+  thumbnailUrl: twilio.png
+  website: "https://www.twilio.com"
+ - 
+  id: 13
   company: "Fantom Factory"
   description: "<h5>Full stack development advice</h5>
   <p>Based in the UK, Fantom Factory Ltd is owned by Steve and Emma Eynon. We are a company dedicated to providing excellent training and consultancy for Fantom, Axon, and Project Haystack technologies.</p>
@@ -63,10 +80,6 @@
   company: "Swansea Software Development Community"
   thumbnailUrl: ssdc.png
   website: "http://www.swanseasdc.co.uk/"
- - 
-  id: 2
-  company: "Rubber Duck Consulting"
-  thumbnailUrl: rdc.jpg
  - 
   id: 3
   company: "nCrafts.io"
