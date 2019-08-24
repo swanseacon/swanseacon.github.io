@@ -12,8 +12,9 @@
   language: en
 -
   id: 003
-  title: "Keynote"
-  description: "<p</p>"
+  title: "Keynote - Flow. The worst software development methodology in history. Ever"
+  description: "<p>Ever since we started writing code in the fifties of the previous century, managers and project managers have tried to discipline and structure the way we work. However, no matter how many consultants and coaches are hired to implement increasingly complex process frameworks and methodologies, developers and testers always come up with new simplistic approaches.</p>
+  <p>During this talk, Kim and Sander will feal with Flow: the worst software development methodology in the history ever, taking inspiration from the worst principles and practices from methodologies such as waterfall, RUP, Scrum, Kanban, Lean, BDD, LeSS , SAFe, Spotify and of course everything continuous. Don't let project failure take you by surprise, be certain!</p>"
   subtype: keynote
   speakers: [3,4]
   language: en
@@ -159,8 +160,9 @@
   language: en
 -
   id: 021
-  title: "TBC"
-  description: "<p>Information to follow..</p>"
+  title: "Cynefin for XPers"
+  description: "<p>Whenever we do anything new, we make discoveries. Sometimes those discoveries speed us up, but more often than not they slow us down. The more innovative we are, the more we discover, and the higher the risk and uncertainty - so how can we lead, manage and work in a way which embraces that uncertainty and lets us make discoveries early and safely?</p>
+  <p>In this talk, Liz introduces the Cynefin framework to help make sense of different types of situations and how to approach them: the obvious ones, the complicated ones which require expertise, the complex ones in which outcomes emerge, and the chaotic ones that we're usually trying to avoid. Find out how the simple concepts can help us counter our innate human desire for predictability, enabling change and innovation; not just in software development, but in every aspect of our lives.</p>"
   subtype: presentation 
   speakers: [2]
   language: en
