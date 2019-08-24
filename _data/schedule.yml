@@ -5,7 +5,7 @@
     - {title: "Room One", color: "#90be4e"}
     - {title: "Room Two", color: "#03a9f4"}
     - {title: "Room Three", color: "#03a9f4"}
-    - {title: "Room Four (Workshops)", color: "#03a9f4"}
+    - {title: "Room Four", color: "#03a9f4"}
   timeslots:
     - {
     	startTime: "08:30",
