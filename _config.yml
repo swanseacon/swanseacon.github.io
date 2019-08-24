@@ -85,9 +85,9 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "180", specialCharacter: "", info: "attendees", detail: "Maximum capacity"}
- - {count: "25", specialCharacter: "", info: "sessions", detail: "World class speakers"}
- - {count: "28", specialCharacter: "", info: "speakers", detail: "Travelling from all around the world"}
+ - {count: "190", specialCharacter: "", info: "attendees", detail: "Maximum capacity"}
+ - {count: "20", specialCharacter: "+", info: "sessions", detail: "World class speakers"}
+ - {count: "20", specialCharacter: "+", info: "speakers", detail: "Travelling from all around the world"}
  - {count: "4", specialCharacter: "", info: "parallel tracks", detail: "Agile, Development, Testing, Tools/Frameworks"}
 
 # Latest News Block
