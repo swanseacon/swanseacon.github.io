@@ -117,8 +117,8 @@
   language: en
 -
   id: 016
-  title: "TBC"
-  description: "<p>Information to follow.</p>"
+  title: "Implementing agile with millennials?"
+  description: "<p>We’re starting to work with the first generation of people who have never worked first-hand in a waterfall software development environment. We’ve built product engineering teams in Manchester and heavily recruited from this cohort. Through plenty of trial and error, we've learned what works and what doesn’t work in terms of recruiting, growing and motivating teams containing a significant number of people from this generation. Come and hear our story.</p>"
   subtype: presentation 
   speakers: [16]
   language: en

@@ -17,12 +17,11 @@
   surname: "Gorman"
   company: "Codemanship"
   title: "Programmer & Trainer"
-  bio: "<p>Jason Gorman, a software development practitioner, trainer, coach and author based in London with two decades’ experience working with teams in a wide range of industries.
-Jason has worked with teams at the BBC, City Index, Electronic Arts, Higher Education Statistics Agency, BUPA,  British Standards Institute, The Post Office, Merrill Lynch HSBC, Freshfields Bruckhaus Deringer, Orange, Lloyds TSB, AOL, Reed Business Information and Symbian, and many more.</p>
-<p>Jason chairs the Software Craftsmanship conference in the UK, and is a contributor to other conferences including QCon, Software Practice Advancement, XPDay, Agile Finland, JAX London and CITCON Europe.</p>
-<p>His web site, parlezuml.com, has been visited by more than a million software professionals since 2003, and his free tutorials on use cases, UML, OO design and Test-driven Development have had more than 500,000 downloads.</p>
-<p>Jason is a patron of the Bletchley Park Trust, and a fundraiser for programming clubs and the STAK St Austell Community Kitchen</p>
-"
+  bio: "<p>Jason Gorman, a software development practitioner, trainer, coach and author based in London with two decades’ experience working with teams in a wide range of industries.</p>
+  <p>Jason has worked with teams at the BBC, City Index, Electronic Arts, Higher Education Statistics Agency, BUPA,  British Standards Institute, The Post Office, Merrill Lynch HSBC, Freshfields Bruckhaus Deringer, Orange, Lloyds TSB, AOL, Reed Business Information and Symbian, and many more.</p>
+  <p>Jason chairs the Software Craftsmanship conference in the UK, and is a contributor to other conferences including QCon, Software Practice Advancement, XPDay, Agile Finland, JAX London and CITCON Europe.</p>
+  <p>His web site, parlezuml.com, has been visited by more than a million software professionals since 2003, and his free tutorials on use cases, UML, OO design and Test-driven Development have had more than 500,000 downloads.</p>
+  <p>Jason is a patron of the Bletchley Park Trust, and a fundraiser for programming clubs and the STAK St Austell Community Kitchen</p>"
   thumbnailUrl: JasonGorman.jpg
   rockstar: false
   social: 
@@ -179,13 +178,12 @@ Jason has worked with teams at the BBC, City Index, Electronic Arts, Higher Educ
     - {name: "twitter", link: "http://twitter.com/joe_mighty"}
 -
   id: 16
-  name: "TBC"
-  surname: ""
-  company: ""
+  name: "Chris"
+  surname: "Thacker"
+  company: "MoneySuperMarket.com"
   title: ""
-  bio: "<p></p>"
-  thumbnailUrl: person.png
-  rockstar: true
+  bio: "<p>Chris is a proactive engineering manager who is continually evaluating and implementing best practices for the context he’s working in. He is able to add value at any stage in the software delivery life cycle, with extensive agile experience across a variety of companies and industries. Happy at high level and in the detail, Chris is currently working as a test manager at MoneySuperMarket, where he helps lead teams in improving software quality practices.</p>"
+  thumbnailUrl: ChrisThacker.png
   rockstar: true
 -
   id: 17
