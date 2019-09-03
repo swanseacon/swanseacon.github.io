@@ -255,10 +255,12 @@
     - {name: "twitter", link: "http://twitter.com/davidcarboni"}
 -
   id: 23
-  name: "TBC"
-  surname: ""
-  company: ""
+  name: "Joel"
+  surname: "Hammond-Turner"
+  company: "Landmark Information Group"
   title: ""
-  bio: "<p></p>"
-  thumbnailUrl: person.png
+  bio: "<p>Tech Lead, Landmark Information Group</p>
+  <p>I've a very broad experience of software development over 15 years and a passion for both technology and elegance in my solutions that make me an extremely capable software architect.</p>
+  <p>Personable and professional, I revel in complex challenges, but always make time to coach and mentor team members.</p>"
+  thumbnailUrl: JoelHammondTurner.jpg
   rockstar: true

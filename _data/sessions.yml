@@ -168,8 +168,12 @@
   language: en
 -
   id: 022
-  title: "TBC"
-  description: "<p>Information to follow..</p>"
+  title: "You're the Tech Lead... you fix it!"
+  description: "<p>Over the last couple of years, I've presented 20 tricks and tips that I've found invaluable as a Tech Lead. But in this session, I want to turn things around and look at applying some of those to solving specific issues that are common within many software development teams.</p>
+  <p>I'll be taking lessons learned from the last 2 years of a major development project and using them to illustrate my points.</p>
+  <p>We'll look at managing your BAs and PMs and how to balance their need to understand exactly how long everything takes versus your team's need to not be over-pressured by artificial deadlines. We'll see how a structured approach to analysing problems encountered in LIVE can make everyone's life easier, and how to prove whether the problem is (or is not) the fault of your software. And how to handle that inevitable case where it is.</p>
+  <p>And we'll look at the problems of implementing uniformity across multiple code-bases and multiple teams delivering multiple releases of multiple features... and where getting your tooling right can give the biggest benefits.</p>
+  <p>Amongst other things...</p>"
   subtype: presentation 
   speakers: [23]
   language: en
