@@ -264,3 +264,5 @@
   <p>Personable and professional, I revel in complex challenges, but always make time to coach and mentor team members.</p>"
   thumbnailUrl: JoelHammondTurner.jpg
   rockstar: true
+  social: 
+    - {name: "twitter", link: "http://twitter.com/rammesses"}
